@@ -64,4 +64,4 @@ function closeMapDetail(){const previous=activeMapId;activeMapId=null;syncMapDet
 $('#closeMapDetail').onclick=closeMapDetail;$('#geography').addEventListener('keydown',e=>{if(e.key==='Escape'&&activeMapId){e.preventDefault();closeMapDetail()}});
 $('#mapDetailBody').addEventListener('change',e=>{if(!e.target.matches('.pick'))return;const id=+e.target.dataset.id;e.target.checked?selected.add(id):selected.delete(id);save();apply()});
 apply();
-</script><script src="country-maps.js"></script></body></html>
+</script><script src="country-maps.js?v=20261024-2"></script></body></html>

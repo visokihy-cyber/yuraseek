@@ -4,23 +4,95 @@
     "alt": "Горы, тёплый свет и отражение"
   },
   {
+    "src": "photo-forest-pillars.jpg",
+    "alt": "Каменные столбы среди тропического леса"
+  },
+  {
+    "src": "photo-sea-of-clouds.jpg",
+    "alt": "Горные хребты над морем облаков"
+  },
+  {
+    "src": "photo-turquoise-lake.jpg",
+    "alt": "Бирюзовое озеро под снежными вершинами"
+  },
+  {
+    "src": "photo-sandstone-pattern.jpg",
+    "alt": "Золотистые узоры песчаника"
+  },
+  {
     "src": "photo-sunlit-peaks.jpg",
     "alt": "Скальные вершины в вечернем свете"
+  },
+  {
+    "src": "photo-blue-lakes.jpg",
+    "alt": "Синие озёра среди гор"
+  },
+  {
+    "src": "photo-mountain-chapel.jpg",
+    "alt": "Горная часовня в лучах заката"
+  },
+  {
+    "src": "photo-coastal-cliff.jpg",
+    "alt": "Тропа вдоль фактурных прибрежных скал"
+  },
+  {
+    "src": "photo-autumn-lake.jpg",
+    "alt": "Осенний лес и горное озеро"
+  },
+  {
+    "src": "photo-summit-cross.jpg",
+    "alt": "Крест на вершине над осенней долиной"
+  },
+  {
+    "src": "photo-glacier-valley.jpg",
+    "alt": "Долина и ледниковые вершины"
+  },
+  {
+    "src": "photo-evening-reflection.jpg",
+    "alt": "Вечернее отражение гор в озере"
+  },
+  {
+    "src": "photo-misty-pillars.jpg",
+    "alt": "Скалистые башни в дымке"
+  },
+  {
+    "src": "photo-dolomite-meadow.jpg",
+    "alt": "Луг у скальных вершин"
+  },
+  {
+    "src": "photo-emerald-lake.jpg",
+    "alt": "Изумрудное озеро и скальная стена"
+  },
+  {
+    "src": "photo-ocean-trail.jpg",
+    "alt": "Тропа над океанским побережьем"
+  },
+  {
+    "src": "photo-sunset-towers.jpg",
+    "alt": "Скальные башни под вечерним небом"
   },
   {
     "src": "photo-alpine-lake.jpg",
     "alt": "Озеро среди осенних гор"
   },
   {
+    "src": "photo-ancient-tree.jpg",
+    "alt": "Старое дерево у горной тропы"
+  },
+  {
     "src": "photo-mountain-trail.jpg",
     "alt": "Тропа среди скальных вершин"
   },
   {
-    "src": "photo-rocky-ridge.jpg",
-    "alt": "Зубчатый горный хребет"
+    "src": "photo-golden-wall.jpg",
+    "alt": "Скальная стена в золотом вечернем свете"
   },
   {
     "src": "photo-cloud-valley.jpg",
     "alt": "Облака между горными хребтами"
+  },
+  {
+    "src": "photo-rocky-ridge.jpg",
+    "alt": "Зубчатый горный хребет"
   }
 ]

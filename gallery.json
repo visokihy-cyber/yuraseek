@@ -1,0 +1,26 @@
+[
+  {
+    "src": "photo-reflection.jpg",
+    "alt": "Горы, тёплый свет и отражение"
+  },
+  {
+    "src": "photo-sunlit-peaks.jpg",
+    "alt": "Скальные вершины в вечернем свете"
+  },
+  {
+    "src": "photo-alpine-lake.jpg",
+    "alt": "Озеро среди осенних гор"
+  },
+  {
+    "src": "photo-mountain-trail.jpg",
+    "alt": "Тропа среди скальных вершин"
+  },
+  {
+    "src": "photo-rocky-ridge.jpg",
+    "alt": "Зубчатый горный хребет"
+  },
+  {
+    "src": "photo-cloud-valley.jpg",
+    "alt": "Облака между горными хребтами"
+  }
+]

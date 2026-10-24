@@ -176,3 +176,6 @@ body.country-page #choose .filters label:has(#region),body.country-page #choose 
  body.country-page #mapIntro #allMap{align-self:flex-start;margin:0 0 4px}
  body.country-page #mapDetail{height:650px}
 }
+
+/* Approved wordmark: linked ee and terracotta k. */
+a.brand-logo .brand-word{font-family:Arial,sans-serif;font-weight:400;letter-spacing:-.03947em;color:#233f50}a.brand-logo .brand-ligature{display:inline-block;width:1.612em;height:.8224em;vertical-align:-.1184em;margin:0 .013em 0 0;overflow:visible}

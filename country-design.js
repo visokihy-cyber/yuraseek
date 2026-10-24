@@ -21,7 +21,7 @@ if(nz)filtered=filteredPlaces;else current=filteredPlaces;
 const chips=document.createElement('div');chips.id='active-filters';chips.setAttribute('aria-label','Выбранные фильтры');filters.after(chips);
 const result=document.querySelector('.resultbar');$('choose').append(result);
 const toolbar=document.querySelector('.toolbar');toolbar.classList.add('simple-toolbar');$('resetFilters').classList.add('filter-reset');
-const workspace=document.createElement('div');workspace.className='catalog-workspace';const column=document.createElement('div');column.className='catalog-column';$('choose').after(workspace);column.append($('cards'),$('empty'));workspace.append(column,$('geography'));
+$('choose').after($('geography'));$('geography').after($('cards'));$('cards').after($('empty'));
 $('empty').innerHTML='<h3>Мест с такими условиями пока нет</h3><button type="button" class="quiet" id="design-reset">Показать все места</button>';$('design-reset').onclick=()=>{$('resetFilters').click();emit('show-pane','list');};
 for(const a of document.querySelectorAll('a[href="#choose"]'))a.addEventListener('click',e=>{e.preventDefault();emit('show-pane','list');});
 const more=document.createElement('details');more.className='map-more';more.innerHTML='<summary>Ещё</summary><div></div>';document.querySelector('.map-tools').append(more);more.querySelector('div').append($('map-fit'),$('map-fullscreen'));

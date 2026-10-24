@@ -23,3 +23,5 @@ a.brand-logo img{border:0;border-radius:0;object-fit:contain}
 .map-tools #map-zoom-in,.map-tools #map-zoom-out{font-size:23px;font-weight:600;line-height:1;min-width:40px;min-height:40px;padding:6px;background:#fff;color:#203e4e;border:1px solid #becdd6}
 
 .atlas-cluster span{height:36px;min-width:36px;font-size:13px;border:2px solid #fff;box-shadow:0 1px 5px #0006}
+
+.back-to-top{position:fixed;right:24px;bottom:24px;z-index:900;display:flex;align-items:center;gap:8px;padding:11px 17px;border:1px solid #d7e1e6;border-radius:24px;background:#fff;color:#203e4e;font:600 14px system-ui;box-shadow:0 3px 16px #203e4e22}.back-to-top[hidden]{display:none}.back-to-top:hover{background:#fff2e9;border-color:#b85234}.back-to-top span{font-size:20px}@media(max-width:700px){.back-to-top{right:14px;bottom:calc(86px + env(safe-area-inset-bottom));padding:10px 14px}}

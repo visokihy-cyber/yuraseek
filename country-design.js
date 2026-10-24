@@ -42,5 +42,9 @@ document.addEventListener('click',e=>{const pick=e.target.closest('[data-design-
 // Route endpoint actions are kept inside the route planner.
 const endpointLinks=document.createElement('p');endpointLinks.className='route-endpoint-help';endpointLinks.textContent='Выбери начало и конец из списка или нажми «На карте». Кружки с числом мест раскрываются при приближении.';$('routeDialog').querySelector('.route-content').prepend(endpointLinks);
 const oldNote=[...document.querySelectorAll('#choose .muted')];for(const p of oldNote)if(/браузер|файл|перемещ/i.test(p.textContent))p.hidden=true;
-nz?render():apply();refresh();$('map-layer').value='osm';$('map-layer').dispatchEvent(new Event('change'));
+nz?render():apply();refresh();$('map-layer').value='scheme';$('map-layer').dispatchEvent(new Event('change'));
+const backTop=document.createElement('button');backTop.type='button';backTop.className='back-to-top';backTop.hidden=true;backTop.setAttribute('aria-label','Вернуться к началу страницы');backTop.innerHTML='<span aria-hidden="true">↑</span> Наверх';document.body.append(backTop);
+const updateBackTop=()=>{backTop.hidden=window.scrollY<600||document.body.classList.contains('country-map-mode');};
+window.addEventListener('scroll',updateBackTop,{passive:true});document.addEventListener('yura:pane',()=>requestAnimationFrame(updateBackTop));
+backTop.onclick=()=>{window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});};updateBackTop();
 })();

@@ -141,3 +141,5 @@ body.country-page .mapframe>#map-fullscreen{position:absolute;right:12px;bottom:
 body.country-page .mapframe:fullscreen{height:100dvh!important;width:100vw!important}
 
 body.country-page .mapframe.map-expanded{position:fixed!important;inset:0!important;width:100vw!important;height:100dvh!important;z-index:3000!important;border-radius:0!important;background:#fff}
+
+.brand-logo>img{order:2;transform:scaleX(-1)}

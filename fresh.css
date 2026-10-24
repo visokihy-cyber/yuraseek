@@ -132,3 +132,6 @@ body.country-page #choose .filters>#clear:hover{background:#fff0e5}body.country-
 @media(max-width:1000px){body.country-page .country-header{padding:12px 20px;gap:20px;flex-wrap:wrap}.country-brand{gap:12px}.country-brand h1{font-size:15px}body.country-page .country-header .nav{gap:18px}body.country-page #choose .filters{grid-template-columns:repeat(2,minmax(0,1fr))!important}body.country-page #choose .filters>#copy{grid-column:auto}}
 @media(max-width:700px){body.country-page .country-header{padding:10px 16px;gap:8px 14px}.country-brand{flex:1}.country-brand h1{font-size:14px;white-space:normal}.country-header .brand-logo>img{width:36px;height:36px}.country-header .brand-word{font-size:21px}body.country-page .country-header .nav{order:3;width:100%;gap:20px}body.country-page .country-header .nav a{font-size:13px}.country-instagram{width:36px;height:36px}body.country-map-mode .country-header{display:none}}
 .country-brand h1{letter-spacing:normal;text-shadow:none}
+
+/* Let the workspace grow to the actual map/detail height. */
+@media(min-width:1001px){body.country-page .atlas-workspace{grid-template-rows:auto auto;align-items:start}body.country-page .atlas-workspace #geography .mapframe{height:650px}body.country-page .atlas-workspace+ #cards{margin-top:16px}}

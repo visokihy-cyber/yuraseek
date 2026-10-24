@@ -179,3 +179,14 @@ body.country-page #choose .filters label:has(#region),body.country-page #choose 
 
 /* Approved wordmark: linked ee and terracotta k. */
 a.brand-logo .brand-word{font-family:Arial,sans-serif;font-weight:400;letter-spacing:-.03947em;color:#233f50}a.brand-logo .brand-ligature{display:inline-block;width:1.612em;height:.8224em;vertical-align:-.1184em;margin:0 .013em 0 0;overflow:visible}
+
+.country-side-gallery{position:relative;min-height:140px;flex:1 1 180px;margin:8px 0 18px;border-radius:10px;overflow:hidden;background:#edf2f4}
+.country-side-gallery>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.side-gallery-controls{position:absolute;right:9px;top:9px;display:flex;gap:5px}
+.side-gallery-controls button{display:grid;place-items:center;width:32px;height:32px;padding:0;border:1px solid #ffffffaa;border-radius:50%;background:#153a4ac9;color:#fff;font:18px/1 Arial;min-height:32px}
+.side-gallery-credit{position:absolute;inset:auto 0 0;padding:18px 9px 7px;background:linear-gradient(transparent,#102735d9);color:#fff;font:10px/1.4 Arial}
+.side-gallery-credit a{color:#fff}
+@media(min-width:1001px){body.country-page #mapIntro .maplegend{margin-top:0}}
+@media(max-width:1000px){.country-side-gallery{height:210px;flex:none}}
+
+body.country-page .side-gallery-controls button{color:#fff!important}

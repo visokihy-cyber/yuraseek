@@ -14,10 +14,11 @@ options($('priority'),[['','Все рекомендации'],['1','Обязат
 options($('format'),[['','Любой формат'],['short','Небольшая остановка'],['hours','На несколько часов'],['day','День и более']]);
 const regionGroups=nz?[['north-top','Северный остров — север'],['north-center','Северный остров — центр и юг'],['south-top','Южный остров — север'],['south-bottom','Южный остров — юг и Ракиура']]:[['inland','Центр и север страны'],['pacific-north','Тихоокеанское побережье — север'],['pacific-south','Тихоокеанское побережье — центр и юг'],['caribbean','Карибское побережье']];
 options($('region'),[['','Вся страна'],...regionGroups]);
+for(const id of ['region','walk']){$(id).value='';$(id).disabled=true;$(id).closest('label').hidden=true;}
 for(const id of ['priority','tag','format','walk','region']){const allOption=[...$(id).options].find(o=>o.value==='');if(allOption)allOption.textContent='Все';}
 function regionMatch(p,r){if(!r)return true;if(nz){if(r==='north-top')return p.id<=8;if(r==='north-center')return p.id>=9&&p.id<=18;if(r==='south-top')return p.id>=19&&p.id<=29;if(r==='south-bottom')return p.id>=30;return false;}const regions={'inland':['Центр и вулканы','Горы Таламанка','Север: Ареналь и реки','Монтеверде'],'pacific-north':['Гуанакасте','Юг полуострова Никоя'],'pacific-south':['Центральный Тихий океан','Оса и южный Тихий океан'],'caribbean':['Карибское побережье']};return regions[r]?.includes(p.region);}
 const formatGroup=p=>p.format==='Остановка'?'short':p.format==='Полдня'?'hours':'day';
-function filteredPlaces(){return catalog.filter(p=>regionMatch(p,$('region').value)&&(!$('tag').value||(nz?p.tags.includes($('tag').value):p.category===$('tag').value))&&(!$('walk').value||p.walk===$('walk').value)&&(!$('format').value||formatGroup(p)===$('format').value)&&(!$('priority').value||String(p.priority)===$('priority').value)&&(!$('only').checked||picked(p.id)));}
+function filteredPlaces(){return catalog.filter(p=>(!$('tag').value||(nz?p.tags.includes($('tag').value):p.category===$('tag').value))&&(!$('format').value||formatGroup(p)===$('format').value)&&(!$('priority').value||String(p.priority)===$('priority').value)&&(!$('only').checked||picked(p.id)));}
 if(nz)filtered=filteredPlaces;else current=filteredPlaces;
 const chips=document.createElement('div');chips.id='active-filters';chips.setAttribute('aria-label','Выбранные фильтры');filters.after(chips);
 const result=document.querySelector('.resultbar');$('choose').append(result);

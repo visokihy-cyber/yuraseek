@@ -143,3 +143,18 @@ body.country-page .mapframe:fullscreen{height:100dvh!important;width:100vw!impor
 body.country-page .mapframe.map-expanded{position:fixed!important;inset:0!important;width:100vw!important;height:100dvh!important;z-index:3000!important;border-radius:0!important;background:#fff}
 
 .brand-logo>img{order:2;transform:scaleX(-1)}
+
+/* Filters remain above the independent legend/detail panel. */
+body.country-page #choose .filters label:has(#region),body.country-page #choose .filters label:has(#walk){display:none!important}
+@media(min-width:1001px){
+ body.country-page .atlas-workspace{grid-template-rows:auto 1fr;align-items:start;row-gap:16px}
+ body.country-page .atlas-workspace #choose{grid-column:1;grid-row:1;padding:0;margin:0;border:0}
+ body.country-page .atlas-workspace .mapside{grid-column:1;grid-row:2;padding:0}
+ body.country-page .atlas-workspace .mapframe{grid-column:2;grid-row:1 / span 2}
+ body.country-page #choose .filters{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:10px}
+ body.country-page #choose .filters label:has(#priority){grid-column:1/-1}
+ body.country-page #choose .filters>#clear,body.country-page #choose .filters>#copy{grid-column:auto;grid-row:auto;justify-self:stretch}
+ body.country-page #choose .simple-toolbar{gap:8px 12px;flex-wrap:wrap}
+ body.country-page #choose .resultbar{width:100%;margin-left:0}
+ body.country-page #mapDetail{height:430px}
+}

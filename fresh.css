@@ -107,3 +107,28 @@ body.country-page #mapDetail .route-card-actions a{color:#294f60!important}body.
 body.country-page #choose .simple-toolbar #copy,body.country-page #choose .simple-toolbar #clear{text-decoration:none;border-radius:5px;padding:4px 0;color:#3d5665}
 body.country-page #choose .simple-toolbar #copy:hover,body.country-page #choose .simple-toolbar #clear:hover{color:#a34b30;background:#fff4ed}
 @media(min-width:1001px){body.country-page #choose .simple-toolbar{display:grid!important;grid-template-columns:1fr 1fr;gap:4px 10px;align-items:center}body.country-page #choose .simple-toolbar .check{grid-column:1;grid-row:1}body.country-page #choose #selectedCount{grid-column:2;grid-row:1}body.country-page #choose #copy{grid-column:1;grid-row:2;justify-self:start}body.country-page #choose #clear{grid-column:2;grid-row:2;justify-self:start}body.country-page #choose .resultbar{grid-column:1/-1}body.country-page #geography .mapframe{height:760px}}
+
+/* Country header and horizontal filters. */
+body.country-page .country-header{display:flex;align-items:center;gap:32px;max-width:1700px;margin:auto;padding:14px 32px;border-bottom:1px solid #e3e8eb;background:linear-gradient(110deg,#fff5ed 0,#fff 45%,#f5f9fa 100%);font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+.country-brand{display:flex;align-items:center;gap:20px}.country-brand h1{font:500 17px/1.3 system-ui;margin:0;color:#486371;white-space:nowrap}
+body.country-page .country-header .brand-logo{padding:0;background:transparent;box-shadow:none;margin:0}.country-header .brand-logo>img{width:46px;height:46px}.country-header .brand-word{font-size:25px}
+body.country-page .country-header .nav{position:static;display:flex;flex-wrap:wrap;gap:26px;margin:0;padding:0;border:0;background:transparent;min-height:0}
+body.country-page .country-header .nav a{font:500 15px/1.4 system-ui;padding:8px 0;text-decoration:none;color:#294b5d}
+.country-instagram{margin-left:auto;display:flex;align-items:center;justify-content:center;width:42px;height:42px;flex-shrink:0;color:#aa5338;border-radius:50%}.country-instagram:hover{background:#fbe8d9}
+@media(min-width:1001px){
+ body.country-page .atlas-workspace{grid-template-columns:minmax(330px,1fr) minmax(0,1.9fr);grid-template-rows:auto 650px;gap:12px 24px;padding-top:14px}
+ body.country-page .atlas-workspace #choose{grid-column:1/-1;grid-row:1}
+ body.country-page .atlas-workspace .mapside{grid-column:1;grid-row:2}
+ body.country-page .atlas-workspace .mapframe{grid-column:2;grid-row:2;height:650px}
+ body.country-page #choose .filters{grid-template-columns:1.15fr 1fr 1.1fr 1fr 1.1fr auto auto!important;align-items:end;gap:10px}
+ body.country-page #choose .filters label:has(#region){grid-column:auto}
+ body.country-page #choose .simple-toolbar{display:flex!important;gap:16px;margin-top:7px}
+ body.country-page #choose .resultbar{width:auto;margin-left:auto}
+ body.country-page #mapDetail{height:650px}
+}
+body.country-page #choose .filters>#clear,body.country-page #choose .filters>#copy{font:500 13px/1.3 system-ui;min-height:40px;height:40px;padding:9px 13px;border:1px solid #c4d1d8;border-radius:7px;white-space:nowrap;background:#fff;color:#294b5d;text-decoration:none;grid-column:auto;grid-row:auto}
+body.country-page #choose .filters>#copy{background:#294f60;border-color:#294f60;color:#fff}
+body.country-page #choose .filters>#clear:hover{background:#fff0e5}body.country-page #choose .filters>#copy:hover{background:#203f4e}
+@media(max-width:1000px){body.country-page .country-header{padding:12px 20px;gap:20px;flex-wrap:wrap}.country-brand{gap:12px}.country-brand h1{font-size:15px}body.country-page .country-header .nav{gap:18px}body.country-page #choose .filters{grid-template-columns:repeat(2,minmax(0,1fr))!important}body.country-page #choose .filters>#copy{grid-column:auto}}
+@media(max-width:700px){body.country-page .country-header{padding:10px 16px;gap:8px 14px}.country-brand{flex:1}.country-brand h1{font-size:14px;white-space:normal}.country-header .brand-logo>img{width:36px;height:36px}.country-header .brand-word{font-size:21px}body.country-page .country-header .nav{order:3;width:100%;gap:20px}body.country-page .country-header .nav a{font-size:13px}.country-instagram{width:36px;height:36px}body.country-map-mode .country-header{display:none}}
+.country-brand h1{letter-spacing:normal;text-shadow:none}

@@ -11,3 +11,5 @@
 #routeDialog .route-endpoint-help{display:none}#routeDialog #route-swap{position:absolute;right:62px;top:13px;margin:0;float:none}#routeDialog .route-content{position:static}#routeDialog .route-link{background:#b6583e;border-color:#b6583e;color:#fff}
 
 #routeDialog .route-drag{padding:3px 6px;min-width:28px;font-size:22px;cursor:grab;touch-action:none;flex-shrink:0;color:#6c808b}#routeDialog .route-drag:active{cursor:grabbing}.route-point-row{border-radius:7px}.route-point-row.route-dragging{opacity:.55}.route-point-row.route-drop-target{outline:2px solid #b6583e;outline-offset:4px;background:#fff4ed}
+
+.route-access-note{font-size:12px;line-height:1.45;margin:5px 0 9px 36px}.route-card-actions>.muted{flex-basis:100%;margin:0 0 8px;line-height:1.5}.route-card-actions{flex-wrap:wrap}

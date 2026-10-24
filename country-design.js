@@ -25,6 +25,11 @@ const result=document.querySelector('.resultbar');$('choose').append(result);
 const toolbar=document.querySelector('.toolbar');toolbar.classList.add('simple-toolbar');$('resetFilters').classList.add('filter-reset');
 $('choose').after($('geography'));$('geography').after($('cards'));$('cards').after($('empty'));
 const atlasWorkspace=document.createElement('div');atlasWorkspace.className='atlas-workspace';$('choose').before(atlasWorkspace);atlasWorkspace.append($('choose'),$('geography'));toolbar.append(result);$('clear').textContent='Сбросить';$('copy').textContent='Скопировать список';filters.append($('clear'),$('copy'));$('mapIntro').querySelector('h2')?.remove();$('mapIntro').querySelector('.eyebrow')?.remove();
+const mapIntro=$('mapIntro');mapIntro.querySelectorAll(':scope > p').forEach(p=>p.remove());
+const countryBrief=document.createElement('div');countryBrief.className='country-map-brief';
+countryBrief.innerHTML=nz?'<p>В Новую Зеландию едут за природой, которая меняется на каждом переезде: вулканами и гейзерами, фьордами, ледниками, бирюзовыми озёрами и океанскими берегами.</p><p>На Северном острове — геотермальные долины, культура маори и зелёные холмы. На Южном — горные пейзажи, тропы, озёра и фьорды. В одном путешествии можно сочетать короткие остановки у красивых видов, прогулки и большие походы.</p>':'<p>В Коста-Рику едут за тропической природой: увидеть ленивцев и туканов, пройти по облачному лесу, искупаться у водопадов и встретить закат на океане.</p><p>В центре страны — вулканы, горячие источники и горные леса. На Тихоокеанском побережье — пляжи, сёрфинг и национальные парки; на Карибском — влажные джунгли и другой ритм жизни. Здесь особенно интересно чередовать наблюдение за животными, прогулки и отдых у воды.</p>';
+mapIntro.prepend(countryBrief);
+
 $('empty').innerHTML='<h3>Мест с такими условиями пока нет</h3><button type="button" class="quiet" id="design-reset">Показать все места</button>';$('design-reset').onclick=()=>{$('resetFilters').click();emit('show-pane','list');};
 for(const a of document.querySelectorAll('a[href="#choose"]'))a.addEventListener('click',e=>{e.preventDefault();emit('show-pane','list');});
 $('map-fit').remove();document.querySelector('.mapframe').append($('map-fullscreen'));

@@ -158,3 +158,21 @@ body.country-page #choose .filters label:has(#region),body.country-page #choose 
  body.country-page #choose .resultbar{width:100%;margin-left:0}
  body.country-page #mapDetail{height:430px}
 }
+
+/* Full-width controls, with equal-height map and introduction/detail. */
+.country-map-brief p{color:#355362;font-size:16px;line-height:1.75;margin:0 0 20px}
+@media(min-width:1001px){
+ body.country-page .atlas-workspace{grid-template-rows:auto auto;row-gap:16px}
+ body.country-page .atlas-workspace #choose{grid-column:1/-1;grid-row:1}
+ body.country-page .atlas-workspace .mapside{grid-column:1;grid-row:2;height:650px}
+ body.country-page .atlas-workspace .mapframe{grid-column:2;grid-row:2}
+ body.country-page #choose .filters{grid-template-columns:1.2fr 1fr 1fr auto auto!important;gap:12px;align-items:end}
+ body.country-page #choose .filters label:has(#priority){grid-column:auto}
+ body.country-page #choose .simple-toolbar{gap:16px;margin-top:8px}
+ body.country-page #choose .resultbar{width:auto;margin-left:auto}
+ body.country-page #mapIntro:not([hidden]){height:650px;display:flex;flex-direction:column;padding:14px 0 0}
+ body.country-page #mapIntro .country-map-brief p{font-size:16px;line-height:1.75}
+ body.country-page #mapIntro .maplegend{margin-top:auto;margin-bottom:18px;gap:14px 18px}
+ body.country-page #mapIntro #allMap{align-self:flex-start;margin:0 0 4px}
+ body.country-page #mapDetail{height:650px}
+}

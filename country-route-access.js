@@ -7,29 +7,33 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Cape Reinga",
       "note": "Далее пешком к маяку.",
       "sources": [
-        "https://www.newzealand.com/nz/cape-reinga/"
+        "https://www.newzealand.com/nz/cape-reinga/",
+        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/te-paki-recreation-reserve/cape-reinga-te-rerenga-wairua/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "2": {
-      "query": "Paihia Wharf, New Zealand",
-      "kind": "pier",
-      "label": "Причал Paihia",
-      "note": "Далее катер; согласуйте причал с оператором.",
+      "query": "Williams Road Car Park, Paihia, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Williams Road",
+      "note": "Далее пешком к причалу Paihia; катер по бронированию.",
       "sources": [
-        "https://www.newzealand.com/nz/bay-of-islands/"
+        "https://www.dolphincruises.co.nz/about-fullers-bay-of-islands/accessibility-info/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "3": {
-      "query": "Waitangi Treaty Grounds entrance, New Zealand",
-      "kind": "entrance",
-      "label": "Вход Waitangi Treaty Grounds",
-      "note": "",
+      "query": "Waitangi Treaty Grounds, 1 Tau Henare Drive, Paihia, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Waitangi Treaty Grounds",
+      "note": "Парковка посетителей перед входом.",
       "sources": [
-        "https://www.waitangi.org.nz/visit/guided-tours"
+        "https://www.waitangi.org.nz/visit/how-to-get-here"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "4": {
       "query": "Tane Mahuta car park, New Zealand",
@@ -39,37 +43,41 @@ window.YS_ROUTE_ACCESS={
       "sources": [
         "https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/waipoua-forest/things-to-do/tane-mahuta-walk/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "5": {
-      "query": "Downtown Ferry Terminal, Quay Street, Auckland, New Zealand",
-      "kind": "pier",
-      "label": "Паромный терминал Auckland Downtown",
-      "note": "Далее пассажирский паром на Waiheke; парковку выбирайте отдельно.",
+      "query": "Downtown Carpark, 31 Customs Street West, Auckland, New Zealand",
+      "kind": "parking",
+      "label": "Downtown Carpark, Окленд",
+      "note": "Далее пешком к Downtown Ferry Terminal и паром на Waiheke.",
       "sources": [
-        "https://www.newzealand.com/nz/waiheke-island/"
+        "https://downtowncarpark.co.nz/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "6": {
-      "query": "Piha Beach, Auckland, New Zealand",
-      "kind": "locality",
-      "label": "Пляж Piha",
-      "note": "До посёлка у пляжа; паркуйтесь на обозначенных площадках.",
+      "query": "Piha Beach car park, Marine Parade, Piha, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Piha Beach",
+      "note": "Далее пешком к пляжу.",
       "sources": [
-        "https://www.newzealand.com/nz/piha/"
+        "https://www.aucklandcouncil.govt.nz/en/parks-recreation/find-park-beach/park-detail/3451.html"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "7": {
-      "query": "Hahei Visitor Car Park, New Zealand",
+      "query": "Hahei Visitor Car Park, Hahei Beach Road, New Zealand",
       "kind": "parking",
-      "label": "Парковка посетителей Hahei",
-      "note": "Далее шаттл или пешком; доступ к тропе проверяйте у DOC.",
+      "label": "Парковка Hahei Visitor Car Park",
+      "note": "Далее пешком или сезонным шаттлом к началу тропы.",
       "sources": [
-        "https://www.doc.govt.nz/cathedralcove"
+        "https://www.cathedralcoveparkandride.co.nz/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "8": {
       "query": "Hot Water Beach Main Car Park, New Zealand",
@@ -77,69 +85,77 @@ window.YS_ROUTE_ACCESS={
       "label": "Главная парковка Hot Water Beach",
       "note": "Далее пешком к пляжу.",
       "sources": [
-        "https://thecoromandel.nz/explore/hot-water-beach"
+        "https://thecoromandel.nz/explore/hot-water-beach",
+        "https://allaboutwhitianga.co.nz/visitor-information/explore/hot-water-beach"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "9": {
-      "query": "Waitomo Glowworm Caves Visitor Centre, New Zealand",
-      "kind": "entrance",
-      "label": "Центр посетителей Waitomo",
-      "note": "Далее экскурсия по пещерам.",
+      "query": "Waitomo Glowworm Caves, 39 Waitomo Village Road, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Waitomo Glowworm Caves",
+      "note": "Парковка посетителей напротив пещеры.",
       "sources": [
-        "https://www.waitomo.com/glowworms-and-caves"
+        "https://www.waitomo.com/discover/more/frequently-asked-questions"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "10": {
       "query": "The Shires Rest, 501 Buckland Road, Matamata, New Zealand",
-      "kind": "entrance",
-      "label": "The Shire’s Rest",
-      "note": "Место отправления тура Hobbiton.",
+      "kind": "parking",
+      "label": "Парковка The Shire’s Rest",
+      "note": "Отсюда отправляются экскурсии Hobbiton.",
       "sources": [
-        "https://www.hobbitontours.com/"
+        "https://www.hobbitontours.com/plan-visit/directions/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "11": {
       "query": "Wai-O-Tapu Thermal Wonderland, 201 Waiotapu Loop Road, New Zealand",
-      "kind": "entrance",
-      "label": "Вход Wai-O-Tapu",
-      "note": "Далее пешком по территории.",
+      "kind": "parking",
+      "label": "Парковка Wai-O-Tapu",
+      "note": "У visitor centre; у Lady Knox отдельная парковка.",
       "sources": [
-        "https://www.waiotapu.co.nz/"
+        "https://www.waiotapu.co.nz/plan-your-visit/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "12": {
-      "query": "Waimangu Volcanic Valley Visitor Centre, New Zealand",
-      "kind": "entrance",
-      "label": "Центр посетителей Waimangu",
-      "note": "Далее пешком или внутренний транспорт.",
+      "query": "Waimangu Volcanic Valley, 587 Waimangu Road, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Waimangu",
+      "note": "Далее пешком по долине.",
       "sources": [
-        "https://www.waimangu.co.nz/"
+        "https://www.waimangu.co.nz/plan/getting-here/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "13": {
-      "query": "Te Puia, Hemo Road, Rotorua, New Zealand",
-      "kind": "entrance",
-      "label": "Вход Te Puia",
-      "note": "Далее экскурсия.",
+      "query": "Te Puia, 20 Hemo Road, Rotorua, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Te Puia",
+      "note": "Парковка посетителей у комплекса.",
       "sources": [
-        "https://www.tepuia.com/experiences/"
+        "https://www.tepuia.com/faqs/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "14": {
       "query": "Redwoods Treewalk, 1 Long Mile Road, Rotorua, New Zealand",
-      "kind": "entrance",
-      "label": "Вход Redwoods Treewalk",
-      "note": "Далее пешком.",
+      "kind": "parking",
+      "label": "Парковка Redwoods Visitor Centre",
+      "note": "Далее пешком к тропам и Treewalk.",
       "sources": [
-        "https://www.treewalk.co.nz/"
+        "https://www.treewalk.co.nz/how-to-get-there/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "15": {
       "query": "-38.64946,176.08872",
@@ -147,19 +163,42 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Huka Falls у моста",
       "note": "Google может подписать её как Huka falls public toilets. Далее пешком к водопаду.",
       "sources": [
-        "https://www.newzealand.com/nz/huka-falls/"
+        "https://www.newzealand.com/nz/huka-falls/",
+        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/taupo-area/things-to-do/huka-falls-lookout-walk/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "16": {
-      "query": "",
-      "kind": "blocked",
-      "label": "Tongariro",
-      "note": "Для перехода нужен согласованный шаттл. Выберите на Google-карте место посадки вашего перевозчика; к Emerald Lakes автомобильной дороги нет.",
+      "query": "-39.0649167,175.6594444",
+      "kind": "parking",
+      "label": "Tongariro Crossing Park & Ride",
+      "note": "Парковка для клиентов шаттла: конец октября — апрель. Нужна бронь; далее шаттл к Mangatepopo.",
       "sources": [
-        "https://www.doc.govt.nz/tongariroalpinecrossing"
+        "https://www.tongariroexpeditions.com/shuttle-options/ketetahi-one-way-shuttle"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "alternatives": [
+        {
+          "query": "-39.0649167,175.6594444",
+          "kind": "parking",
+          "label": "Tongariro Crossing Park & Ride",
+          "note": "Парковка для клиентов шаттла: конец октября — апрель. Нужна бронь; далее шаттл к Mangatepopo.",
+          "sources": [
+            "https://www.tongariroexpeditions.com/shuttle-options/ketetahi-one-way-shuttle"
+          ],
+          "checked": "2026-10-26",
+          "option": "Конец октября — апрель"
+        },
+        {
+          "query": "-39.0728948,175.6638127",
+          "kind": "parking",
+          "label": "Ketetahi Park & Ride",
+          "note": "Май — конец октября. Парковка для клиентов Tongariro Expeditions; шаттл по брони.",
+          "option": "Май — конец октября"
+        }
+      ],
+      "reviewed": "2026-10-26"
     },
     "17": {
       "query": "Mangorei Track Trailhead Carpark, New Zealand",
@@ -167,29 +206,33 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Mangorei Track",
       "note": "Далее пешком к Pouākai Tarns; это не подъезд к вершине Taranaki.",
       "sources": [
-        "https://www.taranaki.co.nz/visit/"
+        "https://www.taranaki.co.nz/visit/",
+        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/te-papa-kura-o-taranaki/things-to-do/tracks/mangorei-track/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "18": {
-      "query": "Museum of New Zealand Te Papa Tongarewa, Wellington, New Zealand",
-      "kind": "entrance",
-      "label": "Музей Te Papa",
-      "note": "Парковка музея или городской транспорт.",
+      "query": "Te Papa car park, Cable Street, Wellington, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Te Papa",
+      "note": "Въезд с Cable Street рядом с Circa Theatre.",
       "sources": [
-        "https://www.tepapa.govt.nz/"
+        "https://www.tepapa.govt.nz/visit/plan-your-visit/parking"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "19": {
-      "query": "Picton, New Zealand",
-      "kind": "locality",
-      "label": "Посёлок Picton",
-      "note": "Обзорная база для Marlborough Sounds; причал экскурсии уточняйте отдельно.",
+      "query": "Coathanger Car Park, Picton, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Coathanger, Picton",
+      "note": "Далее пешком к причалам. Выбирайте общедоступные места, не reserved.",
       "sources": [
-        "https://www.newzealand.com/nz/marlborough-sounds/"
+        "https://pictonnz.co.nz/travel/parking/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "20": {
       "query": "Abel Tasman National Park Car Park, Marahau, New Zealand",
@@ -197,9 +240,11 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Marahau",
       "note": "Далее пешком по Coast Track; водное такси — по месту встречи оператора.",
       "sources": [
-        "https://www.doc.govt.nz/abeltasmantrack"
+        "https://www.doc.govt.nz/abeltasmantrack",
+        "https://barn.co.nz/car-park/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "21": {
       "query": "Wharariki Beach Car Park, New Zealand",
@@ -207,19 +252,22 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Wharariki Beach",
       "note": "Далее пешком к пляжу.",
       "sources": [
-        "https://www.newzealand.com/nz/feature/wharariki-beach/"
+        "https://www.newzealand.com/nz/feature/wharariki-beach/",
+        "https://www.facebook.com/groups/nztravelforum/posts/28682952724647839/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "22": {
-      "query": "Kaikoura, New Zealand",
-      "kind": "locality",
-      "label": "Посёлок Kaikōura",
-      "note": "Начало морской экскурсии зависит от оператора.",
+      "query": "Whale Watch Kaikoura, Whaleway Station Road, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Whale Watch Kaikōura",
+      "note": "Для клиентов Whale Watch на время дневной экскурсии.",
       "sources": [
-        "https://www.newzealand.com/nz/kaikoura/"
+        "https://whalewatch.co.nz/our-tours/faqs/?lang=1"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "23": {
       "query": "Pancake Rocks car park, Punakaiki, New Zealand",
@@ -227,9 +275,11 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Pancake Rocks",
       "note": "Далее пешком по оборудованной тропе.",
       "sources": [
-        "https://www.newzealand.com/nz/punakaiki/"
+        "https://www.newzealand.com/nz/punakaiki/",
+        "https://www.doc.govt.nz/parks-and-recreation/know-before-you-go/paid-car-parks/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "24": {
       "query": "Hokitika Gorge Parking, New Zealand",
@@ -239,7 +289,8 @@ window.YS_ROUTE_ACCESS={
       "sources": [
         "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/hokitika-gorge-scenic-reserve/things-to-do/tracks/hokitika-gorge-walk/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "25": {
       "query": "Devils Punchbowl Waterfall Car Park, Arthurs Pass, New Zealand",
@@ -247,9 +298,11 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Devils Punchbowl",
       "note": "Далее пешком к водопаду.",
       "sources": [
-        "https://www.newzealand.com/nz/arthurs-pass/"
+        "https://www.newzealand.com/nz/arthurs-pass/",
+        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park/things-to-do/tracks/devils-punchbowl-walking-track/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "26": {
       "query": "Castle Hill Carpark, New Zealand",
@@ -259,7 +312,8 @@ window.YS_ROUTE_ACCESS={
       "sources": [
         "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/kura-tawhiti-castle-hill/kura-tawhiti-access-track/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "27": {
       "query": "Franz Josef Glacier Car Park, New Zealand",
@@ -267,9 +321,11 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Franz Josef Glacier",
       "note": "Далее обзорные тропы; выход на лёд — только с туром.",
       "sources": [
-        "https://www.newzealand.com/nz/glaciers/"
+        "https://www.newzealand.com/nz/glaciers/",
+        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/franz-josef-glacierka--roimata-o-hine-hukatere-walk/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "28": {
       "query": "Lake Matheson Car Park, New Zealand",
@@ -277,9 +333,11 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Lake Matheson",
       "note": "Далее пешком вокруг озера.",
       "sources": [
-        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/fox-glacier-area/things-to-do/tracks/lake-matheson-walk/"
+        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/fox-glacier-area/things-to-do/tracks/lake-matheson-walk/",
+        "https://www.tripadvisor.com/FAQ_Answers-g609169-d320212-t6509999-Hi_may_I_know_where_we_can_park_car_maybe_near.html"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "29": {
       "query": "Haast Pass Lookout Car Park, New Zealand",
@@ -287,9 +345,11 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Haast Pass Lookout",
       "note": "Далее короткая тропа; остальные остановки вдоль дороги выбирайте отдельно.",
       "sources": [
-        "https://www.newzealand.com/nz/haast/"
+        "https://www.newzealand.com/nz/haast/",
+        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/haast-pass-lookout-track/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "30": {
       "query": "Diamond Lake Car Park, Wanaka, New Zealand",
@@ -297,9 +357,11 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Diamond Lake",
       "note": "Далее пешком к Diamond Lake / Rocky Mountain.",
       "sources": [
-        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/diamond-lake-and-hospital-flat/things-to-do/rocky-mountain-track/"
+        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/diamond-lake-and-hospital-flat/things-to-do/rocky-mountain-track/",
+        "https://theworldisacircus.com/2018/10/diamond-lake-wanaka-rocky-mountain/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "31": {
       "query": "-44.6735018,169.071888",
@@ -307,9 +369,11 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Roys Peak",
       "note": "Далее пешком; учитывайте сезонное закрытие тропы.",
       "sources": [
-        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/wanaka-area/things-to-do/roys-peak-track/"
+        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/wanaka-area/things-to-do/roys-peak-track/",
+        "https://www.reddit.com/r/newzealand_travel/comments/1pcmow8/2_questions_roys_peak_parking_space_for_motorhome/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "32": {
       "query": "Raspberry Creek Car Park, New Zealand",
@@ -317,39 +381,44 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Raspberry Creek",
       "note": "Далее пешком; подъезд с бродами зависит от погоды.",
       "sources": [
-        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/rob-roy-track/"
+        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/rob-roy-track/",
+        "https://www.alltrails.com/trail/new-zealand/otago/raspberry-creek-car-park-to-aspiring-hut"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "33": {
-      "query": "Queenstown, New Zealand",
-      "kind": "locality",
-      "label": "Город Queenstown",
-      "note": "Конкретную парковку или начало прогулки выбирайте отдельно.",
+      "query": "Boundary Street Car Park, Queenstown, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Boundary Street",
+      "note": "До центра и набережной пешком; соблюдайте знаки отдельных зон.",
       "sources": [
-        "https://www.queenstownnz.co.nz/"
+        "https://www.qldc.govt.nz/parking"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "34": {
-      "query": "Glenorchy, New Zealand",
-      "kind": "locality",
-      "label": "Посёлок Glenorchy",
-      "note": "",
+      "query": "Glenorchy Marina Carpark, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Glenorchy Marina",
+      "note": "Далее пешком к причалу и набережной.",
       "sources": [
-        "https://www.queenstownnz.co.nz/places-to-visit/glenorchy/"
+        "https://www.qldc.govt.nz/your-council/council-projects/glenorchy-marina-carpark"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "35": {
-      "query": "Arrowtown, New Zealand",
-      "kind": "locality",
-      "label": "Посёлок Arrowtown",
-      "note": "",
+      "query": "Buckingham Street Car Park, 2 Buckingham Street, Arrowtown, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Buckingham Street",
+      "note": "Рядом с историческим центром и Chinese Settlement.",
       "sources": [
-        "https://www.newzealand.com/nz/arrowtown/"
+        "https://www.qldc.govt.nz/media/f3epq2iv/arrowtown-river-reserve-development-plan.pdf"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "36": {
       "query": "Milford Sound Public Carpark, New Zealand",
@@ -357,9 +426,11 @@ window.YS_ROUTE_ACCESS={
       "label": "Общественная парковка Milford Sound",
       "note": "Далее пешком к терминалу круизов.",
       "sources": [
-        "https://www.newzealand.com/nz/milford-sound/"
+        "https://www.newzealand.com/nz/milford-sound/",
+        "https://milfordsoundtourism.nz/travel-tips/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "37": {
       "query": "The Divide Car Park, New Zealand",
@@ -367,19 +438,22 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка The Divide",
       "note": "Далее пешком к Key Summit.",
       "sources": [
-        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/things-to-do/tracks/routeburn-track-key-summit-track/"
+        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/things-to-do/tracks/routeburn-track-key-summit-track/",
+        "https://www.reddit.com/r/newzealand/comments/2q9g6w/routeburn_track_question/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "38": {
-      "query": "Pearl Harbour, Manapouri, New Zealand",
-      "kind": "pier",
-      "label": "Причал Pearl Harbour, Manapouri",
-      "note": "Далее катер, автобус и круиз по Doubtful Sound; согласуйте отправление с оператором.",
+      "query": "RealNZ Manapouri Visitor Centre, 64 Waiau Street, New Zealand",
+      "kind": "parking",
+      "label": "Парковка RealNZ Manapouri",
+      "note": "Дневная экскурсия: парковка у visitor centre, далее катер и автобус. На ночь — View Street.",
       "sources": [
-        "https://www.newzealand.com/nz/doubtful-sound/"
+        "https://www.realnz.com/en/experiences/day-cruises/doubtful-sound-wilderness-cruises/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "39": {
       "query": "White Horse Hill Car Park, New Zealand",
@@ -389,7 +463,8 @@ window.YS_ROUTE_ACCESS={
       "sources": [
         "https://www.doc.govt.nz/hooker-valley-track"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "40": {
       "query": "Tasman Glacier Car Park, New Zealand",
@@ -399,7 +474,8 @@ window.YS_ROUTE_ACCESS={
       "sources": [
         "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/tasman-valley-walking-tracks/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "41": {
       "query": "Lake Pukaki Visitor Centre, New Zealand",
@@ -407,19 +483,22 @@ window.YS_ROUTE_ACCESS={
       "label": "Центр посетителей Lake Pukaki",
       "note": "Одна из доступных остановок у озера.",
       "sources": [
-        "https://www.newzealand.com/nz/lake-pukaki/"
+        "https://www.newzealand.com/nz/lake-pukaki/",
+        "https://www.facebook.com/groups/146990505758918/posts/2400108930447053/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "42": {
-      "query": "Dark Sky Project, 1 Motuariki Lane, Lake Tekapo, New Zealand",
-      "kind": "entrance",
-      "label": "Dark Sky Project, Lake Tekapo",
-      "note": "Место сбора тура на Mount John; к обсерватории дальше с оператором.",
+      "query": "-44.0032535,170.4763538",
+      "kind": "parking",
+      "label": "Парковка Takapō Western Carpark",
+      "note": "У озера и Dark Sky Project; на Mount John экскурсия по брони.",
       "sources": [
-        "https://www.darkskyproject.com/experiences/the-summit-experience/"
+        "https://www.darkskyproject.co.nz/plan/faqs/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "43": {
       "query": "Omarama Clay Cliffs Car Park, New Zealand",
@@ -427,19 +506,22 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Clay Cliffs",
       "note": "Частный подъезд; далее пешком, соблюдайте условия владельца.",
       "sources": [
-        "https://www.newzealand.com/nz/feature/clay-cliffs/"
+        "https://www.newzealand.com/nz/feature/clay-cliffs/",
+        "https://wanderlog.com/place/details/4709815/clay-cliffs-visitor-parking"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "44": {
-      "query": "Akaroa, New Zealand",
-      "kind": "locality",
-      "label": "Посёлок Akaroa",
-      "note": "Причал круиза зависит от оператора.",
+      "query": "Gaiety Hall car park, Akaroa, New Zealand",
+      "kind": "parking",
+      "label": "Парковка Gaiety Hall",
+      "note": "До отправления Black Cat Cruises пешком; соблюдайте лимит парковки.",
       "sources": [
-        "https://www.newzealand.com/nz/akaroa/"
+        "https://akaroa-nature-cruise.squarespace.com/frequently-asked-questions-akaroa"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "45": {
       "query": "Royal Albatross Centre, Dunedin, New Zealand",
@@ -447,9 +529,11 @@ window.YS_ROUTE_ACCESS={
       "label": "Royal Albatross Centre",
       "note": "Далее экскурсия к колонии.",
       "sources": [
-        "https://albatross.org.nz/"
+        "https://albatross.org.nz/",
+        "https://www.facebook.com/groups/nztravelforum/posts/26211902511752885/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "46": {
       "query": "Moeraki Boulders Public Car Park, New Zealand",
@@ -457,9 +541,11 @@ window.YS_ROUTE_ACCESS={
       "label": "Общественная парковка Moeraki Boulders",
       "note": "Далее пешком по пляжу.",
       "sources": [
-        "https://www.newzealand.com/nz/feature/moeraki-boulders/"
+        "https://www.newzealand.com/nz/feature/moeraki-boulders/",
+        "https://www.newzealandmotorhome.com/visiting-moeraki-boulders-by-campervan/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "47": {
       "query": "Nugget Point Lighthouse Car Park, New Zealand",
@@ -467,185 +553,194 @@ window.YS_ROUTE_ACCESS={
       "label": "Парковка Nugget Point",
       "note": "Далее пешком к маяку.",
       "sources": [
-        "https://www.newzealand.com/nz/the-catlins/"
+        "https://www.newzealand.com/nz/the-catlins/",
+        "https://www.facebook.com/MaritimeNZ/posts/lighthouses-you-can-visit-this-summernugget-point-lighthouse-is-located-at-the-n/1002830015202645/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "48": {
-      "query": "Stewart Island Experience Ferry Terminal, Bluff, New Zealand",
-      "kind": "pier",
-      "label": "Паромный терминал Bluff",
-      "note": "Далее пассажирский паром на Stewart Island; на Ulva — отдельное водное такси.",
+      "query": "Stewart Island Ferry Terminal, 21 Foreshore Road, Bluff, New Zealand",
+      "kind": "parking",
+      "label": "Парковка паромного терминала Bluff",
+      "note": "Далее пассажирский паром на Stewart Island.",
       "sources": [
-        "https://www.newzealand.com/nz/stewart-island-rakiura/"
+        "https://www.realnz.com/en/experiences/transport/stewart-island-ferry-services/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     }
   },
   "costa-rica": {
     "1": {
-      "query": "Teatro Nacional de Costa Rica, San Jose, Costa Rica",
-      "kind": "entrance",
-      "label": "Национальный театр",
-      "note": "До театра; парковку в центре выбирайте отдельно.",
+      "query": "Parqueo La Antigua, Avenida 1 Calle 5, San Jose, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка La Antigua",
+      "note": "Далее пешком к театру и музеям.",
       "sources": [
-        "https://www.teatronacional.go.cr/",
-        "https://www.museocostarica.go.cr/visitar/?Itemid=110",
-        "https://www.bucketlistly.blog/posts/costa-rica-backpacking-itinerary"
+        "https://www.teatronacional.go.cr/Visitenos/planee"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "2": {
-      "query": "Poás Volcano Visitor Center, Costa Rica",
+      "query": "Poas Volcano Parking Lot, Costa Rica",
       "kind": "parking",
-      "label": "Парковка у центра посетителей Poás",
-      "note": "Далее пешком к кратеру по правилам парка.",
+      "label": "Парковка Poás",
+      "note": "Далее пешком к кратеру.",
       "sources": [
-        "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx",
-        "https://www.teletica.com/nacional/atencion-turistas-ya-pueden-visitar-el-volcan-poas-tras-reapertura-de-puente_401274",
-        "https://www.ovsicori.una.ac.cr/index.php/vulcanologia/informes-y-boletines/informes-tecnicos?download=1361%3Acomunicado-del-ovsicori-una-volcan-poas-actualizacion-al-30-de-abril-del-2026"
+        "https://mytanfeet.com/costa-rica-national-park/poas-volcano/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "3": {
-      "query": "9.982116,-83.8517332",
-      "kind": "entrance",
-      "label": "Подъезд к сектору Cráteres, Irazú",
-      "note": "Оставьте машину на парковке сектора; далее пешком к кратерам.",
+      "query": "Irazu Volcano National Park parking lot Sector Crateres, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка сектора Cráteres, Irazú",
+      "note": "Далее пешком к кратерам.",
       "sources": [
-        "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx",
-        "https://www.sinac.go.cr/EN-US/turismo/Pages/map.aspx"
+        "https://mytanfeet.com/costa-rica-national-park/irazu-volcano-national-park/"
       ],
-      "checked": "2026-10-24",
-      "placeId": "ChIJHx9WYu_foI8R8-sUj_aHXes"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "4": {
       "query": "Iglesia Colonial de Orosi, Costa Rica",
       "kind": "entrance",
       "label": "Церковь Ороси",
-      "note": "Тапанти — отдельная точка 4a.",
+      "note": "Подъезд к церкви; отдельная парковка не подтверждена. Следуйте местным знакам.",
       "sources": [
         "https://www.sinac.go.cr/es/ac/accvc/pntpmm/paginas/default.aspx",
         "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26",
+      "parkingStatus": "needs-confirmation"
     },
     "5": {
       "query": "Monumento Nacional Guayabo entrance, Costa Rica",
-      "kind": "entrance",
-      "label": "Вход Guayabo",
-      "note": "Далее пешком по территории.",
+      "kind": "parking",
+      "label": "Парковка Guayabo",
+      "note": "У входной кассы; далее пешком.",
       "sources": [
-        "https://adminsi.cultura.cr/infraestructura/monumento-nacional-guayabo/"
+        "https://adminsi.cultura.cr/infraestructura/monumento-nacional-guayabo/",
+        "https://www.sinac.go.cr/ES/transprncia/rendcuent/262%20Informes%20seguimiento%20ejecucin%20de%20proyectos/2.6.2%20PROYECTOS%20DE%20INFRAESTRUCTURA.pdf"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "6": {
       "query": "Fabrica de Carretas Eloy Alfaro, Sarchi, Costa Rica",
-      "kind": "entrance",
-      "label": "Мастерская повозок Eloy Alfaro",
-      "note": "Кофейные хозяйства — отдельные места посещения.",
+      "kind": "parking",
+      "label": "Парковка мастерской Eloy Alfaro",
+      "note": "На территории мастерской.",
       "sources": [
-        "https://visitasarchi.com/"
+        "https://www.munisarchi.go.cr/Store/store/40/8824%203450"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "7": {
-      "query": "Catarata del Toro entrance, Costa Rica",
-      "kind": "entrance",
-      "label": "Вход Catarata del Toro",
-      "note": "Начало посещения; далее пешком по программе.",
+      "query": "Catarata Del Toro, Bajos Del Toro, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Catarata del Toro",
+      "note": "У входа с главной асфальтированной дороги; далее пешком.",
       "sources": [
-        "https://www.catarata-del-toro.com/",
-        "https://www.catarata-del-toro.com/prices/",
-        "https://www.quebuenlugar.com/es/listas/bajos-del-toro-un-pequeno-paraiso/"
+        "https://www.catarata-del-toro.com/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "8": {
-      "query": "Parque Nacional Volcan Arenal Sector Coladas, Costa Rica",
-      "kind": "entrance",
-      "label": "Ареналь, вход Coladas",
-      "note": "Далее пешком; к вершине вулкана дороги нет.",
+      "query": "Arenal Volcano National Park Visitor Center, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Arenal, сектор Coladas",
+      "note": "Начало лавовых троп у парковки; далее пешком.",
       "sources": [
-        "https://sinac.go.cr/ES/ac/ACAHN/pnva/Paginas/default.aspx"
+        "https://mytanfeet.com/costa-rica-national-park/arenal-volcano-national-park/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "9": {
       "query": "La Fortuna Waterfall entrance ADIFORT, Costa Rica",
-      "kind": "entrance",
-      "label": "Вход Catarata Río Fortuna",
-      "note": "Далее лестница к водопаду.",
+      "kind": "parking",
+      "label": "Парковка Catarata Río Fortuna",
+      "note": "У входа ADIFORT; далее спуск пешком.",
       "sources": [
-        "https://www.cataratalafortuna.com/"
+        "https://www.cataratalafortuna.com/la-fortuna-waterfall-hike"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "10": {
       "query": "Mistico Arenal Hanging Bridges Park, Costa Rica",
-      "kind": "entrance",
-      "label": "Вход Mistico",
-      "note": "Далее пешком по мостам.",
+      "kind": "parking",
+      "label": "Парковка Mistico",
+      "note": "Парковка посетителей на территории.",
       "sources": [
-        "https://misticopark.com/",
-        "https://misticopark.com/mistico-map/"
+        "https://www.tripadvisor.com/FAQ_Answers-g309226-d7137988-t3671945-Is_the_parking_lot_secure_guarded_Like_if_we.html"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "11": {
-      "query": "Tabacon Thermal Resort and Spa, Costa Rica",
-      "kind": "entrance",
-      "label": "Tabacón",
-      "note": "Один из термальных комплексов; посещение по его условиям.",
+      "query": "Tabacon Hot Springs, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка дневных посетителей Tabacón",
+      "note": "Используйте въезд Hot Springs, не ресепшен отеля. Day Pass по бронированию.",
       "sources": [
-        "https://www.nomadicmatt.com/travel-blogs/costa-rica-road-trip/",
-        "https://www.bucketlistly.blog/posts/costa-rica-backpacking-itinerary"
+        "https://www.tabacon.com/hot-springs"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "12": {
-      "query": "Nuevo Arenal, Costa Rica",
-      "kind": "locality",
-      "label": "Посёлок Nuevo Arenal",
-      "note": "Остановка на дороге вокруг озера; не точка в воде.",
+      "query": "Lake Arenal Public Access, La Fortuna, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка общественного спуска к озеру Ареналь",
+      "note": "Примерно 3 км от плотины по дороге к Nuevo Arenal; съезд к озеру слева.",
       "sources": [
-        "https://mytanfeet.com/costa-rica-travel-tips/costa-rica-road-trip-itinerary/"
+        "https://seventours.com/la-fortuna/lake-arenal/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "13": {
       "query": "Parque Nacional Volcan Tenorio Sector El Pilon, Costa Rica",
-      "kind": "entrance",
-      "label": "Тенорио, вход El Pilón",
-      "note": "Далее пешком к Рио-Селесте.",
+      "kind": "parking",
+      "label": "Парковка Tenorio, El Pilón",
+      "note": "У входа на тропу Río Celeste.",
       "sources": [
-        "https://sinac.go.cr/ES/ac/acat/pnvt/Paginas/default.aspx",
-        "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx",
-        "https://www.tapirvalley.com/"
+        "https://www.twoweeksincostarica.com/the-enchanting-rio-celeste/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "14": {
-      "query": "",
-      "kind": "blocked",
-      "label": "Каньо-Негро",
-      "note": "Пристань зависит от экскурсии. Выберите на Google-карте место встречи, подтверждённое оператором.",
+      "query": "Refugio Nacional de Vida Silvestre Cano Negro El Sitio MINAE, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка El Sitio / MINAE",
+      "note": "Далее к причалу; прогулку на катере согласуйте заранее.",
       "sources": [
-        "https://www.sinac.go.cr/EN-US/turismo/Pages/map.aspx"
+        "https://costaricatravelblog.com/cano-negro-wildlife-refuge/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "15": {
       "query": "La Selva Biological Station reception, Costa Rica",
-      "kind": "entrance",
-      "label": "Приёмная станции La Selva",
-      "note": "Далее посещение по бронированию.",
+      "kind": "parking",
+      "label": "Парковка La Selva",
+      "note": "У станции; дневной визит и экскурсию согласуйте заранее.",
       "sources": [
         "https://tropicalstudies.org/portfolio/la-selva-research-station/",
-        "https://tropicalstudies.org/portfolio/natural-history-visitors-reservations/"
+        "https://tropicalstudies.org/portfolio/natural-history-visitors-reservations/",
+        "https://www.tripadvisor.com/Hotel_Review-g309260-d2537234-Reviews-La_Selva_Biological_Station-Sarapiqui_Province_of_Heredia.html"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "16": {
       "query": "10.3004052,-84.8039613",
@@ -657,40 +752,41 @@ window.YS_ROUTE_ACCESS={
         "https://cloudforestmonteverde.com/how-we-operate/",
         "https://expertvagabond.com/monteverde-costa-rica/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "17": {
       "query": "Reserva Bosque Nuboso Santa Elena, Costa Rica",
-      "kind": "entrance",
-      "label": "Вход Santa Elena",
-      "note": "Проверьте состояние последнего участка дороги.",
+      "kind": "parking",
+      "label": "Парковка Santa Elena",
+      "note": "Перед входом в заповедник.",
       "sources": [
-        "https://reservasantaelena.org/",
-        "https://reservasantaelena.org/index.php/miradores/"
+        "https://mytanfeet.com/activities/santa-elena-cloud-forest-reserve-the-lesser-visited-cloud-forest/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "18": {
       "query": "Curi Cancha Reserve entrance, Costa Rica",
-      "kind": "entrance",
-      "label": "Вход Curi-Cancha",
-      "note": "Далее пешком.",
+      "kind": "parking",
+      "label": "Парковка Curi-Cancha",
+      "note": "У входа; далее пешком.",
       "sources": [
-        "https://reservacuricancha.com/en/content/2-tours-rules-and-regulations",
-        "https://reservacuricancha.com/es/3-tours"
+        "https://mytanfeet.com/activities/birdwatching-at-curi-cancha-reserve/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "19": {
       "query": "Rincon de la Vieja National Park Las Pailas entrance, Costa Rica",
-      "kind": "entrance",
-      "label": "Ринкон-де-ла-Вьеха, Las Pailas",
-      "note": "Далее пешком; это не вершина вулкана.",
+      "kind": "parking",
+      "label": "Парковка Las Pailas",
+      "note": "Перед офисом парка; далее пешком.",
       "sources": [
-        "https://www.acguanacaste.ac.cr/turismo/sector-pailas",
-        "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+        "https://mytanfeet.com/costa-rica-national-park/rincon-de-la-vieja-national-park/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "20": {
       "query": "Catarata Llanos del Cortes official parking, Costa Rica",
@@ -700,514 +796,538 @@ window.YS_ROUTE_ACCESS={
       "sources": [
         "https://mytanfeet.com/activities/catarata-llanos-de-cortes/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "21": {
-      "query": "Palo Verde National Park ranger station, Costa Rica",
-      "kind": "entrance",
-      "label": "Станция парка Palo Verde",
-      "note": "Гравийный подъезд; после дождей уточняйте проходимость.",
+      "query": "Palo Verde Biological Station, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка биостанции Palo Verde",
+      "note": "Для посещения станции и троп; согласуйте визит с OTS.",
       "sources": [
-        "https://www.sinac.go.cr/ES/ac/acat/pnpv/Paginas/default.aspx"
+        "https://tropicalstudies.org/portfolio/natural-history-visitors-palo-verde/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "22": {
       "query": "Museo Historico La Casona Santa Rosa, Costa Rica",
-      "kind": "entrance",
-      "label": "La Casona, Santa Rosa",
-      "note": "Исторический сектор; не подъезд к Playa Naranjo.",
+      "kind": "parking",
+      "label": "Парковка La Casona, Santa Rosa",
+      "note": "Далее к музею и тропам пешком.",
       "sources": [
-        "https://www.acguanacaste.ac.cr/turismo/sector-santa-rosa/sector-santa-rosa",
-        "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+        "https://www.tripadvisor.com/Attraction_Review-g1119814-d8114341-Reviews-or10-Parque_Nacional_Santa_Rosa-Area_de_Conservacion_Guanacaste_Province_of_Guan.html"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "23": {
-      "query": "Brasilito, Costa Rica",
-      "kind": "locality",
-      "label": "Посёлок Brasilito",
-      "note": "Далее к Conchal пешком по берегу; по пляжу не ездить.",
+      "query": "Brasilito Parking, Brasilito, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка в центре Brasilito",
+      "note": "Далее пешком по пляжу к Conchal.",
       "sources": [
-        "https://es.visitcostarica.com/where-to-go/guanacaste/tourist-attractions-10-in-guanacaste",
-        "https://www.liberiacostarica.com/beaches/playa-conchal/"
+        "https://mytanfeet.com/costa-rica-beach-information/playa-conchal-shells-instead-of-sand/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "24": {
-      "query": "Samara, Guanacaste, Costa Rica",
-      "kind": "locality",
-      "label": "Посёлок Sámara",
-      "note": "Парковку у пляжа выбирайте на месте.",
+      "query": "Samara Beach main entrance, Samara, Guanacaste, Costa Rica",
+      "kind": "street",
+      "label": "Подъезд к пляжу Sámara",
+      "note": "Отдельной парковки пляжа нет; используйте разрешённые места на улицах.",
       "sources": [
         "https://mytanfeet.com/cities-costa-rica/samara-costa-rica/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "25": {
-      "query": "Ostional, Guanacaste, Costa Rica",
-      "kind": "locality",
-      "label": "Посёлок Ostional",
-      "note": "К черепахам — с местным гидом; место встречи согласуйте.",
+      "query": "Asociacion de Guias Locales de Ostional, Costa Rica",
+      "kind": "entrance",
+      "label": "Офис местных гидов Ostional",
+      "note": "Приезжайте по брони экскурсии; место стоянки согласуйте с гидом.",
       "sources": [
-        "https://www.sinac.go.cr/ES/ac/act/rnvso/Paginas/default.aspx",
-        "https://www.wcanosara.org/es/faq"
+        "https://exploretikizia.com/ostional-wildlife-refuge-responsible-travel-guide/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26",
+      "parkingStatus": "needs-confirmation"
     },
     "26": {
       "query": "Parque Nacional Barra Honda entrance, Costa Rica",
-      "kind": "entrance",
-      "label": "Вход Barra Honda",
-      "note": "Далее пешком; спуск в пещеру только по программе парка.",
+      "kind": "parking",
+      "label": "Парковка у администрации Barra Honda",
+      "note": "После въездных ворот у администрации; далее пешком. В пещеры — с гидом.",
       "sources": [
-        "https://www.sinac.go.cr/ES/ac/act/pnbh2/Paginas/default.aspx"
+        "https://www.sinac.go.cr/ES/ac/act/pnbh2/Paginas/default.aspx",
+        "https://costa-rica-guide.com/nature/national-parks/barra-honda/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26"
     },
     "27": {
-      "query": "",
-      "kind": "blocked",
-      "label": "Серро-Пеладо",
-      "note": "Частных входов несколько. Выберите на Google-карте парковку, подтверждённую владельцем или гидом.",
+      "query": "Entrada Cerro Pelado, Guanacaste, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Entrada Cerro Pelado",
+      "note": "Частная территория; платный вход, далее пешком.",
       "sources": [
-        "https://theultimateguidetocostarica.com/cerro-pelado/",
-        "https://thecostaricahub.com/destinos/montanas-senderismo/cerro-pelado/"
+        "https://www.alltrails.com/trail/costa-rica/guanacaste/cerro-pelado"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "28": {
-      "query": "Santa Teresa, Puntarenas, Costa Rica",
-      "kind": "locality",
-      "label": "Посёлок Santa Teresa",
-      "note": "До посёлка; подъезд к жилью проверяйте отдельно.",
+      "query": "Banana Beach Restaurant, Santa Teresa, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Banana Beach",
+      "note": "Для клиентов заведения; далее к пляжу.",
       "sources": [
-        "https://www.saltinourhair.com/costa-rica/santa-teresa/",
-        "https://navieratambor.com/"
+        "https://www.tripadvisor.com/Restaurant_Review-g635538-d7322202-Reviews-Banana_Beach_Restaurant-Santa_Teresa_Province_of_Puntarenas.html"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "29": {
-      "query": "Montezuma, Puntarenas, Costa Rica",
-      "kind": "locality",
-      "label": "Посёлок Montezuma",
-      "note": "К водопадам дальше пешком по выбранной тропе.",
+      "query": "Montezuma Waterfalls Parking, Montezuma, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка у водопадов Montezuma",
+      "note": "Сразу за мостом, у нижнего начала тропы.",
       "sources": [
-        "https://www.twoweeksincostarica.com/montezuma/"
+        "https://www.twoweeksincostarica.com/montezuma-waterfalls/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "30": {
       "query": "Reserva Natural Absoluta Cabo Blanco entrance Cabuya, Costa Rica",
-      "kind": "entrance",
-      "label": "Вход Cabo Blanco со стороны Cabuya",
-      "note": "Далее пешком; не дорога со стороны Mal País.",
+      "kind": "parking",
+      "label": "Парковка Cabo Blanco, Cabuya",
+      "note": "У здания рейнджеров; далее пешком.",
       "sources": [
-        "https://www.ict.go.cr/flipbook/guias/PDF/GUIA_PUNTARENAS_2.pdf"
+        "https://www.twoweeksincostarica.com/cabo-blanco-nature-reserve/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "31": {
       "query": "Curu Wildlife Refuge reception, Costa Rica",
-      "kind": "entrance",
-      "label": "Приёмная заповедника Curú",
-      "note": "Для поездки на Tortuga согласуйте лодку.",
+      "kind": "parking",
+      "label": "Парковка Curú",
+      "note": "После оплаты у ворот проехать к внутренней парковке.",
       "sources": [
-        "https://www.twoweeksincostarica.com/curu-national-wildlife-refuge/"
+        "https://www.visitcostarica.com/blog/curu-national-wildlife-refuge"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "32": {
       "query": "Carara National Park Visitor Center, Costa Rica",
-      "kind": "entrance",
-      "label": "Главный вход Карара",
-      "note": "Далее пешком по тропам.",
+      "kind": "parking",
+      "label": "Парковка главного входа Carara",
+      "note": "Далее пешком по тропам парка.",
       "sources": [
-        "https://www.sinac.go.cr/ES/ac/acopac/pnc/Paginas/default.aspx",
-        "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+        "https://mytanfeet.com/costa-rica-national-park/tips-visiting-carara-national-park/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "33": {
-      "query": "Manuel Antonio National Park entrance, Costa Rica",
-      "kind": "entrance",
-      "label": "Главный вход Manuel Antonio",
-      "note": "К входу далее пешком от выбранной разрешённой парковки.",
+      "query": "9.39149,-84.14567",
+      "kind": "parking",
+      "label": "Частная парковка Chalo",
+      "note": "Рядом с входом Manuel Antonio. У парка нет собственной парковки.",
       "sources": [
-        "https://sinac.go.cr/ES/ac/acopac/pnma/Paginas/default.aspx",
-        "https://mytanfeet.com/costa-rica-national-park/manuel-antonio-national-park-costa-rica/"
+        "https://www.costaricawakootours.com/parqueo-y-equipaje-manuel-antonio/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "34": {
-      "query": "",
-      "kind": "blocked",
-      "label": "Мангры Дамас",
-      "note": "Универсальной пристани нет. Выберите место встречи, подтверждённое оператором лодки или каяка.",
+      "query": "Iguana Tours, Quepos, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Iguana Tours",
+      "note": "Для клиентов тура в мангры Дамас; согласуйте время и отправление с оператором.",
       "sources": [
-        "https://www.nomadicmatt.com/travel-blogs/costa-rica-road-trip/"
+        "https://www.iguanatours.com/es/tours-en-manuel-antonio/tours-en-kayak-y-de-remo/paseo-en-kayak-por-los-manglares-de-damas"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "placeId": "ChIJ_y2cxNp0oY8RaEbnLW3e9OE",
+      "reviewed": "2026-10-26"
     },
     "35": {
       "query": "Nauyaca Waterfalls office Don Lulo, Costa Rica",
-      "kind": "entrance",
-      "label": "Офис Don Lulo",
-      "note": "Сначала регистрация; далее к парковке или на трансфере оператора.",
+      "kind": "parking",
+      "label": "Парковка у офиса Don Lulo",
+      "note": "Сначала регистрация; сотрудники направят к парковке тропы или трансферу.",
       "sources": [
-        "https://nauyacawaterfallscostarica.com/producto/caminata/",
-        "https://www.nauyacawaterfall.com/"
+        "https://www.twoweeksincostarica.com/nauyaca-nature-park/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "36": {
-      "query": "Parque Nacional Marino Ballena Sector Uvita entrance, Costa Rica",
-      "kind": "entrance",
-      "label": "Марино-Бальена, вход Uvita",
-      "note": "Далее пешком к пляжу и песчаной косе.",
+      "query": "Parqueo Bahia, Uvita, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Bahía, Uvita",
+      "note": "У входа Marino Ballena; далее пешком.",
       "sources": [
-        "https://www.sinac.go.cr/ES/ac/acosa/pnmb/Paginas/default.aspx",
-        "https://mytanfeet.com/cities-costa-rica/uvita-costa-rica/"
+        "https://mytanfeet.com/costa-rica-national-park/marino-ballena-national-park-in-costa-rica/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "37": {
       "query": "La Perla Del Sur, Sierpe, Costa Rica",
-      "kind": "pier",
-      "label": "La Perla del Sur, Сьерпе",
-      "note": "Вариант через парковку и лодку до Drake Bay; согласуйте отправление.",
+      "kind": "parking",
+      "label": "Парковка La Perla del Sur, Sierpe",
+      "note": "Далее катер в Drake Bay; согласуйте рейс.",
       "sources": [
-        "https://mytanfeet.com/costa-rica-travel-tips/get-bahia-drake-taking-boat-sierpe-drake-bay/",
-        "https://www.twoweeksincostarica.com/drake-bay-costa-rica/"
+        "https://mytanfeet.com/costa-rica-travel-tips/get-bahia-drake-taking-boat-sierpe-drake-bay/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "38": {
       "query": "La Perla Del Sur, Sierpe, Costa Rica",
-      "kind": "pier",
-      "label": "La Perla del Sur, Сьерпе",
-      "note": "Маршрут только до парковки у причала; далее на лодке к Сирене. Согласуйте место отправления с организатором экскурсии.",
+      "kind": "parking",
+      "label": "Парковка La Perla del Sur, Sierpe",
+      "note": "Далее катер и экскурсия в Sirena; бронируйте тур через Sierpe. Дороги к Sirena нет.",
       "sources": [
-        "https://www.sinac.go.cr/ES/ac/acosa/pnc/Paginas/default.aspx",
-        "https://sinac.go.cr/ES/ac/acosa/pnc/Documents/SINAC-ACOSA-D-R-076-2022%20RESOLUCION%20RESERVACIONES%20PNC.pdf",
-        "https://expertvagabond.com/corcovado-national-park/"
+        "https://sierpe.net/secure-parking-in-sierpe/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "39": {
-      "query": "",
-      "kind": "blocked",
-      "label": "Остров Каньо",
-      "note": "Автомобильного доступа нет. Выберите причал, согласованный с оператором морской экскурсии.",
+      "query": "La Perla Del Sur, Sierpe, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка La Perla del Sur, Sierpe",
+      "note": "Вариант посещения Caño через Sierpe: далее катер по согласованному туру.",
       "sources": [
-        "https://www.sinac.go.cr/ES/ac/acosa/Paginas/IsladelCa%C3%B1o.aspx"
+        "https://sierpe.net/secure-parking-in-sierpe/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "40": {
       "query": "Sitio Museo Finca 6, Costa Rica",
-      "kind": "entrance",
-      "label": "Музей Finca 6",
-      "note": "Далее пешком по территории.",
+      "kind": "parking",
+      "label": "Парковка музея Finca 6",
+      "note": "У музея; далее пешком к экспозиции.",
       "sources": [
-        "https://www.museocostarica.go.cr/visitar/?Itemid=110",
-        "https://confluencias.go.cr/espacios-museisticos/sitio-museo-finca-6/"
+        "https://mytanfeet.com/activities/stone-spheres-in-costa-rica-finca-6/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "41": {
       "query": "Museo Comunitario Indigena de Boruca, Costa Rica",
       "kind": "entrance",
       "label": "Музей общины Boruca",
-      "note": "Подъезд в общину по горной дороге.",
+      "note": "Подъезд к музею; место стоянки уточните у сотрудников, отдельная парковка не подтверждена.",
       "sources": [
         "https://adminsi.cultura.cr/infraestructura/museo-comunitario-indigena-de-boruca"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26",
+      "parkingStatus": "needs-confirmation"
     },
     "42": {
-      "query": "La Pavona Tortuguero boat dock, Costa Rica",
-      "kind": "pier",
-      "label": "Причал La Pavona",
-      "note": "Маршрут до парковки у причала; далее лодка в Tortuguero.",
+      "query": "La Pavona Parking Tortuguero, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка La Pavona",
+      "note": "Далее катер в Tortuguero.",
       "sources": [
-        "https://www.sinac.go.cr/ES/ac/acto/pnt/Paginas/default.aspx",
-        "https://www.acto.go.cr/wp-content/uploads/2023/01/BrochPNTEsp.pdf"
+        "https://lapavonatortuguero.com/en/parqueo/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "43": {
-      "query": "Parque Nacional Cahuita Entrada Kelly Creek, Costa Rica",
-      "kind": "entrance",
-      "label": "Кауита, вход Playa Blanca / Kelly Creek",
-      "note": "Далее пешком; Puerto Vargas — другой вход.",
+      "query": "Cahuita National Park Puerto Vargas entrance, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Puerto Vargas",
+      "note": "Вход в Cahuita со стороны Puerto Vargas; далее пешком по тропе.",
       "sources": [
-        "https://www.sinac.go.cr/ES/atc/cahuita/Paginas/default.aspx",
-        "https://sinac.go.cr/ES/turismo/Brochure%20ICT/Parque%20Nacional%20Cahuita.pdf"
+        "https://mytanfeet.com/costa-rica-national-park/cahuita-national-park-costa-rica/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "44": {
       "query": "Puerto Viejo de Talamanca, Costa Rica",
       "kind": "locality",
       "label": "Посёлок Puerto Viejo de Talamanca",
-      "note": "",
+      "note": "Подъезд к центру; отдельная рекомендуемая парковка пока не подтверждена.",
       "sources": [
         "https://www.saltinourhair.com/costa-rica/puerto-viejo/",
         "https://www.jaguarrescue.foundation/SupportUs/Tours/PublicTour",
         "https://es.visitcostarica.com/planning-your-trip/climate"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26",
+      "parkingStatus": "needs-confirmation"
     },
     "45": {
-      "query": "Manzanillo, Talamanca, Limon, Costa Rica",
-      "kind": "locality",
-      "label": "Посёлок Manzanillo, карибское побережье",
-      "note": "Это подъезд к посёлку, не парковка. Вход в заповедник — у восточного края пляжа, далее пешком.",
+      "query": "Gandoca Manzanillo Wildlife Refuge entrance, Manzanillo, Limon, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка у входа Manzanillo",
+      "note": "Далее пешком через вход в резерват.",
       "sources": [
-        "https://www.visitcostarica.com/where-to-go/protected-areas/gandoca-manzanillo-natural-wildlife-refuge"
+        "https://ultimatepuravida.com/the-guide-to-gandoca-manzanillo-national-wildlife-refuge/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "46": {
       "query": "",
       "kind": "blocked",
       "label": "Йоркин",
-      "note": "Далее каноэ из Bambú. Выберите точную пристань, подтверждённую принимающей общиной.",
+      "note": "Посещение по бронированию, отправление на каноэ из Bambú. Подтверждённой общей парковки нет — выберите точку, присланную Stibrawpa.",
       "sources": [
-        "https://stibrawpayorkin.wordpress.com/",
-        "https://stibrawpayorkin.wordpress.com/servicios/"
+        "https://enstibrawpayorkin.wordpress.com/tour-1-day-mishka-yorkin/",
+        "https://ateccr.org/producto/yorkin-day-tour/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26",
+      "parkingStatus": "needs-confirmation"
     },
     "47": {
-      "query": "San Gerardo de Dota, Costa Rica",
-      "kind": "locality",
-      "label": "Посёлок San Gerardo de Dota",
-      "note": "Конкретное место наблюдения птиц согласуйте с гидом.",
+      "query": "Savegre Hotel Natural Reserve and Spa, San Gerardo de Dota, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Savegre Hotel",
+      "note": "Для резервата или экскурсии; согласуйте дневной визит с рецепцией.",
       "sources": [
-        "https://es.visitcostarica.com/blog/magical-natural-forest-san-gerardo-de-dota"
+        "https://www.savegre.com/preguntas-frecuentes/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "48": {
-      "query": "Cloudbridge Nature Reserve reception, Costa Rica",
-      "kind": "entrance",
-      "label": "Вход Cloudbridge",
-      "note": "Последний подъезд проверяйте у заповедника.",
+      "query": "Parqueo Pantera, San Gerardo de Rivas, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Pantera",
+      "note": "Далее около 1 км пешком к Cloudbridge. К парковке резервата рекомендован 4×4.",
       "sources": [
-        "https://www.cloudbridge.org/visit/hiking-trails/",
-        "https://www.cloudbridge.org/"
+        "https://www.cloudbridge.org/visit/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "49": {
-      "query": "Oficina Parque Nacional Chirripo San Gerardo de Rivas, Costa Rica",
-      "kind": "entrance",
-      "label": "Офис парка Chirripó в San Gerardo de Rivas",
-      "note": "Сначала регистрация; далее к согласованному началу пешего маршрута. К вершине дороги нет.",
+      "query": "Hotel Uran, San Gerardo de Rivas, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Hotel Urán",
+      "note": "У начала тропы Chirripó; согласуйте парковку, допуск в парк оформите заранее.",
       "sources": [
-        "https://www.descubramoscostarica.com/index.php/en/destino/chirripo-national-park",
-        "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+        "https://www.lateja.cr/nacional/con-solo-segundo-grado-de-escuela-transformo-una/GKCJSZ3PBZAUBGXMT3Q73FJO2I/story/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "50": {
       "query": "Exploradores Outdoors Exploration Center, Siquirres, Costa Rica",
-      "kind": "entrance",
-      "label": "Exploration Center, Siquirres",
-      "note": "База Exploradores Outdoors; далее трансфер к сплаву по бронированию.",
+      "kind": "parking",
+      "label": "Парковка Exploradores Outdoors",
+      "note": "Для клиентов рафтинга; далее трансфер оператора к реке.",
       "sources": [
-        "https://exploradoresoutdoors.com/tours/pacuare-1-day/",
-        "https://exploradoresoutdoors.com/faq/",
-        "https://expertvagabond.com/rafting-turrialba-costa-rica/"
+        "https://exploradoresoutdoors.com/exploration-center/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "51": {
       "query": "La Paz Waterfall Gardens entrance, Costa Rica",
-      "kind": "entrance",
-      "label": "Вход La Paz Waterfall Gardens",
-      "note": "Далее пешком по территории.",
+      "kind": "parking",
+      "label": "Парковка La Paz Waterfall Gardens",
+      "note": "У главного входа комплекса; далее пешком.",
       "sources": [
-        "https://waterfallgardens.com/"
+        "https://waterfallgardens.com/",
+        "https://www.costaricavibes.com/la-paz-waterfall-gardens/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "52": {
-      "query": "",
-      "kind": "blocked",
-      "label": "Ла-Леона",
-      "note": "У операторов разные офисы. Выберите на Google-карте место встречи из вашего бронирования, а не водопад.",
+      "query": "10.721708506168884,-85.40711001539958",
+      "kind": "parking",
+      "label": "Парковка La Leona Waterfall Adventure Hike",
+      "note": "Для клиентов этого оператора; далее с гидом. Требуется бронь.",
       "sources": [
-        "https://www.leonawaterfallcurubanda.com/en",
-        "https://laleonawaterfall.cr/faq/",
-        "https://forum.awd.ru/viewtopic.php?t=423610"
+        "https://leonawaterfall.com/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "4a": {
       "query": "Parque Nacional Tapanti entrance, Costa Rica",
       "kind": "entrance",
-      "label": "Вход в парк Тапанти",
-      "note": "Далее по тропам парка.",
+      "label": "Въезд Tapantí",
+      "note": "После регистрации следуйте к парковкам у троп и мест для пикника.",
       "sources": [
-        "https://www.sinac.go.cr/es/ac/accvc/pntpmm/paginas/default.aspx",
-        "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+        "https://www.twoweeksincostarica.com/tapanti-national-park/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "8a": {
-      "query": "La Fortuna, Costa Rica",
-      "kind": "locality",
-      "label": "Посёлок La Fortuna",
-      "note": "",
+      "query": "Parque de La Fortuna, Costa Rica",
+      "kind": "street",
+      "label": "Подъезд к центру La Fortuna",
+      "note": "Уличная парковка по знакам; не занимайте стоянку такси и въезды.",
       "sources": [
-        "https://sinac.go.cr/ES/ac/ACAHN/pnva/Paginas/default.aspx"
+        "https://www.reddit.com/r/CostaRicaTravel/comments/10ge7d3/after_renting_a_car_we_were_warned_repeatedly_not/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "8b": {
-      "query": "Parque Nacional Volcan Arenal Sector Coladas, Costa Rica",
-      "kind": "entrance",
-      "label": "Ареналь, вход Coladas",
-      "note": "Далее пешком.",
+      "query": "Arenal Volcano National Park Visitor Center, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Arenal, сектор Coladas",
+      "note": "Начало лавовых троп у парковки; далее пешком.",
       "sources": [
-        "https://sinac.go.cr/ES/ac/ACAHN/pnva/Paginas/default.aspx"
+        "https://mytanfeet.com/costa-rica-national-park/arenal-volcano-national-park/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "16a": {
       "query": "10.3004052,-84.8039613",
       "kind": "parking",
       "label": "Visitor Center / парковка Monteverde",
-      "note": "Далее шаттл.",
+      "note": "Далее шаттл к лесным тропам.",
       "sources": [
         "https://cloudforestmonteverde.com/visit-the-preserve/",
         "https://cloudforestmonteverde.com/how-we-operate/",
         "https://expertvagabond.com/monteverde-costa-rica/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "24a": {
-      "query": "Playa Carrillo, Costa Rica",
-      "kind": "locality",
-      "label": "Пляж Carrillo",
-      "note": "Останавливайтесь только на разрешённых площадках у дороги.",
+      "query": "Playa Carrillo, Route 160, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка вдоль Playa Carrillo",
+      "note": "Разрешённые места у дороги 160; отдельного общего паркинга нет.",
       "sources": [
-        "https://mytanfeet.com/cities-costa-rica/samara-costa-rica/"
+        "https://mytanfeet.com/costa-rica-beach-information/playa-carrillo-costa-rica/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "25a": {
-      "query": "Ostional, Guanacaste, Costa Rica",
-      "kind": "locality",
-      "label": "Посёлок Ostional",
-      "note": "К черепахам — с местным гидом; место встречи согласуйте.",
+      "query": "Asociacion de Guias Locales de Ostional, Costa Rica",
+      "kind": "entrance",
+      "label": "Офис местных гидов Ostional",
+      "note": "Приезжайте по брони экскурсии; место стоянки согласуйте с гидом.",
       "sources": [
-        "https://www.sinac.go.cr/ES/ac/act/rnvso/Paginas/default.aspx",
-        "https://www.wcanosara.org/es/faq"
+        "https://exploretikizia.com/ostional-wildlife-refuge-responsible-travel-guide/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-24",
+      "reviewed": "2026-10-26",
+      "parkingStatus": "needs-confirmation"
     },
     "31a": {
-      "query": "",
-      "kind": "blocked",
-      "label": "Isla Tortuga",
-      "note": "На остров — только лодкой. Выберите подтверждённый причал вашего оператора, например в Curú, а не точку на острове.",
+      "query": "Curu Wildlife Refuge reception, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Curú",
+      "note": "Далее катер на Isla Tortuga через Curú; тур согласуйте заранее.",
       "sources": [
-        "https://www.twoweeksincostarica.com/curu-national-wildlife-refuge/"
+        "https://www.visitcostarica.com/blog/curu-national-wildlife-refuge"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "32a": {
-      "query": "Crocodile Bridge Tarcoles, Costa Rica",
-      "kind": "entrance",
-      "label": "Мост Тарколес",
-      "note": "Паркуйтесь на площадках у моста, не на мосту.",
+      "query": "Crocodile Bridge parking, Tarcoles, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка у северного конца моста Тарколес",
+      "note": "У магазинов перед мостом; сам мост пройти пешком.",
       "sources": [
-        "https://www.sinac.go.cr/ES/ac/acopac/pnc/Paginas/default.aspx",
-        "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+        "https://www.twoweeksincostarica.com/tarcoles-river-crocodile-bridge/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "33a": {
-      "query": "Playa Espadilla Norte, Costa Rica",
-      "kind": "locality",
-      "label": "Пляж Espadilla Norte",
-      "note": "Парковку выбирайте у дороги; не на пляже.",
+      "query": "9.39149,-84.14567",
+      "kind": "parking",
+      "label": "Частная парковка Chalo",
+      "note": "Далее пешком к пляжу Espadilla Norte.",
       "sources": [
-        "https://sinac.go.cr/ES/ac/acopac/pnma/Paginas/default.aspx",
-        "https://mytanfeet.com/costa-rica-national-park/manuel-antonio-national-park-costa-rica/"
+        "https://www.costaricawakootours.com/parqueo-y-equipaje-manuel-antonio/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "35a": {
       "query": "Nauyaca Waterfalls office Don Lulo, Costa Rica",
-      "kind": "entrance",
-      "label": "Офис Don Lulo",
-      "note": "Сначала регистрация; далее по указаниям оператора.",
+      "kind": "parking",
+      "label": "Парковка у офиса Don Lulo",
+      "note": "Сначала регистрация; сотрудники направят к парковке тропы или трансферу.",
       "sources": [
-        "https://nauyacawaterfallscostarica.com/producto/caminata/",
-        "https://www.nauyacawaterfall.com/"
+        "https://www.twoweeksincostarica.com/nauyaca-nature-park/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "35b": {
       "query": "Nauyaca Waterfall Nature Park, Costa Rica",
-      "kind": "entrance",
-      "label": "Nauyaca Waterfall Nature Park",
-      "note": "Другой оператор и другой подъезд; далее по его программе.",
+      "kind": "parking",
+      "label": "Парковка Nauyaca Waterfall Nature Park",
+      "note": "У офиса этого оператора; далее пешком или на его трансфере.",
       "sources": [
-        "https://nauyacawaterfallscostarica.com/producto/caminata/",
-        "https://www.nauyacawaterfall.com/"
+        "https://www.nauyacawaterfall.com/guide-to-nauyaca-waterfall/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "37a": {
       "query": "La Perla Del Sur, Sierpe, Costa Rica",
-      "kind": "pier",
-      "label": "Причал La Perla del Sur, Сьерпе",
-      "note": "Согласуйте отправление лодки с оператором.",
+      "kind": "parking",
+      "label": "Парковка La Perla del Sur, Sierpe",
+      "note": "Далее катер в Drake Bay; согласуйте рейс.",
       "sources": [
-        "https://mytanfeet.com/costa-rica-travel-tips/get-bahia-drake-taking-boat-sierpe-drake-bay/",
-        "https://www.twoweeksincostarica.com/drake-bay-costa-rica/"
+        "https://mytanfeet.com/costa-rica-travel-tips/get-bahia-drake-taking-boat-sierpe-drake-bay/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "42a": {
-      "query": "La Pavona Tortuguero boat dock, Costa Rica",
-      "kind": "pier",
-      "label": "Причал La Pavona",
-      "note": "Далее лодка.",
+      "query": "La Pavona Parking Tortuguero, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка La Pavona",
+      "note": "Далее катер в Tortuguero.",
       "sources": [
-        "https://www.sinac.go.cr/ES/ac/acto/pnt/Paginas/default.aspx",
-        "https://www.acto.go.cr/wp-content/uploads/2023/01/BrochPNTEsp.pdf"
+        "https://lapavonatortuguero.com/en/parqueo/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "44a": {
-      "query": "Punta Uva, Costa Rica",
-      "kind": "locality",
-      "label": "Посёлок Punta Uva",
-      "note": "Парковку у пляжа выбирайте отдельно.",
+      "query": "Playa Punta Uva Arrecife, Costa Rica",
+      "kind": "parking",
+      "label": "Подъезд к Playa Arrecife, Punta Uva",
+      "note": "Парковочные места у конца дороги; в выходные быстро заполняются.",
       "sources": [
-        "https://www.saltinourhair.com/costa-rica/puerto-viejo/",
-        "https://www.jaguarrescue.foundation/SupportUs/Tours/PublicTour",
-        "https://es.visitcostarica.com/planning-your-trip/climate"
+        "https://mytanfeet.com/costa-rica-beach-information/punta-uva-puerto-viejo/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     },
     "49a": {
-      "query": "San Gerardo de Rivas, Costa Rica",
-      "kind": "locality",
-      "label": "Посёлок San Gerardo de Rivas",
-      "note": "База для Chirripó; не вершина.",
+      "query": "Hotel Uran, San Gerardo de Rivas, Costa Rica",
+      "kind": "parking",
+      "label": "Парковка Hotel Urán",
+      "note": "У начала тропы Chirripó; согласуйте парковку, допуск в парк оформите заранее.",
       "sources": [
-        "https://www.descubramoscostarica.com/index.php/en/destino/chirripo-national-park",
-        "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+        "https://www.lateja.cr/nacional/con-solo-segundo-grado-de-escuela-transformo-una/GKCJSZ3PBZAUBGXMT3Q73FJO2I/story/"
       ],
-      "checked": "2026-10-24"
+      "checked": "2026-10-26",
+      "reviewed": "2026-10-26"
     }
   }
 };

@@ -1,0 +1,606 @@
+{
+  "new-zealand": [
+    {
+      "id": "1",
+      "name": "Cape Reinga — мыс Реинга",
+      "src": "country-photo-74e96b00a2a6-960.webp",
+      "credit": "Фото: Phillip Capper from Wellington, New Zealand · CC BY 2.0 · <a href='https://commons.wikimedia.org/wiki/File:Cape_Reinga%2C_Northland%2C_New_Zealand%2C_October_2007.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "2",
+      "name": "Bay of Islands — морские заливы",
+      "src": "country-photo-d513ff2cb571-960.webp",
+      "credit": "Фото: W. Bulach · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:00_4801_Dolphins_-_Bay_of_Islands.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "3",
+      "name": "Waitangi Treaty Grounds — история и культура маори",
+      "src": "country-photo-6998ef6f3099-960.webp",
+      "credit": "Фото: Winstonwolfe at English Wikipedia · CC BY-SA 3.0 · <a href='https://commons.wikimedia.org/wiki/File:Busby%27s_residence_Treaty_House%2C_Waitangi%2C_East.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "4",
+      "name": "Tāne Mahuta — древний лес каури",
+      "src": "country-photo-9096e518de04-960.webp",
+      "credit": "Фото: W. Bulach · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:00_29_0496_Waipoua_Forest_NZ_-_Kauri_Baum_Tane_Mahuta.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "5",
+      "name": "Waiheke — остров виноделен и бухт",
+      "src": "country-photo-36729bc3bf4e-960.webp",
+      "credit": "Фото: russellstreet · CC BY-SA 2.0 · <a href='https://commons.wikimedia.org/wiki/File:Waiheke%20Island%20Vineyard.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "6",
+      "name": "Piha — чёрный песок и океан",
+      "src": "country-photo-9cb43e52519a-960.webp",
+      "credit": "Фото: Follash · Public domain · <a href='https://commons.wikimedia.org/wiki/File:Piha_and_Lion_Rock.JPG' target='_blank'>источник</a>"
+    },
+    {
+      "id": "7",
+      "name": "Cathedral Cove — арка и пляж",
+      "src": "country-photo-80fb9f78aedd-960.webp",
+      "credit": "Фото: Krzysztof Golik · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:Cathedral_Cove_06.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "8",
+      "name": "Hot Water Beach — горячая вода в песке",
+      "src": "country-photo-b0804e6af5ce-960.webp",
+      "credit": "Фото: Steve &amp;amp; Jem Copley\n\n\nCamera location36&#176;&#160;53′&#160;12″&#160;S, 175&#176;&#160;49′&#160;23.42″&#160;E&#160;View this and other nearby images on: OpenStreetMap-36.886667;  175.823173\n · CC BY-SA 2.0 · <a href='https://commons.wikimedia.org/wiki/File:Excavations_on_Hot_Water_Beach_-New_Zealand-12Dec2008.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "9",
+      "name": "Waitomo Glowworm Caves — светящиеся пещеры",
+      "src": "country-photo-1ef722c48b7a-960.webp",
+      "credit": "Фото: Michael Willison · CC BY 2.5 · <a href='https://commons.wikimedia.org/wiki/File:Glowworm_Grotto%2C_Waitomo_Glowworm_Cave.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "10",
+      "name": "Hobbiton — декорации Шира",
+      "src": "country-photo-723d07673577-960.webp",
+      "credit": "Фото: Harsh.gavhane · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:Waterhouse_Lake_Front.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "11",
+      "name": "Wai-O-Tapu — цветная геотермальная земля",
+      "src": "country-photo-9ecf014450ed-960.webp",
+      "credit": "Фото: Christian Mehlf&#252;hrer, User:Chmehl · CC BY 2.5 · <a href='https://commons.wikimedia.org/wiki/File:ChampagnePool-Wai-O-Tapu_rotated_MC.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "12",
+      "name": "Waimangu — вулканическая долина",
+      "src": "country-photo-d9730a733c7e-960.webp",
+      "credit": "Фото: Pseudopanax at English Wikipedia · Public domain · <a href='https://commons.wikimedia.org/wiki/File:View_over_Frying_Pan_Lake_in_Waimangu_Volcanic_Valley.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "13",
+      "name": "Te Puia — гейзер и культура маори",
+      "src": "country-photo-b680cc50ae2c-960.webp",
+      "credit": "Фото: August Dominus · CC0 · <a href='https://commons.wikimedia.org/wiki/File:Priroda_Aotearoe.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "14",
+      "name": "Redwoods — лес и подвесные дорожки",
+      "src": "country-photo-4678bb52005c-960.webp",
+      "credit": "Фото: Panamitsu · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:Redwoods%20Forest%20Rotorua%2007.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "15",
+      "name": "Huka Falls и озеро Taupō",
+      "src": "country-photo-726321b20993-960.webp",
+      "credit": "Фото: Avenue · CC BY-SA 3.0 · <a href='https://commons.wikimedia.org/wiki/File:Huka_Falls.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "16",
+      "name": "Tongariro — вулканы и Emerald Lakes",
+      "src": "country-photo-e4abfe8d33b7-960.webp",
+      "credit": "Фото: User Yogi de on en.wikipedia · CC BY-SA 3.0 · <a href='https://commons.wikimedia.org/wiki/File:Tongariro%20Crossing%20Emerald%20Lakes%20Blue%20Lake.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "17",
+      "name": "Taranaki — вулкан и Pouākai Tarns",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mt_Taranaki.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "credit": "Фото: No machine-readable author provided. Ppe42~commonswiki assumed (based on copyright claims). · Public domain · <a href='https://commons.wikimedia.org/wiki/File:Mt_Taranaki.JPG' target='_blank'>источник</a>"
+    },
+    {
+      "id": "18",
+      "name": "Te Papa — музей Новой Зеландии",
+      "src": "country-photo-283e440b46a3-960.webp",
+      "credit": "Фото: Ulrich Lange, Bochum, Germany · CC BY-SA 3.0 · <a href='https://commons.wikimedia.org/wiki/File:Museum_of_New_Zealand_Te_Papa_Tongarewa_unsaturated.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "19",
+      "name": "Marlborough Sounds — лесистые морские заливы",
+      "src": "country-photo-23e08bc4df82-960.webp",
+      "credit": "Фото: AnnWoolliams · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:Marlborough%20Sounds.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "20",
+      "name": "Abel Tasman — золотые пляжи и лес",
+      "src": "country-photo-237eea697640-960.webp",
+      "credit": "Фото: Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:AnchorageBayNZDec022024_02.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "21",
+      "name": "Wharariki и Golden Bay — дюны и арки",
+      "src": "country-photo-b0e657d6ed25-960.webp",
+      "credit": "Фото: Pseudopanax at English Wikipedia · Public domain · <a href='https://commons.wikimedia.org/wiki/File:Wharariki_Beach_and_Archway_Islands.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "22",
+      "name": "Kaikōura — киты, котики и горы у океана",
+      "src": "country-photo-19cc4e0cdecb-960.webp",
+      "credit": "Фото: Clilly4 · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:Kaik%C5%8Dura_seen_from_Kaik%C5%8Dura_Peninsula.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "23",
+      "name": "Punakaiki — Pancake Rocks",
+      "src": "country-photo-a58a49b9bd14-960.webp",
+      "credit": "Фото: W. Bulach · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:00_1273_Pancake_Rocks_-_Paparoa-Nationalpark_%28New_Zealand%29.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "24",
+      "name": "Hokitika Gorge — бирюзовая река",
+      "src": "country-photo-98f92c872561-960.webp",
+      "credit": "Фото: Stewart Nimmo · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:TWC_Hokitika_Gorge_%E2%80%A2_Stewart_Nimmo_%E2%80%A2_MRD_10.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "25",
+      "name": "Arthur’s Pass — перевал и водопад",
+      "src": "country-photo-f453c00633e6-960.webp",
+      "credit": "Фото: Daniel Schwen · CC BY-SA 3.0 · <a href='https://commons.wikimedia.org/wiki/File:NZ_arthurs_pass_SI.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "26",
+      "name": "Castle Hill / Kura Tāwhiti — каменные великаны",
+      "src": "country-photo-55f17205d9aa-960.webp",
+      "credit": "Фото: Borvan53 · CC BY-SA 3.0 · <a href='https://commons.wikimedia.org/wiki/File:Castle%20hill%20New%20Zealand%20Rocks%202.JPG' target='_blank'>источник</a>"
+    },
+    {
+      "id": "27",
+      "name": "Franz Josef и Fox — ледники западного берега",
+      "src": "country-photo-3f786ed0c81c-960.webp",
+      "credit": "Фото: J&#246;rg Hempel · CC BY-SA 3.0 de · <a href='https://commons.wikimedia.org/wiki/File:Franz_josef_Glacier_LC0250.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "28",
+      "name": "Lake Matheson — отражения гор",
+      "src": "country-photo-bb7baeab0bb9-960.webp",
+      "credit": "Фото: Pseudopanax at English Wikipedia · Public domain · <a href='https://commons.wikimedia.org/wiki/File:Lake_Matheson_reflection_of_Mount_Tasman_and_Aoraki_Mount_Cook.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "29",
+      "name": "Haast Pass — дорога, лес и водопады",
+      "src": "country-photo-55e8488476db-960.webp",
+      "credit": "Фото: Pavel Špindler · CC BY 3.0 · <a href='https://commons.wikimedia.org/wiki/File:Haast_Pass_-_vyhl%C3%ADdka_-_panoramio.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "30",
+      "name": "Wānaka + Diamond Lake / Rocky Mountain",
+      "src": "country-photo-619b25533949-960.webp",
+      "credit": "Фото: Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:LakeWanakaNov272024.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "31",
+      "name": "Roys Peak — высокий вид на Wānaka",
+      "src": "country-photo-00318975a1ca-960.webp",
+      "credit": "Фото: Faztastic · Public domain · <a href='https://commons.wikimedia.org/wiki/File:Roys%20Peak%20view%20s.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "32",
+      "name": "Rob Roy Glacier — ледник над долиной",
+      "src": "country-photo-e4aae8bebaf4-960.webp",
+      "credit": "Фото: Pseudopanax at English Wikipedia · CC BY 3.0 · <a href='https://commons.wikimedia.org/wiki/File:Rob_Roy_Glacier_from_far_below_in_valley.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "33",
+      "name": "Queenstown — озеро и горная панорама",
+      "src": "country-photo-25983e973c81-960.webp",
+      "credit": "Фото: Bernard Spragg. NZ from Christchurch, New Zealand · CC0 · <a href='https://commons.wikimedia.org/wiki/File:Queenstown_1_%288168013172%29.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "34",
+      "name": "Glenorchy — дорога вдоль Wakatipu",
+      "src": "country-photo-02e1beafe75f-960.webp",
+      "credit": "Фото: Pseudopanax at English Wikipedia · Public domain · <a href='https://commons.wikimedia.org/wiki/File:Glenorchy_wharf_and_red_shed_at_Lake_Wakatipu.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "35",
+      "name": "Arrowtown — история золотой лихорадки",
+      "src": "country-photo-d5e0df39a512-960.webp",
+      "credit": "Фото: Bgabel · CC BY-SA 3.0 · <a href='https://commons.wikimedia.org/wiki/File:NZL-arrowt-buckinghamstr.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "36",
+      "name": "Milford Sound + Milford Road",
+      "src": "country-photo-dac4d226e599-960.webp",
+      "credit": "Фото: Maros M r a z (Maros) · CC BY-SA 3.0 · <a href='https://commons.wikimedia.org/wiki/File:Milford_Sound_%28New_Zealand%29.JPG' target='_blank'>источник</a>"
+    },
+    {
+      "id": "37",
+      "name": "Key Summit — панорама Фьордленда",
+      "src": "country-photo-653710a469ba-960.webp",
+      "credit": "Фото: \nMarian Predescu · CC0 · <a href='https://commons.wikimedia.org/wiki/File:Key%20Summit%20Fiordland%20New%20Zealand%20%28259211423%29.jpeg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "38",
+      "name": "Doubtful Sound — простор и тишина",
+      "src": "country-photo-eaa8406402e6-960.webp",
+      "credit": "Фото: Allie_Caulfield · CC BY 2.0 · <a href='https://commons.wikimedia.org/wiki/File:Doubtful_Sound_Clear.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "39",
+      "name": "Aoraki / Mount Cook + Hooker Valley",
+      "src": "country-photo-7ad7d9c098bd-960.webp",
+      "credit": "Фото: Pseudopanax at English Wikipedia · CC BY 3.0 · <a href='https://commons.wikimedia.org/wiki/File:Stocking_Stream_Shelter_in_Hooker_Valley_in_front_of_Aoraki_Mount_Cook_Range.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "40",
+      "name": "Tasman Glacier Viewpoint — ледниковое озеро",
+      "src": "country-photo-b20d146b3683-960.webp",
+      "credit": "Фото: Avenue · CC BY-SA 3.0 · <a href='https://commons.wikimedia.org/wiki/File:Lake_Tasman_and_Mount_Cook_101_5770.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "41",
+      "name": "Lake Pukaki — бирюзовое озеро и Aoraki",
+      "src": "country-photo-39ffccec6622-960.webp",
+      "credit": "Фото: Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:LakePukakiNov232024_01.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "42",
+      "name": "Lake Tekapo + Mount John — озеро и звёзды",
+      "src": "country-photo-3c0f2f95524d-960.webp",
+      "credit": "Фото: Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:LakeTekapoNov242024_05.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "43",
+      "name": "Clay Cliffs — глиняные башни",
+      "src": "country-photo-4586c9fcfdb5-960.webp",
+      "credit": "Фото: Bernard Spragg. NZ · CC0 · <a href='https://commons.wikimedia.org/wiki/File:Omarama%20Clay%20Cliffs.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "44",
+      "name": "Akaroa и Banks Peninsula — вулканические бухты",
+      "src": "country-photo-239a3b88381e-960.webp",
+      "credit": "Фото: Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:AkaroaDec032024_01.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "45",
+      "name": "Otago Peninsula — альбатросы и берег",
+      "src": "country-photo-fbebfd0cf11c-960.webp",
+      "credit": "Фото: Grutness · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:Otago%20Peninsula%20South%20Coast%20headlands.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "46",
+      "name": "Moeraki Boulders — каменные шары",
+      "src": "country-photo-00ba7e45ea64-960.webp",
+      "credit": "Фото: Beast from the Bush · CC BY-SA 3.0 · <a href='https://commons.wikimedia.org/wiki/File:Moeraki_Boulders.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "47",
+      "name": "Catlins — Nugget Point, лес и водопады",
+      "src": "country-photo-9280fa1dee63-960.webp",
+      "credit": "Фото: Pseudopanax at English Wikipedia · Public domain · <a href='https://commons.wikimedia.org/wiki/File:Nugget_Point_and_The_Nuggets.jpg' target='_blank'>источник</a>"
+    },
+    {
+      "id": "48",
+      "name": "Stewart Island / Rakiura + Ulva Island",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ulva_Island_rainforest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "credit": "Фото: Photograph by James Shook, who retains copyright and releases the image under the license shown below. · CC BY 2.5 · <a href='https://commons.wikimedia.org/wiki/File:Ulva_Island_rainforest.jpg' target='_blank'>источник</a>"
+    }
+  ],
+  "costa-rica": [
+    {
+      "id": "1",
+      "name": "Сан-Хосе: театр и музеи",
+      "src": "country-photo-5b2e2caae16c-960.webp",
+      "credit": "Andres Alvarez"
+    },
+    {
+      "id": "2",
+      "name": "Поас: взгляд в активный кратер",
+      "src": "country-photo-0d09b88f02a4-960.webp",
+      "credit": "Peter Andersen"
+    },
+    {
+      "id": "3",
+      "name": "Ирасу: вулканическое плато",
+      "src": "country-photo-32e5fb7775e3-960.webp",
+      "credit": "Rafael Golan"
+    },
+    {
+      "id": "4",
+      "name": "Ороси и Тапанти",
+      "src": "country-photo-bc9cff89596b-960.webp",
+      "credit": "Автор указан на странице файла"
+    },
+    {
+      "id": "5",
+      "name": "Гуаябо: доколумбов город",
+      "src": "country-photo-fed6e8fcf36e-960.webp",
+      "credit": "Lutz Maertens"
+    },
+    {
+      "id": "6",
+      "name": "Сарчи и кофейные хозяйства",
+      "src": "country-photo-25b4d579eb7e-960.webp",
+      "credit": "The LEAF Project"
+    },
+    {
+      "id": "7",
+      "name": "Бахос-дель-Торо: водопады",
+      "src": "country-photo-c9eac20317dd-960.webp",
+      "credit": "Steve Jurvetson"
+    },
+    {
+      "id": "8",
+      "name": "Ареналь и Ла-Фортуна",
+      "src": "country-photo-803b3aa5e0e5-960.webp",
+      "credit": "Rhododendrites"
+    },
+    {
+      "id": "9",
+      "name": "Водопад Ла-Фортуна",
+      "src": "country-photo-4f31f6845f84-960.webp",
+      "credit": "Photo by and (c)2007 Derek Ramsey (Ram-Man)"
+    },
+    {
+      "id": "10",
+      "name": "Мосты Мистико",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Arenal_Hanging_Bridges%2C_Costa_Rica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Liz DeCoster from Baltimore, MD"
+    },
+    {
+      "id": "11",
+      "name": "Термальные источники Ареналя",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Tabacon_Hot_Springs%2C_Arenal_Costa_Rica_%28673029573%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Arturo Sotillo"
+    },
+    {
+      "id": "12",
+      "name": "Озеро Ареналь: дорога и остановки",
+      "src": "country-photo-c9332bd863cd-960.webp",
+      "credit": "Автор указан на странице файла"
+    },
+    {
+      "id": "13",
+      "name": "Рио-Селесте и Тенорио",
+      "src": "country-photo-c43b98d6ba77-960.webp",
+      "credit": "Asequeir at English Wikipedia"
+    },
+    {
+      "id": "14",
+      "name": "Каньо-Негро: речные птицы",
+      "src": "country-photo-a0e23bb7074a-960.webp",
+      "credit": "Bernard Gagnon"
+    },
+    {
+      "id": "15",
+      "name": "Сарапики и станция Ла-Сельва",
+      "src": "country-photo-645d6844a5cb-960.webp",
+      "credit": "Felineora"
+    },
+    {
+      "id": "16",
+      "name": "Монтеверде: облачный лес",
+      "src": "country-photo-c074e0a097ab-960.webp",
+      "credit": "Haakon S. Krohn"
+    },
+    {
+      "id": "17",
+      "name": "Санта-Элена: альтернатива главному лесу",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Santa_Elena_Cloud_Forest_Reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Ulf Rydin"
+    },
+    {
+      "id": "18",
+      "name": "Кури-Канча: лес ради птиц",
+      "src": "country-photo-ff3ae5947f76-960.webp",
+      "credit": "Cephas"
+    },
+    {
+      "id": "19",
+      "name": "Ринкон-де-ла-Вьеха: Лас-Пайлас",
+      "src": "country-photo-a0f3e402c76f-960.webp",
+      "credit": "Yricordel"
+    },
+    {
+      "id": "20",
+      "name": "Льянос-де-Кортес",
+      "src": "country-photo-97df3221654f-960.webp",
+      "credit": "Yricordel"
+    },
+    {
+      "id": "21",
+      "name": "Пало-Верде: болота и сухой лес",
+      "src": "country-photo-e080b86e16a6-960.webp",
+      "credit": "Debivort at English Wikipedia"
+    },
+    {
+      "id": "22",
+      "name": "Санта-Роса: история и сухой лес",
+      "src": "country-photo-a6c6f441a4f6-960.webp",
+      "credit": "Geoff Gallice"
+    },
+    {
+      "id": "23",
+      "name": "Кончаль и бухты северо-запада",
+      "src": "country-photo-22868480bf79-960.webp",
+      "credit": "Aymatth2"
+    },
+    {
+      "id": "24",
+      "name": "Самара и Каррильо",
+      "src": "country-photo-be6b9f304300-960.webp",
+      "credit": "No machine-readable author provided. Rauldmo assumed (based on copyright claims)."
+    },
+    {
+      "id": "25",
+      "name": "Носара и черепахи Остионаля",
+      "src": "country-photo-d8d23ad0098c-960.webp",
+      "credit": "Carlos Adampol Galindo"
+    },
+    {
+      "id": "26",
+      "name": "Барра-Онда: спуск в пещеру",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Barra_Honda_National_Park_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Shamhain"
+    },
+    {
+      "id": "27",
+      "name": "Серро-Пеладо: открытые гребни",
+      "src": "",
+      "credit": ""
+    },
+    {
+      "id": "28",
+      "name": "Санта-Тереса: жить у прибоя",
+      "src": "country-photo-d9c45f61e289-960.webp",
+      "credit": "Christopher Crouzet"
+    },
+    {
+      "id": "29",
+      "name": "Монтесума: водопад и маленький посёлок",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Waterfall_near_Montezuma%2C_Costa_Rica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Jonathan Greeley"
+    },
+    {
+      "id": "30",
+      "name": "Кабо-Бланко: лес к дикому берегу",
+      "src": "country-photo-dcc3cceb7751-960.webp",
+      "credit": "micah420"
+    },
+    {
+      "id": "31",
+      "name": "Куру и остров Тортуга",
+      "src": "country-photo-3f8f157c7636-960.webp",
+      "credit": "Vlad Podvorny"
+    },
+    {
+      "id": "32",
+      "name": "Карара и мост Тарколес",
+      "src": "country-photo-1d69c3f59bf4-960.webp",
+      "credit": "Bernard DUPONT from FRANCE"
+    },
+    {
+      "id": "33",
+      "name": "Мануэль-Антонио и Эспадилья",
+      "src": "country-photo-a9f2cac63eaa-960.webp",
+      "credit": "Jackhynes at English Wikipedia"
+    },
+    {
+      "id": "34",
+      "name": "Мангры Дамас",
+      "src": "",
+      "credit": ""
+    },
+    {
+      "id": "35",
+      "name": "Науяка: два яруса водопада",
+      "src": "country-photo-43aeb919f33f-960.webp",
+      "credit": "Matthias Bethke"
+    },
+    {
+      "id": "36",
+      "name": "Увита и Марино-Бальена",
+      "src": "country-photo-a21a584f165f-960.webp",
+      "credit": "Jorge Antonio Leoni de León"
+    },
+    {
+      "id": "37",
+      "name": "Дрейк-Бей: база у джунглей",
+      "src": "country-photo-218db25528d9-960.webp",
+      "credit": "Filip Mroz mroz"
+    },
+    {
+      "id": "38",
+      "name": "Корковадо: сектор Сирена",
+      "src": "country-photo-8fe702b60f37-960.webp",
+      "credit": "Julio-César Chávez"
+    },
+    {
+      "id": "39",
+      "name": "Остров Каньо: подводная природа",
+      "src": "country-photo-757246095078-960.webp",
+      "credit": "No machine-readable author provided. MikeJ9919 assumed (based on copyright claims)."
+    },
+    {
+      "id": "40",
+      "name": "Финка-6: каменные сферы",
+      "src": "country-photo-b481cf0f97e8-960.webp",
+      "credit": "Diego Padilla Durán y Mariordo (Mario Roberto Durán Ortiz)"
+    },
+    {
+      "id": "41",
+      "name": "Борука: музей и мастерские",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Boruca_mask._Costa_Rica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Rodtico21"
+    },
+    {
+      "id": "42",
+      "name": "Тортугеро: каналы вместо дорог",
+      "src": "country-photo-1dcf36beb19a-960.webp",
+      "credit": "Leyo"
+    },
+    {
+      "id": "43",
+      "name": "Кауита: лесная тропа вдоль моря",
+      "src": "country-photo-97716588343e-960.webp",
+      "credit": "Haakon S. Krohn"
+    },
+    {
+      "id": "44",
+      "name": "Пуэрто-Вьехо и Пунта-Ува",
+      "src": "country-photo-4c9a9eb0b837-960.webp",
+      "credit": "Jsfouche"
+    },
+    {
+      "id": "45",
+      "name": "Мансанильо: дикий карибский берег",
+      "src": "country-photo-cef8e9b2455d-960.webp",
+      "credit": "Jaimedelamata"
+    },
+    {
+      "id": "46",
+      "name": "Йоркин: культура брибри",
+      "src": "",
+      "credit": ""
+    },
+    {
+      "id": "47",
+      "name": "Сан-Херардо-де-Дота: долина кетцалей",
+      "src": "country-photo-17715eadbc23-960.webp",
+      "credit": "MongeNajera"
+    },
+    {
+      "id": "48",
+      "name": "Cloudbridge: однодневные горные прогулки",
+      "src": "country-photo-b3f0dcb6f326-960.webp",
+      "credit": "Cephas"
+    },
+    {
+      "id": "49",
+      "name": "Чиррипо: отдельная горная экспедиция",
+      "src": "country-photo-a8aafaa3b32d-960.webp",
+      "credit": "Asequeir at English Wikipedia"
+    },
+    {
+      "id": "50",
+      "name": "Пакуаре: джунглевое ущелье с воды",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pacuare_River.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "http://seebeforeyoudie.net"
+    },
+    {
+      "id": "51",
+      "name": "Ла-Пас: водопады и приют животных",
+      "src": "country-photo-5f6371f13563-960.webp",
+      "credit": "Carlos Valenzuela"
+    },
+    {
+      "id": "52",
+      "name": "Ла-Леона: водопад внутри каньона",
+      "src": "",
+      "credit": ""
+    }
+  ]
+}

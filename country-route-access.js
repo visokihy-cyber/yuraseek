@@ -28,7 +28,7 @@ window.YS_ROUTE_ACCESS={
       "query": "Waitangi Treaty Grounds, 1 Tau Henare Drive, Paihia, New Zealand",
       "kind": "parking",
       "label": "Парковка Waitangi Treaty Grounds",
-      "note": "Парковка посетителей перед входом.",
+      "note": "Далее пешком ко входу.",
       "sources": [
         "https://www.waitangi.org.nz/visit/how-to-get-here"
       ],
@@ -173,7 +173,7 @@ window.YS_ROUTE_ACCESS={
       "query": "-39.0649167,175.6594444",
       "kind": "parking",
       "label": "Tongariro Crossing Park & Ride",
-      "note": "Парковка для клиентов шаттла: конец октября — апрель. Нужна бронь; далее шаттл к Mangatepopo.",
+      "note": "Далее шаттл к Mangatepopo; нужна бронь Tongariro Expeditions.",
       "sources": [
         "https://www.tongariroexpeditions.com/shuttle-options/ketetahi-one-way-shuttle"
       ],
@@ -183,7 +183,7 @@ window.YS_ROUTE_ACCESS={
           "query": "-39.0649167,175.6594444",
           "kind": "parking",
           "label": "Tongariro Crossing Park & Ride",
-          "note": "Парковка для клиентов шаттла: конец октября — апрель. Нужна бронь; далее шаттл к Mangatepopo.",
+          "note": "Далее шаттл к Mangatepopo; нужна бронь Tongariro Expeditions.",
           "sources": [
             "https://www.tongariroexpeditions.com/shuttle-options/ketetahi-one-way-shuttle"
           ],

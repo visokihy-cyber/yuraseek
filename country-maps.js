@@ -156,6 +156,23 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-route-from
 // Scheme markers use the same endpoint picking workflow.
 const routingOpen=nz?go:openMapDetail;if(nz){go=function(id){if(routePicking){finishRoutePick(String(id));return;}activeRoutePoint=String(id);openPoint(id);};}else{openMapDetail=function(id){if(routePicking){finishRoutePick(String(id));return;}activeRoutePoint=String(id);openPoint(id);decorateRoutes();};}
 updateRoute();
+
+async function showCatalogPlace(id){
+const p=all.find(p=>String(p.id)===String(id));if(!p)return;
+if(get('placeDialog').open)get('placeDialog').close();
+routePicking=null;endMapPick();
+if(!await ensureGoogle())return;
+mobilePane('map');
+await new Promise(resolve=>requestAnimationFrame(resolve));
+const center={lat:p.lat,lng:p.lon};googleMap.setCenter(center);googleMap.setZoom(11);
+view={...center,zoom:11};activeMapLabel=String(p.id);activeRoutePoint=String(p.id);
+setRouteEndpoint('destination',String(p.id));get('map-route').classList.add('route-suggested');
+sync(false);originalOpen(nz?String(p.id):Number(p.id));
+get('mapDetailBody').querySelectorAll('details').forEach(d=>d.open=false);
+if(mobileLayout.matches)document.dispatchEvent(new CustomEvent('yura:map-point',{detail:{id:p.id,key:String(p.id)}}));
+else get('geography').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});
+}
+document.addEventListener('click',e=>{const b=e.target.closest('[data-show-place]');if(!b)return;e.preventDefault();showCatalogPlace(b.dataset.showPlace);});
 document.addEventListener('yura:open',e=>openPhoto(e.detail.id));
 document.addEventListener('yura:clear-map-point',()=>{activeMapLabel=null;sync(false);});
 document.addEventListener('yura:show-pane',e=>mobilePane(e.detail));

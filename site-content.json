@@ -2,78 +2,6 @@
   "version": 1,
   "home": [
     {
-      "src": "media-f3d2f19b-f2e1-4b5a-a24e-3be31580f88f.jpg",
-      "alt": "Луг у скальных вершин"
-    },
-    {
-      "src": "photo-golden-wall-v2.jpg",
-      "alt": "Скальная стена в золотом вечернем свете"
-    },
-    {
-      "src": "photo-sunlit-peaks.jpg",
-      "alt": "Скальные вершины в вечернем свете"
-    },
-    {
-      "src": "photo-reflection.jpg",
-      "alt": "Горы, тёплый свет и отражение"
-    },
-    {
-      "src": "photo-blue-lakes.jpg",
-      "alt": "Синие озёра среди гор"
-    },
-    {
-      "src": "photo-evening-reflection.jpg",
-      "alt": "Вечернее отражение гор в озере"
-    },
-    {
-      "src": "photo-forest-pillars-v2.jpg",
-      "alt": "Каменные столбы среди тропического леса"
-    },
-    {
-      "src": "photo-emerald-lake-v2.jpg",
-      "alt": "Изумрудное озеро и скальная стена"
-    },
-    {
-      "src": "photo-misty-pillars-v2.jpg",
-      "alt": "Скалистые башни в дымке"
-    },
-    {
-      "src": "photo-sunset-towers-v2.jpg",
-      "alt": "Скальные башни под вечерним небом"
-    },
-    {
-      "src": "photo-ocean-trail.jpg",
-      "alt": "Тропа над океанским побережьем"
-    },
-    {
-      "src": "photo-mountain-chapel-v2.jpg",
-      "alt": "Горная часовня в лучах заката"
-    },
-    {
-      "src": "photo-autumn-lake.jpg",
-      "alt": "Осенний лес и горное озеро"
-    },
-    {
-      "src": "photo-ancient-tree.jpg",
-      "alt": "Старое дерево у горной тропы"
-    },
-    {
-      "src": "photo-glacier-valley-v2.jpg",
-      "alt": "Долина и ледниковые вершины"
-    },
-    {
-      "src": "photo-summit-cross-v3.jpg",
-      "alt": "Крест на вершине над осенней долиной"
-    },
-    {
-      "src": "photo-cloud-valley.jpg",
-      "alt": "Облака между горными хребтами"
-    },
-    {
-      "src": "photo-sea-of-clouds.jpg",
-      "alt": "Горные хребты над морем облаков"
-    },
-    {
       "src": "photo-mountain-trail.jpg",
       "alt": "Тропа среди скальных вершин"
     },
@@ -86,8 +14,64 @@
       "alt": "Зубчатый горный хребет"
     },
     {
-      "src": "photo-turquoise-lake.jpg",
+      "src": "media-2cf5b0f3-8e9a-46ed-b75e-b15602e297d0.jpg",
+      "alt": "Луг у скальных вершин"
+    },
+    {
+      "src": "media-7e364266-10ee-4aae-ad4a-3f2b6515f6e4.jpg",
+      "alt": "Скальная стена в золотом вечернем свете"
+    },
+    {
+      "src": "media-f05a07aa-8d2e-42e4-9e59-34834e5f5b6b.jpg",
+      "alt": "Скальные вершины в вечернем свете"
+    },
+    {
+      "src": "media-8a72be61-b136-4d0c-b707-63a652a56c03.jpg",
+      "alt": "Крест на вершине над осенней долиной"
+    },
+    {
+      "src": "photo-cloud-valley.jpg",
+      "alt": "Облака между горными хребтами"
+    },
+    {
+      "src": "media-4d3e2d0e-53fb-48e9-a1fa-8169ae6efb4b.jpg",
+      "alt": "Горные хребты над морем облаков"
+    },
+    {
+      "src": "media-f4e226b0-28b2-452e-9111-7c76134e8b5f.jpg",
+      "alt": "Каменные столбы среди тропического леса"
+    },
+    {
+      "src": "media-ac2457d7-e630-4a40-8597-16eb68cd5b61.jpg",
+      "alt": "Изумрудное озеро и скальная стена"
+    },
+    {
+      "src": "media-3856b291-cded-4f94-8ada-7b86da60c0df.jpg",
+      "alt": "Скалистые башни в дымке"
+    },
+    {
+      "src": "photo-sunset-towers-v2.jpg",
+      "alt": "Скальные башни под вечерним небом"
+    },
+    {
+      "src": "media-9bedf5c8-7ccb-484b-9576-d0e02c67c9ab.jpg",
+      "alt": "Тропа над океанским побережьем"
+    },
+    {
+      "src": "photo-mountain-chapel-v2.jpg",
+      "alt": "Горная часовня в лучах заката"
+    },
+    {
+      "src": "media-198e7e76-db87-43cc-8f3c-293e8abc20e6.jpg",
       "alt": "Бирюзовое озеро под снежными вершинами"
+    },
+    {
+      "src": "media-f3d2f19b-f2e1-4b5a-a24e-3be31580f88f.jpg",
+      "alt": "Луг у скальных вершин"
+    },
+    {
+      "src": "photo-golden-wall-v2.jpg",
+      "alt": "Скальная стена в золотом вечернем свете"
     }
   ],
   "countries": {

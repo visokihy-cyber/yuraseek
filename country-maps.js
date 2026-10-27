@@ -177,7 +177,7 @@ setRouteEndpoint('destination',String(p.id));get('map-route').classList.add('rou
 sync(false);originalOpen(nz?String(p.id):Number(p.id));
 get('mapDetailBody').querySelectorAll('details').forEach(d=>d.open=false);
 if(mobileLayout.matches)document.dispatchEvent(new CustomEvent('yura:map-point',{detail:{id:p.id,key:String(p.id)}}));
-else get('geography').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});
+else frame.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});
 }
 document.addEventListener('click',e=>{const b=e.target.closest('[data-show-place]');if(!b)return;e.preventDefault();showCatalogPlace(b.dataset.showPlace);});
 document.addEventListener('yura:open',e=>openPhoto(e.detail.id));

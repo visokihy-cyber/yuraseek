@@ -75,6 +75,7 @@ function showStay22(){
 if(!stay22AffiliateId)return false;
 const points=normalized(all),lats=points.map(p=>p.lat),lngs=points.map(p=>p.lon);
 const bounds=view?.bounds||{north:Math.max(...lats),south:Math.min(...lats),east:Math.max(...lngs),west:Math.min(...lngs)};
+if(bounds.east<bounds.west)bounds.east+=360;
 const center=view||{lat:(bounds.north+bounds.south)/2,lng:(bounds.east+bounds.west)/2};
 const params=new URLSearchParams({aid:stay22AffiliateId,lat:String(center.lat),lng:String(center.lng),nelat:String(bounds.north),nelng:String(bounds.east),swlat:String(bounds.south),swlng:String(bounds.west),freezeviewport:'true',maincolor:'b6583e',viewmode:'map',listviewexpand:'false',hideenlargemap:'true',hidemainmarker:'true',campaign:nz?'yuraseek-new-zealand':'yuraseek-costa-rica'});
 // Bounding box is authoritative; omit zoom so different iframe sizes fit the whole area.

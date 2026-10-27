@@ -74,11 +74,18 @@ async function initGoogle(){if(googleMap)return;const cfg={"enabled": true, "api
 function showStay22(){
 if(!stay22AffiliateId)return false;
 const points=normalized(all),lats=points.map(p=>p.lat),lngs=points.map(p=>p.lon);
-const bounds=view?.bounds||{north:Math.max(...lats),south:Math.min(...lats),east:Math.max(...lngs),west:Math.min(...lngs)};
+const bounds={...(view?.bounds||{north:Math.max(...lats),south:Math.min(...lats),east:Math.max(...lngs),west:Math.min(...lngs)})};
 if(bounds.east<bounds.west)bounds.east+=360;
 const center=view||{lat:(bounds.north+bounds.south)/2,lng:(bounds.east+bounds.west)/2};
 const params=new URLSearchParams({aid:stay22AffiliateId,lat:String(center.lat),lng:String(center.lng),nelat:String(bounds.north),nelng:String(bounds.east),swlat:String(bounds.south),swlng:String(bounds.west),freezeviewport:'true',maincolor:'b6583e',viewmode:'map',listviewexpand:'false',hideenlargemap:'true',hidemainmarker:'true',campaign:nz?'yuraseek-new-zealand':'yuraseek-costa-rica'});
-// Bounding box is authoritative; omit zoom so different iframe sizes fit the whole area.
+// Stay22 returns empty searches at country-wide scales. Keep normal bounds,
+// but use a regional view for overly broad searches and avoid street-level searches.
+const mercator=lat=>Math.log(Math.tan(Math.PI/4+Math.max(-85,Math.min(85,lat))*Math.PI/360));
+const width=Math.max(280,frame.clientWidth),height=Math.max(300,get('stay22-map').clientHeight||520);
+const spanX=Math.max(0.000001,(bounds.east-bounds.west)/360);
+const spanY=Math.max(0.000001,Math.abs(mercator(bounds.north)-mercator(bounds.south))/(2*Math.PI));
+const fitZoom=Math.min(Math.log2(width/(256*spanX)),Math.log2(height/(256*spanY)));
+if(fitZoom<9||fitZoom>14){for(const key of ['nelat','nelng','swlat','swlng'])params.delete(key);params.set('zoom',String(fitZoom<9?9:14));}
 const form=get('hotelSearch');for(const [field,key] of [['checkin','checkin'],['checkout','checkout'],['group_adults','adults'],['group_children','children'],['no_rooms','rooms']]){const value=form.elements[field]?.value;if(value)params.set(key,value);}
 const url='https://www.stay22.com/embed/gm?'+params;if(get('stay22-map').src!==url)get('stay22-map').src=url;
 return true;

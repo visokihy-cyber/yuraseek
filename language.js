@@ -1,0 +1,1 @@
+document.querySelectorAll('.language-switch a').forEach(a=>{a.addEventListener('click',()=>{try{const u=new URL(a.href);u.hash=location.hash;a.href=u.href;localStorage.setItem('yuraseek-language',a.lang);}catch{}});});

@@ -602,5 +602,199 @@
       "src": "",
       "credit": ""
     }
+  ],
+  "madeira": [
+    {
+      "id": "1",
+      "name": "Фуншал — старый город и рынок",
+      "src": "madeira-01-960.webp",
+      "credit": "Фото: Dietmar Rabich · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Funchal_(Madeira,_Portugal),_Rua_de_Santa_Maria_77_--_2025_--_0858.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "2",
+      "name": "Монте-Палас — тропический сад",
+      "src": "madeira-02-960.webp",
+      "credit": "Фото: H. Zell · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Monte_Palace_Tropical_Garden_-_Oriental_Gardens_10.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "3",
+      "name": "Ботанический сад Мадейры",
+      "src": "madeira-03-960.webp",
+      "credit": "Фото: Hedwig Storch · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Funchal_Botanical_garden_IMG_1806.JPG\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "4",
+      "name": "Blandy’s — история вина мадера",
+      "src": "madeira-04-960.webp",
+      "credit": "Фото: H. Zell · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Blandy%27s_Wine_Lodge_-_Funchal_01.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "5",
+      "name": "Гаражау — мыс и морской заповедник",
+      "src": "madeira-05-960.webp",
+      "credit": "Фото: Coeli · <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" target=\"_blank\" rel=\"noopener\">Public domain</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Cristo_Rei-Garajau.JPG\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "6",
+      "name": "Камара-ди-Лобуш — рыбацкая бухта",
+      "src": "madeira-06-960.webp",
+      "credit": "Фото: H. Zell · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:C%C3%A2mara_de_Lobos_-_Harbor_light_01.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "7",
+      "name": "Кабу-Жиран — стеклянная площадка",
+      "src": "madeira-07-960.webp",
+      "credit": "Фото: David Stanley · <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Cabo_Girao_(14445974645).jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "8",
+      "name": "Эйра-ду-Серраду — Долина монахинь",
+      "src": "madeira-08-960.webp",
+      "credit": "Фото: Lars Ploug-Sørensen · <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Eira_Do_Serrado_Madeira_(32675271290).jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "9",
+      "name": "Пику-ду-Ариейру — вершины и PR1",
+      "src": "madeira-09-960.webp",
+      "credit": "Фото: Krib · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Pico_do_Areeiro,_2025.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "10",
+      "name": "Пику-Руйву — подъём от Ашада-ду-Тейшейра",
+      "src": "madeira-10-960.webp",
+      "credit": "Фото: The Kopf System · <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Pico_Ruivo_Peak.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "11",
+      "name": "Балкойш — балкон над лесной долиной",
+      "src": "madeira-11-960.webp",
+      "credit": "Фото: H. Zell · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:View_from_Balc%C3%B5es_-_Madeira.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "12",
+      "name": "Калдейран-Верди — тоннели и водопад",
+      "src": "madeira-12-960.webp",
+      "credit": "Фото: Günter Seggebäing, Coesfeld · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Levada_do_Caldeir%C3%A3o_Verde,_Madeira_(09611).jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "13",
+      "name": "Сантана — дома с соломенными крышами",
+      "src": "madeira-13-960.webp",
+      "credit": "Фото: Lorraine Hawkins · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Santana,_Madeira_typical_houses.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "14",
+      "name": "Роша-ду-Навиу — поля под обрывом",
+      "src": "madeira-14-960.webp",
+      "credit": "Фото: Leo-setä · <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Rocha_do_Navio.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "15",
+      "name": "Порту-да-Круш — ром, океан и сёрфинг",
+      "src": "madeira-15-960.webp",
+      "credit": "Фото: Ввласенко · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:The_Rock._Porto_da_Cruz._Madeira,_Portugal.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "16",
+      "name": "Сан-Лоренсу — вулканический полуостров",
+      "src": "madeira-16-960.webp",
+      "credit": "Фото: Joan · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Ponta_Sao_Louren%C3%A7o._Madeira.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "17",
+      "name": "Понта-ду-Рошту — скалы без большого похода",
+      "src": "madeira-17-960.webp",
+      "credit": "Фото: Karelj · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Madeira_Ponta_do_Rosto_2016_1.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "18",
+      "name": "Машику — бухта и старый центр",
+      "src": "madeira-18-960.webp",
+      "credit": "Фото: muffinn · <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Madeira_-_Machico_-_the_beach_(32761249923).jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "19",
+      "name": "Рабасал — 25 источников и Ришку",
+      "src": "madeira-19-960.webp",
+      "credit": "Фото: Alexander Baxevanis · <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:25_Fontes,_Madeira_-_Nov_2010.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "20",
+      "name": "Левада-ду-Алекрин — вода и вересковый лес",
+      "src": "madeira-20-960.webp",
+      "credit": "Фото: Rudolphu · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Madre_da_Levada_do_Alecrim_Madeira.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "21",
+      "name": "Фанал — старый лавровый лес",
+      "src": "madeira-21-960.webp",
+      "credit": "Фото: Dhcmatias · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Fanal_forest.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "22",
+      "name": "Сейшал — чёрный пляж и зелёные скалы",
+      "src": "madeira-22-960.webp",
+      "credit": "Фото: Patrice78500 · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Seixal_-_plage_et_port.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "23",
+      "name": "Порту-Мониш — лавовые бассейны",
+      "src": "madeira-23-960.webp",
+      "credit": "Фото: Donar Reiskoffer · <a href=\"https://creativecommons.org/licenses/by/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Natural_swimming_pool,_Porto_Moniz,_Madeira.JPG\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "24",
+      "name": "Рибейра-да-Жанела — скалы в океане",
+      "src": "madeira-24-960.webp",
+      "credit": "Фото: VillageHero · <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Rocks_at_coast_of_Ribeira_da_Janela_(38095672351).jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "25",
+      "name": "Веу-да-Нойва — водопад над океаном",
+      "src": "madeira-25-960.webp",
+      "credit": "Фото: Luis Miguel Bugallo Sánchez (Lmbuga) · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:2016-_V%C3%A9u_da_Noiva._Madeira._Portugal.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "26",
+      "name": "Ашадаш-да-Круш — спуск к полям у моря",
+      "src": "madeira-26-960.webp",
+      "credit": "Фото: Claudio Vosti · <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Vereda_Achadas_da_Cruz_-_Porto_Moniz_2.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "27",
+      "name": "Понта-ду-Паргу — маяк на западном мысе",
+      "src": "madeira-27-960.webp",
+      "credit": "Фото: Dietmar Rabich · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Ponta_do_Pargo_(Madeira,_Portugal),_Farol_da_Ponta_do_Pargo_--_2025_--_1792.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "28",
+      "name": "Жардин-ду-Мар — улочки и набережная",
+      "src": "madeira-28-960.webp",
+      "credit": "Фото: Hein.Mück · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Jardim_do_Mar-2018.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "29",
+      "name": "Понта-ду-Сол — южный берег на закате",
+      "src": "madeira-29-960.webp",
+      "credit": "Фото: XinuXano · <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" target=\"_blank\" rel=\"noopener\">Public domain</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Ponta_do_Sol_Madeira.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "30",
+      "name": "Мадалена-ду-Мар — банановая тропа",
+      "src": "madeira-30-960.webp",
+      "credit": "Фото: Patrice78500 · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Banana_plantations_in_Madalena_do_Mar.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "31",
+      "name": "Киты и дельфины — выход из Фуншала",
+      "src": "madeira-31-960.webp",
+      "credit": "Фото: Bex Walton · <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Dolphin_spotting_in_Madeira_(52892943014).jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование"
+    },
+    {
+      "id": "32",
+      "name": "Каньонинг — водопады Рибейра-Фриу",
+      "src": "madeira-photo-pending.svg",
+      "credit": "Фото будет добавлено"
+    }
   ]
 }

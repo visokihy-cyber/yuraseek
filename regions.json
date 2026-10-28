@@ -14413,6 +14413,2659 @@
           ]
         ]
       ]
+    },
+    {
+      "slug": "namibia",
+      "title": "Намибия",
+      "genitive": "Намибии",
+      "storageKey": "namibia-selection-v1",
+      "center": {
+        "lat": -22,
+        "lng": 17.5
+      },
+      "zoom": 5,
+      "bounds": [
+        11.7,
+        -29,
+        25.3,
+        -16.8
+      ],
+      "slides": [
+        4,
+        2,
+        16,
+        21,
+        29,
+        14
+      ],
+      "places": [
+        {
+          "id": 1,
+          "name": "Виндхук — история и повседневность",
+          "shortName": "Виндхук",
+          "originalName": "Windhoek — history and daily life",
+          "region": "Центр и горы",
+          "lat": -22.568,
+          "lon": 17.083,
+          "codes": "EW",
+          "priority": 3,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "Легко",
+          "desc": "Столица помогает понять страну за пределами сафари: музеи, городские кварталы и разные культурные традиции.",
+          "detail": "Начните с центра у Christuskirche и музеев, затем выберите прогулку с местным гидом по Катутуре. Историю колонизации и независимости лучше рассматривать вместе с современным городом, а не только через немецкую архитектуру. Рынок и небольшие заведения дают другое впечатление, чем административный центр. Катутура — жилой район, а не музей под открытым небом: фотографируйте людей с разрешения. Для первого знакомства достаточно половины дня.",
+          "tickets": "У музеев отдельные часы и условия входа. Экскурсию бронируйте у выбранного гида; парковка оплачивается по месту.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "Подъезд к музею Независимости; используйте разрешённую парковку. Для Катутуры согласуйте встречу с гидом.",
+          "source": "https://visitnamibia.com.na/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Christ_Church_in_Windhoek%2C_Namibia.jpg/1280px-Christ_Church_in_Windhoek%2C_Namibia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Виндхук — история и повседневность",
+          "creditText": "Christoph Strässler · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christ_Church_in_Windhoek,_Namibia.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Christ_Church_in_Windhoek,_Namibia.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Шпицкоппе — гранитные арки",
+          "shortName": "Шпицкоппе",
+          "originalName": "Spitzkoppe — granite arches",
+          "region": "Центр и горы",
+          "lat": -21.831,
+          "lon": 15.194,
+          "codes": "PS",
+          "priority": 1,
+          "format": "День",
+          "time": "Полдня или ночь",
+          "walk": "Умеренно",
+          "desc": "Гранитные купола и каменная арка особенно выразительны в низком свете.",
+          "detail": "Можно ограничиться короткими подходами к арке и скальным формам либо остаться в кемпинге ради заката и звёзд. Гладкие наклонные плиты требуют осторожности: прогулка у подножия не равнозначна восхождению на вершину. Наскальные изображения посещайте с местным проводником по действующим правилам. Между точками встречаются короткие переезды, поэтому весь массив не нужно превращать в один пеший круг. В жаркие часы тени мало.",
+          "tickets": "Дневной въезд платный; кемпинг бронируется отдельно. Уточните доступ к наскальному искусству и услуги проводника.",
+          "hike": "Нагрузка: умеренно. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До приёмной общественного кемпинга Spitzkoppe. Частный Spitzkoppe Lodge — другой объект, не общий вход.",
+          "source": "https://www.spitzkoppe.com/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Spitzkoppe_year_2006.jpg/1280px-Spitzkoppe_year_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Шпицкоппе — гранитные арки",
+          "creditText": "Hp.Baumeler · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spitzkoppe_year_2006.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Spitzkoppe_year_2006.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Ватерберг — плато и саванна",
+          "shortName": "Ватерберг",
+          "originalName": "Waterberg — plateau and savanna",
+          "region": "Центр и горы",
+          "lat": -20.505,
+          "lon": 17.244,
+          "codes": "PLS",
+          "priority": 3,
+          "format": "День",
+          "time": "День",
+          "walk": "Умеренно",
+          "desc": "Красная стена плато поднимается над зелёными склонами и равниной.",
+          "detail": "Короткие тропы у курорта позволяют увидеть растительность и скалы без большого похода. Доступ на верхнее плато и наблюдение за редкими животными организованы иначе: выбирайте разрешённую экскурсию или заранее согласованный маршрут. Это не место для произвольной езды по верхнему краю. Можно совместить прогулку у подножия и поездку с рейнджером. Государственный парк и частные территории с похожими названиями имеют разные входы и программы.",
+          "tickets": "Вход в парк и экскурсии оплачиваются отдельно от проживания. Походы по плато и места на поездках согласуйте заранее.",
+          "hike": "Нагрузка: умеренно. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До приёмной NWR Waterberg Plateau. Дальше — по разрешённым тропам или с экскурсией.",
+          "source": "https://www.meft.gov.na/national-parks/waterberg-plateau-park/231/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Plateau_Waterberg.jpg/1280px-Plateau_Waterberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Ватерберг — плато и саванна",
+          "creditText": "Harald Süpfle · [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Plateau_Waterberg.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Plateau_Waterberg.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Соссусвлей и Дедвлей",
+          "shortName": "Соссусвлей и Дедвлей",
+          "originalName": "Sossusvlei and Deadvlei",
+          "region": "Пустыня Намиб",
+          "lat": -24.762,
+          "lon": 15.293,
+          "codes": "PS",
+          "priority": 1,
+          "format": "День",
+          "time": "Полдня–день",
+          "walk": "Умеренно",
+          "desc": "Белая глина, тёмные деревья и оранжевые дюны создают главный пустынный пейзаж Намибии.",
+          "detail": "Для классического вида Дедвлея достаточно пройти от места высадки к глиняной впадине; подъём на Big Daddy — отдельная нагрузка и не обязателен. Ранний свет подчёркивает гребни дюн, а после восхода быстро становится жарко. Соссусвлей и Дедвлей — соседние, но разные впадины. Не трогайте старые деревья и не забирайтесь на них. Последний песчаный участок требует отдельного решения по транспорту; автомобильный маршрут заканчивается на обычной парковке.",
+          "tickets": "Нужен оплаченный въезд в Namib-Naukluft для людей и автомобиля. Шаттл по последнему песчаному участку оплачивается отдельно; действующие правила уточните в Sesriem. Проживание внутри парка бронируется отдельно.",
+          "hike": "Нагрузка: умеренно. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До парковки 2x4 через ворота Sesriem. Далее согласуйте шаттл; к Дедвлею остаётся пеший участок.",
+          "source": "https://www.nwr.com.na/resorts/sesriem-campsite/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Deadvlei_Namibia.jpg/1280px-Deadvlei_Namibia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Соссусвлей и Дедвлей",
+          "creditText": "Pemba.mpimaji · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Deadvlei_Namibia.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Deadvlei_Namibia.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Дюна 45",
+          "shortName": "Дюна 45",
+          "originalName": "Dune 45",
+          "region": "Пустыня Намиб",
+          "lat": -24.727,
+          "lon": 15.472,
+          "codes": "PS",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "1–2 часа",
+          "walk": "Умеренно",
+          "desc": "Доступный с основной дороги гребень дюны даёт обзор песчаного моря.",
+          "detail": "Можно фотографировать дюну снизу либо подняться по разрешённому гребню и вернуться тем же путём. Ходьба по мягкому песку тяжелее обычной тропы; обязательной вершины для красивого вида здесь нет. Ранним утром бывает много людей, поэтому закладывайте время на неспешный подъём. Это дополнительная остановка по дороге к Соссусвлею, а не замена прогулке в Дедвлее. Следуйте ограничениям, чтобы не разносить следы по склонам.",
+          "tickets": "Действует въездной сбор Namib-Naukluft. Отдельная бронь обычного подъёма не подтверждена; учитывайте часы ворот.",
+          "hike": "Нагрузка: умеренно. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До обозначенной парковки Dune 45 внутри парка; дальше пешком по песку.",
+          "source": "https://www.meft.gov.na/national-parks/namib-naukluft-park/224/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg/1280px-006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Дюна 45",
+          "creditText": "Giles Laurent · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Каньон Сесрием",
+          "shortName": "Каньон Сесрием",
+          "originalName": "Sesriem Canyon",
+          "region": "Пустыня Намиб",
+          "lat": -24.519,
+          "lon": 15.8,
+          "codes": "PW",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "1–2 часа",
+          "walk": "Умеренно",
+          "desc": "Узкий каменный каньон показывает другую сторону Намиба, совсем не похожую на дюны.",
+          "detail": "Сначала осмотрите разрез сверху, затем спуститесь по разрешённому подходу, если условия позволяют. Внутри видны слои породы и следы редких потоков воды. Короткая прогулка хорошо дополняет Соссусвлей, особенно когда не хочется ещё одного подъёма по песку. Дно неровное, местами возможна вода; после дождей не заходите без проверки. Прохлада между стенами не означает, что весь каньон безопасно проходим.",
+          "tickets": "Проверьте действующий парк-пермит и условия прохода на въезде Sesriem. Отдельная бронь короткой прогулки не подтверждена.",
+          "hike": "Нагрузка: умеренно. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До парковки каньона; спуск пешком только при безопасных условиях.",
+          "source": "https://www.nwr.com.na/resorts/sesriem-campsite/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Sesriem_Crater_2014.jpg/1280px-Sesriem_Crater_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Каньон Сесрием",
+          "creditText": "dconvertini · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sesriem_Crater_2014.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Sesriem_Crater_2014.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Науклуфт — горные тропы",
+          "shortName": "Науклуфт",
+          "originalName": "Naukluft — mountain trails",
+          "region": "Пустыня Намиб",
+          "lat": -24.267,
+          "lon": 16.233,
+          "codes": "PS",
+          "priority": 3,
+          "format": "День",
+          "time": "День",
+          "walk": "Сложнее",
+          "desc": "Каменистые ущелья, горные зебры и редкие тенистые участки дают полноценный пеший день.",
+          "detail": "Выбирайте конкретную тропу: Olive Trail короче, Waterkloof Trail заметно длиннее. Важны запас воды, ранний старт и уверенность на неровных камнях; участки с цепями нельзя воспринимать как обычную прогулку. Для спокойного посещения можно ограничиться разрешёнными короткими подходами у лагеря. Многодневные маршруты — отдельное путешествие, а не продолжение дневного круга без подготовки. Перед выходом уточните состояние троп.",
+          "tickets": "Поход оплачивается и оформляется в Naukluft Camp. Для многодневных маршрутов нужна отдельная бронь; уточните доступность дневных троп.",
+          "hike": "NWR указывает для Olive Trail 10 км и около 4 часов, для Waterkloof 17 км и 6–7 часов. Дополнительные остановки и текущие условия могут увеличить время; на Olive есть непростые скальные участки.",
+          "access": "До Naukluft Camp для регистрации; автомобиль остаётся у начала согласованного маршрута.",
+          "source": "https://www.nwr.com.na/resorts/naukluft-camp/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Naukluft_Waterkloof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "photoAlt": "Науклуфт — горные тропы",
+          "creditText": "Dr. Thomas Wagner · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Naukluft_Waterkloof.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Naukluft_Waterkloof.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Намибранд — пешком по пустыне",
+          "shortName": "Намибранд",
+          "originalName": "NamibRand — walking in the desert",
+          "region": "Пустыня Намиб",
+          "lat": -25.245,
+          "lon": 16.062,
+          "codes": "PSL",
+          "priority": 4,
+          "format": "Несколько ночей",
+          "time": "3 дня",
+          "walk": "Умеренно",
+          "desc": "Медленное путешествие по дюнам с ночёвками под открытым небом раскрывает мелкую жизнь пустыни.",
+          "detail": "Tok Tokkie — организованный маршрут, где проводник показывает следы, насекомых и приспособления растений к засухе. Багаж перевозится отдельно, ночёвки устроены в пустыне: это другой опыт, чем остановки на машине у видовых точек. Днём важны жара и песок, ночью — холод и открытое небо. Программа подходит тем, кто готов выделить несколько дней ради самого пребывания в ландшафте.",
+          "tickets": "Обязательна предварительная бронь; уточните сезон, возрастные ограничения и включённые услуги. Самостоятельного доступа по одной оплате входа нет.",
+          "hike": "Нагрузка: умеренно. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До базы Tok Tokkie Trails по инструкции бронирования; далее организованный пеший маршрут.",
+          "source": "https://toktokkietrails.com/home-en/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/4/48/NamibDesert01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "photoAlt": "Намибранд — пешком по пустыне",
+          "creditText": "Marco w at English Wikipedia · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NamibDesert01.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:NamibDesert01.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Свакопмунд — город у океана",
+          "shortName": "Свакопмунд",
+          "originalName": "Swakopmund — town by the ocean",
+          "region": "Атлантическое побережье",
+          "lat": -22.679,
+          "lon": 14.527,
+          "codes": "EW",
+          "priority": 3,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "Легко",
+          "desc": "Набережная, музей и архитектура встречаются с прохладным атлантическим воздухом.",
+          "detail": "Пройдите от маяка и музея к пирсу, рассматривая город как место встречи пустыни и океана. Музей добавляет природную и культурную историю к прогулке среди старых зданий. За пределами центра выбирают сэндбординг или экскурсию по дюнам, но это отдельные программы, не часть обычной городской прогулки. Туман может полностью изменить настроение берега за час. Здесь приятно сделать паузу между длинными переездами, а не искать тёплый пляжный курорт.",
+          "tickets": "Музей и спортивные программы оплачиваются отдельно. Для набережной отдельный билет не нужен; соблюдайте местные правила парковки.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До общественной парковки у музея; далее пешком. Для активности в дюнах согласуйте встречу с оператором.",
+          "source": "https://visitnamibia.com.na/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Mole%2C_Jetty_and_Lighthouse_Swakopmund%2C_Namibia.jpg/1280px-Mole%2C_Jetty_and_Lighthouse_Swakopmund%2C_Namibia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Свакопмунд — город у океана",
+          "creditText": "Olga Ernst · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mole,_Jetty_and_Lighthouse_Swakopmund,_Namibia.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Mole,_Jetty_and_Lighthouse_Swakopmund,_Namibia.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Живая пустыня — маленькие обитатели дюн",
+          "shortName": "Живая пустыня",
+          "originalName": "Living Desert — small dune creatures",
+          "region": "Атлантическое побережье",
+          "lat": -22.71,
+          "lon": 14.55,
+          "codes": "L",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "4–5 часов",
+          "walk": "Легко",
+          "desc": "Гекконы, ящерицы и следы на песке показывают, почему пустыня не пуста.",
+          "detail": "Экскурсия с натуралистом посвящена небольшим животным, которых трудно заметить самостоятельно. Поездки чередуются с короткими выходами на песок; главное здесь — наблюдение и объяснение приспособлений к жаре и туману, а не гонка по дюнам. Конкретные встречи зависят от условий. Не ловите животных сами и не разрушайте норы. Программу удобно сочетать с неспешной второй половиной дня в Свакопмунде.",
+          "tickets": "Экскурсию нужно бронировать; уточните оплату и включённый трансфер. Самостоятельный поиск по следам вне разрешённых участков не заменяет организованную программу.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "Парковка Desert Explorers — предлагаемый Tommy’s Tours пункт для гостей из других городов. Обязательно подтвердите встречу при бронировании; возможен трансфер от отеля.",
+          "source": "https://livingdeserttours.com.na/contact/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Pachydactylus-rangei.jpg/1280px-Pachydactylus-rangei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Пустынный геккон — один из обитателей прибрежных дюн",
+          "creditText": "Stefan.Kuemmel at German Wikipedia\n\n(Original text: Stefan Kümmel) · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pachydactylus-rangei.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Pachydactylus-rangei.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Уолфиш-Бей — лагуна и птицы",
+          "shortName": "Уолфиш-Бей",
+          "originalName": "Walvis Bay — lagoon and birds",
+          "region": "Атлантическое побережье",
+          "lat": -22.98,
+          "lon": 14.483,
+          "codes": "LW",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "1–3 часа",
+          "walk": "Легко",
+          "desc": "Фламинго и другие водные птицы кормятся у мелководного берега рядом с городом.",
+          "detail": "Для первого знакомства достаточно пройти по общественной набережной лагуны и наблюдать с расстояния. Расположение птиц меняется с приливом, поэтому не привязывайтесь к одной фототочке. Бинокль полезнее попытки подойти вплотную. Лодочные прогулки и выходы к морским котикам — отдельные варианты с собственным расписанием. Не заезжайте на солончаки и не преследуйте птиц ради снимка: удобные наблюдения возможны с разрешённых береговых участков.",
+          "tickets": "Для общественной набережной отдельный билет не нужен. Лодка и каяк бронируются и оплачиваются отдельно; парковку проверяйте по знакам.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До разрешённой парковки вдоль лагуны. Для морской экскурсии используйте точку своего оператора.",
+          "source": "https://www.sandwich-harbour.com/activities/tours/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Walvis_Bay_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "photoAlt": "Уолфиш-Бей — лагуна и птицы",
+          "creditText": "Brian McMorrow · [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Walvis_Bay_aerial.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Walvis_Bay_aerial.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Сэндвич-Харбор — дюны у Атлантики",
+          "shortName": "Сэндвич-Харбор",
+          "originalName": "Sandwich Harbour — dunes meet the Atlantic",
+          "region": "Атлантическое побережье",
+          "lat": -23.37,
+          "lon": 14.5,
+          "codes": "P",
+          "priority": 1,
+          "format": "День",
+          "time": "Полдня–день",
+          "walk": "Легко",
+          "desc": "Высокие песчаные склоны опускаются прямо к океану и прибрежной лагуне.",
+          "detail": "Лучший способ увидеть контраст — поездка с опытным местным водителем. Маршрут зависит от прилива: иногда проезжают вдоль берега, иногда смотрят лагуну с дюн. Короткие пешие выходы дают масштаб пейзажа без обязательного большого подъёма. По пути встречаются солончаки и растения, удерживающие жизнь в песке. Самостоятельный заезд по чужим следам опасен: узкая полоса берега может исчезнуть с приливом.",
+          "tickets": "Нужны разрешение на защищённую территорию и подходящий транспорт. При экскурсии уточните включённый парк-пермит; бронируйте заранее.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До офиса Sandwich Harbour 4x4 на Waterfront, если бронируете у этого оператора. Дальше — его транспорт; для другого оператора уточните встречу.",
+          "source": "https://www.sandwich-harbour.com/activities/tours/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Sandwich_Harbour_%28Luftaufnahme%29.jpg/1280px-Sandwich_Harbour_%28Luftaufnahme%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Сэндвич-Харбор — дюны у Атлантики",
+          "creditText": "Rüdiger Wenzel · [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sandwich_Harbour_(Luftaufnahme).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Sandwich_Harbour_(Luftaufnahme).jpg"
+        },
+        {
+          "id": 13,
+          "name": "Лунный пейзаж и вельвичии",
+          "shortName": "Лунный пейзаж и вельвичии",
+          "originalName": "Moon Landscape and welwitschias",
+          "region": "Атлантическое побережье",
+          "lat": -22.67,
+          "lon": 15,
+          "codes": "PL",
+          "priority": 3,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "Легко",
+          "desc": "Размытые каменные долины сменяются равнинами с необычными долгоживущими растениями.",
+          "detail": "Это поездка с остановками, а не одно место у дороги. Вельвичия сохраняет всего два постоянно растущих листа, которые со временем расщепляются на ленты. Сначала получите разрешение и карту маршрута, затем следуйте обозначенным остановкам. Лишайники и корни легко повредить колёсами и ногами, поэтому оставайтесь на разрешённых путях. После дождя проходимость речных участков меняется; панорама и растения не стоят риска застрять.",
+          "tickets": "Для Welwitschia Drive разрешение получают заранее в MEFT, а не у отсутствующих ворот. Уточните часы офиса и текущую проходимость.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "Маршрут сначала до офиса MEFT в Свакопмунде за разрешением и схемой подъездов. Дальше следуйте выданной карте.",
+          "source": "https://www.meft.gov.na/frequently-asked-questions/what-are-the-entry-permit-requirements-for-the-various-parks-in-namibia-/136/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Welwitschia_mirabilis%282%29.jpg/1280px-Welwitschia_mirabilis%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Вельвичия",
+          "creditText": "Thomas Schoch · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Welwitschia_mirabilis(2).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Welwitschia_mirabilis(2).jpg"
+        },
+        {
+          "id": 14,
+          "name": "Кейп-Кросс — колония морских котиков",
+          "shortName": "Кейп-Кросс",
+          "originalName": "Cape Cross — Cape fur seals",
+          "region": "Атлантическое побережье",
+          "lat": -21.771,
+          "lon": 13.952,
+          "codes": "L",
+          "priority": 1,
+          "format": "Полдня",
+          "time": "1–2 часа",
+          "walk": "Легко",
+          "desc": "На берегу Атлантики можно наблюдать большую колонию морских котиков с настила.",
+          "detail": "Шум, запах и постоянное движение делают посещение очень непосредственным. Наблюдайте со специально устроенного прохода: он позволяет видеть колонию, не заходя между животными. В сезон размножения впечатления особенно интенсивны, но численность и распределение котиков меняются. Реплика португальского креста добавляет короткий исторический контекст. Это не место для контакта с животными или купания рядом с ними.",
+          "tickets": "Въезд в заповедник платный; проверьте часы ворот и тариф для автомобиля. Отдельная бронь обычного дневного посещения не подтверждена.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До официальной парковки через ворота заповедника; дальше по настилу.",
+          "source": "https://www.meft.gov.na/national-parks/cape-cross-seal-reserve/214/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cape_Cross_Seal_Colony.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "photoAlt": "Кейп-Кросс — колония морских котиков",
+          "creditText": "betty x1138 from NYC, USA · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cape_Cross_Seal_Colony.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Cape_Cross_Seal_Colony.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Берег Скелетов — южный сектор",
+          "shortName": "Берег Скелетов",
+          "originalName": "Skeleton Coast — southern sector",
+          "region": "Атлантическое побережье",
+          "lat": -21.2,
+          "lon": 13.73,
+          "codes": "P",
+          "priority": 3,
+          "format": "День",
+          "time": "День",
+          "walk": "Легко",
+          "desc": "Туман, пустынный берег и следы кораблекрушений создают ощущение края суши.",
+          "detail": "Доступная автомобильная часть начинается у южных ворот и сильно отличается от удалённого северного побережья. Выбирайте разрешённые остановки и смотрите прежде всего на сочетание океана, гравийных равнин и пустоты. Обломки судов со временем разрушаются, поэтому не стройте поездку вокруг одного изображения из старого отчёта. Дальние северные участки требуют специальных организованных программ. Топливо, вода и запас времени важнее числа остановок.",
+          "tickets": "На въезде оформляют разрешение и условия проезда. Ночёвки бронируются отдельно; северные закрытые участки не входят в обычный самостоятельный въезд.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До Ugab Gate. Продолжение — только по разрешённым дорогам и в пределах часов проезда.",
+          "source": "https://meft.gov.na/national-parks/skeleton-coast-park/227",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Skeleton_Coast%2C_Namibia_%2816672050963%29.jpg/1280px-Skeleton_Coast%2C_Namibia_%2816672050963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Берег Скелетов — южный сектор",
+          "creditText": "Domenico Convertini from Zurich, Schweiz · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Skeleton_Coast,_Namibia_(16672050963).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Skeleton_Coast,_Namibia_(16672050963).jpg"
+        },
+        {
+          "id": 16,
+          "name": "Твифелфонтейн — наскальные гравировки",
+          "shortName": "Твифелфонтейн",
+          "originalName": "Twyfelfontein — rock engravings",
+          "region": "Дамараленд и Кунене",
+          "lat": -20.596,
+          "lon": 14.372,
+          "codes": "E",
+          "priority": 1,
+          "format": "Полдня",
+          "time": "2–3 часа",
+          "walk": "Умеренно",
+          "desc": "Животные и символы на камне раскрывают древнюю культуру охотников и собирателей.",
+          "detail": "С местным гидом пройдите между панелями и рассмотрите, как изображения используют форму скалы. Это не один рисунок, а целый ландшафт памяти; объяснение контекста делает прогулку содержательнее простого фотографирования. Поверхность тропы каменистая, тени мало. Рядом можно отдельными остановками добавить Органные трубы и Обожжённую гору, но не стоит сокращать ради них основную экскурсию. Не трогайте рисунки и не смачивайте камень для снимка.",
+          "tickets": "Посещение гравировок платное, с местным гидом. Уточните часы, актуальный тариф и оплату соседних объектов; возьмите наличные.",
+          "hike": "Нагрузка: умеренно. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До парковки визит-центра; дальше пешком по маршруту гида.",
+          "source": "https://visitnamibia.com.na/2022/02/twyfelfontein-heritage-site/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Twyfelfontein_16.jpg/1280px-Twyfelfontein_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Твифелфонтейн — наскальные гравировки",
+          "creditText": "Mike from Vancouver, Canada · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Twyfelfontein_16.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Twyfelfontein_16.jpg"
+        },
+        {
+          "id": 17,
+          "name": "Живой музей дамара",
+          "shortName": "Живой музей дамара",
+          "originalName": "Damara Living Museum",
+          "region": "Дамараленд и Кунене",
+          "lat": -20.581,
+          "lon": 14.416,
+          "codes": "E",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "1–2 часа",
+          "walk": "Легко",
+          "desc": "Общинный музей знакомит с ремёслами, огнём, растениями и традиционными навыками дамара.",
+          "detail": "Выберите программу демонстраций или более продолжительную прогулку с объяснением растений. Это созданное местными участниками культурное пространство, а не утверждение, что все современные дамара живут так ежедневно. Возможность задавать вопросы и видеть работу рук важнее быстрого набора фотографий. Покупка ремесленных изделий — отдельный способ поддержать участников. Фотографирование согласуйте с проводником и людьми, которых снимаете.",
+          "tickets": "Программы платные, стоимость зависит от выбранного формата. Уточните время работы и необходимость брони для группы.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До приёмной музея; посещение по выбранной программе.",
+          "source": "https://www.lcfn.info/damara/information",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Damara_Living_Museum_-_Damaraland_in_Namibia_-_05.jpg/1280px-Damara_Living_Museum_-_Damaraland_in_Namibia_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Живой музей дамара",
+          "creditText": "Lidine Mia · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Damara_Living_Museum_-_Damaraland_in_Namibia_-_05.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Damara_Living_Museum_-_Damaraland_in_Namibia_-_05.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Брандберг — рисунок White Lady",
+          "shortName": "Брандберг",
+          "originalName": "Brandberg — White Lady rock art",
+          "region": "Дамараленд и Кунене",
+          "lat": -21.033,
+          "lon": 14.66,
+          "codes": "ES",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "2–3 часа",
+          "walk": "Умеренно",
+          "desc": "Пеший подход по каменистой долине ведёт к одной из известных групп наскальных рисунков.",
+          "detail": "Название White Lady историческое и вводит в заблуждение: центральную фигуру часто трактуют как мужчину, возможно ритуального персонажа. Смысл посещения — не размер рисунка, а его окружение и рассказ проводника. В жару подход ощутимо тяжелее, чем кажется по расстоянию; берите воду и начинайте рано. Это отдельная тропа у подножия Брандберга, не восхождение на высшую точку массива. К изображению подходят только по правилам охраны памятника.",
+          "tickets": "Вход и обязательный проводник платные. Дальние ущелья и восхождение требуют отдельных разрешений и подготовки.",
+          "hike": "Нагрузка: умеренно. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До входа на тропу White Lady в конце D2359; не до одноимённого лоджа. Далее с проводником.",
+          "source": "https://www.namibweb.com/brandg.htm",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Approach_to_Brandberg_White_Lady_site_%283690485342%29.jpg/1280px-Approach_to_Brandberg_White_Lady_site_%283690485342%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Брандберг — рисунок White Lady",
+          "creditText": "Greg Willis from Denver, CO, usa · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Approach_to_Brandberg_White_Lady_site_(3690485342).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Approach_to_Brandberg_White_Lady_site_(3690485342).jpg"
+        },
+        {
+          "id": 19,
+          "name": "Угаб — пустынные слоны",
+          "shortName": "Угаб",
+          "originalName": "Ugab — desert-adapted elephants",
+          "region": "Дамараленд и Кунене",
+          "lat": -21.021,
+          "lon": 14.684,
+          "codes": "L",
+          "priority": 3,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "Легко",
+          "desc": "Слоны перемещаются по сухим речным долинам среди почти пустынного ландшафта.",
+          "detail": "Экскурсия с местным проводником помогает искать животных, не перекрывая им путь и не разрушая уязвимую долину. Они не живут постоянно у одной точки: присутствие зависит от дождей и перемещений стада. В хороший день наблюдение за поиском корма интереснее быстрого близкого подъезда. Не обещайте себе обязательную встречу и не пытайтесь самостоятельно догонять животных по руслу. Поездка подходит как отдельная программа района Брандберга.",
+          "tickets": "Выезд платный и бронируется; заранее уточните, находятся ли слоны в районе и откуда стартует программа.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До Brandberg White Lady Lodge, если выбрана их экскурсия. Далее транспорт проводника; встречу подтвердите.",
+          "source": "https://www.brandbergwllodge.com/products",
+          "checkedAt": "2026-10-28",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Ugab_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "photoAlt": "Угаб — пустынные слоны",
+          "creditText": "Theseus · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ugab_1.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Ugab_1.jpg"
+        },
+        {
+          "id": 20,
+          "name": "Эпупа — водопады и Кунене",
+          "shortName": "Эпупа",
+          "originalName": "Epupa — waterfalls and the Kunene",
+          "region": "Дамараленд и Кунене",
+          "lat": -17.002,
+          "lon": 13.245,
+          "codes": "PL",
+          "priority": 3,
+          "format": "День",
+          "time": "Полдня–день",
+          "walk": "Умеренно",
+          "desc": "Пальмы, баобабы и каскады реки резко контрастируют с сухими холмами Кунене.",
+          "detail": "Можно смотреть водопады с разрешённых береговых точек, подняться на обзорный холм или заказать прогулку с местным гидом. Водность меняется по сезону, поэтому фотографии одной поездки не показывают постоянного состояния реки. Наблюдение за птицами и согласованное знакомство с культурой химба — отдельные варианты. Не подходите к скользкому краю и не купайтесь: здесь встречаются крокодилы. Дальний подъезд оправдан, если остаётся время спокойно побыть на реке.",
+          "tickets": "Уточните местную оплату видовых точек и доступ через территории лагерей. Экскурсии и ночёвки бронируются отдельно.",
+          "hike": "Нагрузка: умеренно. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До приёмной Epupa Falls Lodge; согласуйте парковку и проход, особенно без проживания. Дальше к водопадам пешком.",
+          "source": "https://epupafallslodge.com/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Epupa_Falls_%28detail%29.jpg/1280px-Epupa_Falls_%28detail%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Эпупа — водопады и Кунене",
+          "creditText": "Hans Hillewaert · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Epupa_Falls_(detail).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Epupa_Falls_(detail).jpg"
+        },
+        {
+          "id": 21,
+          "name": "Этоша — водопои и сафари",
+          "shortName": "Этоша",
+          "originalName": "Etosha — waterholes and safari",
+          "region": "Этоша и северо-восток",
+          "lat": -19.178,
+          "lon": 15.918,
+          "codes": "L",
+          "priority": 1,
+          "format": "Несколько ночей",
+          "time": "2–3 дня",
+          "walk": "Легко",
+          "desc": "Наблюдение за животными строится вокруг водопоев и огромной светлой солончаковой равнины.",
+          "detail": "Выберите несколько водопоев и оставляйте время ждать, а не проезжайте парк как список остановок. Сухой сезон концентрирует животных у воды; после дождей ландшафт зеленеет и встречи становятся менее предсказуемыми. Окаукуэйо, Халали и Намутони дают разные участки для исследования. Ночёвка внутри позволяет провести вечер у освещённого водопоя лагеря; самостоятельная ночная езда не разрешена. Из машины выходят только там, где это явно разрешено.",
+          "tickets": "Нужны въездные сборы для людей и машины. Кемпинги и номера бронируйте заранее; организованные выезды оплачиваются отдельно. Соблюдайте часы ворот парка и лагерей.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До Andersson Gate — удобного южного входа. Для проживания у другого входа перестройте маршрут по брони, не через закрытый парк.",
+          "source": "https://www.nwr.com.na/resorts/okaukuejo-resort/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dust_Cloud_in_Etosha_National_Park.jpg/1280px-Dust_Cloud_in_Etosha_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Этоша — водопои и сафари",
+          "creditText": "Yathin S Krishnappa · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dust_Cloud_in_Etosha_National_Park.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Dust_Cloud_in_Etosha_National_Park.jpg"
+        },
+        {
+          "id": 22,
+          "name": "Хоба — метеорит",
+          "shortName": "Хоба",
+          "originalName": "Hoba meteorite",
+          "region": "Этоша и северо-восток",
+          "lat": -19.592,
+          "lon": 17.933,
+          "codes": "E",
+          "priority": 3,
+          "format": "Остановка",
+          "time": "30–60 минут",
+          "walk": "Легко",
+          "desc": "Крупный железный метеорит лежит на месте находки среди сельской местности.",
+          "detail": "Это короткая остановка для ощущения масштаба: объект интересен прежде всего своей массой и происхождением, а не длинной экспозицией. Осмотрите его с обустроенной площадки и прочитайте пояснения. Хорошо сочетается с переездом через район Грутфонтейна; отдельный большой крюк ради него нужен не каждому. Не пытайтесь откалывать фрагменты или оставлять отметки.",
+          "tickets": "Вход платный; актуальные часы и тариф проверяйте перед заездом. Отдельная бронь обычного посещения не подтверждена.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До посетительской парковки метеорита; дальше короткий подход пешком.",
+          "source": "https://visitnamibia.com.na/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Hoba_meteorite_%2815682150765%29.jpg/1280px-Hoba_meteorite_%2815682150765%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Хоба — метеорит",
+          "creditText": "Sergio Conti from Montevecchia (LC), Italia · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hoba_meteorite_(15682150765).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Hoba_meteorite_(15682150765).jpg"
+        },
+        {
+          "id": 23,
+          "name": "Попа-Фолс — пороги Окаванго",
+          "shortName": "Попа-Фолс",
+          "originalName": "Popa Falls — Okavango rapids",
+          "region": "Этоша и северо-восток",
+          "lat": -18.12,
+          "lon": 21.576,
+          "codes": "PW",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "1–2 часа",
+          "walk": "Легко",
+          "desc": "Невысокие пороги и речная растительность дают спокойное знакомство с зелёным северо-востоком.",
+          "detail": "Несмотря на название, здесь не огромный отвесный водопад, а сеть каскадов между камнями и островками. Разрешённые дорожки у курорта позволяют подойти к видам без длинного похода. Птицы и меняющийся свет на воде делают неспешную остановку интереснее беглой фотографии. Лодочные программы оформляются отдельно. Не купайтесь и не спускайтесь к воде вне разрешённых участков: река — среда обитания опасных животных.",
+          "tickets": "Для дневного посетителя действует плата курорта; уточните также парк-сбор. Лодка и проживание оплачиваются отдельно.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До приёмной NWR Popa Falls; дальше по разрешённым дорожкам.",
+          "source": "https://www.nwr.com.na/resorts/popa-falls-resort/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Popaf%C3%A4lle_%282018%29.jpg/1280px-Popaf%C3%A4lle_%282018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Попа-Фолс — пороги Окаванго",
+          "creditText": "Hp.Baumeler · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Popaf%C3%A4lle_(2018).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Popaf%C3%A4lle_(2018).jpg"
+        },
+        {
+          "id": 24,
+          "name": "Маханго — речное сафари",
+          "shortName": "Маханго",
+          "originalName": "Mahango — riverside safari",
+          "region": "Этоша и северо-восток",
+          "lat": -18.223,
+          "lon": 21.747,
+          "codes": "L",
+          "priority": 1,
+          "format": "День",
+          "time": "Полдня–день",
+          "walk": "Легко",
+          "desc": "Поймы Окаванго добавляют к намибийскому сафари бегемотов, буйволов и богатый мир птиц.",
+          "detail": "Маханго входит в Bwabwata, но для посещения важен именно этот сектор, а не центр огромного парка на карте. Выбирайте открытые маршруты по состоянию дорог; часть участков требует более подходящей машины. Влажный ландшафт сильно отличается от Этоши. Неспешные остановки на разрешённых площадках полезнее быстрой гонки за крупными животными. У воды сохраняйте дистанцию и не выходите из машины вне обозначенных мест.",
+          "tickets": "Въезд в парк платный для посетителей и машины. Проверьте открытые петли и требования к транспорту на воротах; лодка оформляется отдельно у оператора.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До ворот Mahango; дальше по открытым разрешённым дорогам сектора.",
+          "source": "https://www.meft.gov.na/national-parks/bwabwata-national-park/213/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Loxodonta_africana_MS_10093s.jpg/1280px-Loxodonta_africana_MS_10093s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Маханго — речное сафари",
+          "creditText": "Marco Schmidt[1] · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Loxodonta_africana_MS_10093s.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Loxodonta_africana_MS_10093s.jpg"
+        },
+        {
+          "id": 25,
+          "name": "Нкаса-Рупара — болотная дикая природа",
+          "shortName": "Нкаса-Рупара",
+          "originalName": "Nkasa Rupara — wetland wildlife",
+          "region": "Этоша и северо-восток",
+          "lat": -18.39,
+          "lon": 23.76,
+          "codes": "L",
+          "priority": 4,
+          "format": "День",
+          "time": "День или ночь",
+          "walk": "Легко",
+          "desc": "Разливы, протоки и острова создают совсем другой пейзаж, чем пустынная Намибия.",
+          "detail": "Здесь интересны слоны, буйволы и птицы, а сама возможность передвижения зависит от уровня воды. Для большинства путешественников разумнее сафари с местным оператором, чем самостоятельный поиск проезда по мокрым колеям. Доступность отдельных участков меняется, и красивый вид на карте не означает открытую дорогу. Программа подходит для более длинного маршрута по Замбези, а не короткого крюка из Этоши.",
+          "tickets": "Нужен парк-пермит; экскурсии и ночёвки бронируются отдельно. Уточните паводок и действующий доступ до поездки.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "Общая подтверждённая парковка для всех программ не установлена. Согласуйте с оператором встречу вне затопленных участков.",
+          "source": "https://www.meft.gov.na/national-parks/nkasa-rupara-national-park/221/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Hippo_%28Hippopotamus_amphibius%29_head_in_water.jpg/1280px-Hippo_%28Hippopotamus_amphibius%29_head_in_water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Нкаса-Рупара — болотная дикая природа",
+          "creditText": "Charles J. Sharp · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hippo_(Hippopotamus_amphibius)_head_in_water.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Hippo_(Hippopotamus_amphibius)_head_in_water.jpg"
+        },
+        {
+          "id": 26,
+          "name": "Колманскоп — город в песках",
+          "shortName": "Колманскоп",
+          "originalName": "Kolmanskop — a town reclaimed by sand",
+          "region": "Юг",
+          "lat": -26.703,
+          "lon": 15.232,
+          "codes": "E",
+          "priority": 1,
+          "format": "Полдня",
+          "time": "2–3 часа",
+          "walk": "Легко",
+          "desc": "Песок заполняет комнаты заброшенного алмазного посёлка, сохранившего следы неожиданного богатства.",
+          "detail": "Экскурсия объясняет, как возник и исчез этот город; затем можно рассмотреть разрешённые здания и свет в пустых интерьерах. История труда и колониального общества здесь не менее важна, чем красивые дверные проёмы. Обычный визит и специальный ранний фотографический доступ различаются. Не заходите в закрытые или неустойчивые помещения и не переносите предметы ради кадра. Ветер и песок делают закрытую обувь полезнее городских сандалий.",
+          "tickets": "Нужен платный пропуск. Обычный и фотографический доступ имеют разные условия и часы; уточняйте их у Ghost Town Tours до поездки.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До входной парковки Колманскопа с B4; дальнейший проход по условиям пропуска.",
+          "source": "https://www.kolmanskop.de/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Kolmanskop_Ghost_Town.jpg/1280px-Kolmanskop_Ghost_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Колманскоп — город в песках",
+          "creditText": "SkyPixels · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kolmanskop_Ghost_Town.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Kolmanskop_Ghost_Town.jpg"
+        },
+        {
+          "id": 27,
+          "name": "Людериц — порт и полуостров",
+          "shortName": "Людериц",
+          "originalName": "Lüderitz — harbour and peninsula",
+          "region": "Юг",
+          "lat": -26.648,
+          "lon": 15.154,
+          "codes": "EP",
+          "priority": 3,
+          "format": "День",
+          "time": "Полдня–день",
+          "walk": "Легко",
+          "desc": "Цветные исторические здания стоят между скалами, пустыней и холодным океаном.",
+          "detail": "Пройдите по центру и гавани, затем выберите поездку по разрешённым дорогам полуострова или морскую экскурсию. Рассматривать город только как красивую колониальную декорацию недостаточно: история региона включает принудительный труд и трагедию гереро и нама. Береговые пейзажи продуваются ветром даже в ясную погоду. Пингвинов и морских животных смотрят с организованных выходов, а не обещают у каждой городской скалы.",
+          "tickets": "У музеев, исторических зданий и морских экскурсий отдельные условия оплаты. Лодку бронируйте; проход в закрытые алмазные территории не входит в городской визит.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До парковки Waterfront; для лодки уточните конкретный причал оператора.",
+          "source": "https://visitnamibia.com.na/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Lutheran_Church_Luderotz.jpg/1280px-Lutheran_Church_Luderotz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Людериц — порт и полуостров",
+          "creditText": "SkyPixels · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lutheran_Church_Luderotz.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Lutheran_Church_Luderotz.jpg"
+        },
+        {
+          "id": 28,
+          "name": "Колчанные деревья и Giant’s Playground",
+          "shortName": "Колчанные деревья и Giant’s Playground",
+          "originalName": "Quiver Tree Forest and Giant’s Playground",
+          "region": "Юг",
+          "lat": -26.482,
+          "lon": 18.244,
+          "codes": "PW",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "2–3 часа",
+          "walk": "Легко",
+          "desc": "Ветвящиеся древовидные алоэ растут среди валунов, особенно выразительных на закате.",
+          "detail": "Это не густой лес в привычном смысле, а необычная группа суккулентов на каменистом склоне. Пройдите между ними по разрешённым дорожкам, затем отдельно осмотрите нагромождения камней Giant’s Playground. Низкое солнце подчёркивает силуэты, поэтому короткий визит в полдень может дать другое впечатление, чем вечерние фотографии. Ночная съёмка требует согласования и не включается автоматически в дневной вход. Не залезайте на растения и не ломайте ветви.",
+          "tickets": "Посещение частной территории платное. Уточните, входят ли оба участка в билет; ночную съёмку и проживание согласуйте заранее.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До приёмной Quivertree Forest Rest Camp; там оплачивают вход и уточняют парковки обоих участков.",
+          "source": "https://travelafrica.guide/namibia/keetmanshoop/stay/quivertree-forest-rest-camp/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Quiver-Tree-Forest-2015.JPG/1280px-Quiver-Tree-Forest-2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Колчанные деревья и Giant’s Playground",
+          "creditText": "Bjørn Christian Tørrissen · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Quiver-Tree-Forest-2015.JPG)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Quiver-Tree-Forest-2015.JPG"
+        },
+        {
+          "id": 29,
+          "name": "Фиш-Ривер — панорама каньона",
+          "shortName": "Фиш-Ривер",
+          "originalName": "Fish River Canyon — rim viewpoints",
+          "region": "Юг",
+          "lat": -27.589,
+          "lon": 17.6,
+          "codes": "P",
+          "priority": 1,
+          "format": "Полдня",
+          "time": "2–4 часа",
+          "walk": "Легко",
+          "desc": "Широкие изгибы глубокой долины видны с площадок на верхнем краю.",
+          "detail": "Для знакомства достаточно главной обзорной точки и разрешённых коротких переходов по краю. Масштаб лучше воспринимается, если не спешить и увидеть, как меняется свет на склонах. Спуск на дно не является обычным продолжением прогулки: многодневный поход оформляется отдельно и зависит от сезона и воды. Даже при открытых смотровых тропа внизу может быть закрыта. Держитесь далеко от неограждённых обрывов.",
+          "tickets": "Платный въезд через Hobas. Многодневный поход требует отдельной предварительной брони, разрешения и выполнения требований NWR; текущие ограничения проверяйте независимо от доступа к смотровым.",
+          "hike": "Нагрузка: легко. Время — ориентир на посещение без дальнего переезда.",
+          "access": "Сначала до Hobas для оформления въезда; затем по открытой дороге к официальной парковке смотровой. Не прокладывайте автомобильный маршрут на дно каньона.",
+          "source": "https://www.nwr.com.na/resorts/hobas-lodge/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Fish_River_Canyon_from_Main_View_Point.jpg/1280px-Fish_River_Canyon_from_Main_View_Point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Фиш-Ривер — панорама каньона",
+          "creditText": "RudiBosbouer · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fish_River_Canyon_from_Main_View_Point.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Fish_River_Canyon_from_Main_View_Point.jpg"
+        },
+        {
+          "id": 30,
+          "name": "Оранжевая река — каноэ среди пустынных гор",
+          "shortName": "Оранжевая река",
+          "originalName": "Orange River — canoeing below desert mountains",
+          "region": "Юг",
+          "lat": -28.679,
+          "lon": 17.568,
+          "codes": "SP",
+          "priority": 3,
+          "format": "День",
+          "time": "Полдня–несколько дней",
+          "walk": "Умеренно",
+          "desc": "Сплав позволяет увидеть пустынные склоны с уровня воды и сменить автомобильный ритм.",
+          "detail": "Выбирайте короткую пробную программу или несколько дней с ночёвками на берегу. Грести придётся самим: течение, ветер и жара влияют на нагрузку, даже если маршрут описан как спокойный. Проводник объясняет прохождение порогов и правила лагеря. Поскольку река проходит по границе, точный берег старта и необходимые формальности согласуйте заранее. Это отдельная активность с организованной логистикой, а не свободная прогулка на арендованной лодке без плана.",
+          "tickets": "Сплав обязательно бронируется. Уточните включённое снаряжение, возрастные требования, трансфер и документы для выбранного берега старта.",
+          "hike": "Нагрузка: умеренно. Время — ориентир на посещение без дальнего переезда.",
+          "access": "До Bundi Camp на намибийском берегу, если подтверждён этот оператор. Для другого сплава используйте его базу и инструкцию.",
+          "source": "https://orangerivercanoeing.co.za/wp-content/uploads/2026/01/ORCanoeing-4-day-package.pdf",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Oranje_at_Noordoewer.png/1280px-Oranje_at_Noordoewer.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Оранжевая река — каноэ среди пустынных гор",
+          "creditText": "Pgallert · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oranje_at_Noordoewer.png)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Oranje_at_Noordoewer.png"
+        }
+      ],
+      "routeAccess": {
+        "1": {
+          "kind": "arrival",
+          "query": "Independence Memorial Museum, Windhoek, Namibia",
+          "label": "Подъезд к музею Независимости; используйте разрешённую парковку",
+          "note": "Для Катутуры согласуйте встречу с гидом.",
+          "sources": [
+            "https://visitnamibia.com.na/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "2": {
+          "kind": "arrival",
+          "query": "Spitzkoppe Community Rest Camp reception, Namibia",
+          "label": "До приёмной общественного кемпинга Spitzkoppe",
+          "note": "Частный Spitzkoppe Lodge — другой объект, не общий вход.",
+          "sources": [
+            "https://www.spitzkoppe.com/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "3": {
+          "kind": "arrival",
+          "query": "Waterberg Plateau NWR resort reception, Namibia",
+          "label": "До приёмной NWR Waterberg Plateau",
+          "note": "Дальше — по разрешённым тропам или с экскурсией.",
+          "sources": [
+            "https://www.meft.gov.na/national-parks/waterberg-plateau-park/231/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "4": {
+          "kind": "arrival",
+          "query": "Sossusvlei 2x4 parking, Namibia",
+          "label": "До парковки 2x4 через ворота Sesriem",
+          "note": "Далее согласуйте шаттл; к Дедвлею остаётся пеший участок.",
+          "sources": [
+            "https://www.nwr.com.na/resorts/sesriem-campsite/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "5": {
+          "kind": "arrival",
+          "query": "Dune 45 parking, Namibia",
+          "label": "До обозначенной парковки Dune 45 внутри парка; дальше пешком по песку",
+          "note": "До обозначенной парковки Dune 45 внутри парка; дальше пешком по песку.",
+          "sources": [
+            "https://www.meft.gov.na/national-parks/namib-naukluft-park/224/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "6": {
+          "kind": "arrival",
+          "query": "Sesriem Canyon parking, Namibia",
+          "label": "До парковки каньона; спуск пешком только при безопасных условиях",
+          "note": "До парковки каньона; спуск пешком только при безопасных условиях.",
+          "sources": [
+            "https://www.nwr.com.na/resorts/sesriem-campsite/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "7": {
+          "kind": "arrival",
+          "query": "NWR Naukluft Camp reception, Namibia",
+          "label": "До Naukluft Camp для регистрации; автомобиль остаётся у начала согласованного маршрута",
+          "note": "До Naukluft Camp для регистрации; автомобиль остаётся у начала согласованного маршрута.",
+          "sources": [
+            "https://www.nwr.com.na/resorts/naukluft-camp/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "8": {
+          "kind": "arrival",
+          "query": "Tok Tokkie Trails reception Die Duine, Namibia",
+          "label": "До базы Tok Tokkie Trails по инструкции бронирования; далее организованный пеший маршрут",
+          "note": "До базы Tok Tokkie Trails по инструкции бронирования; далее организованный пеший маршрут.",
+          "sources": [
+            "https://toktokkietrails.com/home-en/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "9": {
+          "kind": "arrival",
+          "query": "Swakopmund Museum parking, Namibia",
+          "label": "До общественной парковки у музея; далее пешком",
+          "note": "Для активности в дюнах согласуйте встречу с оператором.",
+          "sources": [
+            "https://visitnamibia.com.na/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "10": {
+          "kind": "arrival",
+          "query": "Desert Explorers parking Swakopmund, Namibia",
+          "label": "Парковка Desert Explorers — предлагаемый Tommy’s Tours пункт для гостей из других городов",
+          "note": "Обязательно подтвердите встречу при бронировании; возможен трансфер от отеля.",
+          "sources": [
+            "https://livingdeserttours.com.na/contact/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "11": {
+          "kind": "arrival",
+          "query": "Walvis Bay Lagoon promenade parking, Namibia",
+          "label": "До разрешённой парковки вдоль лагуны",
+          "note": "Для морской экскурсии используйте точку своего оператора.",
+          "sources": [
+            "https://www.sandwich-harbour.com/activities/tours/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "12": {
+          "kind": "arrival",
+          "query": "Sandwich Harbour 4x4 office Walvis Bay Waterfront, Namibia",
+          "label": "До офиса Sandwich Harbour 4x4 на Waterfront, если бронируете у этого оператора",
+          "note": "Дальше — его транспорт; для другого оператора уточните встречу.",
+          "sources": [
+            "https://www.sandwich-harbour.com/activities/tours/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "13": {
+          "kind": "arrival",
+          "query": "MEFT office Bismarck Street Sam Nujoma Avenue Swakopmund, Namibia",
+          "label": "Маршрут сначала до офиса MEFT в Свакопмунде за разрешением и схемой подъездов",
+          "note": "Дальше следуйте выданной карте.",
+          "sources": [
+            "https://www.meft.gov.na/frequently-asked-questions/what-are-the-entry-permit-requirements-for-the-various-parks-in-namibia-/136/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "14": {
+          "kind": "arrival",
+          "query": "Cape Cross Seal Reserve parking, Namibia",
+          "label": "До официальной парковки через ворота заповедника; дальше по настилу",
+          "note": "До официальной парковки через ворота заповедника; дальше по настилу.",
+          "sources": [
+            "https://www.meft.gov.na/national-parks/cape-cross-seal-reserve/214/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "15": {
+          "kind": "arrival",
+          "query": "Ugab Gate Skeleton Coast National Park, Namibia",
+          "label": "До Ugab Gate",
+          "note": "Продолжение — только по разрешённым дорогам и в пределах часов проезда.",
+          "sources": [
+            "https://meft.gov.na/national-parks/skeleton-coast-park/227"
+          ],
+          "checked": "2026-10-28"
+        },
+        "16": {
+          "kind": "arrival",
+          "query": "Twyfelfontein visitor centre parking, Namibia",
+          "label": "До парковки визит-центра; дальше пешком по маршруту гида",
+          "note": "До парковки визит-центра; дальше пешком по маршруту гида.",
+          "sources": [
+            "https://visitnamibia.com.na/2022/02/twyfelfontein-heritage-site/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "17": {
+          "kind": "arrival",
+          "query": "Damara Living Museum reception, Namibia",
+          "label": "До приёмной музея; посещение по выбранной программе",
+          "note": "До приёмной музея; посещение по выбранной программе.",
+          "sources": [
+            "https://www.lcfn.info/damara/information"
+          ],
+          "checked": "2026-10-28"
+        },
+        "18": {
+          "kind": "arrival",
+          "query": "White Lady Painting trail entrance D2359 Namibia",
+          "label": "До входа на тропу White Lady в конце D2359; не до одноимённого лоджа",
+          "note": "Далее с проводником.",
+          "sources": [
+            "https://www.namibweb.com/brandg.htm"
+          ],
+          "checked": "2026-10-28"
+        },
+        "19": {
+          "kind": "arrival",
+          "query": "Brandberg White Lady Lodge reception, Namibia",
+          "label": "До Brandberg White Lady Lodge, если выбрана их экскурсия",
+          "note": "Далее транспорт проводника; встречу подтвердите.",
+          "sources": [
+            "https://www.brandbergwllodge.com/products"
+          ],
+          "checked": "2026-10-28"
+        },
+        "20": {
+          "kind": "arrival",
+          "query": "Epupa Falls Lodge reception, Namibia",
+          "label": "До приёмной Epupa Falls Lodge; согласуйте парковку и проход, особенно без проживания",
+          "note": "Дальше к водопадам пешком.",
+          "sources": [
+            "https://epupafallslodge.com/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "21": {
+          "kind": "arrival",
+          "query": "Andersson Gate Etosha National Park, Namibia",
+          "label": "До Andersson Gate — удобного южного входа",
+          "note": "Для проживания у другого входа перестройте маршрут по брони, не через закрытый парк.",
+          "sources": [
+            "https://www.nwr.com.na/resorts/okaukuejo-resort/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "22": {
+          "kind": "arrival",
+          "query": "Hoba Meteorite visitor parking, Namibia",
+          "label": "До посетительской парковки метеорита; дальше короткий подход пешком",
+          "note": "До посетительской парковки метеорита; дальше короткий подход пешком.",
+          "sources": [
+            "https://visitnamibia.com.na/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "23": {
+          "kind": "arrival",
+          "query": "Popa Falls NWR Resort reception, Namibia",
+          "label": "До приёмной NWR Popa Falls; дальше по разрешённым дорожкам",
+          "note": "До приёмной NWR Popa Falls; дальше по разрешённым дорожкам.",
+          "sources": [
+            "https://www.nwr.com.na/resorts/popa-falls-resort/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "24": {
+          "kind": "arrival",
+          "query": "Mahango Game Reserve entrance gate, Namibia",
+          "label": "До ворот Mahango; дальше по открытым разрешённым дорогам сектора",
+          "note": "До ворот Mahango; дальше по открытым разрешённым дорогам сектора.",
+          "sources": [
+            "https://www.meft.gov.na/national-parks/bwabwata-national-park/213/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "25": {
+          "kind": "blocked",
+          "query": "",
+          "label": "Общая подтверждённая парковка для всех программ не установлена",
+          "note": "Согласуйте с оператором встречу вне затопленных участков.",
+          "sources": [
+            "https://www.meft.gov.na/national-parks/nkasa-rupara-national-park/221/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "26": {
+          "kind": "arrival",
+          "query": "Kolmanskop visitor entrance parking, Namibia",
+          "label": "До входной парковки Колманскопа с B4; дальнейший проход по условиям пропуска",
+          "note": "До входной парковки Колманскопа с B4; дальнейший проход по условиям пропуска.",
+          "sources": [
+            "https://www.kolmanskop.de/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "27": {
+          "kind": "arrival",
+          "query": "Luderitz Waterfront parking, Namibia",
+          "label": "До парковки Waterfront; для лодки уточните конкретный причал оператора",
+          "note": "До парковки Waterfront; для лодки уточните конкретный причал оператора.",
+          "sources": [
+            "https://visitnamibia.com.na/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "28": {
+          "kind": "arrival",
+          "query": "Quivertree Forest Rest Camp reception, Namibia",
+          "label": "До приёмной Quivertree Forest Rest Camp; там оплачивают вход и уточняют парковки обоих участков",
+          "note": "До приёмной Quivertree Forest Rest Camp; там оплачивают вход и уточняют парковки обоих участков.",
+          "sources": [
+            "https://travelafrica.guide/namibia/keetmanshoop/stay/quivertree-forest-rest-camp/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "29": {
+          "kind": "arrival",
+          "query": "Hobas NWR reception Fish River Canyon, Namibia",
+          "label": "Сначала до Hobas для оформления въезда; затем по открытой дороге к официальной парковке смотровой",
+          "note": "Не прокладывайте автомобильный маршрут на дно каньона.",
+          "sources": [
+            "https://www.nwr.com.na/resorts/hobas-lodge/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "30": {
+          "kind": "arrival",
+          "query": "Bundi Camp Noordoewer Namibia",
+          "label": "До Bundi Camp на намибийском берегу, если подтверждён этот оператор",
+          "note": "Для другого сплава используйте его базу и инструкцию.",
+          "sources": [
+            "https://orangerivercanoeing.co.za/wp-content/uploads/2026/01/ORCanoeing-4-day-package.pdf"
+          ],
+          "checked": "2026-10-28"
+        }
+      },
+      "description": "Намибия: дюны, сафари, Атлантика и древнее искусство. Места на карте, варианты осмотра, билеты и точки подъезда.",
+      "brief": "В Намибию едут за пространством: красными дюнами, белыми солончаками, гранитными горами и океаном у края пустыни. В Этоше наблюдают животных у водопоев, на побережье — морских котиков и птиц, в Дамараленде — древние изображения на камне.\n\nЮг добавляет каньон Фиш-Ривер и город в песках, а северо-восток — совсем другой мир рек и влажных саванн. Расстояния велики: лучше выбрать несколько районов и оставить время на сами места.",
+      "insights": "**Пустыня и свет.** Дедвлей, дюны и Шпицкоппе раскрываются в разное время суток. Короткие прогулки дают сильные впечатления; для более глубокого знакомства есть пешие программы Намибранда и горные тропы Науклуфта.\n\n**Животные без спешки.** В Этоше важно не только ехать, но и ждать у воды. Речные парки северо-востока дополняют сафари, а побережье показывает другую жизнь: котиков, фламинго и небольших обитателей дюн.\n\n**История и люди.** Твифелфонтейн и Брандберг сохраняют наскальное искусство. Общинный музей дамара объясняет традиционные навыки, а Виндхук, Людериц и Колманскоп помогают увидеть сложную историю страны. Культурные посещения согласуют с участниками, не превращая людей в декорацию.",
+      "season": "**Май–октябрь:** обычно суше; удобно наблюдать животных у водопоев. Ночью в пустыне бывает холодно, а к концу сухого сезона — жарко днём.\n\n**Ноябрь–апрель:** зелень и птицы после дождей, но жара, локальные паводки и изменившиеся дороги требуют гибкости. Северо-восток особенно зависит от воды.\n\nПобережье прохладнее внутренних районов, туман возможен круглый год. Многодневный Фиш-Ривер имеет отдельный сезон и может закрываться независимо от смотровых; [проверяйте NWR](https://www.nwr.com.na/).",
+      "features": "Валюта — намибийский доллар (NAD); южноафриканский ранд также широко принимают. Английский — официальный язык и основной язык туристического общения; встречаются африкаанс, немецкий и местные языки. Движение левостороннее. Розетки — D/M. Между населёнными пунктами большие расстояния, связь и медицинская помощь ограничены: запас воды, топлива и офлайн-карта важны. Не оставляйте вещи на виду в машине и избегайте ночных переездов.\n\nВ сафари-парках опасны близкие встречи с крупными животными; у Кунене и рек северо-востока — крокодилы и бегемоты. У океана главные повседневные риски — холодная вода, прибой и течения; купайтесь только там, где это разрешено и безопасно. До поездки обсудите прививки и профилактику малярии для северных районов; возьмите репеллент при необходимости. Защита от солнца и тёплый слой нужны в одной поездке. [Здоровье и подготовка](https://www.smartraveller.gov.au/destinations/africa/namibia), [правила въезда](https://visitnamibia.com.na/visa-information/).",
+      "sources": "Основные условия: [MEFT](https://www.meft.gov.na/), [NWR](https://www.nwr.com.na/), [Namibia Tourism Board](https://visitnamibia.com.na/) и ссылки операторов в карточках.\n\nОпыт и отбор: [Full Suitcase](https://fullsuitcase.com/namibia-itinerary/), [The Travelling Sloth](https://www.thetravellingsloth.com/namibia-road-trip-itinerary-self-drive-two-half-weeks/), [Lonely Planet](https://www.lonelyplanet.com/articles/best-places-to-visit-in-namibia), [National Geographic](https://www.nationalgeographic.com/travel/article/things-to-do-in-namibia), [Rough Guides](https://www.roughguides.com/namibia/travel-tips/), [Форум Винского](https://forum.awd.ru/viewtopic.php?t=439631). Проверено 28 октября 2026 года; перед поездкой повторно проверяйте условия по ссылкам.",
+      "home": {
+        "description": "Красные дюны, сафари у водопоев, древнее искусство и холодная Атлантика.",
+        "image": "media-fda54a21-e801-57e9-a0f3-48cb933addac-960.webp",
+        "alt": "Дюны и Дедвлей"
+      },
+      "en": {
+        "title": "Namibia",
+        "genitive": "Namibia",
+        "description": "Namibia: dunes, wildlife, the Atlantic and ancient rock art. Mapped places, visiting options, tickets and arrival points.",
+        "brief": "Visit Namibia for space: red dunes, white salt pans, granite mountains and an ocean beside the desert. Watch animals at Etosha waterholes, seals and birds on the coast, and ancient rock art in Damaraland.\n\nThe south adds Fish River Canyon and a town reclaimed by sand; the northeast brings a different world of rivers and wet savannas. Distances are large: choose several areas and leave time to experience them.",
+        "insights": "**Desert and light.** Deadvlei, dunes and Spitzkoppe change with the light. Short walks offer memorable views; NamibRand walking programmes and Naukluft trails provide deeper exploration.\n\n**Unhurried wildlife.** At Etosha, waiting by water matters as much as driving. Northeastern river parks complement the safari, while the coast reveals seals, flamingos and tiny dune creatures.\n\n**History and people.** Twyfelfontein and Brandberg preserve rock art. The community-run Damara museum explains traditional skills; Windhoek, Lüderitz and Kolmanskop reveal complex national history. Agree cultural visits with participants rather than treating people as scenery.",
+        "season": "**May–October:** generally drier, with wildlife gathering at waterholes. Desert nights can be cold, while late dry-season days are hot.\n\n**November–April:** greener scenery and birds after rain, but heat, local flooding and changing roads demand flexibility. Water levels particularly affect the northeast.\n\nThe coast is cooler than inland areas and can be foggy year-round. The multi-day Fish River trail has its own season and may close independently of viewpoints; [check NWR](https://www.nwr.com.na/).",
+        "features": "The currency is the Namibian dollar (NAD); South African rand is also widely accepted. English is official and widely used in tourism, alongside Afrikaans, German and local languages. Drive on the left. Sockets are types D/M. Settlements are far apart and communications and medical care can be limited: carry water, fuel reserves and offline maps. Keep belongings out of sight in vehicles and avoid night driving.\n\nLarge animals require distance in safari parks; crocodiles and hippos inhabit the Kunene and northeastern rivers. Cold water, surf and currents are everyday coastal hazards; swim only where permitted and safe. Discuss vaccination and malaria prevention for northern areas before travelling; bring repellent when needed. Sun protection and a warm layer belong in the same luggage. [Health and preparation](https://www.smartraveller.gov.au/destinations/africa/namibia), [entry information](https://visitnamibia.com.na/visa-information/).",
+        "sources": "Visitor rules: [MEFT](https://www.meft.gov.na/), [NWR](https://www.nwr.com.na/), [Namibia Tourism Board](https://visitnamibia.com.na/) and operator links in the cards.\n\nTravel experience and selection: [Full Suitcase](https://fullsuitcase.com/namibia-itinerary/), [The Travelling Sloth](https://www.thetravellingsloth.com/namibia-road-trip-itinerary-self-drive-two-half-weeks/), [Lonely Planet](https://www.lonelyplanet.com/articles/best-places-to-visit-in-namibia), [National Geographic](https://www.nationalgeographic.com/travel/article/things-to-do-in-namibia), [Rough Guides](https://www.roughguides.com/namibia/travel-tips/), [Vinsky Forum](https://forum.awd.ru/viewtopic.php?t=439631). Checked 28 October 2026; recheck linked conditions before travelling.",
+        "home": {
+          "description": "Red dunes, waterhole safaris, ancient rock art and the cold Atlantic.",
+          "alt": "Dunes and Deadvlei"
+        },
+        "places": {
+          "1": {
+            "name": "Windhoek — history and daily life",
+            "shortName": "Windhoek",
+            "region": "Central Namibia and mountains",
+            "format": "Full day",
+            "time": "Half a day",
+            "walk": "Easy",
+            "desc": "The capital adds museums, neighbourhoods and cultural context to a wildlife-focused journey.",
+            "detail": "Start around Christuskirche and the central museums, then consider a locally guided visit to Katutura. Read colonial history and independence alongside contemporary life rather than focusing only on German architecture. Markets and small eateries offer a different perspective from the administrative centre. Katutura is a residential district, not an open-air exhibit: ask before photographing people. Half a day provides an introduction.",
+            "tickets": "Museums have individual opening and admission arrangements. Book with your chosen guide and check local parking charges.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to the Independence Memorial Museum and use permitted parking. Agree a separate meeting point for Katutura.",
+            "photoAlt": "Windhoek — history and daily life",
+            "creditText": "Christoph Strässler · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christ_Church_in_Windhoek,_Namibia.jpg)"
+          },
+          "2": {
+            "name": "Spitzkoppe — granite arches",
+            "shortName": "Spitzkoppe",
+            "region": "Central Namibia and mountains",
+            "format": "Full day",
+            "time": "Half a day or overnight",
+            "walk": "Moderate",
+            "desc": "Granite domes and a natural arch are particularly striking in low light.",
+            "detail": "Choose short approaches to the arch and rock formations, or camp for sunset and stars. Smooth sloping slabs require care: exploring the base differs from climbing the summit. Visit rock-art sites with a local guide under current rules. Several viewpoints involve short drives, so the massif need not become one long walk. Shade is limited at midday; mornings and evenings are more comfortable.",
+            "tickets": "Day entry is charged; camping is booked separately. Check rock-art access and guide arrangements.",
+            "hike": "Difficulty: moderate. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Route to Spitzkoppe Community Rest Camp reception. The private Spitzkoppe Lodge is not the general entrance.",
+            "photoAlt": "Spitzkoppe — granite arches",
+            "creditText": "Hp.Baumeler · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spitzkoppe_year_2006.jpg)"
+          },
+          "3": {
+            "name": "Waterberg — plateau and savanna",
+            "shortName": "Waterberg",
+            "region": "Central Namibia and mountains",
+            "format": "Full day",
+            "time": "Full day",
+            "walk": "Moderate",
+            "desc": "A red sandstone escarpment rises above green slopes and open plains.",
+            "detail": "Short trails near the resort offer vegetation and rock scenery without a major trek. Access to the upper plateau and rare wildlife follows different arrangements: choose an authorised excursion or pre-arranged trail. The plateau is not open to unrestricted self-driving. Combine a walk below the cliffs with a ranger-led drive. The national park and similarly named private properties have different entrances and activities.",
+            "tickets": "Park entry and activities are separate from accommodation. Arrange plateau hikes and guided drives in advance.",
+            "hike": "Difficulty: moderate. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to NWR Waterberg Plateau reception. Continue on authorised trails or an arranged excursion.",
+            "photoAlt": "Waterberg — plateau and savanna",
+            "creditText": "Harald Süpfle · [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Plateau_Waterberg.jpg)"
+          },
+          "4": {
+            "name": "Sossusvlei and Deadvlei",
+            "shortName": "Sossusvlei and Deadvlei",
+            "region": "Namib Desert",
+            "format": "Full day",
+            "time": "Half a day to a day",
+            "walk": "Moderate",
+            "desc": "White clay, dark trees and orange dunes create Namibia’s classic desert scene.",
+            "detail": "The familiar Deadvlei view requires a walk from the drop-off area to the clay pan; climbing Big Daddy is a separate, demanding option. Early light defines the dune ridges, while temperatures rise quickly after sunrise. Sossusvlei and Deadvlei are neighbouring but distinct pans. Do not touch or climb the old trees. The final sandy approach needs a separate transport arrangement; the driving route ends at the conventional car park.",
+            "tickets": "Paid Namib-Naukluft entry is required for visitors and vehicles. The shuttle over the final sandy stretch costs extra; confirm current access rules at Sesriem. Book accommodation separately.",
+            "hike": "Difficulty: moderate. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Route to the 2x4 car park through Sesriem gate. Arrange the onward shuttle; Deadvlei also requires a walk.",
+            "photoAlt": "Sossusvlei and Deadvlei",
+            "creditText": "Pemba.mpimaji · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Deadvlei_Namibia.jpg)"
+          },
+          "5": {
+            "name": "Dune 45",
+            "shortName": "Dune 45",
+            "region": "Namib Desert",
+            "format": "Half day",
+            "time": "1–2 hours",
+            "walk": "Moderate",
+            "desc": "A dune ridge beside the main road opens views across the sand sea.",
+            "detail": "Photograph it from below or climb the permitted ridge and return the same way. Soft sand makes walking harder than an ordinary trail; a beautiful view does not require reaching a particular summit. Early mornings can be busy, so allow time for an unhurried ascent. This is an additional stop on the Sossusvlei road, not a substitute for Deadvlei. Follow restrictions rather than spreading footprints over the slopes.",
+            "tickets": "Namib-Naukluft entry fees apply. Separate booking for the normal ascent has not been confirmed; respect gate hours.",
+            "hike": "Difficulty: moderate. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to the marked Dune 45 car park, then continue on foot.",
+            "photoAlt": "Dune 45",
+            "creditText": "Giles Laurent · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg)"
+          },
+          "6": {
+            "name": "Sesriem Canyon",
+            "shortName": "Sesriem Canyon",
+            "region": "Namib Desert",
+            "format": "Half day",
+            "time": "1–2 hours",
+            "walk": "Moderate",
+            "desc": "A narrow rock canyon reveals a side of the Namib quite unlike its dunes.",
+            "detail": "View the gorge from above, then use the authorised descent when conditions allow. Inside, rock layers and channels record occasional water flows. The short walk complements Sossusvlei when another sandy climb is less appealing. The floor is uneven and may hold water; check conditions after rain. Cooler air between the walls does not mean the entire gorge is safely passable.",
+            "tickets": "Check the applicable park permit and access at Sesriem. Separate booking for the short walk has not been confirmed.",
+            "hike": "Difficulty: moderate. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to the canyon car park; descend only in suitable conditions.",
+            "photoAlt": "Sesriem Canyon",
+            "creditText": "dconvertini · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sesriem_Crater_2014.jpg)"
+          },
+          "7": {
+            "name": "Naukluft — mountain trails",
+            "shortName": "Naukluft",
+            "region": "Namib Desert",
+            "format": "Full day",
+            "time": "Full day",
+            "walk": "Strenuous",
+            "desc": "Rocky gorges, mountain zebras and occasional shade make a substantial hiking day.",
+            "detail": "Choose a specific trail: Olive is shorter, while Waterkloof is significantly longer. Carry water, start early and be comfortable on rough ground; chained sections are not ordinary strolling. A gentler visit can use authorised short approaches near camp. Multi-day routes are separate undertakings, not casual extensions of a day walk. Ask about trail conditions before setting out.",
+            "tickets": "Register and pay at Naukluft Camp. Multi-day routes need separate reservations; check availability of day trails.",
+            "hike": "NWR lists Olive Trail as 10 km and about 4 hours, and Waterkloof as 17 km and 6–7 hours. Extra stops and conditions can extend these estimates; Olive includes demanding rocky sections.",
+            "access": "Drive to Naukluft Camp to register; leave the vehicle at the agreed trailhead.",
+            "photoAlt": "Naukluft — mountain trails",
+            "creditText": "Dr. Thomas Wagner · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Naukluft_Waterkloof.jpg)"
+          },
+          "8": {
+            "name": "NamibRand — walking in the desert",
+            "shortName": "NamibRand",
+            "region": "Namib Desert",
+            "format": "Several nights",
+            "time": "3 days",
+            "walk": "Moderate",
+            "desc": "A slow dune journey with open-air nights reveals the desert’s smaller life.",
+            "detail": "Tok Tokkie is an organised trail whose guides interpret tracks, insects and plants adapted to dry conditions. Luggage travels separately and overnight camps are set in the desert, making this different from roadside viewpoints. Expect heat and sand by day, cold air and open skies at night. Choose it when you can devote several days to being in the landscape.",
+            "tickets": "Advance booking is essential. Check season, age restrictions and inclusions; an entrance fee does not grant independent trail access.",
+            "hike": "Difficulty: moderate. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to Tok Tokkie Trails base following booking instructions; continue on the organised trail.",
+            "photoAlt": "NamibRand — walking in the desert",
+            "creditText": "Marco w at English Wikipedia · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NamibDesert01.jpg)"
+          },
+          "9": {
+            "name": "Swakopmund — town by the ocean",
+            "shortName": "Swakopmund",
+            "region": "Atlantic coast",
+            "format": "Full day",
+            "time": "Half a day",
+            "walk": "Easy",
+            "desc": "A seafront, museum and historic architecture meet cool Atlantic air.",
+            "detail": "Walk from the lighthouse and museum towards the jetty, experiencing the town where desert meets ocean. The museum adds natural and cultural history to the old streets. Sandboarding and dune excursions are separate activities beyond the centre. Fog can transform the shore within an hour. This is a pleasant pause between long drives, rather than a warm-water beach resort.",
+            "tickets": "The museum and sporting activities charge separately. No separate ticket is needed for the public seafront; follow parking rules.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Use public parking near the museum and continue on foot. Agree a separate meeting point for dune activities.",
+            "photoAlt": "Swakopmund — town by the ocean",
+            "creditText": "Olga Ernst · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mole,_Jetty_and_Lighthouse_Swakopmund,_Namibia.jpg)"
+          },
+          "10": {
+            "name": "Living Desert — small dune creatures",
+            "shortName": "Living Desert",
+            "region": "Atlantic coast",
+            "format": "Half day",
+            "time": "4–5 hours",
+            "walk": "Easy",
+            "desc": "Geckos, lizards and tracks in the sand reveal why the desert is not empty.",
+            "detail": "A naturalist-led excursion focuses on small animals that are difficult to notice independently. Driving alternates with short stops on the sand; observation and adaptations to heat and fog matter more than dune thrills. Actual sightings depend on conditions. Do not catch animals or disturb burrows yourself. The outing works well with a relaxed afternoon in Swakopmund.",
+            "tickets": "Book the excursion and confirm payment and pickup arrangements. Independent off-track searching is not a substitute for the organised activity.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Desert Explorers parking is a Tommy’s Tours meeting option for visitors staying outside town. Confirm it when booking; hotel pickup may be available.",
+            "photoAlt": "A web-footed gecko, one of the coastal dune inhabitants",
+            "creditText": "Stefan.Kuemmel at German Wikipedia\n\n(Original text: Stefan Kümmel) · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pachydactylus-rangei.jpg)"
+          },
+          "11": {
+            "name": "Walvis Bay — lagoon and birds",
+            "shortName": "Walvis Bay",
+            "region": "Atlantic coast",
+            "format": "Half day",
+            "time": "1–3 hours",
+            "walk": "Easy",
+            "desc": "Flamingos and other waterbirds feed on shallow shores beside the town.",
+            "detail": "A walk along the public lagoon promenade is enough for an introduction. Birds move with the tide, so do not depend on one photography spot. Binoculars are more useful than approaching closely. Boat trips and seal excursions are separate options with their own schedules. Stay off salt flats and do not chase birds; permitted shoreline areas already offer good observation opportunities.",
+            "tickets": "The public promenade needs no separate ticket. Boat and kayak trips require separate booking and payment; check parking signs.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Use permitted lagoon-side parking. For a marine excursion, use your operator’s meeting point.",
+            "photoAlt": "Walvis Bay — lagoon and birds",
+            "creditText": "Brian McMorrow · [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Walvis_Bay_aerial.jpg)"
+          },
+          "12": {
+            "name": "Sandwich Harbour — dunes meet the Atlantic",
+            "shortName": "Sandwich Harbour",
+            "region": "Atlantic coast",
+            "format": "Full day",
+            "time": "Half a day to a day",
+            "walk": "Easy",
+            "desc": "High dunes descend directly to the Atlantic and a coastal lagoon.",
+            "detail": "An experienced local driver is the best way to explore this contrast. Tides determine the route: some trips follow the shore, others view the lagoon from dunes. Short walking stops reveal the landscape without requiring a major climb. Salt flats and desert plants add interest along the way. Following another vehicle’s tracks independently is risky: the narrow beach can disappear as the tide rises.",
+            "tickets": "Protected-area permission and suitable transport are required. Confirm that an organised tour includes the park permit and book ahead.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Route to Sandwich Harbour 4x4 at the Waterfront if booked with that operator. Continue in its vehicle; other operators may meet elsewhere.",
+            "photoAlt": "Sandwich Harbour — dunes meet the Atlantic",
+            "creditText": "Rüdiger Wenzel · [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sandwich_Harbour_(Luftaufnahme).jpg)"
+          },
+          "13": {
+            "name": "Moon Landscape and welwitschias",
+            "shortName": "Moon Landscape and welwitschias",
+            "region": "Atlantic coast",
+            "format": "Full day",
+            "time": "Half a day",
+            "walk": "Easy",
+            "desc": "Eroded rocky valleys give way to plains of unusual long-lived plants.",
+            "detail": "This is a drive with several stops, not a single roadside sight. A welwitschia retains two continuously growing leaves that split into ribbons with age. Obtain the permit and route map before following the numbered stops. Lichens and roots are easily damaged, so stay on permitted routes. River crossings can become impassable after rain; the scenery is not worth getting stranded.",
+            "tickets": "Obtain the Welwitschia Drive permit in advance from MEFT; there is no entrance gate selling it. Check office hours and current road conditions.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Route first to the MEFT office in Swakopmund for the permit and access map. Follow that map for the actual drive.",
+            "photoAlt": "Welwitschia plant",
+            "creditText": "Thomas Schoch · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Welwitschia_mirabilis(2).jpg)"
+          },
+          "14": {
+            "name": "Cape Cross — Cape fur seals",
+            "shortName": "Cape Cross",
+            "region": "Atlantic coast",
+            "format": "Half day",
+            "time": "1–2 hours",
+            "walk": "Easy",
+            "desc": "A boardwalk overlooks a large Cape fur seal colony on the Atlantic shore.",
+            "detail": "Noise, smell and constant movement make the encounter vivid. Stay on the designated walkway, which allows observation without moving among the animals. The breeding season is particularly intense, although numbers and distribution vary. A replica Portuguese cross adds a brief historical element. This is not a place for touching animals or swimming alongside them.",
+            "tickets": "Reserve entry is charged; check gate hours and vehicle fees. Separate booking for an ordinary day visit has not been confirmed.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive through the reserve gate to the official car park; continue on the boardwalk.",
+            "photoAlt": "Cape Cross — Cape fur seals",
+            "creditText": "betty x1138 from NYC, USA · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cape_Cross_Seal_Colony.jpg)"
+          },
+          "15": {
+            "name": "Skeleton Coast — southern sector",
+            "shortName": "Skeleton Coast",
+            "region": "Atlantic coast",
+            "format": "Full day",
+            "time": "Full day",
+            "walk": "Easy",
+            "desc": "Fog, empty shores and shipwreck traces create an edge-of-the-world atmosphere.",
+            "detail": "The accessible driving sector begins at the southern gate and differs from the remote northern coast. Use authorised stops and focus on ocean, gravel plains and space. Wrecks deteriorate, so do not build a journey around a single photograph from an old report. Remote northern areas require specially organised visits. Fuel, water and time buffers matter more than accumulating stops.",
+            "tickets": "Arrange the permit and transit conditions at entry. Book overnight stays separately; restricted northern areas are not included in normal self-drive access.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Route to Ugab Gate. Continue only on authorised roads within permitted travel hours.",
+            "photoAlt": "Skeleton Coast — southern sector",
+            "creditText": "Domenico Convertini from Zurich, Schweiz · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Skeleton_Coast,_Namibia_(16672050963).jpg)"
+          },
+          "16": {
+            "name": "Twyfelfontein — rock engravings",
+            "shortName": "Twyfelfontein",
+            "region": "Damaraland and Kunene",
+            "format": "Half day",
+            "time": "2–3 hours",
+            "walk": "Moderate",
+            "desc": "Animals and symbols carved into stone reveal an ancient hunter-gatherer culture.",
+            "detail": "Walk between panels with a local guide and notice how images use the rock surface. This is a landscape of memory rather than one isolated picture; interpretation adds far more than photography alone. Paths are rocky with limited shade. The Organ Pipes and Burnt Mountain can be added as separate nearby stops, but should not crowd out the main tour. Never touch carvings or wet the rock for a photograph.",
+            "tickets": "The engraving visit is paid and guided. Check opening hours, current fees and separate charges for nearby sites; carry cash.",
+            "hike": "Difficulty: moderate. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to the visitor-centre car park, then follow the guide on foot.",
+            "photoAlt": "Twyfelfontein — rock engravings",
+            "creditText": "Mike from Vancouver, Canada · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Twyfelfontein_16.jpg)"
+          },
+          "17": {
+            "name": "Damara Living Museum",
+            "shortName": "Damara Living Museum",
+            "region": "Damaraland and Kunene",
+            "format": "Half day",
+            "time": "1–2 hours",
+            "walk": "Easy",
+            "desc": "A community-run museum introduces crafts, fire-making, plants and Damara skills.",
+            "detail": "Choose demonstrations or a longer interpretive walk. This is a cultural space created by local participants, not a claim that all contemporary Damara people live this way daily. Questions and watching skilled work matter more than collecting quick photographs. Buying locally made crafts offers another way to support participants. Agree photography with your guide and the people involved.",
+            "tickets": "Programmes are charged by format. Check opening arrangements and whether your group needs advance booking.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to the museum reception and join your chosen programme.",
+            "photoAlt": "Damara Living Museum",
+            "creditText": "Lidine Mia · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Damara_Living_Museum_-_Damaraland_in_Namibia_-_05.jpg)"
+          },
+          "18": {
+            "name": "Brandberg — White Lady rock art",
+            "shortName": "Brandberg",
+            "region": "Damaraland and Kunene",
+            "format": "Half day",
+            "time": "2–3 hours",
+            "walk": "Moderate",
+            "desc": "A rocky valley walk leads to a celebrated group of paintings.",
+            "detail": "The historical name White Lady is misleading: the central figure is often interpreted as male, possibly a ritual figure. Its setting and the guide’s interpretation matter more than the painting’s size. Heat makes the approach harder than its distance suggests; bring water and start early. This is a separate trail below Brandberg, not an ascent of the massif’s highest summit. Follow the site’s protection rules when viewing the panel.",
+            "tickets": "Admission and the required guide are charged. Other gorges and summit climbs need separate permission and preparation.",
+            "hike": "Difficulty: moderate. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Route to the White Lady trail entrance at the end of D2359, not the similarly named lodge. Continue with a guide.",
+            "photoAlt": "Brandberg — White Lady rock art",
+            "creditText": "Greg Willis from Denver, CO, usa · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Approach_to_Brandberg_White_Lady_site_(3690485342).jpg)"
+          },
+          "19": {
+            "name": "Ugab — desert-adapted elephants",
+            "shortName": "Ugab",
+            "region": "Damaraland and Kunene",
+            "format": "Full day",
+            "time": "Half a day",
+            "walk": "Easy",
+            "desc": "Elephants move along dry river valleys in an almost desert landscape.",
+            "detail": "A local guide helps locate them without blocking their movement or damaging the fragile valley. They are not permanent residents of one viewpoint: rainfall and herd movements influence encounters. Watching feeding behaviour can be more rewarding than approaching closely. Sightings are never certain, and independently chasing animals along a riverbed is inappropriate. Choose this as a separate Brandberg-area activity.",
+            "tickets": "The excursion is paid and must be arranged. Ask whether elephants are currently in the area and confirm the departure point.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to Brandberg White Lady Lodge if joining its excursion. Continue with the guide and confirm the meeting arrangement.",
+            "photoAlt": "Ugab — desert-adapted elephants",
+            "creditText": "Theseus · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ugab_1.jpg)"
+          },
+          "20": {
+            "name": "Epupa — waterfalls and the Kunene",
+            "shortName": "Epupa",
+            "region": "Damaraland and Kunene",
+            "format": "Full day",
+            "time": "Half a day to a day",
+            "walk": "Moderate",
+            "desc": "Palms, baobabs and cascades contrast sharply with the dry Kunene hills.",
+            "detail": "View the falls from permitted banks, climb a viewpoint hill or arrange a local guided walk. Water levels vary seasonally, so one photograph does not represent the river year-round. Birdwatching and agreed cultural visits are separate options. Avoid slippery edges and do not swim: crocodiles occur here. The long approach is most worthwhile when you have time to linger beside the river.",
+            "tickets": "Check local viewpoint charges and access through camp properties. Tours and overnight stays need separate booking.",
+            "hike": "Difficulty: moderate. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to Epupa Falls Lodge reception and agree parking and access, particularly as a non-resident. Continue to the falls on foot.",
+            "photoAlt": "Epupa — waterfalls and the Kunene",
+            "creditText": "Hans Hillewaert · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Epupa_Falls_(detail).jpg)"
+          },
+          "21": {
+            "name": "Etosha — waterholes and safari",
+            "shortName": "Etosha",
+            "region": "Etosha and the northeast",
+            "format": "Several nights",
+            "time": "2–3 days",
+            "walk": "Easy",
+            "desc": "Wildlife viewing centres on waterholes and an immense pale salt pan.",
+            "detail": "Choose several waterholes and leave time to wait rather than racing through a checklist. The dry season draws animals to water; after rain the landscape greens and sightings become less predictable. Okaukuejo, Halali and Namutoni provide different areas to explore. Staying inside allows evenings at a camp’s floodlit waterhole; independent night driving is not allowed. Leave the vehicle only in explicitly authorised places.",
+            "tickets": "Visitor and vehicle entry fees apply. Book campsites or rooms ahead; guided drives cost extra. Respect park and camp gate hours.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Route to Andersson Gate, a convenient southern entrance. If staying by another gate, adjust to your booking rather than routing through a closed park.",
+            "photoAlt": "Etosha — waterholes and safari",
+            "creditText": "Yathin S Krishnappa · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dust_Cloud_in_Etosha_National_Park.jpg)"
+          },
+          "22": {
+            "name": "Hoba meteorite",
+            "shortName": "Hoba meteorite",
+            "region": "Etosha and the northeast",
+            "format": "Short stop",
+            "time": "30–60 minutes",
+            "walk": "Easy",
+            "desc": "A massive iron meteorite remains at its discovery site in the countryside.",
+            "detail": "This is a short stop to appreciate scale: its mass and origin matter more than a lengthy exhibition. View it from the arranged visitor area and read the interpretation. It fits a journey through Grootfontein; a large dedicated detour will not suit everyone. Do not chip off fragments or leave marks.",
+            "tickets": "Admission is charged; check current hours and fees before visiting. Separate booking for a normal visit has not been confirmed.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to the meteorite visitor car park and walk the short approach.",
+            "photoAlt": "Hoba meteorite",
+            "creditText": "Sergio Conti from Montevecchia (LC), Italia · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hoba_meteorite_(15682150765).jpg)"
+          },
+          "23": {
+            "name": "Popa Falls — Okavango rapids",
+            "shortName": "Popa Falls",
+            "region": "Etosha and the northeast",
+            "format": "Half day",
+            "time": "1–2 hours",
+            "walk": "Easy",
+            "desc": "Low rapids and riverside vegetation introduce the green northeast.",
+            "detail": "Despite the name, this is not a giant vertical waterfall but a network of cascades between rocks and islands. Authorised paths near the resort provide views without a long hike. Birds and changing light make a slow visit more rewarding than a quick photograph. Boat activities are separate bookings. Do not swim or approach water outside permitted areas: dangerous wildlife inhabits the river.",
+            "tickets": "A resort day-visitor fee applies; also check the park fee. Boats and accommodation are charged separately.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to NWR Popa Falls reception, then use authorised paths.",
+            "photoAlt": "Popa Falls — Okavango rapids",
+            "creditText": "Hp.Baumeler · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Popaf%C3%A4lle_(2018).jpg)"
+          },
+          "24": {
+            "name": "Mahango — riverside safari",
+            "shortName": "Mahango",
+            "region": "Etosha and the northeast",
+            "format": "Full day",
+            "time": "Half a day to a day",
+            "walk": "Easy",
+            "desc": "Okavango floodplains add hippos, buffalo and abundant birds to a Namibian safari.",
+            "detail": "Mahango belongs to Bwabwata, but this particular sector matters for a visit, not the centre of the entire park. Choose open routes according to road conditions; some sections need a more capable vehicle. The wet landscape contrasts strongly with Etosha. Slow stops at authorised viewpoints are more rewarding than racing after large animals. Keep away from the water and remain in the vehicle outside designated areas.",
+            "tickets": "Park entry is charged for visitors and vehicles. Ask at the gate about open loops and vehicle requirements; book boats separately.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Route to Mahango entrance gate, then follow open authorised sector roads.",
+            "photoAlt": "Mahango — riverside safari",
+            "creditText": "Marco Schmidt[1] · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Loxodonta_africana_MS_10093s.jpg)"
+          },
+          "25": {
+            "name": "Nkasa Rupara — wetland wildlife",
+            "shortName": "Nkasa Rupara",
+            "region": "Etosha and the northeast",
+            "format": "Full day",
+            "time": "A day or overnight",
+            "walk": "Easy",
+            "desc": "Floodplains, channels and islands contrast completely with desert Namibia.",
+            "detail": "Elephants, buffalo and birds are highlights, while water levels determine where travel is possible. For most visitors, a local operator’s safari is more practical than independently following wet tracks. Individual areas change accessibility, and an attractive map view does not imply an open road. This suits a longer Zambezi-region journey rather than a short detour from Etosha.",
+            "tickets": "A park permit is required; excursions and overnight stays are booked separately. Check flooding and current access before travelling.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "No shared arrival car park has been confirmed for all programmes. Arrange an operator meeting point outside flooded sections.",
+            "photoAlt": "Nkasa Rupara — wetland wildlife",
+            "creditText": "Charles J. Sharp · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hippo_(Hippopotamus_amphibius)_head_in_water.jpg)"
+          },
+          "26": {
+            "name": "Kolmanskop — a town reclaimed by sand",
+            "shortName": "Kolmanskop",
+            "region": "Southern Namibia",
+            "format": "Half day",
+            "time": "2–3 hours",
+            "walk": "Easy",
+            "desc": "Sand fills the rooms of an abandoned diamond settlement with traces of surprising wealth.",
+            "detail": "A guided visit explains the town’s rise and decline; explore permitted buildings and the light in empty interiors afterwards. Labour and colonial history matter alongside photogenic doorways. A normal visit differs from special early photography access. Stay out of closed or unstable buildings and never move objects for a photograph. Windblown sand makes closed shoes more practical than sandals.",
+            "tickets": "A paid permit is required. Standard and photography access have different conditions and hours; confirm with Ghost Town Tours before visiting.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive from the B4 to Kolmanskop visitor parking; enter under your permit conditions.",
+            "photoAlt": "Kolmanskop — a town reclaimed by sand",
+            "creditText": "SkyPixels · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kolmanskop_Ghost_Town.jpg)"
+          },
+          "27": {
+            "name": "Lüderitz — harbour and peninsula",
+            "shortName": "Lüderitz",
+            "region": "Southern Namibia",
+            "format": "Full day",
+            "time": "Half a day to a day",
+            "walk": "Easy",
+            "desc": "Colourful historic buildings sit between rock, desert and the cold ocean.",
+            "detail": "Walk through the centre and harbour, then choose authorised peninsula roads or a boat excursion. The town is more than picturesque colonial scenery: regional history includes forced labour and the suffering of Herero and Nama communities. Coastal viewpoints can be windy even under clear skies. Organised marine outings offer wildlife viewing; penguins should not be expected beside every town rock.",
+            "tickets": "Museums, historic buildings and boat trips have separate admission arrangements. Book boats ahead; restricted diamond areas are not included in a town visit.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to Waterfront parking; confirm your operator’s exact jetty for a boat trip.",
+            "photoAlt": "Lüderitz — harbour and peninsula",
+            "creditText": "SkyPixels · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lutheran_Church_Luderotz.jpg)"
+          },
+          "28": {
+            "name": "Quiver Tree Forest and Giant’s Playground",
+            "shortName": "Quiver Tree Forest and Giant’s Playground",
+            "region": "Southern Namibia",
+            "format": "Half day",
+            "time": "2–3 hours",
+            "walk": "Easy",
+            "desc": "Branching tree aloes grow among boulders that are particularly striking at sunset.",
+            "detail": "This is not a dense forest in the usual sense, but an unusual succulent grove on a rocky slope. Use permitted paths, then visit Giant’s Playground’s boulder formations separately. Low sunlight defines silhouettes, so a midday stop differs from evening photographs. Night photography requires agreement and is not automatically included in day admission. Do not climb plants or break branches.",
+            "tickets": "Private-property admission is charged. Check whether both sites are included; arrange night photography and accommodation ahead.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Drive to Quivertree Forest Rest Camp reception to pay and confirm parking for both sites.",
+            "photoAlt": "Quiver Tree Forest and Giant’s Playground",
+            "creditText": "Bjørn Christian Tørrissen · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Quiver-Tree-Forest-2015.JPG)"
+          },
+          "29": {
+            "name": "Fish River Canyon — rim viewpoints",
+            "shortName": "Fish River Canyon",
+            "region": "Southern Namibia",
+            "format": "Half day",
+            "time": "2–4 hours",
+            "walk": "Easy",
+            "desc": "Broad bends of a deep valley unfold from viewpoints along the rim.",
+            "detail": "The main lookout and authorised short rim walks provide a good introduction. Give the landscape time and watch light change on the slopes. Descending to the floor is not a casual extension: the multi-day hike requires separate arrangements and depends on season and water levels. Viewpoints may be open while the trail below is closed. Keep well back from unfenced edges.",
+            "tickets": "Paid entry is through Hobas. The multi-day hike requires a separate advance booking, permit and compliance with NWR requirements; check restrictions independently of viewpoint access.",
+            "hike": "Difficulty: easy. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Route first to Hobas for entry formalities, then along the open road to official viewpoint parking. Do not route a car to the canyon floor.",
+            "photoAlt": "Fish River Canyon — rim viewpoints",
+            "creditText": "RudiBosbouer · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fish_River_Canyon_from_Main_View_Point.jpg)"
+          },
+          "30": {
+            "name": "Orange River — canoeing below desert mountains",
+            "shortName": "Orange River",
+            "region": "Southern Namibia",
+            "format": "Full day",
+            "time": "Half a day to several days",
+            "walk": "Moderate",
+            "desc": "Paddling reveals desert slopes from water level and changes the pace of a road trip.",
+            "detail": "Choose a short introductory outing or several days with riverside camps. You still do the paddling: current, wind and heat affect effort even on a relaxed itinerary. Guides explain rapids and camp routines. As the river follows a border, confirm the exact starting bank and applicable formalities beforehand. This is a separately organised activity, not an unplanned boat rental.",
+            "tickets": "Advance booking is required. Confirm included equipment, age requirements, transfers and documents for the chosen departure bank.",
+            "hike": "Difficulty: moderate. Duration is a visiting estimate excluding long-distance travel.",
+            "access": "Route to Bundi Camp on the Namibian bank if booked with this operator. Other trips use their own base and directions.",
+            "photoAlt": "Orange River — canoeing below desert mountains",
+            "creditText": "Pgallert · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oranje_at_Noordoewer.png)"
+          }
+        },
+        "routeAccess": {
+          "1": {
+            "label": "Drive to the Independence Memorial Museum and use permitted parking",
+            "note": "Agree a separate meeting point for Katutura."
+          },
+          "2": {
+            "label": "Route to Spitzkoppe Community Rest Camp reception",
+            "note": "The private Spitzkoppe Lodge is not the general entrance."
+          },
+          "3": {
+            "label": "Drive to NWR Waterberg Plateau reception",
+            "note": "Continue on authorised trails or an arranged excursion."
+          },
+          "4": {
+            "label": "Route to the 2x4 car park through Sesriem gate",
+            "note": "Arrange the onward shuttle; Deadvlei also requires a walk."
+          },
+          "5": {
+            "label": "Drive to the marked Dune 45 car park, then continue on foot",
+            "note": "Drive to the marked Dune 45 car park, then continue on foot."
+          },
+          "6": {
+            "label": "Drive to the canyon car park; descend only in suitable conditions",
+            "note": "Drive to the canyon car park; descend only in suitable conditions."
+          },
+          "7": {
+            "label": "Drive to Naukluft Camp to register; leave the vehicle at the agreed trailhead",
+            "note": "Drive to Naukluft Camp to register; leave the vehicle at the agreed trailhead."
+          },
+          "8": {
+            "label": "Drive to Tok Tokkie Trails base following booking instructions; continue on the organised trail",
+            "note": "Drive to Tok Tokkie Trails base following booking instructions; continue on the organised trail."
+          },
+          "9": {
+            "label": "Use public parking near the museum and continue on foot",
+            "note": "Agree a separate meeting point for dune activities."
+          },
+          "10": {
+            "label": "Desert Explorers parking is a Tommy’s Tours meeting option for visitors staying outside town",
+            "note": "Confirm it when booking; hotel pickup may be available."
+          },
+          "11": {
+            "label": "Use permitted lagoon-side parking",
+            "note": "For a marine excursion, use your operator’s meeting point."
+          },
+          "12": {
+            "label": "Route to Sandwich Harbour 4x4 at the Waterfront if booked with that operator",
+            "note": "Continue in its vehicle; other operators may meet elsewhere."
+          },
+          "13": {
+            "label": "Route first to the MEFT office in Swakopmund for the permit and access map",
+            "note": "Follow that map for the actual drive."
+          },
+          "14": {
+            "label": "Drive through the reserve gate to the official car park; continue on the boardwalk",
+            "note": "Drive through the reserve gate to the official car park; continue on the boardwalk."
+          },
+          "15": {
+            "label": "Route to Ugab Gate",
+            "note": "Continue only on authorised roads within permitted travel hours."
+          },
+          "16": {
+            "label": "Drive to the visitor-centre car park, then follow the guide on foot",
+            "note": "Drive to the visitor-centre car park, then follow the guide on foot."
+          },
+          "17": {
+            "label": "Drive to the museum reception and join your chosen programme",
+            "note": "Drive to the museum reception and join your chosen programme."
+          },
+          "18": {
+            "label": "Route to the White Lady trail entrance at the end of D2359, not the similarly named lodge",
+            "note": "Continue with a guide."
+          },
+          "19": {
+            "label": "Drive to Brandberg White Lady Lodge if joining its excursion",
+            "note": "Continue with the guide and confirm the meeting arrangement."
+          },
+          "20": {
+            "label": "Drive to Epupa Falls Lodge reception and agree parking and access, particularly as a non-resident",
+            "note": "Continue to the falls on foot."
+          },
+          "21": {
+            "label": "Route to Andersson Gate, a convenient southern entrance",
+            "note": "If staying by another gate, adjust to your booking rather than routing through a closed park."
+          },
+          "22": {
+            "label": "Drive to the meteorite visitor car park and walk the short approach",
+            "note": "Drive to the meteorite visitor car park and walk the short approach."
+          },
+          "23": {
+            "label": "Drive to NWR Popa Falls reception, then use authorised paths",
+            "note": "Drive to NWR Popa Falls reception, then use authorised paths."
+          },
+          "24": {
+            "label": "Route to Mahango entrance gate, then follow open authorised sector roads",
+            "note": "Route to Mahango entrance gate, then follow open authorised sector roads."
+          },
+          "25": {
+            "label": "No shared arrival car park has been confirmed for all programmes",
+            "note": "Arrange an operator meeting point outside flooded sections."
+          },
+          "26": {
+            "label": "Drive from the B4 to Kolmanskop visitor parking; enter under your permit conditions",
+            "note": "Drive from the B4 to Kolmanskop visitor parking; enter under your permit conditions."
+          },
+          "27": {
+            "label": "Drive to Waterfront parking; confirm your operator’s exact jetty for a boat trip",
+            "note": "Drive to Waterfront parking; confirm your operator’s exact jetty for a boat trip."
+          },
+          "28": {
+            "label": "Drive to Quivertree Forest Rest Camp reception to pay and confirm parking for both sites",
+            "note": "Drive to Quivertree Forest Rest Camp reception to pay and confirm parking for both sites."
+          },
+          "29": {
+            "label": "Route first to Hobas for entry formalities, then along the open road to official viewpoint parking",
+            "note": "Do not route a car to the canyon floor."
+          },
+          "30": {
+            "label": "Route to Bundi Camp on the Namibian bank if booked with this operator",
+            "note": "Other trips use their own base and directions."
+          }
+        },
+        "reviewedSource": "197a75e1"
+      },
+      "outline": [
+        [
+          [
+            23.380664,
+            -17.640625
+          ],
+          [
+            23.594922,
+            -17.599414
+          ],
+          [
+            23.799219,
+            -17.560156
+          ],
+          [
+            24.036914,
+            -17.520898
+          ],
+          [
+            24.227148,
+            -17.489551
+          ],
+          [
+            24.274902,
+            -17.481055
+          ],
+          [
+            24.73291,
+            -17.517773
+          ],
+          [
+            24.932422,
+            -17.543457
+          ],
+          [
+            25.001758,
+            -17.568555
+          ],
+          [
+            25.092188,
+            -17.634375
+          ],
+          [
+            25.258789,
+            -17.793555
+          ],
+          [
+            25.216016,
+            -17.787598
+          ],
+          [
+            24.909082,
+            -17.821387
+          ],
+          [
+            24.792188,
+            -17.864648
+          ],
+          [
+            24.530566,
+            -18.052734
+          ],
+          [
+            24.474902,
+            -18.028516
+          ],
+          [
+            24.412207,
+            -17.989453
+          ],
+          [
+            24.358984,
+            -17.978223
+          ],
+          [
+            24.243945,
+            -18.023438
+          ],
+          [
+            24.129297,
+            -18.077539
+          ],
+          [
+            24.002637,
+            -18.154102
+          ],
+          [
+            23.89834,
+            -18.229199
+          ],
+          [
+            23.864258,
+            -18.269531
+          ],
+          [
+            23.700488,
+            -18.424316
+          ],
+          [
+            23.647168,
+            -18.449414
+          ],
+          [
+            23.599707,
+            -18.459961
+          ],
+          [
+            23.580566,
+            -18.45293
+          ],
+          [
+            23.560156,
+            -18.386426
+          ],
+          [
+            23.459766,
+            -18.231055
+          ],
+          [
+            23.298633,
+            -18.027344
+          ],
+          [
+            23.251563,
+            -18.00752
+          ],
+          [
+            23.219336,
+            -17.999707
+          ],
+          [
+            23.099902,
+            -18.00957
+          ],
+          [
+            22.752734,
+            -18.067188
+          ],
+          [
+            22.460059,
+            -18.115723
+          ],
+          [
+            22.011426,
+            -18.198633
+          ],
+          [
+            21.529688,
+            -18.265625
+          ],
+          [
+            21.23252,
+            -18.306836
+          ],
+          [
+            20.974121,
+            -18.318848
+          ],
+          [
+            20.974316,
+            -18.520508
+          ],
+          [
+            20.975,
+            -18.928516
+          ],
+          [
+            20.975586,
+            -19.336426
+          ],
+          [
+            20.976172,
+            -19.744336
+          ],
+          [
+            20.976855,
+            -20.152344
+          ],
+          [
+            20.977441,
+            -20.560254
+          ],
+          [
+            20.978125,
+            -20.968164
+          ],
+          [
+            20.978711,
+            -21.376074
+          ],
+          [
+            20.979297,
+            -21.784082
+          ],
+          [
+            20.979492,
+            -21.961914
+          ],
+          [
+            20.970996,
+            -22.000195
+          ],
+          [
+            20.822754,
+            -22.000195
+          ],
+          [
+            20.4875,
+            -22.000195
+          ],
+          [
+            20.205371,
+            -22.000195
+          ],
+          [
+            19.977344,
+            -22.000195
+          ],
+          [
+            19.977637,
+            -22.242578
+          ],
+          [
+            19.97793,
+            -22.529297
+          ],
+          [
+            19.978223,
+            -22.815918
+          ],
+          [
+            19.978516,
+            -23.102539
+          ],
+          [
+            19.978906,
+            -23.38916
+          ],
+          [
+            19.979297,
+            -23.675781
+          ],
+          [
+            19.97959,
+            -23.962402
+          ],
+          [
+            19.979883,
+            -24.249023
+          ],
+          [
+            19.980176,
+            -24.535742
+          ],
+          [
+            19.980469,
+            -24.751953
+          ],
+          [
+            19.980469,
+            -24.776758
+          ],
+          [
+            19.980469,
+            -25.196777
+          ],
+          [
+            19.980469,
+            -25.641602
+          ],
+          [
+            19.980469,
+            -26.086328
+          ],
+          [
+            19.980469,
+            -26.531152
+          ],
+          [
+            19.980469,
+            -26.975977
+          ],
+          [
+            19.980469,
+            -27.420703
+          ],
+          [
+            19.980469,
+            -27.865527
+          ],
+          [
+            19.980469,
+            -28.310352
+          ],
+          [
+            19.980469,
+            -28.45127
+          ],
+          [
+            19.877832,
+            -28.449414
+          ],
+          [
+            19.671484,
+            -28.503906
+          ],
+          [
+            19.539844,
+            -28.574609
+          ],
+          [
+            19.48291,
+            -28.661621
+          ],
+          [
+            19.407227,
+            -28.714453
+          ],
+          [
+            19.312695,
+            -28.733301
+          ],
+          [
+            19.270996,
+            -28.777734
+          ],
+          [
+            19.282227,
+            -28.847949
+          ],
+          [
+            19.245801,
+            -28.90166
+          ],
+          [
+            19.161719,
+            -28.93877
+          ],
+          [
+            19.026074,
+            -28.92793
+          ],
+          [
+            18.83877,
+            -28.869141
+          ],
+          [
+            18.600391,
+            -28.855273
+          ],
+          [
+            18.31084,
+            -28.88623
+          ],
+          [
+            18.102734,
+            -28.87168
+          ],
+          [
+            17.976074,
+            -28.811328
+          ],
+          [
+            17.841602,
+            -28.776953
+          ],
+          [
+            17.699316,
+            -28.768359
+          ],
+          [
+            17.616797,
+            -28.743066
+          ],
+          [
+            17.447949,
+            -28.698145
+          ],
+          [
+            17.415723,
+            -28.621094
+          ],
+          [
+            17.395898,
+            -28.562695
+          ],
+          [
+            17.347852,
+            -28.501172
+          ],
+          [
+            17.342578,
+            -28.45166
+          ],
+          [
+            17.380273,
+            -28.413965
+          ],
+          [
+            17.385742,
+            -28.353223
+          ],
+          [
+            17.358691,
+            -28.269434
+          ],
+          [
+            17.312012,
+            -28.228613
+          ],
+          [
+            17.245801,
+            -28.230859
+          ],
+          [
+            17.20459,
+            -28.198828
+          ],
+          [
+            17.188477,
+            -28.13252
+          ],
+          [
+            17.149414,
+            -28.082227
+          ],
+          [
+            17.05625,
+            -28.031055
+          ],
+          [
+            16.933301,
+            -28.069629
+          ],
+          [
+            16.875293,
+            -28.12793
+          ],
+          [
+            16.841211,
+            -28.218945
+          ],
+          [
+            16.810156,
+            -28.264551
+          ],
+          [
+            16.794531,
+            -28.34082
+          ],
+          [
+            16.7875,
+            -28.394727
+          ],
+          [
+            16.755762,
+            -28.452148
+          ],
+          [
+            16.723047,
+            -28.475488
+          ],
+          [
+            16.689453,
+            -28.464941
+          ],
+          [
+            16.626172,
+            -28.487891
+          ],
+          [
+            16.487109,
+            -28.572852
+          ],
+          [
+            16.447559,
+            -28.617578
+          ],
+          [
+            16.335059,
+            -28.536523
+          ],
+          [
+            16.007129,
+            -28.231738
+          ],
+          [
+            15.890918,
+            -28.152539
+          ],
+          [
+            15.719043,
+            -27.96582
+          ],
+          [
+            15.341504,
+            -27.386523
+          ],
+          [
+            15.287598,
+            -27.275
+          ],
+          [
+            15.215723,
+            -26.995117
+          ],
+          [
+            15.132812,
+            -26.787598
+          ],
+          [
+            15.12373,
+            -26.667871
+          ],
+          [
+            15.163281,
+            -26.600195
+          ],
+          [
+            15.139063,
+            -26.508008
+          ],
+          [
+            15.096582,
+            -26.425781
+          ],
+          [
+            14.967773,
+            -26.318066
+          ],
+          [
+            14.93125,
+            -25.958203
+          ],
+          [
+            14.845215,
+            -25.725684
+          ],
+          [
+            14.863672,
+            -25.533594
+          ],
+          [
+            14.822559,
+            -25.358594
+          ],
+          [
+            14.818555,
+            -25.246387
+          ],
+          [
+            14.837109,
+            -25.033203
+          ],
+          [
+            14.767969,
+            -24.787988
+          ],
+          [
+            14.62793,
+            -24.548047
+          ],
+          [
+            14.501563,
+            -24.201953
+          ],
+          [
+            14.483398,
+            -24.050391
+          ],
+          [
+            14.496875,
+            -23.642871
+          ],
+          [
+            14.472461,
+            -23.47666
+          ],
+          [
+            14.473828,
+            -23.281152
+          ],
+          [
+            14.423828,
+            -23.078613
+          ],
+          [
+            14.40332,
+            -22.968066
+          ],
+          [
+            14.438477,
+            -22.880566
+          ],
+          [
+            14.459277,
+            -22.908203
+          ],
+          [
+            14.495703,
+            -22.921387
+          ],
+          [
+            14.519922,
+            -22.805176
+          ],
+          [
+            14.525977,
+            -22.702539
+          ],
+          [
+            14.462793,
+            -22.449121
+          ],
+          [
+            14.321875,
+            -22.189941
+          ],
+          [
+            13.973242,
+            -21.767578
+          ],
+          [
+            13.888086,
+            -21.606641
+          ],
+          [
+            13.839355,
+            -21.473242
+          ],
+          [
+            13.450586,
+            -20.916699
+          ],
+          [
+            13.284375,
+            -20.523926
+          ],
+          [
+            13.168359,
+            -20.184668
+          ],
+          [
+            13.04209,
+            -20.028223
+          ],
+          [
+            12.458203,
+            -18.926758
+          ],
+          [
+            12.328711,
+            -18.751074
+          ],
+          [
+            12.095703,
+            -18.540918
+          ],
+          [
+            12.041211,
+            -18.470703
+          ],
+          [
+            11.951367,
+            -18.270508
+          ],
+          [
+            11.775879,
+            -18.001758
+          ],
+          [
+            11.733496,
+            -17.750977
+          ],
+          [
+            11.72168,
+            -17.466797
+          ],
+          [
+            11.743066,
+            -17.249219
+          ],
+          [
+            11.902539,
+            -17.226562
+          ],
+          [
+            12.013965,
+            -17.168555
+          ],
+          [
+            12.114355,
+            -17.164551
+          ],
+          [
+            12.213379,
+            -17.209961
+          ],
+          [
+            12.318457,
+            -17.213379
+          ],
+          [
+            12.359277,
+            -17.205859
+          ],
+          [
+            12.548145,
+            -17.212695
+          ],
+          [
+            12.656543,
+            -17.160547
+          ],
+          [
+            12.785156,
+            -17.108203
+          ],
+          [
+            12.859277,
+            -17.062598
+          ],
+          [
+            12.963184,
+            -17.01543
+          ],
+          [
+            13.101172,
+            -16.967676
+          ],
+          [
+            13.179492,
+            -16.97168
+          ],
+          [
+            13.275684,
+            -16.989551
+          ],
+          [
+            13.403711,
+            -17.007812
+          ],
+          [
+            13.475977,
+            -17.040039
+          ],
+          [
+            13.561719,
+            -17.141211
+          ],
+          [
+            13.694336,
+            -17.233496
+          ],
+          [
+            13.791992,
+            -17.288379
+          ],
+          [
+            13.904199,
+            -17.360742
+          ],
+          [
+            13.937988,
+            -17.38877
+          ],
+          [
+            13.987402,
+            -17.404199
+          ],
+          [
+            14.01748,
+            -17.408887
+          ],
+          [
+            14.225879,
+            -17.397754
+          ],
+          [
+            14.414746,
+            -17.387695
+          ],
+          [
+            14.617969,
+            -17.387988
+          ],
+          [
+            15.000586,
+            -17.388574
+          ],
+          [
+            15.383203,
+            -17.38916
+          ],
+          [
+            15.76582,
+            -17.389648
+          ],
+          [
+            16.148438,
+            -17.390234
+          ],
+          [
+            16.531055,
+            -17.39082
+          ],
+          [
+            16.913672,
+            -17.391406
+          ],
+          [
+            17.296289,
+            -17.391992
+          ],
+          [
+            17.678809,
+            -17.392578
+          ],
+          [
+            17.835352,
+            -17.392773
+          ],
+          [
+            18.108789,
+            -17.395996
+          ],
+          [
+            18.396387,
+            -17.399414
+          ],
+          [
+            18.428223,
+            -17.405176
+          ],
+          [
+            18.460352,
+            -17.424609
+          ],
+          [
+            18.486621,
+            -17.442773
+          ],
+          [
+            18.588184,
+            -17.57002
+          ],
+          [
+            18.718066,
+            -17.703223
+          ],
+          [
+            18.825977,
+            -17.766309
+          ],
+          [
+            18.955273,
+            -17.803516
+          ],
+          [
+            19.076465,
+            -17.817676
+          ],
+          [
+            19.189453,
+            -17.808496
+          ],
+          [
+            19.377148,
+            -17.825488
+          ],
+          [
+            19.639355,
+            -17.868652
+          ],
+          [
+            19.911816,
+            -17.881348
+          ],
+          [
+            20.194336,
+            -17.863672
+          ],
+          [
+            20.392969,
+            -17.887402
+          ],
+          [
+            20.507617,
+            -17.952539
+          ],
+          [
+            20.625098,
+            -17.99668
+          ],
+          [
+            20.745508,
+            -18.019727
+          ],
+          [
+            20.908301,
+            -18.006055
+          ],
+          [
+            21.113477,
+            -17.955762
+          ],
+          [
+            21.287891,
+            -17.962988
+          ],
+          [
+            21.36875,
+            -17.999512
+          ],
+          [
+            21.416895,
+            -18.000684
+          ],
+          [
+            21.718457,
+            -17.947754
+          ],
+          [
+            21.96084,
+            -17.905176
+          ],
+          [
+            22.324219,
+            -17.8375
+          ],
+          [
+            22.624023,
+            -17.781641
+          ],
+          [
+            23.068262,
+            -17.698828
+          ],
+          [
+            23.380664,
+            -17.640625
+          ]
+        ]
+      ]
     }
   ]
 }

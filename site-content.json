@@ -66,6 +66,68 @@
     "new-zealand": {},
     "costa-rica": {},
     "madeira": {},
-    "iceland": {}
+    "iceland": {},
+    "namibia": {
+      "1": {
+        "src": "media-6c6a5ef0-b3e1-5fea-877c-b9b947d0136b-960.webp",
+        "alt": "Виндхук — история и повседневность",
+        "creditText": "Christoph Strässler · CC BY-SA 2.0"
+      },
+      "2": {
+        "src": "media-4018ceef-baa8-5345-a6fa-e4d8831ed1b9-960.webp",
+        "alt": "Шпицкоппе — гранитные арки",
+        "creditText": "Hp.Baumeler · CC BY-SA 4.0"
+      },
+      "3": {
+        "src": "media-8e74f608-1fe4-554c-a502-e882dfe5bca9-960.webp",
+        "alt": "Ватерберг — плато и саванна",
+        "creditText": "Harald Süpfle · CC BY-SA 2.5"
+      },
+      "4": {
+        "src": "media-fda54a21-e801-57e9-a0f3-48cb933addac-960.webp",
+        "alt": "Соссусвлей и Дедвлей",
+        "creditText": "Pemba.mpimaji · CC BY-SA 4.0"
+      },
+      "5": {
+        "src": "media-55d85657-d6d8-56d2-b0a7-a616a8462251-960.webp",
+        "alt": "Дюна 45",
+        "creditText": "Giles Laurent · CC BY-SA 4.0"
+      },
+      "6": {
+        "src": "media-aa208afa-c9bd-544f-bb00-3451dc258e10-960.webp",
+        "alt": "Каньон Сесрием",
+        "creditText": "dconvertini · CC BY-SA 2.0"
+      },
+      "7": {
+        "src": "media-2857ad9e-09db-50fa-9fc2-417cc5f9f6c8-960.webp",
+        "alt": "Науклуфт — горные тропы",
+        "creditText": "Dr. Thomas Wagner · CC BY-SA 3.0"
+      },
+      "8": {
+        "src": "media-d94f3b4e-4be6-5e7a-bbf4-5077ecc3d41f-960.webp",
+        "alt": "Намибранд — пешком по пустыне",
+        "creditText": "Marco w at English Wikipedia · Public domain"
+      },
+      "9": {
+        "src": "media-3ac47778-1d31-57ea-897c-09cf84c261b6-960.webp",
+        "alt": "Свакопмунд — город у океана",
+        "creditText": "Olga Ernst · CC BY-SA 4.0"
+      },
+      "10": {
+        "src": "media-09ccc20d-617a-5ad3-8ad4-6bf2442416f7-960.webp",
+        "alt": "Пустынный геккон — один из обитателей прибрежных дюн",
+        "creditText": "Stefan.Kuemmel at German Wikipedia\n\n(Original text: Stefan Kümmel) · CC BY-SA 3.0"
+      },
+      "11": {
+        "src": "media-50b40b37-4584-5f3c-b5d8-a022cdafe9f5-960.webp",
+        "alt": "Уолфиш-Бей — лагуна и птицы",
+        "creditText": "Brian McMorrow · CC BY-SA 2.5"
+      },
+      "12": {
+        "src": "media-a4c80b90-380e-56df-9d4f-060aec5bb5be-960.webp",
+        "alt": "Сэндвич-Харбор — дюны у Атлантики",
+        "creditText": "Rüdiger Wenzel · CC BY-SA 3.0 de"
+      }
+    }
   }
 }

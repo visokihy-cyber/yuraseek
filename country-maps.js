@@ -73,18 +73,19 @@ async function initGoogle(){if(googleMap)return;const cfg={"enabled": true, "api
 }
 function showStay22(force=false){
 if(!stay22AffiliateId)return false;
-const points=normalized(all),lats=points.map(p=>p.lat),lngs=points.map(p=>p.lon);
-const bounds={...(view?.bounds||{north:Math.max(...lats),south:Math.min(...lats),east:Math.max(...lngs),west:Math.min(...lngs)})};
-if(bounds.east<bounds.west)bounds.east+=360;
-const center=view||{lat:(bounds.north+bounds.south)/2,lng:(bounds.east+bounds.west)/2};
-const params=new URLSearchParams({aid:stay22AffiliateId,lat:String(center.lat),lng:String(center.lng),nelat:String(bounds.north),nelng:String(bounds.east),swlat:String(bounds.south),swlng:String(bounds.west),freezeviewport:'true',maincolor:'b6583e',viewmode:'map',listviewexpand:'false',hideenlargemap:'true',hidemainmarker:'true',campaign:nz?'yuraseek-new-zealand':'yuraseek-costa-rica'});
-// Pass an explicit zoom as well as bounds; never crop a broad view around its offshore centre.
-const mercator=lat=>Math.log(Math.tan(Math.PI/4+Math.max(-85,Math.min(85,lat))*Math.PI/360));
-const width=Math.max(280,frame.clientWidth),height=Math.max(300,get('stay22-map').clientHeight||520);
-const spanX=Math.max(0.000001,(bounds.east-bounds.west)/360);
-const spanY=Math.max(0.000001,Math.abs(mercator(bounds.north)-mercator(bounds.south))/(2*Math.PI));
-const fitZoom=Math.min(Math.log2(width/(256*spanX)),Math.log2(height/(256*spanY)));
-params.set('zoom',String(Math.max(1,Math.min(18,Math.floor(fitZoom)))));
+const points=normalized(all),chosen=points.find(p=>p.label===activeMapLabel);
+// Stay22 uses 512px world tiles; Google zoom levels use 256px.
+// Wide-area hotel searches can return empty results despite available nearby stays.
+const hotelZoom=9;
+if(!chosen&&(!view||!Number.isFinite(view.zoom)||view.zoom<9)){
+select.value='google';switchLayer(true);
+message('Приблизьте район, где хотите найти жильё, или выберите место');
+return false;
+}
+const center=chosen?{lat:chosen.lat,lng:chosen.lon}:view;
+const zoom=chosen?hotelZoom:Math.max(8,Math.min(13,view.zoom-1));
+// A single centre/zoom avoids a competing fitBounds animation during the first search.
+const params=new URLSearchParams({aid:stay22AffiliateId,lat:String(center.lat),lng:String(center.lng),zoom:String(zoom),freezeviewport:'true',maincolor:'b6583e',viewmode:'map',listviewexpand:'false',hideenlargemap:'true',hidemainmarker:'true',campaign:nz?'yuraseek-new-zealand':'yuraseek-costa-rica'});
 const form=get('hotelSearch');for(const [field,key] of [['checkin','checkin'],['checkout','checkout'],['group_adults','adults'],['group_children','children'],['no_rooms','rooms']]){const value=form.elements[field]?.value;if(value)params.set(key,value);}
 const url='https://www.stay22.com/embed/gm?'+params;if(force||get('stay22-map').src!==url)get('stay22-map').src=url;
 return true;

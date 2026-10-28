@@ -17066,6 +17066,3547 @@
           ]
         ]
       ]
+    },
+    {
+      "slug": "south-africa",
+      "title": "ЮАР",
+      "genitive": "ЮАР",
+      "storageKey": "south-africa-selection-v1",
+      "center": {
+        "lat": -29,
+        "lng": 25
+      },
+      "zoom": 5,
+      "bounds": [
+        16.4,
+        -35,
+        33,
+        -22
+      ],
+      "slides": [
+        1,
+        12,
+        23,
+        15,
+        33,
+        5
+      ],
+      "places": [
+        {
+          "id": 1,
+          "name": "Столовая гора",
+          "shortName": "Столовая гора",
+          "originalName": "Table Mountain",
+          "region": "Кейптаун и полуостров",
+          "lat": -33.962,
+          "lon": 18.409,
+          "codes": "P",
+          "priority": 1,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "Легко с канатной дорогой",
+          "desc": "Плато над Кейптауном объединяет город, океан и горный хребет в одну панораму.",
+          "detail": "Поднявшись на канатной дороге, можно пройти несколько коротких дорожек между смотровыми, а не ограничиваться площадкой у станции. В облаках плато теряет ориентиры, поэтому не уходите на дальние тропы без подготовки. Пеший подъём — отдельный горный маршрут: он существенно сложнее прогулки наверху. Для первого визита выбирайте ясное погодное окно и оставляйте запас на очередь и обратный спуск.",
+          "tickets": "Канатная дорога платная; билет лучше купить заранее. Работа зависит от ветра и обслуживания. Для предложенной парковки действует бесплатный шаттл; проверяйте его расписание.",
+          "hike": "Обычное время на посещение: Полдня. Нагрузка: легко с канатной дорогой.",
+          "access": "До парковки Lower Tafelberg Road; далее шаттл к нижней станции и канатная дорога.",
+          "source": "https://www.tablemountain.net/plan-your-visit/getting-here",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Table_Mountain_DanieVDM.jpg/1280px-Table_Mountain_DanieVDM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Столовая гора",
+          "creditText": "Danie van der Merwe from Cape Town, South Africa · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Роббен-Айленд",
+          "shortName": "Роббен-Айленд",
+          "originalName": "Robben Island",
+          "region": "Кейптаун и полуостров",
+          "lat": -33.806,
+          "lon": 18.367,
+          "codes": "E",
+          "priority": 1,
+          "format": "Полдня",
+          "time": "4 часа",
+          "walk": "Легко",
+          "desc": "Бывшая тюрьма помогает понять историю апартеида через конкретное место и человеческие судьбы.",
+          "detail": "Стандартное посещение объединяет паром, обзор острова и тюремную часть. Это историческая экскурсия, а не свободная прогулка по острову: следуйте программе своего билета. Рассказ о заключении Нельсона Манделы получает контекст в более широкой истории острова. На переправу и регистрацию требуется время, а сильное волнение может изменить расписание.",
+          "tickets": "Нужен билет на конкретный рейс; бронируйте заранее. Прибудьте минимум за 30 минут. Парковка Waterfront оплачивается отдельно; проверьте документы и условия отмены у музея.",
+          "hike": "Обычное время на посещение: 4 часа. Нагрузка: легко.",
+          "access": "До парковки Clock Tower у Waterfront; затем пешком к Nelson Mandela Gateway и на паром.",
+          "source": "https://www.robben-island.org.za/frequently-asked-questions/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg/1280px-Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Роббен-Айленд",
+          "creditText": "South African Tourism from South Africa · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Robben_Island_-_Cape_Town,_South_Africa_(3883849594).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Robben_Island_-_Cape_Town,_South_Africa_(3883849594).jpg"
+        },
+        {
+          "id": 3,
+          "name": "Кирстенбош",
+          "shortName": "Кирстенбош",
+          "originalName": "Kirstenbosch",
+          "region": "Кейптаун и полуостров",
+          "lat": -33.988,
+          "lon": 18.433,
+          "codes": "W",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "2–4 часа",
+          "walk": "Легко, есть уклоны",
+          "desc": "Ботанический сад знакомит с растениями юга Африки у подножия Столовой горы.",
+          "detail": "Можно выбрать спокойную прогулку по нижним дорожкам либо подняться к коллекциям протей и мосту над кронами. Здесь интересно смотреть не только на цветы, но и на то, как растения приспособлены к местному климату. Скамейки и газоны позволяют сделать паузу. Горные тропы, уходящие из сада, не стоит считать продолжением обычного садового маршрута.",
+          "tickets": "Вход платный, билеты онлайн или на месте, оплата без наличных. Парковки у ворот 1–3 бесплатные. Концерты и специальные события могут иметь отдельные билеты.",
+          "hike": "Обычное время на посещение: 2–4 часа. Нагрузка: легко, есть уклоны.",
+          "access": "До парковки Gate 1 на Rhodes Drive; далее по дорожкам сада.",
+          "source": "https://www.sanbi.org/gardens/kirstenboch/visitor-information/information/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Kirstenbosch_National_Botanical_Garden_2024_7th_batch_09.jpg/1280px-Kirstenbosch_National_Botanical_Garden_2024_7th_batch_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Кирстенбош",
+          "creditText": "Discott · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kirstenbosch_National_Botanical_Garden_2024_7th_batch_09.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Kirstenbosch_National_Botanical_Garden_2024_7th_batch_09.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Кейп-Пойнт и мыс Доброй Надежды",
+          "shortName": "Кейп-Пойнт и мыс Доброй Надежды",
+          "originalName": "Cape Point and Cape of Good Hope",
+          "region": "Кейптаун и полуостров",
+          "lat": -34.357,
+          "lon": 18.497,
+          "codes": "P",
+          "priority": 1,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "Умеренно",
+          "desc": "Скалы полуострова, океан и финбос дают один из главных прибрежных видов страны.",
+          "detail": "У Кейп-Пойнт можно подняться к старому маяку пешком или на фуникулёре, затем выбрать открытую прибрежную тропу. Мыс Доброй Надежды — другая остановка внутри того же участка парка. Это не самая южная точка Африки: она находится у мыса Игольного. Между остановками нужен автомобиль или организованный транспорт; держите еду закрытой из-за бабуинов.",
+          "tickets": "Платный вход SANParks, оплата картой; фуникулёр оплачивается отдельно. Проверяйте часы ворот. Отдельная бронь обычной парковки не подтверждена.",
+          "hike": "Обычное время на посещение: Полдня. Нагрузка: умеренно.",
+          "access": "До основной парковки Cape Point через вход парка; далее пешком или на фуникулёре.",
+          "source": "https://capepoint.co.za/visitus/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Goodhope2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "photoAlt": "Кейп-Пойнт и мыс Доброй Надежды",
+          "creditText": "Ernmuhl at lb.wikipedia · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Goodhope2.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Goodhope2.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Боулдерс — африканские пингвины",
+          "shortName": "Боулдерс",
+          "originalName": "Boulders — African penguins",
+          "region": "Кейптаун и полуостров",
+          "lat": -34.197,
+          "lon": 18.451,
+          "codes": "L",
+          "priority": 1,
+          "format": "Остановка",
+          "time": "1–2 часа",
+          "walk": "Легко",
+          "desc": "Колонию пингвинов наблюдают с настилов между гранитными валунами.",
+          "detail": "Лучше задержаться и посмотреть на поведение птиц, чем пытаться подойти ближе ради снимка. Настилы у Foxy Beach дают обзор колонии; пляжная часть имеет иной характер и может быть многолюдной. Пингвины дикие: не трогайте их и не перекрывайте путь к воде. Место удобно сочетать с историческим Саймонстауном.",
+          "tickets": "Участок SANParks платный, отдельно от Кейп-Пойнт; оплата картой. Уточните правила пляжного доступа и парковки, особенно в выходные.",
+          "hike": "Обычное время на посещение: 1–2 часа. Нагрузка: легко.",
+          "access": "До парковки Seaforth; далее пешком к входу и настилам Foxy Beach.",
+          "source": "https://www.sanparks.org/parks/table-mountain/rates-entry-fees",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Boulders_Beach_Suedafrika.jpg/1280px-Boulders_Beach_Suedafrika.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Боулдерс — африканские пингвины",
+          "creditText": "Olga Ernst · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Boulders_Beach_Suedafrika.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Boulders_Beach_Suedafrika.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Франсхук — винная долина",
+          "shortName": "Франсхук",
+          "originalName": "Franschhoek — the wine valley",
+          "region": "Западный Кейп",
+          "lat": -33.911,
+          "lon": 19.12,
+          "codes": "EP",
+          "priority": 3,
+          "format": "День",
+          "time": "День",
+          "walk": "Легко",
+          "desc": "Винодельни, горный фон и капская архитектура делают долину самостоятельным впечатлением.",
+          "detail": "Винный трамвай объединяет участки на рельсах и автобусные переезды между хозяйствами. Выберите несколько остановок вместо попытки успеть все: дегустации, сады и обед требуют времени. Без вина тоже есть чем заняться — архитектура, галереи и пейзажи. После дегустаций возвращайтесь с водителем или трансфером.",
+          "tickets": "Билет Wine Tram бронируйте заранее. Дегустации и еда могут оплачиваться отдельно. Парковка у терминалов бесплатная; терминал зависит от линии.",
+          "hike": "Обычное время на посещение: День. Нагрузка: легко.",
+          "access": "До Franschhoek Terminal; для линии с отправлением Groot Drakenstein выберите её терминал по билету.",
+          "source": "https://winetram.co.za/faq/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Franschhoek_%28S%C3%BCdafrika%29.jpg/1280px-Franschhoek_%28S%C3%BCdafrika%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Франсхук — винная долина",
+          "creditText": "Olga Ernst · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Franschhoek_(S%C3%BCdafrika).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Franschhoek_(S%C3%BCdafrika).jpg"
+        },
+        {
+          "id": 7,
+          "name": "Херманус — киты с берега",
+          "shortName": "Херманус",
+          "originalName": "Hermanus — whales from shore",
+          "region": "Западный Кейп",
+          "lat": -34.419,
+          "lon": 19.244,
+          "codes": "LW",
+          "priority": 3,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "Легко",
+          "desc": "Прибрежная тропа позволяет искать китов с суши и гулять вдоль бухты.",
+          "detail": "В сезон южные гладкие киты подходят к побережью для размножения. Их замечают по выдоху, спине и движениям у поверхности, поэтому бинокль и терпение полезнее постоянных переездов. Можно пройти часть Cliff Path либо выбрать морскую экскурсию у лицензированного оператора. За пределами сезона остаются скалы, океан и прогулка, но китов обещать нельзя.",
+          "tickets": "Обычная прогулка по Cliff Path не требует экскурсионного билета. Морские выходы бронируются отдельно; парковка регулируется городскими знаками.",
+          "hike": "Обычное время на посещение: Полдня. Нагрузка: легко.",
+          "access": "До парковки Gearing Point; далее по прибрежной тропе. Место посадки на катер зависит от оператора.",
+          "source": "https://hermanus-tourism.co.za/things-to-do/whale-and-shark-viewing/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Hermanus_Old_Harbour.jpg/1280px-Hermanus_Old_Harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Херманус — киты с берега",
+          "creditText": "Olga Ernst · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hermanus_Old_Harbour.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Hermanus_Old_Harbour.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Седерберг — Стадсаал",
+          "shortName": "Седерберг",
+          "originalName": "Cederberg — Stadsaal",
+          "region": "Западный Кейп",
+          "lat": -32.525,
+          "lon": 19.31,
+          "codes": "EPG",
+          "priority": 4,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "Умеренно",
+          "desc": "Выветренные песчаники, пещерные навесы и древние изображения слонов раскрывают Седерберг без длинного восхождения.",
+          "detail": "Здесь интересно медленно обходить скальные формы и искать меняющийся свет. Наскальное искусство осматривают с разрешённой дистанции, не касаясь поверхности. Стадсаал — конкретное короткое посещение; Wolfberg Arch и Maltese Cross требуют других маршрутов и разрешений. После пожаров доступ меняется, поэтому уточняйте открытые участки перед поездкой.",
+          "tickets": "Нужен permit и код ворот. Получите их у уполномоченной точки, например Sanddrif; проверьте ограничения после пожаров.",
+          "hike": "Обычное время на посещение: Полдня. Нагрузка: умеренно.",
+          "access": "Сначала до Sanddrif reception за разрешением и схемой проезда; затем к парковке Стадсаал по указаниям.",
+          "source": "https://www.capenature.co.za/news/2026/cederberg-fire-recovery-and-visitor-access",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Stadsaal_Caves_view2.jpg/1280px-Stadsaal_Caves_view2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Седерберг — Стадсаал",
+          "creditText": "Zaian · [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stadsaal_Caves_view2.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Stadsaal_Caves_view2.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Канго — известняковые пещеры",
+          "shortName": "Канго",
+          "originalName": "Cango Caves",
+          "region": "Дорога садов и Восточный Кейп",
+          "lat": -33.393,
+          "lon": 22.215,
+          "codes": "G",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "1–2 часа",
+          "walk": "Умеренно",
+          "desc": "Большие подземные залы и натёчные образования дают контраст океанскому побережью.",
+          "detail": "Для знакомства выбирайте обычную экскурсию по оборудованной части: свет и объяснения гида помогают различить формы и историю образования пещеры. Более тесные приключенческие проходы, если доступны, требуют отдельного решения и физической готовности. Это хорошая остановка в Маленьком Кару, но не повод пробовать неподходящий по сложности вариант ради галочки.",
+          "tickets": "Посещение только с оплаченной экскурсией; бронируйте нужную программу заранее. Уточните доступность Adventure Tour и ограничения. Парковку проверяйте у комплекса.",
+          "hike": "Обычное время на посещение: 1–2 часа. Нагрузка: умеренно.",
+          "access": "До парковки посетительского центра Cango Caves на R328; далее к регистрации экскурсии.",
+          "source": "https://www.cango-caves.co.za/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Cango_Caves-001.JPG/1280px-Cango_Caves-001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Канго — известняковые пещеры",
+          "creditText": "Rute Martins of Leoa's Photography (www.leoa.co.za) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cango_Caves-001.JPG)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Cango_Caves-001.JPG"
+        },
+        {
+          "id": 10,
+          "name": "Уилдернесс — реки и лес",
+          "shortName": "Уилдернесс",
+          "originalName": "Wilderness — rivers and forest",
+          "region": "Дорога садов и Восточный Кейп",
+          "lat": -33.992,
+          "lon": 22.612,
+          "codes": "WS",
+          "priority": 3,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "По выбранной активности",
+          "desc": "Спокойная вода Тау и лесные тропы позволяют сменить автомобиль на каноэ или пешую прогулку.",
+          "detail": "Начните с Ebb-and-Flow и выберите открытый маршрут по текущей карте. Прогулку можно посвятить лесу и птицам, а водную часть — неспешному гребному выходу. Не считайте все тропы и реки постоянно доступными: после паводков отдельные участки закрывают. Это место для медленного дня, а не только остановки у океанского пляжа.",
+          "tickets": "Для парковых троп и водных занятий уточните conservation fee и permit на reception; прокат оплачивается отдельно. Проверяйте действующие закрытия.",
+          "hike": "Обычное время на посещение: Полдня. Нагрузка: по выбранной активности.",
+          "access": "До reception Ebb-and-Flow South; там уточните парковку и открытый старт выбранной тропы или каноэ.",
+          "source": "https://www.sanparks.org/parks/garden-route",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/RSA-WildernessNP1.jpg/1280px-RSA-WildernessNP1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Уилдернесс — реки и лес",
+          "creditText": "Mart Bouter · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RSA-WildernessNP1.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:RSA-WildernessNP1.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Найсна — лес Дипвалле",
+          "shortName": "Найсна",
+          "originalName": "Knysna — Diepwalle Forest",
+          "region": "Дорога садов и Восточный Кейп",
+          "lat": -33.95,
+          "lon": 23.159,
+          "codes": "W",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "2–4 часа",
+          "walk": "Умеренно",
+          "desc": "Старый влажный лес раскрывает Дорогу садов без пляжей и людных набережных.",
+          "detail": "У Diepwalle выбирают одну из Elephant Trails, а не пытаются пройти все петли. Интерес здесь в деревьях, папоротниках, лесных звуках и истории использования древесины. Название маршрута не обещает встречу со слоном. Можно ограничиться коротким знакомством у лесной станции, если погода или состояние дорожек не подходят для длинной прогулки.",
+          "tickets": "Получите необходимый permit у лесной станции; уточните плату и открытые петли. Ночёвки на платформах бронируются отдельно.",
+          "hike": "Обычное время на посещение: 2–4 часа. Нагрузка: умеренно.",
+          "access": "До Diepwalle Forest Station по R339; парковка и начало маршрутов у станции.",
+          "source": "https://www.sanparks.org/parks/garden-route/what-to-do/activities/hikes-walks-trails",
+          "checkedAt": "2026-10-28",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Big_Yellowood_%28Podocarpus_Falcatus%29_-_46m_high%2C_2.3m_diameter_and_600y_old_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "photoAlt": "Найсна — лес Дипвалле",
+          "creditText": "Hendrik van den Berg · [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Big_Yellowood_(Podocarpus_Falcatus)_-_46m_high,_2.3m_diameter_and_600y_old_-_panoramio.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Big_Yellowood_(Podocarpus_Falcatus)_-_46m_high,_2.3m_diameter_and_600y_old_-_panoramio.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Робберг",
+          "shortName": "Робберг",
+          "originalName": "Robberg",
+          "region": "Дорога садов и Восточный Кейп",
+          "lat": -34.104,
+          "lon": 23.391,
+          "codes": "PLS",
+          "priority": 1,
+          "format": "Полдня",
+          "time": "2–5 часов",
+          "walk": "От лёгкого до сложного",
+          "desc": "Скалистый полуостров объединяет океанские панорамы, дюну и колонию морских котиков.",
+          "detail": "Выберите петлю по силам: короткий Gap Circuit знакомит с рельефом, Witsand ведёт к песчаной перемычке, а Point Circuit охватывает дальнюю оконечность. Полный круг значительно сложнее короткой прогулки. На скалах учитывайте волны и ветер; котиков обычно смотрят сверху, сохраняя дистанцию. Участки не стоит проходить вопреки закрытиям или приливу.",
+          "tickets": "Нужен платный дневной permit CapeNature; его можно оформить через систему бронирования. Ночёвка Fountain Shack бронируется отдельно.",
+          "hike": "CapeNature указывает: Gap Circuit — 2,1 км, около 30 минут; Witsand — 5,5 км, около 2 часов; Point Circuit — 9,2 км, около 4 часов. Это стандартные оценки; остановки и условия могут увеличить время.",
+          "access": "До парковки внутри входа Robberg; все три основные петли начинаются здесь.",
+          "source": "https://www.capenature.co.za/reserves/robberg-nature-reserve",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Robberg_Nature_Reserve%2C_Plettenberg_Bay_-_53147416220.jpg/1280px-Robberg_Nature_Reserve%2C_Plettenberg_Bay_-_53147416220.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Робберг",
+          "creditText": "flowcomm · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Robberg_Nature_Reserve,_Plettenberg_Bay_-_53147416220.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Robberg_Nature_Reserve,_Plettenberg_Bay_-_53147416220.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Стормс-Ривер-Маут",
+          "shortName": "Стормс-Ривер-Маут",
+          "originalName": "Storms River Mouth",
+          "region": "Дорога садов и Восточный Кейп",
+          "lat": -34.022,
+          "lon": 23.899,
+          "codes": "PS",
+          "priority": 1,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "Умеренно, ступени",
+          "desc": "Подвесной мост над устьем связывает тёмное ущелье, лес и открытый океан.",
+          "detail": "Короткий Mouth Trail подходит для первого знакомства, хотя на нём есть ступени. Для более активного дня можно отдельно забронировать каяк и lilo в ущелье. Береговой Waterfall Trail сложнее и зависит от состояния скал и моря. Многодневный Otter Trail — отдельная программа с собственной бронью, а не свободное продолжение прогулки.",
+          "tickets": "Вход в участок SANParks платный. Каяки и многодневные тропы бронируются отдельно; проверяйте закрытия после штормов.",
+          "hike": "Обычное время на посещение: Полдня. Нагрузка: умеренно, ступени.",
+          "access": "До дневной парковки Storms River Mouth Rest Camp через ворота; далее к началу Mouth Trail.",
+          "source": "https://www.sanparks.org/parks/garden-route/what-to-do/activities/hikes-walks-trails",
+          "checkedAt": "2026-10-28",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tsitsikamma_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "photoAlt": "Стормс-Ривер-Маут",
+          "creditText": "Original uploader was Conrad88 at en.wikipedia · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsitsikamma_Park.JPG)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Tsitsikamma_Park.JPG"
+        },
+        {
+          "id": 14,
+          "name": "Аддо — сафари среди слонов",
+          "shortName": "Аддо",
+          "originalName": "Addo — elephant country",
+          "region": "Дорога садов и Восточный Кейп",
+          "lat": -33.443,
+          "lon": 25.746,
+          "codes": "L",
+          "priority": 1,
+          "format": "День",
+          "time": "День",
+          "walk": "Легко на машине",
+          "desc": "Слоны у водопоев и густой кустарник делают Аддо удобным самостоятельным сафари на юге страны.",
+          "detail": "Можно ездить по разрешённым дорогам на своей машине либо заказать выезд с рейнджером. Не торопитесь между водопоями: наблюдение за одной группой животных часто интереснее длинного пробега. Парк не ограничивается слонами, но встреча с любым видом зависит от случая. Выходить из машины можно только там, где это разрешено.",
+          "tickets": "Оплачивается ежедневный conservation fee; ночёвки и выезды рейнджеров бронируются отдельно. Для выезда из Main Camp нужен запас на дорогу от южных ворот.",
+          "hike": "Обычное время на посещение: День. Нагрузка: легко на машине.",
+          "access": "До южных ворот Matyholweni от N2 через Colchester; дальше сафари на машине. Для Main Camp сверяйте рекомендованный подъезд SANParks.",
+          "source": "https://www.sanparks.org/parks/addo-elephant/travel/maps",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Elephant_Addo.jpg/1280px-Elephant_Addo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Аддо — сафари среди слонов",
+          "creditText": "Brian Snelson · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elephant_Addo.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Elephant_Addo.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Ройал-Натал — Амфитеатр",
+          "shortName": "Ройал-Натал",
+          "originalName": "Royal Natal — the Amphitheatre",
+          "region": "Квазулу-Натал и Дракенсберг",
+          "lat": -28.688,
+          "lon": 28.946,
+          "codes": "PS",
+          "priority": 1,
+          "format": "День",
+          "time": "Полдня или день",
+          "walk": "По выбранной тропе",
+          "desc": "Стена Амфитеатра над зелёной долиной — главный образ северного Дракенсберга.",
+          "detail": "Нижняя часть парка позволяет выбрать короткую прогулку у Mahai либо более длинный поход в сторону ущелья Тугелы. Вид снизу и подъём к верхнему обрыву — разные путешествия с разными подъездами: Sentinel Car Park находится с другой стороны. Уточните состояние мостов и троп у рейнджеров; грозы, туман и высокий уровень воды меняют планы.",
+          "tickets": "Въезд и походы оформляются по правилам Ezemvelo; зарегистрируйте выход и возвращение. Для ночёвок и сложных маршрутов нужны отдельные разрешения.",
+          "hike": "Обычное время на посещение: Полдня или день. Нагрузка: по выбранной тропе.",
+          "access": "До Visitor Centre у Mahai; уточните парковку для выбранной нижней тропы. Это не подъезд к Sentinel.",
+          "source": "https://kznparks.com/accommodation/royal-natal-thendele-resort/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Royal_Natal_Drakensberg_2015.JPG/1280px-Royal_Natal_Drakensberg_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Ройал-Натал — Амфитеатр",
+          "creditText": "Bjørn Christian Tørrissen · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Royal_Natal_Drakensberg_2015.JPG)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Royal_Natal_Drakensberg_2015.JPG"
+        },
+        {
+          "id": 16,
+          "name": "Джайантс-Касл — наскальное искусство",
+          "shortName": "Джайантс-Касл",
+          "originalName": "Giant’s Castle — San rock art",
+          "region": "Квазулу-Натал и Дракенсберг",
+          "lat": -29.274,
+          "lon": 29.52,
+          "codes": "EP",
+          "priority": 4,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "Умеренно",
+          "desc": "Горная прогулка к Main Caves соединяет ландшафт Дракенсберга и искусство сан.",
+          "detail": "Смысл изображений раскрывается с проводником: это не просто картинки животных, а часть сложной культурной традиции. До навеса нужно дойти от лагеря, затем осмотр проходит по установленному порядку. Можно дополнить посещение короткой открытой тропой, не превращая день в восхождение на вершину Giant’s Castle. Фотографируйте без прикосновений к росписям.",
+          "tickets": "Нужны входной сбор и согласованное посещение Main Caves с гидом. Уточните расписание заранее; укрытие для наблюдения за грифами бронируется отдельно.",
+          "hike": "Обычное время на посещение: Полдня. Нагрузка: умеренно.",
+          "access": "До reception Giants Castle Camp; там оформите посещение и получите указания к парковке и тропе.",
+          "source": "https://www.kznwildlife.com/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Giants_Castle_at_sunrise_from_the_contour_path.jpg/1280px-Giants_Castle_at_sunrise_from_the_contour_path.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Джайантс-Касл — наскальное искусство",
+          "creditText": "Smurfatefrog · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giants_Castle_at_sunrise_from_the_contour_path.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Giants_Castle_at_sunrise_from_the_contour_path.jpg"
+        },
+        {
+          "id": 17,
+          "name": "Голден-Гейт — песчаниковые стены",
+          "shortName": "Голден-Гейт",
+          "originalName": "Golden Gate — sandstone cliffs",
+          "region": "Квазулу-Натал и Дракенсберг",
+          "lat": -28.506,
+          "lon": 28.617,
+          "codes": "PS",
+          "priority": 3,
+          "format": "День",
+          "time": "Полдня или день",
+          "walk": "По выбранной тропе",
+          "desc": "Охристые стены и травяные склоны дают другой горный пейзаж, чем высокие обрывы Дракенсберга.",
+          "detail": "Начните с короткой разрешённой тропы около Glen Reenen, а длинный подъём выбирайте по погоде и времени. На закате песчаник меняет оттенок, но возвращение нужно спланировать до темноты. Парк интересен и с дороги, однако прогулка лучше раскрывает масштаб стен. Культурные программы Basotho Cultural Village уточняйте отдельно.",
+          "tickets": "Для рекреационного посещения действует conservation fee; зарегистрируйтесь на reception. Ночёвки и специальные программы бронируются отдельно.",
+          "hike": "Обычное время на посещение: Полдня или день. Нагрузка: по выбранной тропе.",
+          "access": "До reception Glen Reenen; далее к согласованной парковке и открытой тропе.",
+          "source": "https://www.sanparks.org/parks/golden-gate-highlands",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Brandwag_-_panoramio.jpg/1280px-Brandwag_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Голден-Гейт — песчаниковые стены",
+          "creditText": "Graham Maclachlan · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brandwag_-_panoramio.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Brandwag_-_panoramio.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Дурбан — ботанический сад",
+          "shortName": "Дурбан",
+          "originalName": "Durban Botanic Gardens",
+          "region": "Квазулу-Натал и Дракенсберг",
+          "lat": -29.848,
+          "lon": 31.008,
+          "codes": "W",
+          "priority": 3,
+          "format": "Остановка",
+          "time": "1–2 часа",
+          "walk": "Легко",
+          "desc": "Старинный сад с пальмами, саговниками и тропической зеленью подходит для спокойной городской паузы.",
+          "detail": "Дорожки позволяют рассматривать коллекции без длинного похода; интересны крупные деревья и история появления растений в саду. Можно задержаться у воды и понаблюдать за птицами. Это отдельное зелёное место внутри города: поездку сюда и дальнейшие перемещения лучше планировать заранее, а не выбирать случайный пеший путь через незнакомые районы.",
+          "tickets": "Туристический сайт города указывает свободный обычный вход; экскурсии и события уточняйте отдельно. Проверьте текущие часы и условия парковки.",
+          "hike": "Обычное время на посещение: 1–2 часа. Нагрузка: легко.",
+          "access": "До общественной парковки с John Zikhali Road у северной стороны сада.",
+          "source": "https://visitdurban.travel/space/durban-botanic-gardens",
+          "checkedAt": "2026-10-28",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Durban_Botanic_Gardens_new_entrance_04_09_2010.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "photoAlt": "Дурбан — ботанический сад",
+          "creditText": "Purves, M. · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Durban_Botanic_Gardens_new_entrance_04_09_2010.JPG)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Durban_Botanic_Gardens_new_entrance_04_09_2010.JPG"
+        },
+        {
+          "id": 19,
+          "name": "Сент-Лусия — бегемоты и птицы",
+          "shortName": "Сент-Лусия",
+          "originalName": "St Lucia — hippos and birds",
+          "region": "Квазулу-Натал и Дракенсберг",
+          "lat": -28.371,
+          "lon": 32.414,
+          "codes": "L",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "2–3 часа",
+          "walk": "Легко",
+          "desc": "Лодочный выход по эстуарию позволяет наблюдать бегемотов, крокодилов и водных птиц.",
+          "detail": "У воды важны дистанция и работа лицензированного оператора: это не место для самостоятельного купания. На медленном круизе видны отдельные сцены жизни берега, а не только крупные животные. Уровень воды и погода влияют на маршрут. В самом посёлке вечером также возможны бегемоты — не приближайтесь и не перекрывайте им дорогу.",
+          "tickets": "Круиз платный, бронируется у лицензированного оператора. Причал и парковку подтвердите по билету: у разных компаний они отличаются.",
+          "hike": "Обычное время на посещение: 2–3 часа. Нагрузка: легко.",
+          "access": "Сначала выберите оператора; общего подтверждённого места парковки для всех круизов нет.",
+          "source": "https://www.isimangaliso.com/activities/boat-cruises/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Hippo_%28Hippopotamus_amphibius%29_family_resting_on_the_shores_of_Lake_St_Lucia_.._%2831656974747%29.jpg/1280px-Hippo_%28Hippopotamus_amphibius%29_family_resting_on_the_shores_of_Lake_St_Lucia_.._%2831656974747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Сент-Лусия — бегемоты и птицы",
+          "creditText": "Bernard DUPONT from FRANCE · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hippo_(Hippopotamus_amphibius)_family_resting_on_the_shores_of_Lake_St_Lucia_.._(31656974747).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Hippo_(Hippopotamus_amphibius)_family_resting_on_the_shores_of_Lake_St_Lucia_.._(31656974747).jpg"
+        },
+        {
+          "id": 20,
+          "name": "Кейп-Видал и Восточные берега",
+          "shortName": "Кейп-Видал и Восточные берега",
+          "originalName": "Cape Vidal and the Eastern Shores",
+          "region": "Квазулу-Натал и Дракенсберг",
+          "lat": -28.122,
+          "lon": 32.56,
+          "codes": "PL",
+          "priority": 3,
+          "format": "День",
+          "time": "День",
+          "walk": "Легко с прогулками",
+          "desc": "За один день здесь сменяются саванна, водоёмы, прибрежный лес и океан.",
+          "detail": "По дороге от Bhangazi Gate можно делать разрешённые остановки и наблюдать животных, затем провести время у пляжа Cape Vidal. Подводные прогулки зависят от прилива и моря: не воспринимайте берег как постоянно безопасный бассейн. Планируйте возвращение к воротам, учитывая медленный темп наблюдения. Ночёвка позволяет не пытаться охватить всё за один проезд.",
+          "tickets": "Оплачиваются парк и автомобиль по тарифу; число дневных машин ограничено. Уточните порядок въезда заранее, ночёвки бронируйте отдельно.",
+          "hike": "Обычное время на посещение: День. Нагрузка: легко с прогулками.",
+          "access": "До Bhangazi Gate у Сент-Лусии; далее по парковой дороге к Cape Vidal и дневной парковке.",
+          "source": "https://www.isimangaliso.com/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Cape_Vidal_Beach_..._%2833450205598%29.jpg/1280px-Cape_Vidal_Beach_..._%2833450205598%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Кейп-Видал и Восточные берега",
+          "creditText": "Bernard DUPONT from FRANCE · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cape_Vidal_Beach_..._(33450205598).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Cape_Vidal_Beach_..._(33450205598).jpg"
+        },
+        {
+          "id": 21,
+          "name": "Хлухлуве-Имфолози",
+          "shortName": "Хлухлуве-Имфолози",
+          "originalName": "Hluhluwe–iMfolozi",
+          "region": "Квазулу-Натал и Дракенсберг",
+          "lat": -28.219,
+          "lon": 31.952,
+          "codes": "L",
+          "priority": 1,
+          "format": "День",
+          "time": "День или несколько ночей",
+          "walk": "Легко на машине",
+          "desc": "Сафари среди холмов знакомит с парком, сыгравшим важную роль в сохранении белых носорогов.",
+          "detail": "Самостоятельный проезд и выезд с гидом дают разные впечатления: гид объясняет следы и поведение, а своя машина позволяет дольше ждать у интересной сцены. Не сводите поездку к поиску одного вида. Северная и южная части связаны медленными дорогами; выбирайте вход под свою базу, чтобы не тратить день на транзит.",
+          "tickets": "Входной conservation fee обязателен; размещение, выезды и пешие сафари оплачиваются отдельно. Уточните часы ворот и бронирование программы.",
+          "hike": "Обычное время на посещение: День или несколько ночей. Нагрузка: легко на машине.",
+          "access": "До Memorial Gate через Hluhluwe; это подъезд к северной части и Hilltop. Для Mpila нужен другой вход.",
+          "source": "https://www.kznwildlife.com/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Hluhluwe_green_hills_..._%2847294082242%29.jpg/1280px-Hluhluwe_green_hills_..._%2847294082242%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Хлухлуве-Имфолози",
+          "creditText": "Bernard DUPONT from FRANCE · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hluhluwe_green_hills_..._(47294082242).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Hluhluwe_green_hills_..._(47294082242).jpg"
+        },
+        {
+          "id": 22,
+          "name": "Содвана-Бей — коралловые рифы",
+          "shortName": "Содвана-Бей",
+          "originalName": "Sodwana Bay — coral reefs",
+          "region": "Квазулу-Натал и Дракенсберг",
+          "lat": -27.539,
+          "lon": 32.679,
+          "codes": "SL",
+          "priority": 4,
+          "format": "День",
+          "time": "Полдня или день",
+          "walk": "Нужна подготовка к воде",
+          "desc": "Погружения у тёплого побережья открывают совсем другой живой мир Южной Африки.",
+          "detail": "Риф и глубину выбирают под квалификацию, опыт и состояние моря. Для новичков возможна учебная программа, а не самостоятельный выход к любому рифу. Лодочный старт через прибой — часть местной специфики. Черепахи и крупные животные встречаются не по расписанию; главным содержанием остаётся сам риф и его разнообразие.",
+          "tickets": "Погружение бронируют у лицензированного центра; уточните оборудование, необходимый permit и сборы парка. Место встречи и парковку согласуйте с центром.",
+          "hike": "Обычное время на посещение: Полдня или день. Нагрузка: нужна подготовка к воде.",
+          "access": "До главных ворот Sodwana Bay; далее к парковке и месту встречи, указанным выбранным дайв-центром.",
+          "source": "https://www.isimangaliso.com/places/sodwana-bay/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/SODWANA_BAY_Beach_%28Humpback_whale_in_foreground%29_-_panoramio.jpg/1280px-SODWANA_BAY_Beach_%28Humpback_whale_in_foreground%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Содвана-Бей — коралловые рифы",
+          "creditText": "FinlayCox143 · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SODWANA_BAY_Beach_(Humpback_whale_in_foreground)_-_panoramio.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:SODWANA_BAY_Beach_(Humpback_whale_in_foreground)_-_panoramio.jpg"
+        },
+        {
+          "id": 23,
+          "name": "Крюгер",
+          "shortName": "Крюгер",
+          "originalName": "Kruger National Park",
+          "region": "Крюгер и Мпумаланга",
+          "lat": -24.992,
+          "lon": 31.592,
+          "codes": "L",
+          "priority": 1,
+          "format": "Несколько ночей",
+          "time": "2–4 дня",
+          "walk": "Легко на машине",
+          "desc": "Большой парк позволяет наблюдать животных в естественном ритме, самостоятельно или с рейнджером.",
+          "detail": "Выберите несколько районов и ночёвок вместо попытки пересечь весь парк. Рассвет, ожидание у воды и повторное посещение одной дороги часто дают больше, чем погоня за списком видов. Обычные дороги доступны для самостоятельного сафари; прогулки среди животных проводят только в разрешённой программе. Время внутри парка определяется наблюдениями и строгими часами ворот.",
+          "tickets": "Ежедневный conservation fee; ночёвки и активности бронируются отдельно. Дневной въезд лучше бронировать заранее из-за квот, особенно в праздники. Возьмите документы всех участников.",
+          "hike": "Обычное время на посещение: 2–4 дня. Нагрузка: легко на машине.",
+          "access": "До Paul Kruger Gate для южного района и Skukuza; вход и ночёвка должны соответствовать вашему плану.",
+          "source": "https://www.sanparks.org/parks/kruger/what-to-do/day-visits",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Kruger_Zebra.JPG/1280px-Kruger_Zebra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Крюгер",
+          "creditText": "Nithin bolar k · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kruger_Zebra.JPG)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Kruger_Zebra.JPG"
+        },
+        {
+          "id": 24,
+          "name": "Блайд-Ривер — Три Рондавеля",
+          "shortName": "Блайд-Ривер",
+          "originalName": "Blyde River — Three Rondavels",
+          "region": "Крюгер и Мпумаланга",
+          "lat": -24.573,
+          "lon": 30.799,
+          "codes": "P",
+          "priority": 1,
+          "format": "Остановка",
+          "time": "1–2 часа",
+          "walk": "Легко",
+          "desc": "Смотровая раскрывает зелёный каньон и три округлые скальные башни.",
+          "detail": "От парковки идут короткие подходы к нескольким ракурсам: не обязательно останавливаться на первой площадке. Масштаб лучше воспринимается, если задержаться и проследить изгибы воды и стен. Туман может закрыть всё, поэтому эту остановку удобно переставлять в пределах дня на Panorama Route. Это обзор сверху; лодочные прогулки внизу имеют другой подъезд.",
+          "tickets": "Вход на смотровую платный; проверьте тариф и часы у MTPA. Отдельная бронь обычной парковки не подтверждена.",
+          "hike": "Обычное время на посещение: 1–2 часа. Нагрузка: легко.",
+          "access": "До парковки Three Rondavels Viewpoint от Panorama Route; далее короткая прогулка.",
+          "source": "https://www.mpumalanga.com/plan-your-trip/accommodation/unknown-region/graskop/three-rondavels-MTATT7114",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Three_Rondavels%2C_Panorama_Route%2C_South_Africa_%2834882026081%29.jpg/1280px-Three_Rondavels%2C_Panorama_Route%2C_South_Africa_%2834882026081%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Блайд-Ривер — Три Рондавеля",
+          "creditText": "yeowatzup from Göttingen, Germany · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Three_Rondavels,_Panorama_Route,_South_Africa_(34882026081).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Three_Rondavels,_Panorama_Route,_South_Africa_(34882026081).jpg"
+        },
+        {
+          "id": 25,
+          "name": "Буркес-Лак-Потхолс",
+          "shortName": "Буркес-Лак-Потхолс",
+          "originalName": "Bourke’s Luck Potholes",
+          "region": "Крюгер и Мпумаланга",
+          "lat": -24.674,
+          "lon": 30.807,
+          "codes": "PG",
+          "priority": 3,
+          "format": "Остановка",
+          "time": "1–2 часа",
+          "walk": "Легко, ступени",
+          "desc": "Вода выточила округлые котлы в скалах у слияния рек.",
+          "detail": "Мостики дают разные взгляды на каналы и формы эрозии. Здесь интересна не высота водопада, а работа воды и песка на протяжении долгого времени. Подойдёт короткая прогулка между площадками; переходить ограждения ради кадра не нужно. Поездку удобно соединить с Тремя Рондавелями, оставляя каждой остановке собственное время.",
+          "tickets": "Вход платный, отдельно от других смотровых Panorama Route. Проверяйте часы, оплату и состояние мостиков у MTPA: после сильных дождей возможны временные закрытия.",
+          "hike": "Обычное время на посещение: 1–2 часа. Нагрузка: легко, ступени.",
+          "access": "До парковки посетительского центра Bourke’s Luck Potholes; далее по оборудованным дорожкам.",
+          "source": "https://www.mpumalanga.com/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Blyde_River_Canyon_Nature_Reserve_%28ZA%29%2C_Blyde_River%2C_Bourke%27s_Luck_Potholes_--_2024_--_9989.jpg/1280px-Blyde_River_Canyon_Nature_Reserve_%28ZA%29%2C_Blyde_River%2C_Bourke%27s_Luck_Potholes_--_2024_--_9989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Буркес-Лак-Потхолс",
+          "creditText": "Dietmar Rabich · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blyde_River_Canyon_Nature_Reserve_(ZA),_Blyde_River,_Bourke%27s_Luck_Potholes_--_2024_--_9989.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Blyde_River_Canyon_Nature_Reserve_(ZA),_Blyde_River,_Bourke%27s_Luck_Potholes_--_2024_--_9989.jpg"
+        },
+        {
+          "id": 26,
+          "name": "Годс-Уиндоу",
+          "shortName": "Годс-Уиндоу",
+          "originalName": "God’s Window",
+          "region": "Крюгер и Мпумаланга",
+          "lat": -24.876,
+          "lon": 30.889,
+          "codes": "PW",
+          "priority": 3,
+          "format": "Остановка",
+          "time": "1–2 часа",
+          "walk": "Умеренно, ступени",
+          "desc": "Край уступа и влажный лес дают вид с высоты на низменности Лоувелда.",
+          "detail": "К основной площадке ведут ступени, а более высокая прогулка проходит через зелёный лес. В ясную погоду хочется задержаться ради глубины пространства; в облаках главным впечатлением становится сама растительность. Не планируйте гарантированный дальний вид: туман здесь часть условий. Для общего дня удобно выбрать эту остановку по фактической видимости.",
+          "tickets": "Платный вход на участок; уточните часы и действующую плату. Для обычного осмотра отдельная парковочная бронь не подтверждена.",
+          "hike": "Обычное время на посещение: 1–2 часа. Нагрузка: умеренно, ступени.",
+          "access": "До обозначенной парковки God’s Window; далее вверх по ступеням.",
+          "source": "https://www.mpumalanga.com/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/South_Africa-Mpumalanga-Gods_Window001.jpg/1280px-South_Africa-Mpumalanga-Gods_Window001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Годс-Уиндоу",
+          "creditText": "NJR ZA · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:South_Africa-Mpumalanga-Gods_Window001.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:South_Africa-Mpumalanga-Gods_Window001.jpg"
+        },
+        {
+          "id": 27,
+          "name": "Музей апартеида",
+          "shortName": "Музей апартеида",
+          "originalName": "Apartheid Museum",
+          "region": "Гаутенг, Лимпопо и северо-запад",
+          "lat": -26.237,
+          "lon": 28.009,
+          "codes": "E",
+          "priority": 1,
+          "format": "Полдня",
+          "time": "2–4 часа",
+          "walk": "Легко",
+          "desc": "Экспозиция объясняет систему апартеида, сопротивление ей и путь страны к демократии.",
+          "detail": "Фотографии, документы и свидетельства требуют вдумчивого времени. Это содержательное и эмоционально тяжёлое посещение, которое лучше не ставить между несколькими быстрыми остановками. Можно идти самостоятельно с аудиосопровождением; для группы доступна заранее согласованная экскурсия. Исторический контекст помогает иначе увидеть и Кейптаун, и современные города.",
+          "tickets": "Вход платный, билеты у входа. Групповая экскурсия требует предварительной брони. Проверьте рабочие дни; музей не рекомендует содержание детям младше 11 лет.",
+          "hike": "Обычное время на посещение: 2–4 часа. Нагрузка: легко.",
+          "access": "До парковки музея у Northern Parkway и Gold Reef Road; затем к входу.",
+          "source": "https://www.apartheidmuseum.org/about-the-museum/visitor-information",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/South_Africa-Johannesburg-Apartheid_Museum001.jpg/1280px-South_Africa-Johannesburg-Apartheid_Museum001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Музей апартеида",
+          "creditText": "NJR ZA · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:South_Africa-Johannesburg-Apartheid_Museum001.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:South_Africa-Johannesburg-Apartheid_Museum001.jpg"
+        },
+        {
+          "id": 28,
+          "name": "Соуэто — история и современная жизнь",
+          "shortName": "Соуэто",
+          "originalName": "Soweto — history and daily life",
+          "region": "Гаутенг, Лимпопо и северо-запад",
+          "lat": -26.238,
+          "lon": 27.909,
+          "codes": "E",
+          "priority": 4,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "Легко",
+          "desc": "Дом Манделы и исторические улицы дают человеческий масштаб рассказу о борьбе за права.",
+          "detail": "Лучше знакомиться с районом с местным гидом: он связывает памятные места с жизнью сообщества сегодня. Выберите программу вокруг Mandela House, Vilakazi Street и истории восстания 1976 года, а не только фотостопы. Уважайте частные дома и людей; заранее согласуйте фотографии. Это действующий городской район, а не декорация под открытым небом.",
+          "tickets": "Музеи и услуги гида оплачиваются отдельно; согласуйте включённые билеты, место встречи и парковку заранее.",
+          "hike": "Обычное время на посещение: Полдня. Нагрузка: легко.",
+          "access": "Место встречи и парковка зависят от выбранного местного гида; согласуйте до поездки.",
+          "source": "https://www.mandelahouse.com/",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Mandela_museum_soweto.jpg/1280px-Mandela_museum_soweto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Соуэто — история и современная жизнь",
+          "creditText": "No machine-readable author provided. Moongateclimber assumed (based on copyright claims). · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mandela_museum_soweto.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Mandela_museum_soweto.jpg"
+        },
+        {
+          "id": 29,
+          "name": "Маропенг — происхождение человека",
+          "shortName": "Маропенг",
+          "originalName": "Maropeng — human origins",
+          "region": "Гаутенг, Лимпопо и северо-запад",
+          "lat": -25.967,
+          "lon": 27.663,
+          "codes": "E",
+          "priority": 3,
+          "format": "Полдня",
+          "time": "2–3 часа",
+          "walk": "Легко",
+          "desc": "Интерактивный центр вводит в историю эволюции и находок Колыбели человечества.",
+          "detail": "Посещение посвящено вопросам происхождения человека и изменению Земли, а не одному знаменитому экспонату. Удобно идти в своём темпе и останавливаться у интересных разделов. Пещеры Стеркфонтейн — другая площадка с отдельной экскурсией: не считайте её автоматически включённой. Для сочетания двух мест проверяйте расписания обоих операторов.",
+          "tickets": "Билет в Maropeng покупается онлайн или на месте. Для Стеркфонтейна отдельно проверьте билеты и доступ у Wits. Парковку уточняйте у центра.",
+          "hike": "Обычное время на посещение: 2–3 часа. Нагрузка: легко.",
+          "access": "До парковки Maropeng Visitor Centre на R400; это не парковка пещер Стеркфонтейн.",
+          "source": "https://www.maropeng.co.za/maropeng-tour/maropeng-tour",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Maropeng_Visitor_Centre%2C_Cradle_of_Humankind%2C_South_Africa.jpg/1280px-Maropeng_Visitor_Centre%2C_Cradle_of_Humankind%2C_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Маропенг — происхождение человека",
+          "creditText": "Olga Ernst · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maropeng_Visitor_Centre,_Cradle_of_Humankind,_South_Africa.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Maropeng_Visitor_Centre,_Cradle_of_Humankind,_South_Africa.jpg"
+        },
+        {
+          "id": 30,
+          "name": "Мапунгубве",
+          "shortName": "Мапунгубве",
+          "originalName": "Mapungubwe",
+          "region": "Гаутенг, Лимпопо и северо-запад",
+          "lat": -22.211,
+          "lon": 29.387,
+          "codes": "EPL",
+          "priority": 3,
+          "format": "День",
+          "time": "День или несколько ночей",
+          "walk": "Умеренно",
+          "desc": "Древнее государство, песчаниковые холмы и слияние больших рек объединяют историю и природу.",
+          "detail": "Начните с интерпретационного центра, затем выберите экскурсию к историческому холму или открытые видовые площадки. Посещение не сводится к сафари: важен рассказ о торговле и обществе, существовавшем здесь задолго до колониальной эпохи. Парковые дороги и разные участки требуют времени; не рассчитывайте свободно попасть к охраняемому археологическому месту без программы.",
+          "tickets": "Ежедневный сбор SANParks; музей, heritage tour и ночёвки проверяйте и бронируйте отдельно. Дневной въезд прекращается до закрытия ворот.",
+          "hike": "Обычное время на посещение: День или несколько ночей. Нагрузка: умеренно.",
+          "access": "До Main Gate и reception; далее по указаниям к выбранной программе или смотровой.",
+          "source": "https://www.sanparks.org/parks/mapungubwe/useful-information/vital-information",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Mapungubwe%2C_Limpopo%2C_South_Africa_%2820535429052%29.jpg/1280px-Mapungubwe%2C_Limpopo%2C_South_Africa_%2820535429052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Мапунгубве",
+          "creditText": "South African Tourism from South Africa · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mapungubwe,_Limpopo,_South_Africa_(20535429052).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Mapungubwe,_Limpopo,_South_Africa_(20535429052).jpg"
+        },
+        {
+          "id": 31,
+          "name": "Намаква — сезон цветов",
+          "shortName": "Намаква",
+          "originalName": "Namaqua — wildflower season",
+          "region": "Гаутенг, Лимпопо и северо-запад",
+          "lat": -30.165,
+          "lon": 17.792,
+          "codes": "PW",
+          "priority": 3,
+          "format": "День",
+          "time": "Полдня или день",
+          "walk": "Легко",
+          "desc": "После подходящих зимних дождей сухой ландшафт превращается в цветущую мозаику.",
+          "detail": "Для первого знакомства удобен район Skilpad с короткими маршрутами и дорожной петлёй. Цветение зависит от дождей, температуры и солнечного света: фотографии пикового сезона не описывают любой день года. За пределами цветения интересны суккуленты и простор, но ехать стоит с другим ожиданием. Отдалённая береговая часть требует отдельного плана и подходящего автомобиля.",
+          "tickets": "Платный въезд SANParks; жильё в сезон цветов бронируйте заранее. Перед поездкой проверьте цветение, дороги и доступность выбранного участка.",
+          "hike": "Обычное время на посещение: Полдня или день. Нагрузка: легко.",
+          "access": "До Skilpad reception через Kamieskroon; далее по открытой петле и обозначенным парковкам.",
+          "source": "https://www.sanparks.org/parks/namaqua",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Namaqua_NP4.jpg/1280px-Namaqua_NP4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Намаква — сезон цветов",
+          "creditText": "Winfried Bruenken (Amrum) · [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Namaqua_NP4.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Namaqua_NP4.jpg"
+        },
+        {
+          "id": 32,
+          "name": "Ауграбис",
+          "shortName": "Ауграбис",
+          "originalName": "Augrabies Falls",
+          "region": "Гаутенг, Лимпопо и северо-запад",
+          "lat": -28.592,
+          "lon": 20.339,
+          "codes": "P",
+          "priority": 3,
+          "format": "День",
+          "time": "Полдня",
+          "walk": "Легко на настилах",
+          "desc": "Оранжевая река падает в скальное ущелье среди сухого ландшафта.",
+          "detail": "Основные настилы позволяют увидеть водопад с нескольких сторон. Его мощность меняется с расходом воды, поэтому впечатление может быть совсем другим, чем на фотографии паводка. При желании добавьте открытую смотровую каньона или короткую тропу. В жару лучше сократить прогулку, а ограждения у реки воспринимать как границу безопасного осмотра.",
+          "tickets": "Действует conservation fee SANParks; ночёвки бронируются отдельно. Проверяйте открытые настилы после высокой воды.",
+          "hike": "Обычное время на посещение: Полдня. Нагрузка: легко на настилах.",
+          "access": "До reception и парковки основного лагеря; к водопаду дальше по настилам.",
+          "source": "https://www.sanparks.org/parks/augrabies-falls",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Augrabies_Falls%2C_March_2008.jpg/1280px-Augrabies_Falls%2C_March_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Ауграбис",
+          "creditText": "Zaian (talk). · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Augrabies_Falls,_March_2008.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Augrabies_Falls,_March_2008.jpg"
+        },
+        {
+          "id": 33,
+          "name": "Кгалагади",
+          "shortName": "Кгалагади",
+          "originalName": "Kgalagadi",
+          "region": "Гаутенг, Лимпопо и северо-запад",
+          "lat": -26.473,
+          "lon": 20.61,
+          "codes": "LP",
+          "priority": 1,
+          "format": "Несколько ночей",
+          "time": "Несколько ночей",
+          "walk": "Легко на машине",
+          "desc": "Красные дюны, сухие русла и хищники дают сафари, совсем не похожее на зелёный Крюгер.",
+          "detail": "Медленные поездки вдоль русел Ауоб и Носсоб чередуются с ожиданием у водопоев. Здесь важны свет, пространство и птицы не меньше, чем львы. Расстояния и ограниченные услуги требуют запаса воды, топлива и времени. Дальние песчаные маршруты не подходят любой машине; переход в соседнюю страну оформляется отдельно.",
+          "tickets": "Conservation fee и ночёвки оплачиваются отдельно; размещение бронируйте заблаговременно. Дневной въезд ограничен квотой — согласуйте его заранее.",
+          "hike": "Обычное время на посещение: Несколько ночей. Нагрузка: легко на машине.",
+          "access": "До Twee Rivieren Gate с южноафриканской стороны; далее по разрешённым дорогам парка.",
+          "source": "https://www.sanparks.org/parks/kgalagadi/travel/entrance-gates",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Lioness_%28Panthera_leo%29_%286871765268%29.jpg/1280px-Lioness_%28Panthera_leo%29_%286871765268%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Кгалагади",
+          "creditText": "Bernard DUPONT from FRANCE · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lioness_(Panthera_leo)_(6871765268).jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Lioness_(Panthera_leo)_(6871765268).jpg"
+        },
+        {
+          "id": 34,
+          "name": "Де-Хооп — дюны и киты",
+          "shortName": "Де-Хооп",
+          "originalName": "De Hoop — dunes and whales",
+          "region": "Западный Кейп",
+          "lat": -34.473,
+          "lon": 20.513,
+          "codes": "PLW",
+          "priority": 3,
+          "format": "День",
+          "time": "День",
+          "walk": "Умеренно, песок",
+          "desc": "Белые дюны, финбос и океан дают спокойное прибрежное путешествие с сезонным наблюдением китов.",
+          "detail": "У Koppie Alleen можно выбрать пляжную прогулку или осмотр каменистого берега по разрешённому пути. Не нужно проходить многодневный маршрут, чтобы почувствовать это место. Внутренние участки добавляют птиц и антилоп. Для береговой прогулки важны прилив, солнце и запас воды; Whale Trail — самостоятельная программа с другой организацией.",
+          "tickets": "Платный дневной вход CapeNature; ночёвки и Whale Trail бронируются отдельно. Уточните часы ворот и проезд к береговой парковке.",
+          "hike": "Обычное время на посещение: День. Нагрузка: умеренно, песок.",
+          "access": "До главных ворот De Hoop; после оформления въезда следуйте к парковке Koppie Alleen по указаниям парка.",
+          "source": "https://www.capenature.co.za/reserves/de-hoop-nature-reserve",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Haematopus_moquini_P1040465.JPG/1280px-Haematopus_moquini_P1040465.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Де-Хооп — дюны и киты",
+          "creditText": "Winfried Bruenken (Amrum) · [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Haematopus_moquini_P1040465.JPG)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Haematopus_moquini_P1040465.JPG"
+        },
+        {
+          "id": 35,
+          "name": "Мыс Игольный",
+          "shortName": "Мыс Игольный",
+          "originalName": "Cape Agulhas",
+          "region": "Западный Кейп",
+          "lat": -34.834,
+          "lon": 20,
+          "codes": "P",
+          "priority": 3,
+          "format": "Остановка",
+          "time": "1–2 часа",
+          "walk": "Легко",
+          "desc": "Самая южная точка Африки — низкий каменистый берег, а не высокий мыс Кейп-Пойнт.",
+          "detail": "Прогуляйтесь к географическому знаку и посмотрите на линию прибоя. Маяк добавляет морскую историю, но его посещение нужно проверять отдельно. Сюда едут за ощущением края материка и открытого горизонта; драматических скал полуострова здесь ждать не стоит. Короткую остановку удобно соединить с побережьем Оверберга.",
+          "tickets": "Уточните актуальные условия доступа к памятному знаку и отдельный билет в маяк; бронирование ночёвок не даёт автоматического доступа ко всем объектам.",
+          "hike": "Обычное время на посещение: 1–2 часа. Нагрузка: легко.",
+          "access": "До парковки у Southernmost Tip of Africa; далее по оборудованному подходу к знаку.",
+          "source": "https://www.sanparks.org/parks/agulhas",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Tip_of_Africa_Momument.jpg/1280px-Tip_of_Africa_Momument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Мыс Игольный",
+          "creditText": "Piet Makwas · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tip_of_Africa_Momument.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Tip_of_Africa_Momument.jpg"
+        },
+        {
+          "id": 36,
+          "name": "Вест-Кост — лагуна Лангебан",
+          "shortName": "Вест-Кост",
+          "originalName": "West Coast — Langebaan Lagoon",
+          "region": "Западный Кейп",
+          "lat": -33.182,
+          "lon": 18.071,
+          "codes": "PLW",
+          "priority": 3,
+          "format": "День",
+          "time": "День",
+          "walk": "Легко",
+          "desc": "Лагуна, птицы и сезонные цветы дают светлый прибрежный день недалеко от Кейптауна.",
+          "detail": "Выберите несколько остановок: вид на воду, укрытие для наблюдения за птицами и короткую разрешённую прогулку. Postberg открывают для цветов в ограниченный сезон, поэтому его нельзя обещать круглый год. Пляжные участки имеют свои правила; лагуна не означает, что купаться разрешено везде. Для спокойного знакомства лучше оставить время на одну часть парка.",
+          "tickets": "Платный въезд SANParks; тариф и доступ Postberg зависят от сезона. Проверяйте открытые участки и часы ворот.",
+          "hike": "Обычное время на посещение: День. Нагрузка: легко.",
+          "access": "До West Coast Gate с R27; затем по парковой карте к выбранной смотровой или укрытию.",
+          "source": "https://www.sanparks.org/parks/west-coast",
+          "checkedAt": "2026-10-28",
+          "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Langebaan_lagoon%2C_West_Coast_National_Park.jpg/1280px-Langebaan_lagoon%2C_West_Coast_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "photoAlt": "Вест-Кост — лагуна Лангебан",
+          "creditText": "Winfried Bruenken (Amrum) · [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Langebaan_lagoon,_West_Coast_National_Park.jpg)",
+          "extra": [],
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Langebaan_lagoon,_West_Coast_National_Park.jpg"
+        }
+      ],
+      "routeAccess": {
+        "1": {
+          "kind": "arrival",
+          "query": "Lower Tafelberg Road parking, Cape Town, South Africa",
+          "label": "До парковки Lower Tafelberg Road; далее шаттл к нижней станции и канатная дорога",
+          "note": "До парковки Lower Tafelberg Road; далее шаттл к нижней станции и канатная дорога.",
+          "sources": [
+            "https://www.tablemountain.net/plan-your-visit/getting-here"
+          ],
+          "checked": "2026-10-28"
+        },
+        "2": {
+          "kind": "arrival",
+          "query": "Clock Tower Parking, V&A Waterfront, Cape Town",
+          "label": "До парковки Clock Tower у Waterfront; затем пешком к Nelson Mandela Gateway и на паром",
+          "note": "До парковки Clock Tower у Waterfront; затем пешком к Nelson Mandela Gateway и на паром.",
+          "sources": [
+            "https://www.robben-island.org.za/frequently-asked-questions/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "3": {
+          "kind": "arrival",
+          "query": "Kirstenbosch Gate 1 parking, Cape Town",
+          "label": "До парковки Gate 1 на Rhodes Drive; далее по дорожкам сада",
+          "note": "До парковки Gate 1 на Rhodes Drive; далее по дорожкам сада.",
+          "sources": [
+            "https://www.sanbi.org/gardens/kirstenboch/visitor-information/information/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "4": {
+          "kind": "arrival",
+          "query": "Cape Point Main Car Park, South Africa",
+          "label": "До основной парковки Cape Point через вход парка; далее пешком или на фуникулёре",
+          "note": "До основной парковки Cape Point через вход парка; далее пешком или на фуникулёре.",
+          "sources": [
+            "https://capepoint.co.za/visitus/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "5": {
+          "kind": "arrival",
+          "query": "Boulders Beach Parking Seaforth, Simonstown",
+          "label": "До парковки Seaforth; далее пешком к входу и настилам Foxy Beach",
+          "note": "До парковки Seaforth; далее пешком к входу и настилам Foxy Beach.",
+          "sources": [
+            "https://www.sanparks.org/parks/table-mountain/rates-entry-fees"
+          ],
+          "checked": "2026-10-28"
+        },
+        "6": {
+          "kind": "arrival",
+          "query": "Franschhoek Wine Tram Terminal Main Road Cabriere Street",
+          "label": "До Franschhoek Terminal; для линии с отправлением Groot Drakenstein выберите её терминал по билету",
+          "note": "До Franschhoek Terminal; для линии с отправлением Groot Drakenstein выберите её терминал по билету.",
+          "sources": [
+            "https://winetram.co.za/faq/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "7": {
+          "kind": "arrival",
+          "query": "Gearing Point parking, Hermanus",
+          "label": "До парковки Gearing Point; далее по прибрежной тропе",
+          "note": "Место посадки на катер зависит от оператора.",
+          "sources": [
+            "https://hermanus-tourism.co.za/things-to-do/whale-and-shark-viewing/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "8": {
+          "kind": "arrival",
+          "query": "Sanddrif reception Dwarsrivier Cederberg",
+          "label": "Сначала до Sanddrif reception за разрешением и схемой проезда; затем к парковке Стадсаал по указаниям",
+          "note": "Сначала до Sanddrif reception за разрешением и схемой проезда; затем к парковке Стадсаал по указаниям.",
+          "sources": [
+            "https://www.capenature.co.za/news/2026/cederberg-fire-recovery-and-visitor-access"
+          ],
+          "checked": "2026-10-28"
+        },
+        "9": {
+          "kind": "arrival",
+          "query": "Cango Caves visitor parking, Oudtshoorn",
+          "label": "До парковки посетительского центра Cango Caves на R328; далее к регистрации экскурсии",
+          "note": "До парковки посетительского центра Cango Caves на R328; далее к регистрации экскурсии.",
+          "sources": [
+            "https://www.cango-caves.co.za/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "10": {
+          "kind": "arrival",
+          "query": "Ebb and Flow South Camp reception, Wilderness",
+          "label": "До reception Ebb-and-Flow South; там уточните парковку и открытый старт выбранной тропы или каноэ",
+          "note": "До reception Ebb-and-Flow South; там уточните парковку и открытый старт выбранной тропы или каноэ.",
+          "sources": [
+            "https://www.sanparks.org/parks/garden-route"
+          ],
+          "checked": "2026-10-28"
+        },
+        "11": {
+          "kind": "arrival",
+          "query": "Diepwalle Forest Station, Knysna",
+          "label": "До Diepwalle Forest Station по R339; парковка и начало маршрутов у станции",
+          "note": "До Diepwalle Forest Station по R339; парковка и начало маршрутов у станции.",
+          "sources": [
+            "https://www.sanparks.org/parks/garden-route/what-to-do/activities/hikes-walks-trails"
+          ],
+          "checked": "2026-10-28"
+        },
+        "12": {
+          "kind": "arrival",
+          "query": "Robberg Nature Reserve parking, Plettenberg Bay",
+          "label": "До парковки внутри входа Robberg; все три основные петли начинаются здесь",
+          "note": "До парковки внутри входа Robberg; все три основные петли начинаются здесь.",
+          "sources": [
+            "https://www.capenature.co.za/reserves/robberg-nature-reserve"
+          ],
+          "checked": "2026-10-28"
+        },
+        "13": {
+          "kind": "arrival",
+          "query": "Storms River Mouth Rest Camp day visitor parking",
+          "label": "До дневной парковки Storms River Mouth Rest Camp через ворота; далее к началу Mouth Trail",
+          "note": "До дневной парковки Storms River Mouth Rest Camp через ворота; далее к началу Mouth Trail.",
+          "sources": [
+            "https://www.sanparks.org/parks/garden-route/what-to-do/activities/hikes-walks-trails"
+          ],
+          "checked": "2026-10-28"
+        },
+        "14": {
+          "kind": "arrival",
+          "query": "Matyholweni Gate Addo Elephant National Park",
+          "label": "До южных ворот Matyholweni от N2 через Colchester; дальше сафари на машине",
+          "note": "Для Main Camp сверяйте рекомендованный подъезд SANParks.",
+          "sources": [
+            "https://www.sanparks.org/parks/addo-elephant/travel/maps"
+          ],
+          "checked": "2026-10-28"
+        },
+        "15": {
+          "kind": "arrival",
+          "query": "Royal Natal National Park Visitor Centre Mahai",
+          "label": "До Visitor Centre у Mahai; уточните парковку для выбранной нижней тропы",
+          "note": "Это не подъезд к Sentinel.",
+          "sources": [
+            "https://kznparks.com/accommodation/royal-natal-thendele-resort/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "16": {
+          "kind": "arrival",
+          "query": "Giants Castle Camp reception, South Africa",
+          "label": "До reception Giants Castle Camp; там оформите посещение и получите указания к парковке и тропе",
+          "note": "До reception Giants Castle Camp; там оформите посещение и получите указания к парковке и тропе.",
+          "sources": [
+            "https://www.kznwildlife.com/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "17": {
+          "kind": "arrival",
+          "query": "Glen Reenen Rest Camp reception, Golden Gate",
+          "label": "До reception Glen Reenen; далее к согласованной парковке и открытой тропе",
+          "note": "До reception Glen Reenen; далее к согласованной парковке и открытой тропе.",
+          "sources": [
+            "https://www.sanparks.org/parks/golden-gate-highlands"
+          ],
+          "checked": "2026-10-28"
+        },
+        "18": {
+          "kind": "arrival",
+          "query": "Durban Botanic Gardens parking John Zikhali Road",
+          "label": "До общественной парковки с John Zikhali Road у северной стороны сада",
+          "note": "До общественной парковки с John Zikhali Road у северной стороны сада.",
+          "sources": [
+            "https://visitdurban.travel/space/durban-botanic-gardens"
+          ],
+          "checked": "2026-10-28"
+        },
+        "19": {
+          "kind": "blocked",
+          "query": "",
+          "label": "Сначала выберите оператора; общего подтверждённого места парковки для всех круизов нет",
+          "note": "Сначала выберите оператора; общего подтверждённого места парковки для всех круизов нет.",
+          "sources": [
+            "https://www.isimangaliso.com/activities/boat-cruises/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "20": {
+          "kind": "arrival",
+          "query": "Bhangazi Gate iSimangaliso, St Lucia",
+          "label": "До Bhangazi Gate у Сент-Лусии; далее по парковой дороге к Cape Vidal и дневной парковке",
+          "note": "До Bhangazi Gate у Сент-Лусии; далее по парковой дороге к Cape Vidal и дневной парковке.",
+          "sources": [
+            "https://www.isimangaliso.com/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "21": {
+          "kind": "arrival",
+          "query": "Memorial Gate Hluhluwe Imfolozi Park",
+          "label": "До Memorial Gate через Hluhluwe; это подъезд к северной части и Hilltop",
+          "note": "Для Mpila нужен другой вход.",
+          "sources": [
+            "https://www.kznwildlife.com/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "22": {
+          "kind": "arrival",
+          "query": "Sodwana Bay main gate South Africa",
+          "label": "До главных ворот Sodwana Bay; далее к парковке и месту встречи, указанным выбранным дайв-центром",
+          "note": "До главных ворот Sodwana Bay; далее к парковке и месту встречи, указанным выбранным дайв-центром.",
+          "sources": [
+            "https://www.isimangaliso.com/places/sodwana-bay/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "23": {
+          "kind": "arrival",
+          "query": "Paul Kruger Gate Kruger National Park",
+          "label": "До Paul Kruger Gate для южного района и Skukuza; вход и ночёвка должны соответствовать вашему плану",
+          "note": "До Paul Kruger Gate для южного района и Skukuza; вход и ночёвка должны соответствовать вашему плану.",
+          "sources": [
+            "https://www.sanparks.org/parks/kruger/what-to-do/day-visits"
+          ],
+          "checked": "2026-10-28"
+        },
+        "24": {
+          "kind": "arrival",
+          "query": "Three Rondavels Viewpoint parking South Africa",
+          "label": "До парковки Three Rondavels Viewpoint от Panorama Route; далее короткая прогулка",
+          "note": "До парковки Three Rondavels Viewpoint от Panorama Route; далее короткая прогулка.",
+          "sources": [
+            "https://www.mpumalanga.com/plan-your-trip/accommodation/unknown-region/graskop/three-rondavels-MTATT7114"
+          ],
+          "checked": "2026-10-28"
+        },
+        "25": {
+          "kind": "arrival",
+          "query": "Bourkes Luck Potholes visitor centre parking",
+          "label": "До парковки посетительского центра Bourke’s Luck Potholes; далее по оборудованным дорожкам",
+          "note": "До парковки посетительского центра Bourke’s Luck Potholes; далее по оборудованным дорожкам.",
+          "sources": [
+            "https://www.mpumalanga.com/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "26": {
+          "kind": "arrival",
+          "query": "Gods Window parking Mpumalanga",
+          "label": "До обозначенной парковки God’s Window; далее вверх по ступеням",
+          "note": "До обозначенной парковки God’s Window; далее вверх по ступеням.",
+          "sources": [
+            "https://www.mpumalanga.com/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "27": {
+          "kind": "arrival",
+          "query": "Apartheid Museum parking Johannesburg",
+          "label": "До парковки музея у Northern Parkway и Gold Reef Road; затем к входу",
+          "note": "До парковки музея у Northern Parkway и Gold Reef Road; затем к входу.",
+          "sources": [
+            "https://www.apartheidmuseum.org/about-the-museum/visitor-information"
+          ],
+          "checked": "2026-10-28"
+        },
+        "28": {
+          "kind": "blocked",
+          "query": "",
+          "label": "Место встречи и парковка зависят от выбранного местного гида; согласуйте до поездки",
+          "note": "Место встречи и парковка зависят от выбранного местного гида; согласуйте до поездки.",
+          "sources": [
+            "https://www.mandelahouse.com/"
+          ],
+          "checked": "2026-10-28"
+        },
+        "29": {
+          "kind": "arrival",
+          "query": "Maropeng Visitor Centre parking South Africa",
+          "label": "До парковки Maropeng Visitor Centre на R400; это не парковка пещер Стеркфонтейн",
+          "note": "До парковки Maropeng Visitor Centre на R400; это не парковка пещер Стеркфонтейн.",
+          "sources": [
+            "https://www.maropeng.co.za/maropeng-tour/maropeng-tour"
+          ],
+          "checked": "2026-10-28"
+        },
+        "30": {
+          "kind": "arrival",
+          "query": "Mapungubwe National Park Main Gate reception",
+          "label": "До Main Gate и reception; далее по указаниям к выбранной программе или смотровой",
+          "note": "До Main Gate и reception; далее по указаниям к выбранной программе или смотровой.",
+          "sources": [
+            "https://www.sanparks.org/parks/mapungubwe/useful-information/vital-information"
+          ],
+          "checked": "2026-10-28"
+        },
+        "31": {
+          "kind": "arrival",
+          "query": "Skilpad Rest Camp reception Namaqua National Park",
+          "label": "До Skilpad reception через Kamieskroon; далее по открытой петле и обозначенным парковкам",
+          "note": "До Skilpad reception через Kamieskroon; далее по открытой петле и обозначенным парковкам.",
+          "sources": [
+            "https://www.sanparks.org/parks/namaqua"
+          ],
+          "checked": "2026-10-28"
+        },
+        "32": {
+          "kind": "arrival",
+          "query": "Augrabies Falls National Park reception parking",
+          "label": "До reception и парковки основного лагеря; к водопаду дальше по настилам",
+          "note": "До reception и парковки основного лагеря; к водопаду дальше по настилам.",
+          "sources": [
+            "https://www.sanparks.org/parks/augrabies-falls"
+          ],
+          "checked": "2026-10-28"
+        },
+        "33": {
+          "kind": "arrival",
+          "query": "Twee Rivieren Gate Kgalagadi South Africa",
+          "label": "До Twee Rivieren Gate с южноафриканской стороны; далее по разрешённым дорогам парка",
+          "note": "До Twee Rivieren Gate с южноафриканской стороны; далее по разрешённым дорогам парка.",
+          "sources": [
+            "https://www.sanparks.org/parks/kgalagadi/travel/entrance-gates"
+          ],
+          "checked": "2026-10-28"
+        },
+        "34": {
+          "kind": "arrival",
+          "query": "De Hoop Nature Reserve main gate",
+          "label": "До главных ворот De Hoop; после оформления въезда следуйте к парковке Koppie Alleen по указаниям парка",
+          "note": "До главных ворот De Hoop; после оформления въезда следуйте к парковке Koppie Alleen по указаниям парка.",
+          "sources": [
+            "https://www.capenature.co.za/reserves/de-hoop-nature-reserve"
+          ],
+          "checked": "2026-10-28"
+        },
+        "35": {
+          "kind": "arrival",
+          "query": "Southernmost Tip of Africa parking Cape Agulhas",
+          "label": "До парковки у Southernmost Tip of Africa; далее по оборудованному подходу к знаку",
+          "note": "До парковки у Southernmost Tip of Africa; далее по оборудованному подходу к знаку.",
+          "sources": [
+            "https://www.sanparks.org/parks/agulhas"
+          ],
+          "checked": "2026-10-28"
+        },
+        "36": {
+          "kind": "arrival",
+          "query": "West Coast National Park West Coast Gate R27",
+          "label": "До West Coast Gate с R27; затем по парковой карте к выбранной смотровой или укрытию",
+          "note": "До West Coast Gate с R27; затем по парковой карте к выбранной смотровой или укрытию.",
+          "sources": [
+            "https://www.sanparks.org/parks/west-coast"
+          ],
+          "checked": "2026-10-28"
+        }
+      },
+      "description": "ЮАР: сафари, горы, океан, история и винные долины. Места на карте, варианты посещения, билеты и точки подъезда.",
+      "brief": "В ЮАР едут за сочетанием впечатлений: сафари в Крюгере, скалами Кейптауна, пингвинами, винными долинами и зелёным побережьем Дороги садов. Дракенсберг добавляет горные прогулки, а северо-запад — дюны и совсем другое сафари.\n\nИстория страны не менее важна, чем природа: Роббен-Айленд, Соуэто и музей апартеида помогают понять современную Южную Африку. Для одной поездки лучше выбрать несколько районов, а не пытаться объехать всё.",
+      "insights": "**Океан и горы.** Кейп-Пойнт, Робберг и Дракенсберг дают разные виды: короткие смотровые, прогулки и полноценные походы не стоит смешивать в одну нагрузку.\n\n**Живой мир.** Крюгер, Аддо и Кгалагади отличаются ландшафтом и характером сафари. На побережье добавляются пингвины и сезонные киты; у Содваны — коралловые рифы. Встречи с животными никогда не гарантированы.\n\n**Люди и история.** От наскального искусства сан и древнего Мапунгубве до апартеида и современной городской жизни — культурные остановки помогают увидеть страну глубже. Винные долины дополняют путешествие архитектурой и гастрономией.",
+      "season": "**Кейптаун и Западный Кейп:** ноябрь–март обычно суше и теплее; июнь–август прохладнее и дождливее. Ветер может остановить канатную дорогу и морские экскурсии.\n\n**Сафари на северо-востоке:** май–сентябрь обычно суше, растительность реже; летом зелено, больше дождей и насекомых. В Дракенсберге летом возможны грозы, зимой — мороз и снег.\n\n**Сезонные впечатления:** киты у Хермануса чаще с июня по ноябрь; цветы Намаквы обычно в конце зимы и весной после подходящих дождей. Для конкретного года проверяйте фактические условия.",
+      "features": "Валюта — ранд (ZAR). Английский широко используют в туристической сфере, но страна многоязычная. Движение левостороннее. Розетки — M/N, встречаются D. В городах и на основных туристических маршрутах услуги развиты; вдали от них связь, топливо и медицинская помощь могут быть ограничены.\n\nРиск ограблений существенный: согласуйте безопасный подъезд с жильём, не оставляйте вещи в машине и избегайте ночных переездов и одиночных прогулок по незнакомым местам. На сафари выходите только в разрешённых точках; бабуинов не кормите. У рек северо-востока опасны бегемоты и крокодилы. На морском побережье возможны акулы и сильные течения: выбирайте контролируемые пляжи и соблюдайте флаги и закрытия.\n\nДо поездки проверьте рекомендации по прививкам и обсудите профилактику малярии, если едете в районы Лимпопо, Мпумаланги или северо-востока Квазулу-Натала. При необходимости возьмите репеллент. Бронируйте популярные парки и экскурсии заранее; подготовьте офлайн-карты, страховку и необходимые для вашего гражданства документы. [Безопасность и подготовка](https://www.smartraveller.gov.au/destinations/africa/south-africa), [малярийные районы](https://www.gov.za/faq/health/where-does-malaria-occur-south-africa-and-how-can-i-prevent-infection).",
+      "home": {
+        "description": "Сафари, океанские скалы, Дракенсберг, винные долины и история страны.",
+        "image": "media-7f281701-eee4-51fa-8703-ffc1f305ad33-960.webp",
+        "alt": "Столовая гора над Кейптауном"
+      },
+      "en": {
+        "title": "South Africa",
+        "genitive": "South Africa",
+        "description": "South Africa: wildlife, mountains, ocean, history and wine valleys. Mapped places, visiting options, tickets and arrival points.",
+        "brief": "South Africa combines Kruger safaris, Cape Town’s cliffs, penguins, wine valleys and the green Garden Route coast. The Drakensberg adds mountain walks, while the northwest offers dunes and a very different safari.\n\nHistory matters as much as scenery: Robben Island, Soweto and the Apartheid Museum help explain contemporary South Africa. Choose a few areas for one journey rather than trying to cover everything.",
+        "insights": "**Ocean and mountains.** Cape Point, Robberg and the Drakensberg offer different landscapes. Short viewpoints, walks and substantial hikes are distinct choices.\n\n**Wildlife.** Kruger, Addo and Kgalagadi differ in landscape and safari experience. The coast adds penguins and seasonal whales; Sodwana brings coral reefs. Animal sightings are never guaranteed.\n\n**People and history.** San rock art, ancient Mapungubwe, apartheid and contemporary city life reveal more than scenery alone. Wine valleys add architecture and food.",
+        "season": "**Cape Town and the Western Cape:** November–March is generally warmer and drier; June–August is cooler and wetter. Wind can stop cable-car and boat services.\n\n**Northeastern safaris:** May–September is usually drier with thinner vegetation; summer brings greener scenery, rain and insects. The Drakensberg can have summer thunderstorms and winter frost or snow.\n\n**Seasonal experiences:** Hermanus whales are most often seen from June to November; Namaqua flowers typically appear in late winter and spring after suitable rain. Check conditions in the actual year.",
+        "features": "The currency is the rand (ZAR). English is widely used in tourism, within a multilingual country. Drive on the left. Sockets are types M/N, with D also found. Cities and major tourism routes have developed services; remote areas can have limited communications, fuel and medical care.\n\nRobbery is a significant risk: agree safe approaches with your accommodation, keep belongings out of vehicles and avoid night driving and solitary walks in unfamiliar areas. Leave safari vehicles only at authorised points and never feed baboons. Hippos and crocodiles are hazards around northeastern rivers. Sharks and strong currents occur along the coast: choose monitored beaches and follow flags and closures.\n\nCheck vaccination advice before departure and discuss malaria prevention if visiting affected parts of Limpopo, Mpumalanga or northeastern KwaZulu-Natal. Bring repellent when needed. Reserve popular parks and tours ahead; prepare offline maps, insurance and the documents required for your nationality. [Safety and preparation](https://www.smartraveller.gov.au/destinations/africa/south-africa), [malaria areas](https://www.gov.za/faq/health/where-does-malaria-occur-south-africa-and-how-can-i-prevent-infection).",
+        "home": {
+          "description": "Safaris, ocean cliffs, the Drakensberg, wine valleys and a layered history.",
+          "alt": "Table Mountain above Cape Town"
+        },
+        "places": {
+          "1": {
+            "name": "Table Mountain",
+            "shortName": "Table Mountain",
+            "region": "Cape Town and the peninsula",
+            "format": "Full day",
+            "time": "Half day",
+            "walk": "Easy with the cableway",
+            "desc": "The plateau brings Cape Town, the ocean and mountain chain into one panorama.",
+            "detail": "After the cable-car ride, follow short paths between viewpoints rather than staying beside the station. Clouds can obscure navigation, so longer trails need preparation. Hiking up is a separate mountain outing, much harder than strolling at the summit. For a first visit, choose a clear weather window and allow time for queues and the descent.",
+            "tickets": "The cableway requires a ticket; advance purchase is recommended. Wind and maintenance affect operation. The suggested park-and-ride has a free shuttle; check its timetable.",
+            "hike": "Typical visiting time: Half day. Effort: easy with the cableway.",
+            "access": "Drive to Lower Tafelberg Road parking, then take the shuttle to the lower station and cableway.",
+            "photoAlt": "Table Mountain",
+            "creditText": "Danie van der Merwe from Cape Town, South Africa · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg)"
+          },
+          "2": {
+            "name": "Robben Island",
+            "shortName": "Robben Island",
+            "region": "Cape Town and the peninsula",
+            "format": "Half day",
+            "time": "4 hours",
+            "walk": "Easy",
+            "desc": "The former prison makes the history of apartheid tangible through a place and individual lives.",
+            "detail": "A standard visit combines the ferry, an island overview and the prison section. This is a structured historical tour rather than unrestricted island access. Nelson Mandela’s imprisonment sits within a much longer island history. Allow for boarding formalities and the crossing; rough seas can change the schedule.",
+            "tickets": "Book a specific ferry departure in advance and arrive at least 30 minutes early. Waterfront parking is separate; check required identification and cancellation rules with the museum.",
+            "hike": "Typical visiting time: 4 hours. Effort: easy.",
+            "access": "Drive to Clock Tower Parking at the Waterfront, walk to Nelson Mandela Gateway and board the ferry.",
+            "photoAlt": "Robben Island",
+            "creditText": "South African Tourism from South Africa · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Robben_Island_-_Cape_Town,_South_Africa_(3883849594).jpg)"
+          },
+          "3": {
+            "name": "Kirstenbosch",
+            "shortName": "Kirstenbosch",
+            "region": "Cape Town and the peninsula",
+            "format": "Half day",
+            "time": "2–4 hours",
+            "walk": "Easy, with slopes",
+            "desc": "The garden introduces southern African plants beneath Table Mountain.",
+            "detail": "Choose gentle lower paths or climb towards the proteas and the canopy walkway. Beyond flowers, look at adaptations to the local climate. Benches and lawns make this an unhurried stop. Mountain trails leaving the garden are separate hikes, not casual extensions of its landscaped paths.",
+            "tickets": "Admission is paid, online or on arrival, with cashless payment. Parking at Gates 1–3 is free. Concerts and special events may require separate tickets.",
+            "hike": "Typical visiting time: 2–4 hours. Effort: easy, with slopes.",
+            "access": "Drive to Gate 1 parking on Rhodes Drive, then follow garden paths.",
+            "photoAlt": "Kirstenbosch",
+            "creditText": "Discott · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kirstenbosch_National_Botanical_Garden_2024_7th_batch_09.jpg)"
+          },
+          "4": {
+            "name": "Cape Point and Cape of Good Hope",
+            "shortName": "Cape Point and Cape of Good Hope",
+            "region": "Cape Town and the peninsula",
+            "format": "Full day",
+            "time": "Half day",
+            "walk": "Moderate",
+            "desc": "Cliffs, ocean and fynbos create a defining coastal landscape.",
+            "detail": "Walk or take the funicular towards the old lighthouse, then choose an open coastal trail. The Cape of Good Hope is a separate stop within the same park section. Africa’s southernmost point is actually Cape Agulhas. A vehicle or organised transport links the stops; keep food secured around baboons.",
+            "tickets": "SANParks admission is paid by card; the funicular is extra. Check gate hours. Separate booking for ordinary parking has not been confirmed.",
+            "hike": "Typical visiting time: Half day. Effort: moderate.",
+            "access": "Drive through the park gate to Cape Point Main Car Park; continue on foot or by funicular.",
+            "photoAlt": "Cape Point and Cape of Good Hope",
+            "creditText": "Ernmuhl at lb.wikipedia · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Goodhope2.jpg)"
+          },
+          "5": {
+            "name": "Boulders — African penguins",
+            "shortName": "Boulders",
+            "region": "Cape Town and the peninsula",
+            "format": "Short stop",
+            "time": "1–2 hours",
+            "walk": "Easy",
+            "desc": "Boardwalks among granite boulders overlook a penguin colony.",
+            "detail": "Spend time watching behaviour rather than trying to approach for a photograph. Foxy Beach boardwalks overlook the colony, while the beach section offers a different and sometimes busy experience. These are wild birds: do not touch them or block their path to the sea. Nearby Simon’s Town adds a historical stop.",
+            "tickets": "This SANParks section has its own admission fee, separate from Cape Point, paid by card. Check beach access and parking arrangements, particularly on weekends.",
+            "hike": "Typical visiting time: 1–2 hours. Effort: easy.",
+            "access": "Drive to Seaforth parking, then walk to the entrance and Foxy Beach boardwalks.",
+            "photoAlt": "Boulders — African penguins",
+            "creditText": "Olga Ernst · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Boulders_Beach_Suedafrika.jpg)"
+          },
+          "6": {
+            "name": "Franschhoek — the wine valley",
+            "shortName": "Franschhoek",
+            "region": "Western Cape",
+            "format": "Full day",
+            "time": "Full day",
+            "walk": "Easy",
+            "desc": "Wine estates, mountain scenery and Cape architecture make this a destination in its own right.",
+            "detail": "The Wine Tram combines rail sections and buses between estates. Choose a few stops rather than rushing through every one: tastings, gardens and lunch take time. Architecture, galleries and scenery also suit non-drinkers. Arrange a driver or transfer after tastings.",
+            "tickets": "Book the Wine Tram ahead. Tastings and meals may be extra. Terminal parking is free; the departure terminal depends on the chosen line.",
+            "hike": "Typical visiting time: Full day. Effort: easy.",
+            "access": "Drive to Franschhoek Terminal; use Groot Drakenstein instead if specified by your ticket.",
+            "photoAlt": "Franschhoek — the wine valley",
+            "creditText": "Olga Ernst · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Franschhoek_(S%C3%BCdafrika).jpg)"
+          },
+          "7": {
+            "name": "Hermanus — whales from shore",
+            "shortName": "Hermanus",
+            "region": "Western Cape",
+            "format": "Full day",
+            "time": "Half day",
+            "walk": "Easy",
+            "desc": "A coastal path lets you look for whales from land while exploring the bay.",
+            "detail": "Southern right whales approach the coast during their breeding season. Watch for blows, backs and movement at the surface; binoculars and patience help. Walk part of the Cliff Path or book a licensed boat trip. Outside the season, cliffs and ocean remain worthwhile, but whales cannot be promised.",
+            "tickets": "An ordinary Cliff Path walk does not require a tour ticket. Boat trips need separate booking; follow municipal parking signs.",
+            "hike": "Typical visiting time: Half day. Effort: easy.",
+            "access": "Drive to Gearing Point parking and continue along the coast. Boat departure points depend on the operator.",
+            "photoAlt": "Hermanus — whales from shore",
+            "creditText": "Olga Ernst · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hermanus_Old_Harbour.jpg)"
+          },
+          "8": {
+            "name": "Cederberg — Stadsaal",
+            "shortName": "Cederberg",
+            "region": "Western Cape",
+            "format": "Full day",
+            "time": "Half day",
+            "walk": "Moderate",
+            "desc": "Weathered sandstone, rock shelters and ancient elephant paintings reveal the Cederberg without a long ascent.",
+            "detail": "Walk slowly among the formations and changing light. Observe rock art from the permitted distance without touching it. Stadsaal is a specific short visit; Wolfberg Arch and Maltese Cross involve different routes and permits. Fire recovery can change access, so check which areas are open.",
+            "tickets": "A permit and gate code are required. Obtain them from an authorised outlet such as Sanddrif and check fire-related restrictions.",
+            "hike": "Typical visiting time: Half day. Effort: moderate.",
+            "access": "First drive to Sanddrif reception for the permit and directions, then to Stadsaal parking as instructed.",
+            "photoAlt": "Cederberg — Stadsaal",
+            "creditText": "Zaian · [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stadsaal_Caves_view2.jpg)"
+          },
+          "9": {
+            "name": "Cango Caves",
+            "shortName": "Cango Caves",
+            "region": "Garden Route and Eastern Cape",
+            "format": "Half day",
+            "time": "1–2 hours",
+            "walk": "Moderate",
+            "desc": "Large underground chambers and formations contrast with the coast.",
+            "detail": "Choose the regular guided visit for an introduction: lighting and interpretation reveal the shapes and their geological story. Narrow adventure passages, when available, require a separate choice and suitable fitness. This is a worthwhile Little Karoo stop without needing to attempt the most demanding option.",
+            "tickets": "Entry is through a paid guided tour; book the chosen programme ahead. Confirm Adventure Tour availability and restrictions, plus current parking arrangements.",
+            "hike": "Typical visiting time: 1–2 hours. Effort: moderate.",
+            "access": "Drive to Cango Caves visitor parking on the R328, then check in for the tour.",
+            "photoAlt": "Cango Caves",
+            "creditText": "Rute Martins of Leoa's Photography (www.leoa.co.za) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cango_Caves-001.JPG)"
+          },
+          "10": {
+            "name": "Wilderness — rivers and forest",
+            "shortName": "Wilderness",
+            "region": "Garden Route and Eastern Cape",
+            "format": "Full day",
+            "time": "Half day",
+            "walk": "Depends on activity",
+            "desc": "The Touw River and forest paths let you exchange the car for walking or paddling.",
+            "detail": "Start at Ebb-and-Flow and choose an open route from the current map. Focus on woodland and birds, or take a gentle canoe outing. Trails and waterways are not always accessible: floods can close individual sections. This rewards a slow day rather than just a brief beach stop.",
+            "tickets": "Ask reception about conservation fees and permits for trails and water activities; equipment hire is separate. Check current closures.",
+            "hike": "Typical visiting time: Half day. Effort: depends on activity.",
+            "access": "Drive to Ebb-and-Flow South reception for parking and the open starting point of your walk or paddle.",
+            "photoAlt": "Wilderness — rivers and forest",
+            "creditText": "Mart Bouter · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RSA-WildernessNP1.jpg)"
+          },
+          "11": {
+            "name": "Knysna — Diepwalle Forest",
+            "shortName": "Knysna",
+            "region": "Garden Route and Eastern Cape",
+            "format": "Half day",
+            "time": "2–4 hours",
+            "walk": "Moderate",
+            "desc": "Old indigenous forest reveals a quieter side of the Garden Route.",
+            "detail": "Choose one of the Elephant Trails at Diepwalle rather than combining every loop. Trees, ferns, sounds and the history of timber use are the attraction. The trail name does not promise an elephant sighting. A shorter visit around the forestry station is an alternative when weather or paths make a longer walk unsuitable.",
+            "tickets": "Obtain the required permit at the forestry station and check fees and open loops. Overnight camping decks require a separate reservation.",
+            "hike": "Typical visiting time: 2–4 hours. Effort: moderate.",
+            "access": "Drive along R339 to Diepwalle Forest Station, where parking and trails are based.",
+            "photoAlt": "Knysna — Diepwalle Forest",
+            "creditText": "Hendrik van den Berg · [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Big_Yellowood_(Podocarpus_Falcatus)_-_46m_high,_2.3m_diameter_and_600y_old_-_panoramio.jpg)"
+          },
+          "12": {
+            "name": "Robberg",
+            "shortName": "Robberg",
+            "region": "Garden Route and Eastern Cape",
+            "format": "Half day",
+            "time": "2–5 hours",
+            "walk": "Easy to strenuous",
+            "desc": "A rocky peninsula combines ocean views, a dune and a seal colony.",
+            "detail": "Choose a suitable loop: Gap Circuit gives a short introduction, Witsand reaches the sandy connection, and Point Circuit extends to the far tip. The full circuit is substantially harder. Respect waves and wind along rocky sections; seals are usually viewed from above. Do not continue through closed or unsafe tidal sections.",
+            "tickets": "A paid CapeNature day permit is required and can be arranged through its booking system. Fountain Shack accommodation requires a separate reservation.",
+            "hike": "CapeNature lists Gap Circuit as 2.1 km/about 30 minutes, Witsand as 5.5 km/about 2 hours, and Point Circuit as 9.2 km/about 4 hours. These are standard estimates; stops and conditions can add time.",
+            "access": "Drive to the parking area inside Robberg’s entrance; the three main loops start here.",
+            "photoAlt": "Robberg",
+            "creditText": "flowcomm · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Robberg_Nature_Reserve,_Plettenberg_Bay_-_53147416220.jpg)"
+          },
+          "13": {
+            "name": "Storms River Mouth",
+            "shortName": "Storms River Mouth",
+            "region": "Garden Route and Eastern Cape",
+            "format": "Full day",
+            "time": "Half day",
+            "walk": "Moderate, with steps",
+            "desc": "A suspension bridge spans a river mouth between forest, gorge and open ocean.",
+            "detail": "The short Mouth Trail is the introduction, with steps along the way. A separately booked kayak-and-lilo trip offers a more active gorge experience. The coastal Waterfall Trail is harder and depends on sea and trail conditions. The multi-day Otter Trail has its own reservation system and is not a casual extension.",
+            "tickets": "SANParks section admission is paid. Kayaking and multi-day trails need separate bookings; check storm-related closures.",
+            "hike": "Typical visiting time: Half day. Effort: moderate, with steps.",
+            "access": "Drive through the gate to the day-visitor parking at Storms River Mouth Rest Camp, then walk to Mouth Trail.",
+            "photoAlt": "Storms River Mouth",
+            "creditText": "Original uploader was Conrad88 at en.wikipedia · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsitsikamma_Park.JPG)"
+          },
+          "14": {
+            "name": "Addo — elephant country",
+            "shortName": "Addo",
+            "region": "Garden Route and Eastern Cape",
+            "format": "Full day",
+            "time": "Full day",
+            "walk": "Easy by vehicle",
+            "desc": "Elephant waterholes and dense thicket make Addo a practical southern self-drive safari.",
+            "detail": "Use authorised roads in your own vehicle or book a ranger-led drive. Watching one group at a waterhole can be more rewarding than covering many kilometres. There is more than elephants, but every sighting is uncertain. Leave the vehicle only where permitted.",
+            "tickets": "Daily conservation fees apply; accommodation and ranger drives require separate bookings. Allow sufficient internal travel time if your guided drive starts at Main Camp.",
+            "hike": "Typical visiting time: Full day. Effort: easy by vehicle.",
+            "access": "Drive from the N2 through Colchester to Matyholweni Gate, then continue the safari by vehicle. Check SANParks directions if using Main Camp instead.",
+            "photoAlt": "Addo — elephant country",
+            "creditText": "Brian Snelson · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elephant_Addo.jpg)"
+          },
+          "15": {
+            "name": "Royal Natal — the Amphitheatre",
+            "shortName": "Royal Natal",
+            "region": "KwaZulu-Natal and Drakensberg",
+            "format": "Full day",
+            "time": "Half or full day",
+            "walk": "Depends on trail",
+            "desc": "The Amphitheatre wall above a green valley defines the northern Drakensberg.",
+            "detail": "The lower park offers short walks near Mahai or a longer hike towards Tugela Gorge. Viewing the cliffs from below and reaching the escarpment are different outings with different approaches: Sentinel Car Park is on the other side. Ask rangers about bridges and trails; storms, mist and high water can change plans.",
+            "tickets": "Pay applicable Ezemvelo entry and hiking fees and register your departure and return. Overnight or difficult routes require additional arrangements.",
+            "hike": "Typical visiting time: Half or full day. Effort: depends on trail.",
+            "access": "Drive to the visitor centre near Mahai and confirm parking for your lower-valley trail. This is not the Sentinel approach.",
+            "photoAlt": "Royal Natal — the Amphitheatre",
+            "creditText": "Bjørn Christian Tørrissen · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Royal_Natal_Drakensberg_2015.JPG)"
+          },
+          "16": {
+            "name": "Giant’s Castle — San rock art",
+            "shortName": "Giant’s Castle",
+            "region": "KwaZulu-Natal and Drakensberg",
+            "format": "Full day",
+            "time": "Half day",
+            "walk": "Moderate",
+            "desc": "A mountain walk to Main Caves connects Drakensberg scenery with San art.",
+            "detail": "A guide helps explain imagery that belongs to a complex cultural tradition rather than simply depicting animals. Walk from camp to the shelter and follow the controlled visiting arrangements. An open short trail can extend the outing without attempting Giant’s Castle summit. Never touch the paintings.",
+            "tickets": "Park entry and a guided Main Caves visit are required. Confirm tour times ahead; the vulture hide needs separate booking.",
+            "hike": "Typical visiting time: Half day. Effort: moderate.",
+            "access": "Drive to Giant’s Castle Camp reception for registration, parking and trail directions.",
+            "photoAlt": "Giant’s Castle — San rock art",
+            "creditText": "Smurfatefrog · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giants_Castle_at_sunrise_from_the_contour_path.jpg)"
+          },
+          "17": {
+            "name": "Golden Gate — sandstone cliffs",
+            "shortName": "Golden Gate",
+            "region": "KwaZulu-Natal and Drakensberg",
+            "format": "Full day",
+            "time": "Half or full day",
+            "walk": "Depends on trail",
+            "desc": "Ochre cliffs and grassy slopes offer a different landscape from the high Drakensberg escarpment.",
+            "detail": "Start with an authorised short trail near Glen Reenen and choose longer ascents according to weather and time. Sandstone changes colour towards sunset, but plan to return before darkness. Roadside views are appealing; walking better reveals the scale. Check Basotho Cultural Village programmes separately.",
+            "tickets": "Conservation fees apply to recreational visits; register at reception. Accommodation and special programmes require separate reservations.",
+            "hike": "Typical visiting time: Half or full day. Effort: depends on trail.",
+            "access": "Drive to Glen Reenen reception, then use the indicated parking and open trail.",
+            "photoAlt": "Golden Gate — sandstone cliffs",
+            "creditText": "Graham Maclachlan · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brandwag_-_panoramio.jpg)"
+          },
+          "18": {
+            "name": "Durban Botanic Gardens",
+            "shortName": "Durban Botanic Gardens",
+            "region": "KwaZulu-Natal and Drakensberg",
+            "format": "Short stop",
+            "time": "1–2 hours",
+            "walk": "Easy",
+            "desc": "An established garden of palms, cycads and subtropical greenery offers a quiet city break.",
+            "detail": "Paths let you explore collections without a long hike, including mature trees and the history of plant introductions. Pause beside the water to watch birds. Plan transport here and onwards rather than improvising a walk through unfamiliar city districts.",
+            "tickets": "The city tourism site lists ordinary admission as free; tours and events have separate arrangements. Check current hours and parking conditions.",
+            "hike": "Typical visiting time: 1–2 hours. Effort: easy.",
+            "access": "Use the public parking off John Zikhali Road on the northern side of the gardens.",
+            "photoAlt": "Durban Botanic Gardens",
+            "creditText": "Purves, M. · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Durban_Botanic_Gardens_new_entrance_04_09_2010.JPG)"
+          },
+          "19": {
+            "name": "St Lucia — hippos and birds",
+            "shortName": "St Lucia",
+            "region": "KwaZulu-Natal and Drakensberg",
+            "format": "Half day",
+            "time": "2–3 hours",
+            "walk": "Easy",
+            "desc": "An estuary cruise offers hippos, crocodiles and waterbirds.",
+            "detail": "Distance and a licensed operator matter; this is not a swimming location. A slow cruise reveals small scenes along the shore as well as larger animals. Water levels and weather affect the route. Hippos can also enter the village after dark: keep away and never block their path.",
+            "tickets": "Book a paid cruise with a licensed operator. Confirm the jetty and parking on your ticket, as companies use different departure points.",
+            "hike": "Typical visiting time: 2–3 hours. Effort: easy.",
+            "access": "Choose an operator first; there is no confirmed common parking point for every cruise.",
+            "photoAlt": "St Lucia — hippos and birds",
+            "creditText": "Bernard DUPONT from FRANCE · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hippo_(Hippopotamus_amphibius)_family_resting_on_the_shores_of_Lake_St_Lucia_.._(31656974747).jpg)"
+          },
+          "20": {
+            "name": "Cape Vidal and the Eastern Shores",
+            "shortName": "Cape Vidal and the Eastern Shores",
+            "region": "KwaZulu-Natal and Drakensberg",
+            "format": "Full day",
+            "time": "Full day",
+            "walk": "Easy with walks",
+            "desc": "Savanna, wetlands, coastal forest and ocean appear within one outing.",
+            "detail": "From Bhangazi Gate, use authorised stops for wildlife before spending time at Cape Vidal beach. Snorkelling depends on tides and sea conditions; the shore is not a permanently safe swimming pool. Allow slow wildlife-viewing time when planning your return to the gate. Staying overnight removes pressure to cover everything in one drive.",
+            "tickets": "Park and vehicle fees apply, with limited day-vehicle capacity. Check admission arrangements ahead and reserve accommodation separately.",
+            "hike": "Typical visiting time: Full day. Effort: easy with walks.",
+            "access": "Drive to Bhangazi Gate at St Lucia, then follow the park road to Cape Vidal’s day parking.",
+            "photoAlt": "Cape Vidal and the Eastern Shores",
+            "creditText": "Bernard DUPONT from FRANCE · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cape_Vidal_Beach_..._(33450205598).jpg)"
+          },
+          "21": {
+            "name": "Hluhluwe–iMfolozi",
+            "shortName": "Hluhluwe–iMfolozi",
+            "region": "KwaZulu-Natal and Drakensberg",
+            "format": "Full day",
+            "time": "Full day or several nights",
+            "walk": "Easy by vehicle",
+            "desc": "A safari through rolling hills visits a park central to southern white rhino conservation.",
+            "detail": "Self-driving and guided outings offer different experiences: guides interpret tracks and behaviour, while your own car allows longer waits. Do not reduce the visit to one target species. Slow roads connect the northern and southern sections; choose the gate to match your base.",
+            "tickets": "Conservation fees are required; accommodation, drives and walking safaris are separate. Confirm gate hours and activity reservations.",
+            "hike": "Typical visiting time: Full day or several nights. Effort: easy by vehicle.",
+            "access": "Drive via Hluhluwe to Memorial Gate for the northern section and Hilltop. Mpila is better served by another gate.",
+            "photoAlt": "Hluhluwe–iMfolozi",
+            "creditText": "Bernard DUPONT from FRANCE · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hluhluwe_green_hills_..._(47294082242).jpg)"
+          },
+          "22": {
+            "name": "Sodwana Bay — coral reefs",
+            "shortName": "Sodwana Bay",
+            "region": "KwaZulu-Natal and Drakensberg",
+            "format": "Full day",
+            "time": "Half or full day",
+            "walk": "Water skills required",
+            "desc": "Diving off the warm coast reveals another side of South Africa’s wildlife.",
+            "detail": "Reef and depth should match qualifications, experience and sea conditions. Beginners need an appropriate introductory programme rather than independent access to any reef. Surf launching is part of the local experience. Turtles and large animals are never scheduled appearances; the reef community itself is the attraction.",
+            "tickets": "Book with a licensed dive centre and confirm equipment, permits and park fees. Agree the meeting point and parking with your centre.",
+            "hike": "Typical visiting time: Half or full day. Effort: water skills required.",
+            "access": "Drive to Sodwana Bay main gate, then follow your dive centre’s parking and meeting instructions.",
+            "photoAlt": "Sodwana Bay — coral reefs",
+            "creditText": "FinlayCox143 · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SODWANA_BAY_Beach_(Humpback_whale_in_foreground)_-_panoramio.jpg)"
+          },
+          "23": {
+            "name": "Kruger National Park",
+            "shortName": "Kruger National Park",
+            "region": "Kruger and Mpumalanga",
+            "format": "Several nights",
+            "time": "2–4 days",
+            "walk": "Easy by vehicle",
+            "desc": "This large park allows unhurried wildlife watching independently or with a ranger.",
+            "detail": "Choose a few areas and overnight bases rather than trying to traverse the whole park. Dawn, waiting by water and revisiting a road can be more rewarding than chasing a species list. Ordinary visitor roads allow self-driving; wildlife walks require an authorised programme. Sightings and strict gate times determine the day’s rhythm.",
+            "tickets": "Daily conservation fees apply; accommodation and activities are separate. Reserve day entry ahead because of quotas, especially during holidays. Bring identification for all visitors.",
+            "hike": "Typical visiting time: 2–4 days. Effort: easy by vehicle.",
+            "access": "Drive to Paul Kruger Gate for the southern area and Skukuza; choose the gate to match your overnight plan.",
+            "photoAlt": "Kruger National Park",
+            "creditText": "Nithin bolar k · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kruger_Zebra.JPG)"
+          },
+          "24": {
+            "name": "Blyde River — Three Rondavels",
+            "shortName": "Blyde River",
+            "region": "Kruger and Mpumalanga",
+            "format": "Short stop",
+            "time": "1–2 hours",
+            "walk": "Easy",
+            "desc": "The viewpoint reveals a green canyon and three rounded rock towers.",
+            "detail": "Short paths from parking lead to several angles, so do not stop at the first platform. Pause to trace the water and cliff lines to appreciate the scale. Mist can hide everything, making this a flexible stop on the Panorama Route. Boat trips below use a different approach.",
+            "tickets": "Viewpoint admission is paid; check MTPA fees and hours. Separate booking for ordinary parking has not been confirmed.",
+            "hike": "Typical visiting time: 1–2 hours. Effort: easy.",
+            "access": "Drive to Three Rondavels Viewpoint parking from the Panorama Route, then walk a short distance.",
+            "photoAlt": "Blyde River — Three Rondavels",
+            "creditText": "yeowatzup from Göttingen, Germany · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Three_Rondavels,_Panorama_Route,_South_Africa_(34882026081).jpg)"
+          },
+          "25": {
+            "name": "Bourke’s Luck Potholes",
+            "shortName": "Bourke’s Luck Potholes",
+            "region": "Kruger and Mpumalanga",
+            "format": "Short stop",
+            "time": "1–2 hours",
+            "walk": "Easy, with steps",
+            "desc": "Water has carved rounded potholes where two rivers meet.",
+            "detail": "Bridges provide different views into channels and erosion features. The interest lies in the long work of water and sand rather than a single tall waterfall. Take a short walk between platforms and remain behind barriers. Combine it with Three Rondavels while allowing time at each stop.",
+            "tickets": "Admission is paid separately from other Panorama Route viewpoints. Check hours, payment arrangements and bridge access with MTPA: heavy rain can lead to temporary closures.",
+            "hike": "Typical visiting time: 1–2 hours. Effort: easy, with steps.",
+            "access": "Drive to the visitor-centre parking at Bourke’s Luck Potholes, then use the marked paths.",
+            "photoAlt": "Bourke’s Luck Potholes",
+            "creditText": "Dietmar Rabich · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blyde_River_Canyon_Nature_Reserve_(ZA),_Blyde_River,_Bourke%27s_Luck_Potholes_--_2024_--_9989.jpg)"
+          },
+          "26": {
+            "name": "God’s Window",
+            "shortName": "God’s Window",
+            "region": "Kruger and Mpumalanga",
+            "format": "Short stop",
+            "time": "1–2 hours",
+            "walk": "Moderate, with steps",
+            "desc": "The escarpment edge and moist forest overlook the Lowveld.",
+            "detail": "Steps lead to the main viewpoint, while a higher walk enters lush woodland. Clear weather reveals depth across the landscape; in cloud, the vegetation becomes the main experience. Long-distance visibility is never guaranteed. Choose this stop according to conditions on your Panorama Route day.",
+            "tickets": "Site admission is paid; confirm hours and current fees. Separate parking reservations for an ordinary visit have not been confirmed.",
+            "hike": "Typical visiting time: 1–2 hours. Effort: moderate, with steps.",
+            "access": "Drive to the marked God’s Window parking, then climb the steps.",
+            "photoAlt": "God’s Window",
+            "creditText": "NJR ZA · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:South_Africa-Mpumalanga-Gods_Window001.jpg)"
+          },
+          "27": {
+            "name": "Apartheid Museum",
+            "shortName": "Apartheid Museum",
+            "region": "Gauteng, Limpopo and the northwest",
+            "format": "Half day",
+            "time": "2–4 hours",
+            "walk": "Easy",
+            "desc": "The exhibition explains apartheid, resistance and the transition to democracy.",
+            "detail": "Photographs, documents and testimony deserve time. This is a substantial and emotionally demanding visit, best not squeezed between several quick stops. Explore independently with audio interpretation or arrange a group tour in advance. The context changes how you understand Cape Town and contemporary cities.",
+            "tickets": "Admission is paid, with tickets at the door. Group guided tours require advance booking. Check opening days; the museum does not consider the content suitable for children under 11.",
+            "hike": "Typical visiting time: 2–4 hours. Effort: easy.",
+            "access": "Drive to the museum parking by Northern Parkway and Gold Reef Road, then walk to the entrance.",
+            "photoAlt": "Apartheid Museum",
+            "creditText": "NJR ZA · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:South_Africa-Johannesburg-Apartheid_Museum001.jpg)"
+          },
+          "28": {
+            "name": "Soweto — history and daily life",
+            "shortName": "Soweto",
+            "region": "Gauteng, Limpopo and the northwest",
+            "format": "Full day",
+            "time": "Half day",
+            "walk": "Easy",
+            "desc": "Mandela House and historic streets give the struggle for rights a human scale.",
+            "detail": "A local guide connects memorial sites with community life today. Choose a programme around Mandela House, Vilakazi Street and the 1976 uprising rather than only photo stops. Respect private homes and ask before photographing people. This is a living urban neighbourhood, not an open-air set.",
+            "tickets": "Museums and guiding are paid separately; confirm included tickets, meeting point and parking ahead.",
+            "hike": "Typical visiting time: Half day. Effort: easy.",
+            "access": "Agree the meeting point and parking with your chosen local guide before travelling.",
+            "photoAlt": "Soweto — history and daily life",
+            "creditText": "No machine-readable author provided. Moongateclimber assumed (based on copyright claims). · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mandela_museum_soweto.jpg)"
+          },
+          "29": {
+            "name": "Maropeng — human origins",
+            "shortName": "Maropeng",
+            "region": "Gauteng, Limpopo and the northwest",
+            "format": "Half day",
+            "time": "2–3 hours",
+            "walk": "Easy",
+            "desc": "An interactive visitor centre introduces evolution and the discoveries of the Cradle of Humankind.",
+            "detail": "The visit explores human origins and a changing planet rather than a single famous exhibit. Move at your own pace through the sections that interest you. Sterkfontein Caves are a separate site with guided access; do not assume they are included. Check both operators if combining them.",
+            "tickets": "Maropeng tickets are sold online or on site. Check separate Sterkfontein admission and access with Wits. Confirm parking arrangements with the centre.",
+            "hike": "Typical visiting time: 2–3 hours. Effort: easy.",
+            "access": "Drive to Maropeng Visitor Centre parking on the R400; this is not the Sterkfontein Caves car park.",
+            "photoAlt": "Maropeng — human origins",
+            "creditText": "Olga Ernst · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maropeng_Visitor_Centre,_Cradle_of_Humankind,_South_Africa.jpg)"
+          },
+          "30": {
+            "name": "Mapungubwe",
+            "shortName": "Mapungubwe",
+            "region": "Gauteng, Limpopo and the northwest",
+            "format": "Full day",
+            "time": "Full day or several nights",
+            "walk": "Moderate",
+            "desc": "An ancient state, sandstone hills and major river confluences combine history and nature.",
+            "detail": "Start with the interpretation centre, then choose a guided heritage visit or open viewpoints. This is more than a safari: trade and society long before the colonial era are central to its meaning. Park roads and separate sections take time; protected archaeological sites are not unrestricted walk-in attractions.",
+            "tickets": "Daily SANParks fees apply; check and book the museum, heritage tour and accommodation separately. Day entry stops before gate closing.",
+            "hike": "Typical visiting time: Full day or several nights. Effort: moderate.",
+            "access": "Drive to Main Gate reception, then follow directions to your booked activity or viewpoint.",
+            "photoAlt": "Mapungubwe",
+            "creditText": "South African Tourism from South Africa · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mapungubwe,_Limpopo,_South_Africa_(20535429052).jpg)"
+          },
+          "31": {
+            "name": "Namaqua — wildflower season",
+            "shortName": "Namaqua",
+            "region": "Gauteng, Limpopo and the northwest",
+            "format": "Full day",
+            "time": "Half or full day",
+            "walk": "Easy",
+            "desc": "After suitable winter rain, the dry landscape becomes a mosaic of flowers.",
+            "detail": "Skilpad offers an accessible introduction through short routes and a driving loop. Blooming depends on rainfall, temperature and sunlight, so peak-season photographs do not represent every day. Succulents and open scenery remain outside flower season, but expectations should change. The remote coastal section needs a separate plan and suitable vehicle.",
+            "tickets": "SANParks entry fees apply; book flower-season accommodation ahead. Check flowering conditions, roads and access to your chosen section.",
+            "hike": "Typical visiting time: Half or full day. Effort: easy.",
+            "access": "Drive via Kamieskroon to Skilpad reception, then use the open loop and marked parking areas.",
+            "photoAlt": "Namaqua — wildflower season",
+            "creditText": "Winfried Bruenken (Amrum) · [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Namaqua_NP4.jpg)"
+          },
+          "32": {
+            "name": "Augrabies Falls",
+            "shortName": "Augrabies Falls",
+            "region": "Gauteng, Limpopo and the northwest",
+            "format": "Full day",
+            "time": "Half day",
+            "walk": "Easy on boardwalks",
+            "desc": "The Orange River drops into a rocky gorge amid an arid landscape.",
+            "detail": "Main boardwalks offer several angles on the falls. Water volume changes greatly, so the scene may differ from flood photographs. Add an open canyon viewpoint or short trail if time and conditions allow. Reduce walking in extreme heat and respect barriers beside the river.",
+            "tickets": "SANParks conservation fees apply; accommodation is booked separately. Check which boardwalks are open after high water.",
+            "hike": "Typical visiting time: Half day. Effort: easy on boardwalks.",
+            "access": "Drive to the main-camp reception and parking, then follow boardwalks to the falls.",
+            "photoAlt": "Augrabies Falls",
+            "creditText": "Zaian (talk). · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Augrabies_Falls,_March_2008.jpg)"
+          },
+          "33": {
+            "name": "Kgalagadi",
+            "shortName": "Kgalagadi",
+            "region": "Gauteng, Limpopo and the northwest",
+            "format": "Several nights",
+            "time": "Several nights",
+            "walk": "Easy by vehicle",
+            "desc": "Red dunes, dry riverbeds and predators offer a safari unlike greener Kruger.",
+            "detail": "Slow drives along the Auob and Nossob alternate with waiting at waterholes. Light, space and birds matter as much as lions. Distances and limited services require water, fuel and time reserves. Remote sandy routes need an appropriate vehicle; crossing into another country involves separate formalities.",
+            "tickets": "Conservation fees and accommodation are separate; reserve overnight stays well ahead. Day entry is quota-limited, so arrange it in advance.",
+            "hike": "Typical visiting time: Several nights. Effort: easy by vehicle.",
+            "access": "Drive to Twee Rivieren Gate on the South African side, then use authorised park roads.",
+            "photoAlt": "Kgalagadi",
+            "creditText": "Bernard DUPONT from FRANCE · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lioness_(Panthera_leo)_(6871765268).jpg)"
+          },
+          "34": {
+            "name": "De Hoop — dunes and whales",
+            "shortName": "De Hoop",
+            "region": "Western Cape",
+            "format": "Full day",
+            "time": "Full day",
+            "walk": "Moderate, with sand",
+            "desc": "White dunes, fynbos and ocean create an unhurried coastal outing with seasonal whale watching.",
+            "detail": "At Koppie Alleen choose an authorised beach walk or rocky-shore exploration. A multi-day trek is not necessary to experience the landscape. Inland areas add birds and antelope. Tides, sun and drinking water matter; the Whale Trail is a separate organised undertaking.",
+            "tickets": "CapeNature day fees apply; accommodation and the Whale Trail need separate reservations. Confirm gate hours and access to coastal parking.",
+            "hike": "Typical visiting time: Full day. Effort: moderate, with sand.",
+            "access": "Drive to De Hoop main gate, register, then follow park directions to Koppie Alleen parking.",
+            "photoAlt": "De Hoop — dunes and whales",
+            "creditText": "Winfried Bruenken (Amrum) · [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Haematopus_moquini_P1040465.JPG)"
+          },
+          "35": {
+            "name": "Cape Agulhas",
+            "shortName": "Cape Agulhas",
+            "region": "Western Cape",
+            "format": "Short stop",
+            "time": "1–2 hours",
+            "walk": "Easy",
+            "desc": "Africa’s southernmost point is a low rocky shore, unlike the cliffs of Cape Point.",
+            "detail": "Walk to the geographical marker and watch the surf. The lighthouse adds maritime history, with separate visiting arrangements. Come for the continent’s edge and open horizon rather than towering cliffs. This short stop fits an Overberg coastal journey.",
+            "tickets": "Check current access to the geographical marker and separate lighthouse admission; accommodation bookings do not automatically include every attraction.",
+            "hike": "Typical visiting time: 1–2 hours. Effort: easy.",
+            "access": "Drive to the Southernmost Tip of Africa parking and follow the marked approach to the monument.",
+            "photoAlt": "Cape Agulhas",
+            "creditText": "Piet Makwas · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tip_of_Africa_Momument.jpg)"
+          },
+          "36": {
+            "name": "West Coast — Langebaan Lagoon",
+            "shortName": "West Coast",
+            "region": "Western Cape",
+            "format": "Full day",
+            "time": "Full day",
+            "walk": "Easy",
+            "desc": "A lagoon, birdlife and seasonal flowers offer a coastal day near Cape Town.",
+            "detail": "Choose a few stops: a water view, a bird hide and a short authorised walk. Postberg opens for flowers during a limited season, not year-round. Beach areas have their own rules; a lagoon does not mean swimming is allowed everywhere. Leave time to explore one section slowly.",
+            "tickets": "SANParks admission is paid; Postberg access and tariffs vary seasonally. Check open sections and gate hours.",
+            "hike": "Typical visiting time: Full day. Effort: easy.",
+            "access": "Drive to West Coast Gate from the R27, then follow the park map to your chosen viewpoint or hide.",
+            "photoAlt": "West Coast — Langebaan Lagoon",
+            "creditText": "Winfried Bruenken (Amrum) · [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Langebaan_lagoon,_West_Coast_National_Park.jpg)"
+          }
+        },
+        "routeAccess": {
+          "1": {
+            "label": "Drive to Lower Tafelberg Road parking, then take the shuttle to the lower station and cableway",
+            "note": "Drive to Lower Tafelberg Road parking, then take the shuttle to the lower station and cableway.",
+            "alternatives": []
+          },
+          "2": {
+            "label": "Drive to Clock Tower Parking at the Waterfront, walk to Nelson Mandela Gateway and board the ferry",
+            "note": "Drive to Clock Tower Parking at the Waterfront, walk to Nelson Mandela Gateway and board the ferry.",
+            "alternatives": []
+          },
+          "3": {
+            "label": "Drive to Gate 1 parking on Rhodes Drive, then follow garden paths",
+            "note": "Drive to Gate 1 parking on Rhodes Drive, then follow garden paths.",
+            "alternatives": []
+          },
+          "4": {
+            "label": "Drive through the park gate to Cape Point Main Car Park; continue on foot or by funicular",
+            "note": "Drive through the park gate to Cape Point Main Car Park; continue on foot or by funicular.",
+            "alternatives": []
+          },
+          "5": {
+            "label": "Drive to Seaforth parking, then walk to the entrance and Foxy Beach boardwalks",
+            "note": "Drive to Seaforth parking, then walk to the entrance and Foxy Beach boardwalks.",
+            "alternatives": []
+          },
+          "6": {
+            "label": "Drive to Franschhoek Terminal; use Groot Drakenstein instead if specified by your ticket",
+            "note": "Drive to Franschhoek Terminal; use Groot Drakenstein instead if specified by your ticket.",
+            "alternatives": []
+          },
+          "7": {
+            "label": "Drive to Gearing Point parking and continue along the coast",
+            "note": "Boat departure points depend on the operator.",
+            "alternatives": []
+          },
+          "8": {
+            "label": "First drive to Sanddrif reception for the permit and directions, then to Stadsaal parking as instructed",
+            "note": "First drive to Sanddrif reception for the permit and directions, then to Stadsaal parking as instructed.",
+            "alternatives": []
+          },
+          "9": {
+            "label": "Drive to Cango Caves visitor parking on the R328, then check in for the tour",
+            "note": "Drive to Cango Caves visitor parking on the R328, then check in for the tour.",
+            "alternatives": []
+          },
+          "10": {
+            "label": "Drive to Ebb-and-Flow South reception for parking and the open starting point of your walk or paddle",
+            "note": "Drive to Ebb-and-Flow South reception for parking and the open starting point of your walk or paddle.",
+            "alternatives": []
+          },
+          "11": {
+            "label": "Drive along R339 to Diepwalle Forest Station, where parking and trails are based",
+            "note": "Drive along R339 to Diepwalle Forest Station, where parking and trails are based.",
+            "alternatives": []
+          },
+          "12": {
+            "label": "Drive to the parking area inside Robberg’s entrance; the three main loops start here",
+            "note": "Drive to the parking area inside Robberg’s entrance; the three main loops start here.",
+            "alternatives": []
+          },
+          "13": {
+            "label": "Drive through the gate to the day-visitor parking at Storms River Mouth Rest Camp, then walk to Mouth Trail",
+            "note": "Drive through the gate to the day-visitor parking at Storms River Mouth Rest Camp, then walk to Mouth Trail.",
+            "alternatives": []
+          },
+          "14": {
+            "label": "Drive from the N2 through Colchester to Matyholweni Gate, then continue the safari by vehicle",
+            "note": "Check SANParks directions if using Main Camp instead.",
+            "alternatives": []
+          },
+          "15": {
+            "label": "Drive to the visitor centre near Mahai and confirm parking for your lower-valley trail",
+            "note": "This is not the Sentinel approach.",
+            "alternatives": []
+          },
+          "16": {
+            "label": "Drive to Giant’s Castle Camp reception for registration, parking and trail directions",
+            "note": "Drive to Giant’s Castle Camp reception for registration, parking and trail directions.",
+            "alternatives": []
+          },
+          "17": {
+            "label": "Drive to Glen Reenen reception, then use the indicated parking and open trail",
+            "note": "Drive to Glen Reenen reception, then use the indicated parking and open trail.",
+            "alternatives": []
+          },
+          "18": {
+            "label": "Use the public parking off John Zikhali Road on the northern side of the gardens",
+            "note": "Use the public parking off John Zikhali Road on the northern side of the gardens.",
+            "alternatives": []
+          },
+          "19": {
+            "label": "Choose an operator first; there is no confirmed common parking point for every cruise",
+            "note": "Choose an operator first; there is no confirmed common parking point for every cruise.",
+            "alternatives": []
+          },
+          "20": {
+            "label": "Drive to Bhangazi Gate at St Lucia, then follow the park road to Cape Vidal’s day parking",
+            "note": "Drive to Bhangazi Gate at St Lucia, then follow the park road to Cape Vidal’s day parking.",
+            "alternatives": []
+          },
+          "21": {
+            "label": "Drive via Hluhluwe to Memorial Gate for the northern section and Hilltop",
+            "note": "Mpila is better served by another gate.",
+            "alternatives": []
+          },
+          "22": {
+            "label": "Drive to Sodwana Bay main gate, then follow your dive centre’s parking and meeting instructions",
+            "note": "Drive to Sodwana Bay main gate, then follow your dive centre’s parking and meeting instructions.",
+            "alternatives": []
+          },
+          "23": {
+            "label": "Drive to Paul Kruger Gate for the southern area and Skukuza; choose the gate to match your overnight plan",
+            "note": "Drive to Paul Kruger Gate for the southern area and Skukuza; choose the gate to match your overnight plan.",
+            "alternatives": []
+          },
+          "24": {
+            "label": "Drive to Three Rondavels Viewpoint parking from the Panorama Route, then walk a short distance",
+            "note": "Drive to Three Rondavels Viewpoint parking from the Panorama Route, then walk a short distance.",
+            "alternatives": []
+          },
+          "25": {
+            "label": "Drive to the visitor-centre parking at Bourke’s Luck Potholes, then use the marked paths",
+            "note": "Drive to the visitor-centre parking at Bourke’s Luck Potholes, then use the marked paths.",
+            "alternatives": []
+          },
+          "26": {
+            "label": "Drive to the marked God’s Window parking, then climb the steps",
+            "note": "Drive to the marked God’s Window parking, then climb the steps.",
+            "alternatives": []
+          },
+          "27": {
+            "label": "Drive to the museum parking by Northern Parkway and Gold Reef Road, then walk to the entrance",
+            "note": "Drive to the museum parking by Northern Parkway and Gold Reef Road, then walk to the entrance.",
+            "alternatives": []
+          },
+          "28": {
+            "label": "Agree the meeting point and parking with your chosen local guide before travelling",
+            "note": "Agree the meeting point and parking with your chosen local guide before travelling.",
+            "alternatives": []
+          },
+          "29": {
+            "label": "Drive to Maropeng Visitor Centre parking on the R400; this is not the Sterkfontein Caves car park",
+            "note": "Drive to Maropeng Visitor Centre parking on the R400; this is not the Sterkfontein Caves car park.",
+            "alternatives": []
+          },
+          "30": {
+            "label": "Drive to Main Gate reception, then follow directions to your booked activity or viewpoint",
+            "note": "Drive to Main Gate reception, then follow directions to your booked activity or viewpoint.",
+            "alternatives": []
+          },
+          "31": {
+            "label": "Drive via Kamieskroon to Skilpad reception, then use the open loop and marked parking areas",
+            "note": "Drive via Kamieskroon to Skilpad reception, then use the open loop and marked parking areas.",
+            "alternatives": []
+          },
+          "32": {
+            "label": "Drive to the main-camp reception and parking, then follow boardwalks to the falls",
+            "note": "Drive to the main-camp reception and parking, then follow boardwalks to the falls.",
+            "alternatives": []
+          },
+          "33": {
+            "label": "Drive to Twee Rivieren Gate on the South African side, then use authorised park roads",
+            "note": "Drive to Twee Rivieren Gate on the South African side, then use authorised park roads.",
+            "alternatives": []
+          },
+          "34": {
+            "label": "Drive to De Hoop main gate, register, then follow park directions to Koppie Alleen parking",
+            "note": "Drive to De Hoop main gate, register, then follow park directions to Koppie Alleen parking.",
+            "alternatives": []
+          },
+          "35": {
+            "label": "Drive to the Southernmost Tip of Africa parking and follow the marked approach to the monument",
+            "note": "Drive to the Southernmost Tip of Africa parking and follow the marked approach to the monument.",
+            "alternatives": []
+          },
+          "36": {
+            "label": "Drive to West Coast Gate from the R27, then follow the park map to your chosen viewpoint or hide",
+            "note": "Drive to West Coast Gate from the R27, then follow the park map to your chosen viewpoint or hide.",
+            "alternatives": []
+          }
+        },
+        "sources": "Visitor arrangements: [SANParks](https://www.sanparks.org/), [CapeNature](https://www.capenature.co.za/), [iSimangaliso](https://www.isimangaliso.com/), museums and operators linked in individual cards.\n\nTravel experience and selection: [Earth Trekkers](https://www.earthtrekkers.com/garden-route-south-africa-road-trip-itinerary/), [Stingy Nomads](https://stingynomads.com/south-africa/), [Never Ending Voyage](https://www.neverendingvoyage.com/south-africa-road-trip-itinerary/), [Lonely Planet](https://www.lonelyplanet.com/destinations/south-africa), [Rough Guides](https://www.roughguides.com/south-africa/itineraries/), [Vinsky Forum](https://forum.awd.ru/viewtopic.php?t=429402), [Travel for Wildlife](https://www.travel4wildlife.com/kgalagadi-transfrontier-park-guide/). Checked 28 October 2026; recheck conditions before travelling.",
+        "reviewedSource": "328b0dcb"
+      },
+      "sources": "Условия посещения: [SANParks](https://www.sanparks.org/), [CapeNature](https://www.capenature.co.za/), [iSimangaliso](https://www.isimangaliso.com/), музеи и операторы по ссылкам в карточках.\n\nОпыт и отбор: [Earth Trekkers](https://www.earthtrekkers.com/garden-route-south-africa-road-trip-itinerary/), [Stingy Nomads](https://stingynomads.com/south-africa/), [Never Ending Voyage](https://www.neverendingvoyage.com/south-africa-road-trip-itinerary/), [Lonely Planet](https://www.lonelyplanet.com/destinations/south-africa), [Rough Guides](https://www.roughguides.com/south-africa/itineraries/), [Vinsky Forum](https://forum.awd.ru/viewtopic.php?t=429402), [Travel for Wildlife](https://www.travel4wildlife.com/kgalagadi-transfrontier-park-guide/). Проверено 28 октября 2026 года; перед поездкой повторно проверяйте условия.",
+      "outline": [
+        [
+          [
+            29.364844,
+            -22.193945
+          ],
+          [
+            29.377441,
+            -22.192773
+          ],
+          [
+            29.663086,
+            -22.146289
+          ],
+          [
+            29.902344,
+            -22.18418
+          ],
+          [
+            30.19043,
+            -22.291113
+          ],
+          [
+            30.460156,
+            -22.329004
+          ],
+          [
+            30.711621,
+            -22.297852
+          ],
+          [
+            30.916113,
+            -22.290723
+          ],
+          [
+            31.073438,
+            -22.307813
+          ],
+          [
+            31.197266,
+            -22.344922
+          ],
+          [
+            31.287891,
+            -22.402051
+          ],
+          [
+            31.293164,
+            -22.454688
+          ],
+          [
+            31.300195,
+            -22.478613
+          ],
+          [
+            31.348047,
+            -22.617578
+          ],
+          [
+            31.419336,
+            -22.825098
+          ],
+          [
+            31.466699,
+            -23.016699
+          ],
+          [
+            31.531738,
+            -23.279492
+          ],
+          [
+            31.529688,
+            -23.425781
+          ],
+          [
+            31.545605,
+            -23.482324
+          ],
+          [
+            31.604102,
+            -23.55293
+          ],
+          [
+            31.675586,
+            -23.674219
+          ],
+          [
+            31.7,
+            -23.743066
+          ],
+          [
+            31.724023,
+            -23.794531
+          ],
+          [
+            31.799609,
+            -23.892188
+          ],
+          [
+            31.858301,
+            -24.040234
+          ],
+          [
+            31.908008,
+            -24.23623
+          ],
+          [
+            31.950586,
+            -24.330273
+          ],
+          [
+            31.966602,
+            -24.376465
+          ],
+          [
+            31.98584,
+            -24.460645
+          ],
+          [
+            31.983203,
+            -24.638281
+          ],
+          [
+            31.984375,
+            -24.844043
+          ],
+          [
+            31.985742,
+            -25.073828
+          ],
+          [
+            31.987012,
+            -25.263477
+          ],
+          [
+            31.979395,
+            -25.359473
+          ],
+          [
+            31.98457,
+            -25.631934
+          ],
+          [
+            31.920313,
+            -25.773926
+          ],
+          [
+            31.92832,
+            -25.885352
+          ],
+          [
+            31.948242,
+            -25.957617
+          ],
+          [
+            31.92168,
+            -25.96875
+          ],
+          [
+            31.871484,
+            -25.981641
+          ],
+          [
+            31.64043,
+            -25.867285
+          ],
+          [
+            31.415137,
+            -25.746582
+          ],
+          [
+            31.382617,
+            -25.742969
+          ],
+          [
+            31.335156,
+            -25.755566
+          ],
+          [
+            31.207324,
+            -25.843359
+          ],
+          [
+            31.088086,
+            -25.980664
+          ],
+          [
+            31.033301,
+            -26.097754
+          ],
+          [
+            30.945215,
+            -26.21875
+          ],
+          [
+            30.80332,
+            -26.413477
+          ],
+          [
+            30.789062,
+            -26.455469
+          ],
+          [
+            30.7875,
+            -26.613672
+          ],
+          [
+            30.794336,
+            -26.764258
+          ],
+          [
+            30.806738,
+            -26.785254
+          ],
+          [
+            30.883301,
+            -26.792383
+          ],
+          [
+            30.938086,
+            -26.91582
+          ],
+          [
+            31.063379,
+            -27.112305
+          ],
+          [
+            31.274023,
+            -27.238379
+          ],
+          [
+            31.469531,
+            -27.295508
+          ],
+          [
+            31.742578,
+            -27.309961
+          ],
+          [
+            31.958398,
+            -27.305859
+          ],
+          [
+            31.946094,
+            -27.173633
+          ],
+          [
+            31.967188,
+            -26.960645
+          ],
+          [
+            31.994727,
+            -26.81748
+          ],
+          [
+            32.024805,
+            -26.811133
+          ],
+          [
+            32.081641,
+            -26.824805
+          ],
+          [
+            32.112891,
+            -26.839453
+          ],
+          [
+            32.199609,
+            -26.833496
+          ],
+          [
+            32.353516,
+            -26.861621
+          ],
+          [
+            32.477734,
+            -26.858496
+          ],
+          [
+            32.58877,
+            -26.855762
+          ],
+          [
+            32.776563,
+            -26.850977
+          ],
+          [
+            32.886133,
+            -26.849316
+          ],
+          [
+            32.849121,
+            -27.080176
+          ],
+          [
+            32.705859,
+            -27.441602
+          ],
+          [
+            32.657031,
+            -27.607324
+          ],
+          [
+            32.534766,
+            -28.199707
+          ],
+          [
+            32.375195,
+            -28.498242
+          ],
+          [
+            32.285742,
+            -28.621484
+          ],
+          [
+            32.027246,
+            -28.839551
+          ],
+          [
+            31.955371,
+            -28.883789
+          ],
+          [
+            31.891504,
+            -28.912109
+          ],
+          [
+            31.778223,
+            -28.937109
+          ],
+          [
+            31.335156,
+            -29.378125
+          ],
+          [
+            31.169922,
+            -29.59082
+          ],
+          [
+            31.02334,
+            -29.900879
+          ],
+          [
+            30.877637,
+            -30.071094
+          ],
+          [
+            30.663574,
+            -30.43418
+          ],
+          [
+            30.472266,
+            -30.714551
+          ],
+          [
+            30.288672,
+            -30.970117
+          ],
+          [
+            29.971191,
+            -31.32207
+          ],
+          [
+            29.830273,
+            -31.423828
+          ],
+          [
+            29.735156,
+            -31.47041
+          ],
+          [
+            29.48291,
+            -31.674707
+          ],
+          [
+            29.127832,
+            -32.003125
+          ],
+          [
+            28.855957,
+            -32.294238
+          ],
+          [
+            28.449414,
+            -32.624609
+          ],
+          [
+            28.214063,
+            -32.769238
+          ],
+          [
+            27.860645,
+            -33.053906
+          ],
+          [
+            27.762109,
+            -33.095996
+          ],
+          [
+            27.36377,
+            -33.360547
+          ],
+          [
+            27.077441,
+            -33.521191
+          ],
+          [
+            26.613672,
+            -33.707422
+          ],
+          [
+            26.429492,
+            -33.75957
+          ],
+          [
+            25.989551,
+            -33.711328
+          ],
+          [
+            25.805859,
+            -33.737109
+          ],
+          [
+            25.652441,
+            -33.849609
+          ],
+          [
+            25.638184,
+            -34.011133
+          ],
+          [
+            25.574219,
+            -34.035352
+          ],
+          [
+            25.477246,
+            -34.028125
+          ],
+          [
+            25.169727,
+            -33.960742
+          ],
+          [
+            25.00293,
+            -33.973633
+          ],
+          [
+            24.905566,
+            -34.059766
+          ],
+          [
+            24.827148,
+            -34.168945
+          ],
+          [
+            24.595508,
+            -34.174512
+          ],
+          [
+            24.183008,
+            -34.061523
+          ],
+          [
+            23.697852,
+            -33.992773
+          ],
+          [
+            23.585547,
+            -33.985156
+          ],
+          [
+            23.350391,
+            -34.068945
+          ],
+          [
+            23.268164,
+            -34.081152
+          ],
+          [
+            22.925586,
+            -34.063184
+          ],
+          [
+            22.735547,
+            -34.010254
+          ],
+          [
+            22.553809,
+            -34.010059
+          ],
+          [
+            22.414453,
+            -34.053809
+          ],
+          [
+            22.245508,
+            -34.069141
+          ],
+          [
+            21.788965,
+            -34.372656
+          ],
+          [
+            21.553223,
+            -34.373047
+          ],
+          [
+            21.349805,
+            -34.408203
+          ],
+          [
+            21.248926,
+            -34.407031
+          ],
+          [
+            21.060156,
+            -34.364648
+          ],
+          [
+            20.989844,
+            -34.36748
+          ],
+          [
+            20.882422,
+            -34.386523
+          ],
+          [
+            20.774805,
+            -34.439941
+          ],
+          [
+            20.529883,
+            -34.463086
+          ],
+          [
+            20.434668,
+            -34.508594
+          ],
+          [
+            20.020605,
+            -34.785742
+          ],
+          [
+            19.92627,
+            -34.774707
+          ],
+          [
+            19.85,
+            -34.756641
+          ],
+          [
+            19.634961,
+            -34.75332
+          ],
+          [
+            19.391504,
+            -34.605664
+          ],
+          [
+            19.298242,
+            -34.615039
+          ],
+          [
+            19.323242,
+            -34.570801
+          ],
+          [
+            19.330762,
+            -34.492383
+          ],
+          [
+            19.279395,
+            -34.437012
+          ],
+          [
+            19.244629,
+            -34.412305
+          ],
+          [
+            19.149121,
+            -34.416895
+          ],
+          [
+            19.09834,
+            -34.350098
+          ],
+          [
+            18.952148,
+            -34.34375
+          ],
+          [
+            18.901563,
+            -34.360645
+          ],
+          [
+            18.831348,
+            -34.364063
+          ],
+          [
+            18.825098,
+            -34.296484
+          ],
+          [
+            18.830664,
+            -34.253906
+          ],
+          [
+            18.826367,
+            -34.188477
+          ],
+          [
+            18.808789,
+            -34.108203
+          ],
+          [
+            18.752148,
+            -34.082617
+          ],
+          [
+            18.708691,
+            -34.071875
+          ],
+          [
+            18.605176,
+            -34.077344
+          ],
+          [
+            18.533887,
+            -34.085938
+          ],
+          [
+            18.500391,
+            -34.109277
+          ],
+          [
+            18.462109,
+            -34.168066
+          ],
+          [
+            18.461621,
+            -34.346875
+          ],
+          [
+            18.410352,
+            -34.295605
+          ],
+          [
+            18.352051,
+            -34.188477
+          ],
+          [
+            18.333398,
+            -34.074219
+          ],
+          [
+            18.354395,
+            -33.939063
+          ],
+          [
+            18.465039,
+            -33.887793
+          ],
+          [
+            18.456445,
+            -33.796484
+          ],
+          [
+            18.433008,
+            -33.717285
+          ],
+          [
+            18.309473,
+            -33.514453
+          ],
+          [
+            18.26123,
+            -33.42168
+          ],
+          [
+            18.156348,
+            -33.358789
+          ],
+          [
+            18.074805,
+            -33.207324
+          ],
+          [
+            17.992578,
+            -33.152344
+          ],
+          [
+            17.958398,
+            -33.046387
+          ],
+          [
+            17.878223,
+            -32.961523
+          ],
+          [
+            17.851074,
+            -32.827441
+          ],
+          [
+            17.895313,
+            -32.750488
+          ],
+          [
+            17.965234,
+            -32.708594
+          ],
+          [
+            18.036523,
+            -32.775098
+          ],
+          [
+            18.125,
+            -32.749121
+          ],
+          [
+            18.250879,
+            -32.652148
+          ],
+          [
+            18.325293,
+            -32.50498
+          ],
+          [
+            18.329883,
+            -32.269531
+          ],
+          [
+            18.310742,
+            -32.122461
+          ],
+          [
+            18.21084,
+            -31.74248
+          ],
+          [
+            18.163672,
+            -31.655176
+          ],
+          [
+            17.938574,
+            -31.383203
+          ],
+          [
+            17.677441,
+            -31.019043
+          ],
+          [
+            17.34707,
+            -30.444824
+          ],
+          [
+            17.189063,
+            -30.099805
+          ],
+          [
+            16.95,
+            -29.403418
+          ],
+          [
+            16.739453,
+            -29.009375
+          ],
+          [
+            16.480762,
+            -28.641504
+          ],
+          [
+            16.447559,
+            -28.617578
+          ],
+          [
+            16.487109,
+            -28.572852
+          ],
+          [
+            16.626172,
+            -28.487891
+          ],
+          [
+            16.689453,
+            -28.464941
+          ],
+          [
+            16.723047,
+            -28.475488
+          ],
+          [
+            16.755762,
+            -28.452148
+          ],
+          [
+            16.7875,
+            -28.394727
+          ],
+          [
+            16.794531,
+            -28.34082
+          ],
+          [
+            16.810156,
+            -28.264551
+          ],
+          [
+            16.841211,
+            -28.218945
+          ],
+          [
+            16.875293,
+            -28.12793
+          ],
+          [
+            16.933301,
+            -28.069629
+          ],
+          [
+            17.05625,
+            -28.031055
+          ],
+          [
+            17.149414,
+            -28.082227
+          ],
+          [
+            17.188477,
+            -28.13252
+          ],
+          [
+            17.20459,
+            -28.198828
+          ],
+          [
+            17.245801,
+            -28.230859
+          ],
+          [
+            17.312012,
+            -28.228613
+          ],
+          [
+            17.358691,
+            -28.269434
+          ],
+          [
+            17.385742,
+            -28.353223
+          ],
+          [
+            17.380273,
+            -28.413965
+          ],
+          [
+            17.342578,
+            -28.45166
+          ],
+          [
+            17.347852,
+            -28.501172
+          ],
+          [
+            17.395898,
+            -28.562695
+          ],
+          [
+            17.415723,
+            -28.621094
+          ],
+          [
+            17.447949,
+            -28.698145
+          ],
+          [
+            17.616797,
+            -28.743066
+          ],
+          [
+            17.699316,
+            -28.768359
+          ],
+          [
+            17.841602,
+            -28.776953
+          ],
+          [
+            17.976074,
+            -28.811328
+          ],
+          [
+            18.102734,
+            -28.87168
+          ],
+          [
+            18.31084,
+            -28.88623
+          ],
+          [
+            18.600391,
+            -28.855273
+          ],
+          [
+            18.83877,
+            -28.869141
+          ],
+          [
+            19.026074,
+            -28.92793
+          ],
+          [
+            19.161719,
+            -28.93877
+          ],
+          [
+            19.245801,
+            -28.90166
+          ],
+          [
+            19.282227,
+            -28.847949
+          ],
+          [
+            19.270996,
+            -28.777734
+          ],
+          [
+            19.312695,
+            -28.733301
+          ],
+          [
+            19.407227,
+            -28.714453
+          ],
+          [
+            19.48291,
+            -28.661621
+          ],
+          [
+            19.539844,
+            -28.574609
+          ],
+          [
+            19.671484,
+            -28.503906
+          ],
+          [
+            19.877832,
+            -28.449414
+          ],
+          [
+            19.980469,
+            -28.45127
+          ],
+          [
+            19.980469,
+            -28.310352
+          ],
+          [
+            19.980469,
+            -27.865527
+          ],
+          [
+            19.980469,
+            -27.420703
+          ],
+          [
+            19.980469,
+            -26.975977
+          ],
+          [
+            19.980469,
+            -26.531152
+          ],
+          [
+            19.980469,
+            -26.086328
+          ],
+          [
+            19.980469,
+            -25.641602
+          ],
+          [
+            19.980469,
+            -25.196777
+          ],
+          [
+            19.980469,
+            -24.776758
+          ],
+          [
+            20.028613,
+            -24.807031
+          ],
+          [
+            20.345215,
+            -25.029883
+          ],
+          [
+            20.430664,
+            -25.14707
+          ],
+          [
+            20.473145,
+            -25.221289
+          ],
+          [
+            20.609277,
+            -25.491211
+          ],
+          [
+            20.710742,
+            -25.733203
+          ],
+          [
+            20.793164,
+            -25.915625
+          ],
+          [
+            20.799414,
+            -25.999023
+          ],
+          [
+            20.811035,
+            -26.080566
+          ],
+          [
+            20.822656,
+            -26.120605
+          ],
+          [
+            20.815039,
+            -26.164941
+          ],
+          [
+            20.757031,
+            -26.26416
+          ],
+          [
+            20.697852,
+            -26.340137
+          ],
+          [
+            20.626758,
+            -26.443848
+          ],
+          [
+            20.619922,
+            -26.580859
+          ],
+          [
+            20.641406,
+            -26.742188
+          ],
+          [
+            20.685059,
+            -26.822461
+          ],
+          [
+            20.739844,
+            -26.848828
+          ],
+          [
+            20.870898,
+            -26.808789
+          ],
+          [
+            20.953906,
+            -26.821094
+          ],
+          [
+            21.070996,
+            -26.851758
+          ],
+          [
+            21.45498,
+            -26.832813
+          ],
+          [
+            21.501367,
+            -26.842676
+          ],
+          [
+            21.646289,
+            -26.854199
+          ],
+          [
+            21.694727,
+            -26.840918
+          ],
+          [
+            21.738086,
+            -26.806836
+          ],
+          [
+            21.788281,
+            -26.710059
+          ],
+          [
+            21.833203,
+            -26.67832
+          ],
+          [
+            21.914551,
+            -26.661914
+          ],
+          [
+            22.010938,
+            -26.63584
+          ],
+          [
+            22.090918,
+            -26.580176
+          ],
+          [
+            22.217578,
+            -26.388867
+          ],
+          [
+            22.470898,
+            -26.219043
+          ],
+          [
+            22.548633,
+            -26.178418
+          ],
+          [
+            22.597656,
+            -26.132715
+          ],
+          [
+            22.640234,
+            -26.071191
+          ],
+          [
+            22.729004,
+            -25.857324
+          ],
+          [
+            22.796094,
+            -25.679102
+          ],
+          [
+            22.818945,
+            -25.595117
+          ],
+          [
+            22.878809,
+            -25.45791
+          ],
+          [
+            22.95127,
+            -25.370313
+          ],
+          [
+            23.02207,
+            -25.324121
+          ],
+          [
+            23.05752,
+            -25.312305
+          ],
+          [
+            23.14873,
+            -25.288672
+          ],
+          [
+            23.266016,
+            -25.266602
+          ],
+          [
+            23.389258,
+            -25.291406
+          ],
+          [
+            23.521484,
+            -25.344434
+          ],
+          [
+            23.670703,
+            -25.433984
+          ],
+          [
+            23.823438,
+            -25.544629
+          ],
+          [
+            23.89375,
+            -25.600879
+          ],
+          [
+            23.969531,
+            -25.626074
+          ],
+          [
+            24.104492,
+            -25.634863
+          ],
+          [
+            24.192969,
+            -25.63291
+          ],
+          [
+            24.330566,
+            -25.742871
+          ],
+          [
+            24.400195,
+            -25.749805
+          ],
+          [
+            24.555859,
+            -25.783105
+          ],
+          [
+            24.748145,
+            -25.817383
+          ],
+          [
+            24.869238,
+            -25.813477
+          ],
+          [
+            24.998926,
+            -25.754004
+          ],
+          [
+            25.09248,
+            -25.751465
+          ],
+          [
+            25.213379,
+            -25.75625
+          ],
+          [
+            25.346191,
+            -25.739941
+          ],
+          [
+            25.443652,
+            -25.714453
+          ],
+          [
+            25.518164,
+            -25.662793
+          ],
+          [
+            25.583789,
+            -25.60625
+          ],
+          [
+            25.65918,
+            -25.437891
+          ],
+          [
+            25.702637,
+            -25.302344
+          ],
+          [
+            25.769922,
+            -25.146484
+          ],
+          [
+            25.852441,
+            -24.935254
+          ],
+          [
+            25.881836,
+            -24.787988
+          ],
+          [
+            25.912109,
+            -24.747461
+          ],
+          [
+            26.031836,
+            -24.702441
+          ],
+          [
+            26.130859,
+            -24.671484
+          ],
+          [
+            26.397168,
+            -24.613574
+          ],
+          [
+            26.451758,
+            -24.582715
+          ],
+          [
+            26.501563,
+            -24.513281
+          ],
+          [
+            26.617773,
+            -24.395508
+          ],
+          [
+            26.761133,
+            -24.297168
+          ],
+          [
+            26.835059,
+            -24.24082
+          ],
+          [
+            26.970605,
+            -23.763477
+          ],
+          [
+            26.987012,
+            -23.70459
+          ],
+          [
+            27.085547,
+            -23.57793
+          ],
+          [
+            27.146387,
+            -23.524414
+          ],
+          [
+            27.185547,
+            -23.523438
+          ],
+          [
+            27.241211,
+            -23.490039
+          ],
+          [
+            27.313379,
+            -23.424219
+          ],
+          [
+            27.399219,
+            -23.383594
+          ],
+          [
+            27.49873,
+            -23.368359
+          ],
+          [
+            27.563184,
+            -23.324609
+          ],
+          [
+            27.592676,
+            -23.252637
+          ],
+          [
+            27.643848,
+            -23.217676
+          ],
+          [
+            27.716797,
+            -23.219629
+          ],
+          [
+            27.758301,
+            -23.196777
+          ],
+          [
+            27.768555,
+            -23.148926
+          ],
+          [
+            27.812598,
+            -23.108008
+          ],
+          [
+            27.890527,
+            -23.073926
+          ],
+          [
+            27.931348,
+            -23.033594
+          ],
+          [
+            27.935059,
+            -22.987012
+          ],
+          [
+            28.02793,
+            -22.87373
+          ],
+          [
+            28.210156,
+            -22.693652
+          ],
+          [
+            28.381738,
+            -22.593359
+          ],
+          [
+            28.542871,
+            -22.572949
+          ],
+          [
+            28.695508,
+            -22.535449
+          ],
+          [
+            28.839844,
+            -22.480859
+          ],
+          [
+            28.945801,
+            -22.395117
+          ],
+          [
+            29.013477,
+            -22.278418
+          ],
+          [
+            29.129883,
+            -22.213281
+          ],
+          [
+            29.364844,
+            -22.193945
+          ]
+        ],
+        [
+          [
+            37.856934,
+            -46.944238
+          ],
+          [
+            37.813965,
+            -46.962891
+          ],
+          [
+            37.611816,
+            -46.946484
+          ],
+          [
+            37.590039,
+            -46.908008
+          ],
+          [
+            37.649707,
+            -46.848926
+          ],
+          [
+            37.684863,
+            -46.824023
+          ],
+          [
+            37.789551,
+            -46.8375
+          ],
+          [
+            37.872852,
+            -46.885449
+          ],
+          [
+            37.887695,
+            -46.90166
+          ],
+          [
+            37.856934,
+            -46.944238
+          ]
+        ]
+      ]
     }
   ]
 }

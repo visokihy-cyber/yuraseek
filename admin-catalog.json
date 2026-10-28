@@ -1138,5 +1138,187 @@
       "name": "Оранжевая река — каноэ среди пустынных гор",
       "src": "media-9a651f79-3a20-5018-9a81-b5436f22fcf1-960.webp"
     }
+  ],
+  "south-africa": [
+    {
+      "id": "1",
+      "name": "Столовая гора",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Table_Mountain_DanieVDM.jpg/1280px-Table_Mountain_DanieVDM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "2",
+      "name": "Роббен-Айленд",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg/1280px-Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "3",
+      "name": "Кирстенбош",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Kirstenbosch_National_Botanical_Garden_2024_7th_batch_09.jpg/1280px-Kirstenbosch_National_Botanical_Garden_2024_7th_batch_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "4",
+      "name": "Кейп-Пойнт и мыс Доброй Надежды",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Goodhope2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "5",
+      "name": "Боулдерс — африканские пингвины",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Boulders_Beach_Suedafrika.jpg/1280px-Boulders_Beach_Suedafrika.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "6",
+      "name": "Франсхук — винная долина",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Franschhoek_%28S%C3%BCdafrika%29.jpg/1280px-Franschhoek_%28S%C3%BCdafrika%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "7",
+      "name": "Херманус — киты с берега",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Hermanus_Old_Harbour.jpg/1280px-Hermanus_Old_Harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "8",
+      "name": "Седерберг — Стадсаал",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Stadsaal_Caves_view2.jpg/1280px-Stadsaal_Caves_view2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "9",
+      "name": "Канго — известняковые пещеры",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Cango_Caves-001.JPG/1280px-Cango_Caves-001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "10",
+      "name": "Уилдернесс — реки и лес",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/RSA-WildernessNP1.jpg/1280px-RSA-WildernessNP1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "11",
+      "name": "Найсна — лес Дипвалле",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Big_Yellowood_%28Podocarpus_Falcatus%29_-_46m_high%2C_2.3m_diameter_and_600y_old_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "12",
+      "name": "Робберг",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Robberg_Nature_Reserve%2C_Plettenberg_Bay_-_53147416220.jpg/1280px-Robberg_Nature_Reserve%2C_Plettenberg_Bay_-_53147416220.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "13",
+      "name": "Стормс-Ривер-Маут",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tsitsikamma_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "14",
+      "name": "Аддо — сафари среди слонов",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Elephant_Addo.jpg/1280px-Elephant_Addo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "15",
+      "name": "Ройал-Натал — Амфитеатр",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Royal_Natal_Drakensberg_2015.JPG/1280px-Royal_Natal_Drakensberg_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "16",
+      "name": "Джайантс-Касл — наскальное искусство",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Giants_Castle_at_sunrise_from_the_contour_path.jpg/1280px-Giants_Castle_at_sunrise_from_the_contour_path.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "17",
+      "name": "Голден-Гейт — песчаниковые стены",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Brandwag_-_panoramio.jpg/1280px-Brandwag_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "18",
+      "name": "Дурбан — ботанический сад",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Durban_Botanic_Gardens_new_entrance_04_09_2010.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "19",
+      "name": "Сент-Лусия — бегемоты и птицы",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Hippo_%28Hippopotamus_amphibius%29_family_resting_on_the_shores_of_Lake_St_Lucia_.._%2831656974747%29.jpg/1280px-Hippo_%28Hippopotamus_amphibius%29_family_resting_on_the_shores_of_Lake_St_Lucia_.._%2831656974747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "20",
+      "name": "Кейп-Видал и Восточные берега",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Cape_Vidal_Beach_..._%2833450205598%29.jpg/1280px-Cape_Vidal_Beach_..._%2833450205598%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "21",
+      "name": "Хлухлуве-Имфолози",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Hluhluwe_green_hills_..._%2847294082242%29.jpg/1280px-Hluhluwe_green_hills_..._%2847294082242%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "22",
+      "name": "Содвана-Бей — коралловые рифы",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/SODWANA_BAY_Beach_%28Humpback_whale_in_foreground%29_-_panoramio.jpg/1280px-SODWANA_BAY_Beach_%28Humpback_whale_in_foreground%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "23",
+      "name": "Крюгер",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Kruger_Zebra.JPG/1280px-Kruger_Zebra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "24",
+      "name": "Блайд-Ривер — Три Рондавеля",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Three_Rondavels%2C_Panorama_Route%2C_South_Africa_%2834882026081%29.jpg/1280px-Three_Rondavels%2C_Panorama_Route%2C_South_Africa_%2834882026081%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "25",
+      "name": "Буркес-Лак-Потхолс",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Blyde_River_Canyon_Nature_Reserve_%28ZA%29%2C_Blyde_River%2C_Bourke%27s_Luck_Potholes_--_2024_--_9989.jpg/1280px-Blyde_River_Canyon_Nature_Reserve_%28ZA%29%2C_Blyde_River%2C_Bourke%27s_Luck_Potholes_--_2024_--_9989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "26",
+      "name": "Годс-Уиндоу",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/South_Africa-Mpumalanga-Gods_Window001.jpg/1280px-South_Africa-Mpumalanga-Gods_Window001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "27",
+      "name": "Музей апартеида",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/South_Africa-Johannesburg-Apartheid_Museum001.jpg/1280px-South_Africa-Johannesburg-Apartheid_Museum001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "28",
+      "name": "Соуэто — история и современная жизнь",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Mandela_museum_soweto.jpg/1280px-Mandela_museum_soweto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "29",
+      "name": "Маропенг — происхождение человека",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Maropeng_Visitor_Centre%2C_Cradle_of_Humankind%2C_South_Africa.jpg/1280px-Maropeng_Visitor_Centre%2C_Cradle_of_Humankind%2C_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "30",
+      "name": "Мапунгубве",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Mapungubwe%2C_Limpopo%2C_South_Africa_%2820535429052%29.jpg/1280px-Mapungubwe%2C_Limpopo%2C_South_Africa_%2820535429052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "31",
+      "name": "Намаква — сезон цветов",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Namaqua_NP4.jpg/1280px-Namaqua_NP4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "32",
+      "name": "Ауграбис",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Augrabies_Falls%2C_March_2008.jpg/1280px-Augrabies_Falls%2C_March_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "33",
+      "name": "Кгалагади",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Lioness_%28Panthera_leo%29_%286871765268%29.jpg/1280px-Lioness_%28Panthera_leo%29_%286871765268%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "34",
+      "name": "Де-Хооп — дюны и киты",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Haematopus_moquini_P1040465.JPG/1280px-Haematopus_moquini_P1040465.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "35",
+      "name": "Мыс Игольный",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Tip_of_Africa_Momument.jpg/1280px-Tip_of_Africa_Momument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "36",
+      "name": "Вест-Кост — лагуна Лангебан",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Langebaan_lagoon%2C_West_Coast_National_Park.jpg/1280px-Langebaan_lagoon%2C_West_Coast_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
   ]
 }

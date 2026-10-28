@@ -65,6 +65,68 @@
   "countries": {
     "new-zealand": {},
     "costa-rica": {},
-    "madeira": {}
+    "madeira": {},
+    "iceland": {
+      "1": {
+        "src": "media-6450c867-eb65-5d0b-9443-4bccbb47bd32-960.webp",
+        "alt": "Рейкьявик — город и история",
+        "creditText": "Olga Ernst · CC BY-SA 4.0"
+      },
+      "2": {
+        "src": "media-f11a5d0a-54d4-5e6b-8bb6-a08e765b86b3-960.webp",
+        "alt": "Тингведлир — разлом и древний парламент",
+        "creditText": "Ivan Sabljak · CC BY-SA 3.0"
+      },
+      "3": {
+        "src": "media-8b8e00a9-4087-5249-8ff6-63f6ad946439-960.webp",
+        "alt": "Гейзер Строккюр",
+        "creditText": "Christoph Strässler from Oberdorf BL, Schweiz · CC BY-SA 2.0"
+      },
+      "4": {
+        "src": "media-f927ae38-d995-516a-990f-1c5135f97750-960.webp",
+        "alt": "Гюдльфосс",
+        "creditText": "Nickspix · CC BY-SA 4.0"
+      },
+      "5": {
+        "src": "media-87ab79b8-5b2b-5efd-8503-4904d4903068-960.webp",
+        "alt": "Рейкьядалюр — тёплая река",
+        "creditText": "Jakub Fryš · CC BY-SA 4.0"
+      },
+      "6": {
+        "src": "media-e151b4d2-6a79-5fcf-a7a0-ca266d8aa553-960.webp",
+        "alt": "Голубая лагуна",
+        "creditText": "Ivan Sabljak · CC BY-SA 3.0"
+      },
+      "7": {
+        "src": "media-37ebe7e3-d975-547f-b65d-094f10a7d558-960.webp",
+        "alt": "Сельтун и Клейварватн",
+        "creditText": "Reykholt · CC BY-SA 4.0"
+      },
+      "8": {
+        "src": "media-5128839b-e0a1-5fdd-9cd3-e6ece618a1b1-960.webp",
+        "alt": "Сельяландсфосс и Глюфрабуи",
+        "creditText": "Robert Lukeman robertlukeman · CC0"
+      },
+      "9": {
+        "src": "media-90110b92-91af-59bb-9d64-ce753642c19f-960.webp",
+        "alt": "Скоугар — водопад и музей",
+        "creditText": "Hansueli Krapf · CC BY-SA 3.0"
+      },
+      "10": {
+        "src": "media-00ae0acc-673c-5046-8dfc-49a9fd770a54-960.webp",
+        "alt": "Сольхеймайёкюдль — ледниковый язык",
+        "creditText": "Yuri Ikeda · CC BY 4.0"
+      },
+      "11": {
+        "src": "media-d1da627c-3a99-5e0a-98c5-cda5bd1171d4-960.webp",
+        "alt": "Рейнисфьяра",
+        "creditText": "Strwiki2017 · CC BY-SA 4.0"
+      },
+      "12": {
+        "src": "media-904df9d8-0382-579a-b662-d8baaa821a31-960.webp",
+        "alt": "Дирхоулаэй",
+        "creditText": "Diego Delso · CC BY-SA 4.0"
+      }
+    }
   }
 }

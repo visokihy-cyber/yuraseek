@@ -764,5 +764,227 @@
       "name": "Каньонинг — водопады Рибейра-Фриу",
       "src": "madeira-photo-pending.svg"
     }
+  ],
+  "iceland": [
+    {
+      "id": "1",
+      "name": "Рейкьявик — город и история",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Reykjav%C3%ADk,_view_from_Hallgr%C3%ADmskirkja_(2).jpg?width=1280"
+    },
+    {
+      "id": "2",
+      "name": "Тингведлир — разлом и древний парламент",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%9Eingvellir_from_the_information_centre.JPG?width=1280"
+    },
+    {
+      "id": "3",
+      "name": "Гейзер Строккюр",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Strokkur_Geysir_(14135319580)_(cropped).jpg?width=1280"
+    },
+    {
+      "id": "4",
+      "name": "Гюдльфосс",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Gullfoss_from_the_Air_(cropped).jpg?width=1280"
+    },
+    {
+      "id": "5",
+      "name": "Рейкьядалюр — тёплая река",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Reykjadalur_Valley_-_Iceland.jpg/1280px-Reykjadalur_Valley_-_Iceland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "6",
+      "name": "Голубая лагуна",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Blue_Lagoon_Overview.JPG/1280px-Blue_Lagoon_Overview.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "7",
+      "name": "Сельтун и Клейварватн",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kr%C3%BDsuv%C3%ADk_volcanic_system_2014_03.jpg?width=1280"
+    },
+    {
+      "id": "8",
+      "name": "Сельяландсфосс и Глюфрабуи",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Idyllic_landscape_with_a_waterfall_(Unsplash).jpg?width=1280"
+    },
+    {
+      "id": "9",
+      "name": "Скоугар — водопад и музей",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/2008-05-24_35_Sk%C3%B3gafoss.jpg?width=1280"
+    },
+    {
+      "id": "10",
+      "name": "Сольхеймайёкюдль — ледниковый язык",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Geleira_S%C3%B3lheimaj%C3%B6kull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "11",
+      "name": "Рейнисфьяра",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Reynisfjara_Beach_Looking_West_Towards_Dyrh%C3%B3laey.jpg/1280px-Reynisfjara_Beach_Looking_West_Towards_Dyrh%C3%B3laey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "12",
+      "name": "Дирхоулаэй",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Dyrh%C3%B3laey%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_140.jpg/1280px-Dyrh%C3%B3laey%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_140.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "13",
+      "name": "Хеймаэй — остров и Эльдфедль",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Aerial_view_of_Heimaey%2C_2009-02-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "14",
+      "name": "Фьядрарглйуфюр",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Iceland_2008-05-27_%282684049831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "15",
+      "name": "Скафтафедль — Свартифосс и ледник",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Skaftafell_Aerial_2023.jpg/1280px-Skaftafell_Aerial_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "16",
+      "name": "Йёкюльсаурлоун и Ледяной пляж",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/J%C3%B6kuls%C3%A1rl%C3%B3n_lagoon_in_southeastern_Iceland.jpg/1280px-J%C3%B6kuls%C3%A1rl%C3%B3n_lagoon_in_southeastern_Iceland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "17",
+      "name": "Вестрахорн и Стоккснес",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Vestrahorn_and_Stokksnes_beach_in_Iceland.jpg/1280px-Vestrahorn_and_Stokksnes_beach_in_Iceland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "18",
+      "name": "Сейдисфьордюр",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sey%C3%B0isfj%C3%B6r%C3%B0ur_Sept_2019_2.jpg/1280px-Sey%C3%B0isfj%C3%B6r%C3%B0ur_Sept_2019_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "19",
+      "name": "Хенгифосс",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Hengifoss_2009_close_gg.jpg/1280px-Hengifoss_2009_close_gg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "20",
+      "name": "Стюдлагиль — базальтовый каньон",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Stu%C3%B0lagil_canyon_jokuldalur_iceland-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "21",
+      "name": "Хафнархоульми — тупики",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/BakkagerdiPortBuilding-pjt.jpg/1280px-BakkagerdiPortBuilding-pjt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "22",
+      "name": "Хадлормсстадаскоугюр",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Hallormssta%C3%B0ur.jpg/1280px-Hallormssta%C3%B0ur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "23",
+      "name": "Деттифосс и Сельфосс",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Dettifoss_TimBekaert.JPG/1280px-Dettifoss_TimBekaert.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "24",
+      "name": "Аусбирги",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Asbyrgi-Eyjan-June2022.jpg/1280px-Asbyrgi-Eyjan-June2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "25",
+      "name": "Миватн — лавовые формы и птицы",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Dimmuborgir-st%C3%ADgur.jpg/1280px-Dimmuborgir-st%C3%ADgur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "26",
+      "name": "Хверир и Крафла",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Hverir.JPG/1280px-Hverir.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "27",
+      "name": "Хусавик — киты и гавань",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Buckelwale_in_Husavik_Bay.jpg/1280px-Buckelwale_in_Husavik_Bay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "28",
+      "name": "Годафосс",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/1_Go%C3%B0afoss_aerial_pano_2017.jpg/1280px-1_Go%C3%B0afoss_aerial_pano_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "29",
+      "name": "Глёймбайр — дерновая усадьба",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Glaumbaer-52-Museum-Kirche-2018-gje.jpg/1280px-Glaumbaer-52-Museum-Kirche-2018-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "30",
+      "name": "Хвитсеркюр",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Hv%C3%ADtserkur.JPG/1280px-Hv%C3%ADtserkur.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "31",
+      "name": "Хрёйнфоссар и Барнафосс",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Hraunfossar_2004.jpg/1280px-Hraunfossar_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "32",
+      "name": "Рейкхольт и Снорри",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Snorralaug10.JPG/1280px-Snorralaug10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "33",
+      "name": "Арнарстапи и Хедльнар",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Arnarstapi_2024_%280754%29.jpg/1280px-Arnarstapi_2024_%280754%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "34",
+      "name": "Дьюпалоунссандюр",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Djupalonssandur_Beach_Iceland_Travel_Photography_%28212306465%29.jpeg/1280px-Djupalonssandur_Beach_Iceland_Travel_Photography_%28212306465%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "35",
+      "name": "Ватнсхедлир — лавовая пещера",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Vatnshellir_Cave_%2845777444622%29.jpg/1280px-Vatnshellir_Cave_%2845777444622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "36",
+      "name": "Киркьюфедль",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Kirkjufell_in_Iceland.jpg/1280px-Kirkjufell_in_Iceland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "37",
+      "name": "Диньянди",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Cascada_Dynjandi%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_136-138_HDR.JPG/1280px-Cascada_Dynjandi%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_136-138_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "38",
+      "name": "Лаутрабьярг",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Iceland2008-Latrabjarg.cliff.JPG/1280px-Iceland2008-Latrabjarg.cliff.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "39",
+      "name": "Раудасандюр",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Islande_plage_Raudisandur.jpg/1280px-Islande_plage_Raudisandur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "40",
+      "name": "Хорнстрандир",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Westfjords_Region%2C_Iceland_-_panoramio_%2817%29.jpg/1280px-Westfjords_Region%2C_Iceland_-_panoramio_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "41",
+      "name": "Ландманналаугар",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Landmannalaugar_Campsite.jpg/1280px-Landmannalaugar_Campsite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "42",
+      "name": "Тоурсмёрк",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/%C3%9E%C3%B3rsm%C3%B6rk_from_Valahn%C3%BAksb%C3%B3l_20090607.jpg/1280px-%C3%9E%C3%B3rsm%C3%B6rk_from_Valahn%C3%BAksb%C3%B3l_20090607.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "43",
+      "name": "Керлингарфьёдль и Хверадалир",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Kerlingarfj%C3%B6ll_peaks.jpg/1280px-Kerlingarfj%C3%B6ll_peaks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "44",
+      "name": "Аскья",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Askja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
   ]
 }

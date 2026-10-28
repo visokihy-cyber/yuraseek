@@ -12420,223 +12420,179 @@
         "routeAccess": {
           "1": {
             "label": "Route to Harpa car park, then continue on foot",
-            "note": "Route to Harpa car park, then continue on foot. Check charges and entry hours.",
-            "alternatives": []
+            "note": "Route to Harpa car park, then continue on foot. Check charges and entry hours."
           },
           "2": {
             "label": "Route only to P1 Hakið car park by the visitor centre",
-            "note": "Route only to P1 Hakið car park by the visitor centre. Continue on paths; ice is possible in winter.",
-            "alternatives": []
+            "note": "Route only to P1 Hakið car park by the visitor centre. Continue on paths; ice is possible in winter."
           },
           "3": {
             "label": "Route to Geysir Centre parking",
-            "note": "Route to Geysir Centre parking. Cross at the designated point; spring water can cause severe burns.",
-            "alternatives": []
+            "note": "Route to Geysir Centre parking. Cross at the designated point; spring water can cause severe burns."
           },
           "4": {
             "label": "Route to Gullfoss upper car park",
-            "note": "Route to Gullfoss upper car park. Continue by steps and paths; the lower approach may close.",
-            "alternatives": []
+            "note": "Route to Gullfoss upper car park. Continue by steps and paths; the lower approach may close."
           },
           "5": {
             "label": "Route only to the Reykjadalur trailhead",
-            "note": "Route only to the Reykjadalur trailhead. Allow time for the uphill and return walk, not just bathing.",
-            "alternatives": []
+            "note": "Route only to the Reykjadalur trailhead. Allow time for the uphill and return walk, not just bathing."
           },
           "6": {
             "label": "Route to Blue Lagoon visitor parking only while its official access is open",
-            "note": "Route to Blue Lagoon visitor parking only while its official access is open. Follow the spa’s current directions and Safetravel alerts.",
-            "alternatives": []
+            "note": "Route to Blue Lagoon visitor parking only while its official access is open. Follow the spa’s current directions and Safetravel alerts."
           },
           "7": {
             "label": "Route to Seltún car park",
-            "note": "Route to Seltún car park. Stay on boardwalks and check Safetravel before departure.",
-            "alternatives": []
+            "note": "Route to Seltún car park. Stay on boardwalks and check Safetravel before departure."
           },
           "8": {
             "label": "Route only to Seljalandsfoss parking",
-            "note": "Route only to Seljalandsfoss parking. Continue on foot; the rear path depends on trail conditions.",
-            "alternatives": []
+            "note": "Route only to Seljalandsfoss parking. Continue on foot; the rear path depends on trail conditions."
           },
           "9": {
             "label": "Route to Skógafoss parking",
-            "note": "Route to Skógafoss parking. A long staircase reaches the upper viewpoint; the museum has a separate approach.",
-            "alternatives": []
+            "note": "Route to Skógafoss parking. A long staircase reaches the upper viewpoint; the museum has a separate approach."
           },
           "10": {
             "label": "Route only to the general Sólheimajökull car park",
-            "note": "Route only to the general Sólheimajökull car park. Confirm your tour meeting point; do not step onto the ice independently.",
-            "alternatives": []
+            "note": "Route only to the general Sólheimajökull car park. Confirm your tour meeting point; do not step onto the ice independently."
           },
           "11": {
             "label": "Route only to Reynisfjara car park",
-            "note": "Route only to Reynisfjara car park. Continue on foot within the permitted area, well away from the surf.",
-            "alternatives": []
+            "note": "Route only to Reynisfjara car park. Continue on foot within the permitted area, well away from the surf."
           },
           "12": {
             "label": "Route to Dyrhólaey lower car park",
-            "note": "Route to Dyrhólaey lower car park. Check the upper access road and lighthouse viewpoint separately.",
-            "alternatives": []
+            "note": "Route to Dyrhólaey lower car park. Check the upper access road and lighthouse viewpoint separately."
           },
           "13": {
             "label": "Route only to mainland Landeyjahöfn terminal; continue by ferry",
-            "note": "Route only to mainland Landeyjahöfn terminal; continue by ferry. Confirm that your sailing actually departs there.",
-            "alternatives": []
+            "note": "Route only to mainland Landeyjahöfn terminal; continue by ferry. Confirm that your sailing actually departs there."
           },
           "14": {
             "label": "Route to the lower canyon car park",
-            "note": "Route to the lower canyon car park. Follow the marked uphill path; do not automatically continue along the highland road.",
-            "alternatives": []
+            "note": "Route to the lower canyon car park. Follow the marked uphill path; do not automatically continue along the highland road."
           },
           "15": {
             "label": "Route to Skaftafell visitor-centre parking",
-            "note": "Route to Skaftafell visitor-centre parking. Ask rangers about current trails; tours may use their own meeting points.",
-            "alternatives": []
+            "note": "Route to Skaftafell visitor-centre parking. Ask rangers about current trails; tours may use their own meeting points."
           },
           "16": {
             "label": "Route only to the lagoon’s main car park",
-            "note": "Route only to the lagoon’s main car park. Follow park diversions during temporary closures; beach parking areas are separate.",
-            "alternatives": []
+            "note": "Route only to the lagoon’s main car park. Follow park diversions during temporary closures; beach parking areas are separate."
           },
           "17": {
             "label": "Route to Viking Café to arrange access; continue only as directed by the landowner",
-            "note": "Route to Viking Café to arrange access; continue only as directed by the landowner.",
-            "alternatives": []
+            "note": "Route to Viking Café to arrange access; continue only as directed by the landowner."
           },
           "18": {
             "label": "Route to public parking in central Seyðisfjörður; do not use ferry lanes for parking",
-            "note": "Route to public parking in central Seyðisfjörður; do not use ferry lanes for parking.",
-            "alternatives": []
+            "note": "Route to public parking in central Seyðisfjörður; do not use ferry lanes for parking."
           },
           "19": {
             "label": "Route only to Hengifoss roadside parking",
-            "note": "Route only to Hengifoss roadside parking. Continue uphill on foot and ask rangers which route is open.",
-            "alternatives": []
+            "note": "Route only to Hengifoss roadside parking. Continue uphill on foot and ask rangers which route is open."
           },
           "20": {
             "label": "Route only to the eastern car park by Klaustursel bridge",
-            "note": "Route only to the eastern car park by Klaustursel bridge. The lower lot is about 4.5–5 km each way; check the road separately before using the upper lot.",
-            "alternatives": []
+            "note": "Route only to the eastern car park by Klaustursel bridge. The lower lot is about 4.5–5 km each way; check the road separately before using the upper lot."
           },
           "21": {
             "label": "Route to Hafnarhólmi harbour parking",
-            "note": "Route to Hafnarhólmi harbour parking. Continue by steps and boardwalks; stay clear of burrows.",
-            "alternatives": []
+            "note": "Route to Hafnarhólmi harbour parking. Continue by steps and boardwalks; stay clear of burrows."
           },
           "22": {
             "label": "Route to Hallormsstaður arboretum parking, then choose a short marked circuit",
-            "note": "Route to Hallormsstaður arboretum parking, then choose a short marked circuit.",
-            "alternatives": []
+            "note": "Route to Hallormsstaður arboretum parking, then choose a short marked circuit."
           },
           "23": {
             "label": "Route only to the western car park via road 862",
-            "note": "Route only to the western car park via road 862. Do not substitute the eastern 864 approach without checking conditions.",
-            "alternatives": []
+            "note": "Route only to the western car park via road 862. Do not substitute the eastern 864 approach without checking conditions."
           },
           "24": {
             "label": "Route to the inner Botnstjörn car park while the road is open",
-            "note": "Route to the inner Botnstjörn car park while the road is open. Continue on the short walk; choose longer routes separately.",
-            "alternatives": []
+            "note": "Route to the inner Botnstjörn car park while the road is open. Continue on the short walk; choose longer routes separately."
           },
           "25": {
             "label": "Route only to Dimmuborgir parking",
-            "note": "Route only to Dimmuborgir parking. Other lakeside sites and craters require separate stops.",
-            "alternatives": []
+            "note": "Route only to Dimmuborgir parking. Other lakeside sites and craters require separate stops."
           },
           "26": {
             "label": "Route to Hverir car park",
-            "note": "Route to Hverir car park. Krafla is a separate drive; follow current warnings and trail markings.",
-            "alternatives": []
+            "note": "Route to Hverir car park. Krafla is a separate drive; follow current warnings and trail markings."
           },
           "27": {
             "label": "Operators do not share one universal boarding point",
-            "note": "Operators do not share one universal boarding point. Select the check-in location from your booking; the marker shows the harbour.",
-            "alternatives": []
+            "note": "Operators do not share one universal boarding point. Select the check-in location from your booking; the marker shows the harbour."
           },
           "28": {
             "label": "Route to Goðafoss east car park",
-            "note": "Route to Goðafoss east car park. Use the pedestrian bridge to change banks.",
-            "alternatives": []
+            "note": "Route to Goðafoss east car park. Use the pedestrian bridge to change banks."
           },
           "29": {
             "label": "Route to Glaumbær museum parking, then explore the museum grounds on foot",
-            "note": "Route to Glaumbær museum parking, then explore the museum grounds on foot.",
-            "alternatives": []
+            "note": "Route to Glaumbær museum parking, then explore the museum grounds on foot."
           },
           "30": {
             "label": "Route to Hvítserkur car park",
-            "note": "Route to Hvítserkur car park. Continue to the viewpoint; descend to the beach only in safe conditions.",
-            "alternatives": []
+            "note": "Route to Hvítserkur car park. Continue to the viewpoint; descend to the beach only in safe conditions."
           },
           "31": {
             "label": "Route to the shared Hraunfossar waterfalls car park, then follow short paths between viewpoints",
-            "note": "Route to the shared Hraunfossar waterfalls car park, then follow short paths between viewpoints.",
-            "alternatives": []
+            "note": "Route to the shared Hraunfossar waterfalls car park, then follow short paths between viewpoints."
           },
           "32": {
             "label": "Route to Snorrastofa parking in western Reykholt, not the village of the same name in South Iceland",
-            "note": "Route to Snorrastofa parking in western Reykholt, not the village of the same name in South Iceland.",
-            "alternatives": []
+            "note": "Route to Snorrastofa parking in western Reykholt, not the village of the same name in South Iceland."
           },
           "33": {
             "label": "Route to parking near the Bárður monument in Arnarstapi",
-            "note": "Route to parking near the Bárður monument in Arnarstapi. Follow the coastal path and return to your car the same way.",
-            "alternatives": []
+            "note": "Route to parking near the Bárður monument in Arnarstapi. Follow the coastal path and return to your car the same way."
           },
           "34": {
             "label": "Route to Djúpalónssandur car park",
-            "note": "Route to Djúpalónssandur car park. Continue downhill on foot and stay away from the water.",
-            "alternatives": []
+            "note": "Route to Djúpalónssandur car park. Continue downhill on foot and stay away from the water."
           },
           "35": {
             "label": "Route to Vatnshellir parking beside road 574; arrive for check-in as required by your ticket",
-            "note": "Route to Vatnshellir parking beside road 574; arrive for check-in as required by your ticket.",
-            "alternatives": []
+            "note": "Route to Vatnshellir parking beside road 574; arrive for check-in as required by your ticket."
           },
           "36": {
             "label": "Route only to Kirkjufellsfoss car park",
-            "note": "Route only to Kirkjufellsfoss car park. This reaches the mountain viewpoint, not a climbing route.",
-            "alternatives": []
+            "note": "Route only to Kirkjufellsfoss car park. This reaches the mountain viewpoint, not a climbing route."
           },
           "37": {
             "label": "Route to Dynjandi car park",
-            "note": "Route to Dynjandi car park. Continue uphill on the trail and check road conditions before travelling.",
-            "alternatives": []
+            "note": "Route to Dynjandi car park. Continue uphill on the trail and check road conditions before travelling."
           },
           "38": {
             "label": "Route to Bjargtangar parking at the start of the cliffs",
-            "note": "Route to Bjargtangar parking at the start of the cliffs. Continue on foot only within permitted areas.",
-            "alternatives": []
+            "note": "Route to Bjargtangar parking at the start of the cliffs. Continue on foot only within permitted areas."
           },
           "39": {
             "label": "Route to Melanes to confirm parking and beach access",
-            "note": "Route to Melanes to confirm parking and beach access. Do not occupy campsite pitches without permission.",
-            "alternatives": []
+            "note": "Route to Melanes to confirm parking and beach access. Do not occupy campsite pitches without permission."
           },
           "40": {
             "label": "There is no road access",
-            "note": "There is no road access. Select the pier specified by your operator in Ísafjörður or another confirmed departure port.",
-            "alternatives": []
+            "note": "There is no road access. Select the pier specified by your operator in Ísafjörður or another confirmed departure port."
           },
           "41": {
             "label": "Route only to P1 before the final river crossings",
-            "note": "Route only to P1 before the final river crossings. F-roads require an authorised 4×4; alternatively book a highland bus.",
-            "alternatives": []
+            "note": "Route only to P1 before the final river crossings. F-roads require an authorised 4×4; alternatively book a highland bus."
           },
           "42": {
             "label": "Route to Lava Centre parking for a confirmed River Bus departure",
-            "note": "Route to Lava Centre parking for a confirmed River Bus departure. Continue by bus and check your ticket’s meeting point. Do not cross Krossá in an ordinary car.",
-            "alternatives": []
+            "note": "Route to Lava Centre parking for a confirmed River Bus departure. Continue by bus and check your ticket’s meeting point. Do not cross Krossá in an ordinary car."
           },
           "43": {
             "label": "Route to Highland Base while the road is open",
-            "note": "Route to Highland Base while the road is open. Confirm upper Hveradalir parking and onward transport locally; the base is not the start of the short circuit.",
-            "alternatives": []
+            "note": "Route to Highland Base while the road is open. Confirm upper Hveradalir parking and onward transport locally; the base is not the start of the short circuit."
           },
           "44": {
             "label": "Route only to Vikraborgir when highland-road access has been confirmed",
-            "note": "Route only to Vikraborgir when highland-road access has been confirmed. Navigation does not establish that river crossings are safe.",
-            "alternatives": []
+            "note": "Route only to Vikraborgir when highland-road access has been confirmed. Navigation does not establish that river crossings are safe."
           }
         },
         "reviewedSource": "4c90c23b"

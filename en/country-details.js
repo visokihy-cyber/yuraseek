@@ -1,2 +1,2 @@
 window.YuraPlaceDetails={};
-window.yuraExpandedDetails=function(country,p){const d=window.YuraPlaceDetails[country]?.[p.id];if(!d)return '';const escape=s=>String(s).replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));return '<p>'+escape(d[0])+'</p><h4>Tickets and reservations</h4><p>'+escape(d[1])+'</p>'+(d[2]?'<p><a target="_blank" rel="noopener" href="'+escape(d[2])+'">Visiting information ↗</a></p>':'');};
+window.yuraExpandedDetails=function(country,p){const d=window.YuraPlaceDetails[country]?.[p.id];if(!d)return '';const escape=s=>String(s).replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));return '<p>'+escape(d[0])+'</p><h4>Tickets and reservations</h4><p>'+escape(d[1])+'</p>';};

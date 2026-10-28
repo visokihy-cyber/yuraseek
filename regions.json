@@ -7782,7 +7782,7 @@
           "query": "Jardim Botanico da Madeira entrance, Caminho do Meio, Funchal",
           "kind": "arrival",
           "label": "Маршрут до автомобильного входа на Caminho do Meio; не до верхней станции канатной дороги",
-          "note": "Маршрут до автомобильного входа на Caminho do Meio; не до верхней станции канатной дороги.",
+          "note": "Маршрут до автомобильного входа на Caminho do Meio; не до верхней станции канатной дороги",
           "sources": [
             "https://www.visitmadeira.com/en/what-to-do/culture-passionates/gardens/madeira-botanical-garden/"
           ],
@@ -7825,7 +7825,7 @@
           "query": "Cabo Girao Skywalk parking, Madeira",
           "kind": "arrival",
           "label": "Маршрут только до парковки у входа на смотровую",
-          "note": "Маршрут только до парковки у входа на смотровую.",
+          "note": "Маршрут только до парковки у входа на смотровую",
           "sources": [
             "https://visitmadeira.com/en/where-to-go/madeira/south-coast/camara-de-lobos/cabo-girao/"
           ],
@@ -7868,7 +7868,7 @@
           "query": "32.7355397791,-16.8863778533",
           "kind": "trailhead",
           "label": "Маршрут только до парковочной зоны Ribeiro Frio на ER103, не до самой смотровой",
-          "note": "Маршрут только до парковочной зоны Ribeiro Frio на ER103, не до самой смотровой.",
+          "note": "Маршрут только до парковочной зоны Ribeiro Frio на ER103, не до самой смотровой",
           "sources": [
             "https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-11-vereda-dos-balcoes/"
           ],
@@ -7937,7 +7937,7 @@
           "query": "Miradouro da Ponta do Rosto parking, Madeira",
           "kind": "arrival",
           "label": "Маршрут только до парковочной площадки у смотровой; не к началу PR8",
-          "note": "Маршрут только до парковочной площадки у смотровой; не к началу PR8.",
+          "note": "Маршрут только до парковочной площадки у смотровой; не к началу PR8",
           "sources": [
             "https://visitmadeira.com/pt/onde-ir/madeira/costa-este/machico/miradouro-da-ponta-do-rosto/"
           ],
@@ -7983,7 +7983,7 @@
           "query": "Fanal Forest parking ER209, Madeira",
           "kind": "arrival",
           "label": "Маршрут только до обозначенной парковки у лесной станции Fanal на ER209",
-          "note": "Маршрут только до обозначенной парковки у лесной станции Fanal на ER209.",
+          "note": "Маршрут только до обозначенной парковки у лесной станции Fanal на ER209",
           "sources": [
             "https://visitmadeira.com/en/what-to-do/nature-seekers/laurissilva-forest/fanal/"
           ],
@@ -7993,7 +7993,7 @@
           "query": "Praia do Porto do Seixal parking, Madeira",
           "kind": "arrival",
           "label": "Маршрут только до парковочной зоны у порта и пляжа Сейшала",
-          "note": "Маршрут только до парковочной зоны у порта и пляжа Сейшала.",
+          "note": "Маршрут только до парковочной зоны у порта и пляжа Сейшала",
           "sources": [
             "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/seixal-beach/"
           ],
@@ -8003,7 +8003,7 @@
           "query": "Piscinas Naturais Porto Moniz parking, Madeira",
           "kind": "arrival",
           "label": "Маршрут только до парковки у обустроенного комплекса; не к скалам Cachalote",
-          "note": "Маршрут только до парковки у обустроенного комплекса; не к скалам Cachalote.",
+          "note": "Маршрут только до парковки у обустроенного комплекса; не к скалам Cachalote",
           "sources": [
             "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/natural-pools-of-porto-moniz/"
           ],
@@ -8013,7 +8013,7 @@
           "query": "Ilheus da Ribeira da Janela parking, Madeira",
           "kind": "arrival",
           "label": "Маршрут только до парковочной площадки у побережья, дальше пешком",
-          "note": "Маршрут только до парковочной площадки у побережья, дальше пешком.",
+          "note": "Маршрут только до парковочной площадки у побережья, дальше пешком",
           "sources": [
             "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/ribeira-da-janela/"
           ],
@@ -8023,7 +8023,7 @@
           "query": "Miradouro Veu da Noiva parking, Madeira",
           "kind": "arrival",
           "label": "Маршрут только до парковки смотровой у действующей дороги; не к основанию водопада",
-          "note": "Маршрут только до парковки смотровой у действующей дороги; не к основанию водопада.",
+          "note": "Маршрут только до парковки смотровой у действующей дороги; не к основанию водопада",
           "sources": [
             "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/veu-da-noiva-viewpoint/"
           ],
@@ -8043,7 +8043,7 @@
           "query": "Farol Ponta do Pargo parking, Madeira",
           "kind": "arrival",
           "label": "Маршрут только до площадки подъезда к маяку, далее пешком",
-          "note": "Маршрут только до площадки подъезда к маяку, далее пешком.",
+          "note": "Маршрут только до площадки подъезда к маяку, далее пешком",
           "sources": [
             "https://visitmadeira.com/en/where-to-go/madeira/west-coast/calheta/ponta-do-pargo-lighthouse-viewpoint/"
           ],
@@ -8064,7 +8064,7 @@
           "query": "Ponta do Sol public parking, Madeira",
           "kind": "arrival",
           "label": "Маршрут только до разрешённой парковки у центра; не в закрытые старые тоннели",
-          "note": "Маршрут только до разрешённой парковки у центра; не в закрытые старые тоннели.",
+          "note": "Маршрут только до разрешённой парковки у центра; не в закрытые старые тоннели",
           "sources": [
             "https://visitmadeira.com/en/where-to-go/madeira/west-coast/ponta-do-sol/",
             "https://www.zigzagonearth.com/ponta-do-sol-madeira/"
@@ -8075,7 +8075,7 @@
           "query": "Madalena do Mar seafront parking, Madeira",
           "kind": "arrival",
           "label": "Маршрут только до парковки у набережной; к RB2 — пешком по указателям",
-          "note": "Маршрут только до парковки у набережной; к RB2 — пешком по указателям.",
+          "note": "Маршрут только до парковки у набережной; к RB2 — пешком по указателям",
           "sources": [
             "https://visitmadeira.com/en/blog/joao-amorim/special-experiences-in-madeira-authentic-hidden-gems-to-discover/",
             "https://madeiralovers.com/en/things-to-do-village-madalena-do-mar-visit/"
@@ -10116,7 +10116,7 @@
             "note": "Use the meeting point agreed with your operator. The marker indicates the activity area, not a road entrance to the canyon."
           }
         },
-        "reviewedSource": "fbdb1e27"
+        "reviewedSource": "f41650cd"
       }
     },
     {
@@ -11454,7 +11454,7 @@
           "kind": "arrival",
           "query": "Viking Cafe Stokksnes, Iceland",
           "label": "Маршрут до Viking Café для оформления доступа; дальнейший проезд только по указаниям владельца",
-          "note": "Маршрут до Viking Café для оформления доступа; дальнейший проезд только по указаниям владельца.",
+          "note": "Маршрут до Viking Café для оформления доступа; дальнейший проезд только по указаниям владельца",
           "sources": [
             "https://www.south.is/en/destinations/travel-routes/the-south-coast"
           ],
@@ -11464,7 +11464,7 @@
           "kind": "arrival",
           "query": "Seydisfjordur public parking, Iceland",
           "label": "Маршрут до общественной парковки в центре Seyðisfjörður; паромные полосы не использовать как стоянку",
-          "note": "Маршрут до общественной парковки в центре Seyðisfjörður; паромные полосы не использовать как стоянку.",
+          "note": "Маршрут до общественной парковки в центре Seyðisfjörður; паромные полосы не использовать как стоянку",
           "sources": [
             "https://www.east.is/"
           ],
@@ -11504,7 +11504,7 @@
           "kind": "arrival",
           "query": "Hallormsstadur arboretum parking, Iceland",
           "label": "Маршрут до парковки дендрария Hallormsstaður; дальше выберите короткий размеченный круг",
-          "note": "Маршрут до парковки дендрария Hallormsstaður; дальше выберите короткий размеченный круг.",
+          "note": "Маршрут до парковки дендрария Hallormsstaður; дальше выберите короткий размеченный круг",
           "sources": [
             "https://www.east.is/"
           ],
@@ -11574,7 +11574,7 @@
           "kind": "arrival",
           "query": "Glaumbaer museum parking, Iceland",
           "label": "Маршрут до парковки музея Glaumbær; дальше пешком по территории экспозиции",
-          "note": "Маршрут до парковки музея Glaumbær; дальше пешком по территории экспозиции.",
+          "note": "Маршрут до парковки музея Glaumbær; дальше пешком по территории экспозиции",
           "sources": [
             "https://www.visiticeland.com/things-to-do/glaumbaer-in-skagafjordur/"
           ],
@@ -11594,7 +11594,7 @@
           "kind": "arrival",
           "query": "Hraunfossar parking, Iceland",
           "label": "Маршрут до общей парковки водопадов Hraunfossar; дальше короткие дорожки между площадками",
-          "note": "Маршрут до общей парковки водопадов Hraunfossar; дальше короткие дорожки между площадками.",
+          "note": "Маршрут до общей парковки водопадов Hraunfossar; дальше короткие дорожки между площадками",
           "sources": [
             "https://www.west.is/en/destinations/nature-1/highlights"
           ],
@@ -11604,7 +11604,7 @@
           "kind": "arrival",
           "query": "Snorrastofa Reykholt parking, Iceland",
           "label": "Маршрут до парковки Snorrastofa в западном Reykholt; не путайте с одноимённым посёлком на юге",
-          "note": "Маршрут до парковки Snorrastofa в западном Reykholt; не путайте с одноимённым посёлком на юге.",
+          "note": "Маршрут до парковки Snorrastofa в западном Reykholt; не путайте с одноимённым посёлком на юге",
           "sources": [
             "https://www.snorrastofa.is/en"
           ],
@@ -11634,7 +11634,7 @@
           "kind": "arrival",
           "query": "Vatnshellir cave parking, Iceland",
           "label": "Маршрут до парковки Vatnshellir у дороги 574; приходите к регистрации заранее по условиям билета",
-          "note": "Маршрут до парковки Vatnshellir у дороги 574; приходите к регистрации заранее по условиям билета.",
+          "note": "Маршрут до парковки Vatnshellir у дороги 574; приходите к регистрации заранее по условиям билета",
           "sources": [
             "https://www.ust.is/english/visiting-iceland/snaefellsjokull-national-park/vatnshellir-cave/"
           ],
@@ -12484,11 +12484,11 @@
           },
           "17": {
             "label": "Route to Viking Café to arrange access; continue only as directed by the landowner",
-            "note": "Route to Viking Café to arrange access; continue only as directed by the landowner."
+            "note": "Route to Viking Café to arrange access; continue only as directed by the landowner"
           },
           "18": {
             "label": "Route to public parking in central Seyðisfjörður; do not use ferry lanes for parking",
-            "note": "Route to public parking in central Seyðisfjörður; do not use ferry lanes for parking."
+            "note": "Route to public parking in central Seyðisfjörður; do not use ferry lanes for parking"
           },
           "19": {
             "label": "Route only to Hengifoss roadside parking",
@@ -12504,7 +12504,7 @@
           },
           "22": {
             "label": "Route to Hallormsstaður arboretum parking, then choose a short marked circuit",
-            "note": "Route to Hallormsstaður arboretum parking, then choose a short marked circuit."
+            "note": "Route to Hallormsstaður arboretum parking, then choose a short marked circuit"
           },
           "23": {
             "label": "Route only to the western car park via road 862",
@@ -12532,7 +12532,7 @@
           },
           "29": {
             "label": "Route to Glaumbær museum parking, then explore the museum grounds on foot",
-            "note": "Route to Glaumbær museum parking, then explore the museum grounds on foot."
+            "note": "Route to Glaumbær museum parking, then explore the museum grounds on foot"
           },
           "30": {
             "label": "Route to Hvítserkur car park",
@@ -12540,11 +12540,11 @@
           },
           "31": {
             "label": "Route to the shared Hraunfossar waterfalls car park, then follow short paths between viewpoints",
-            "note": "Route to the shared Hraunfossar waterfalls car park, then follow short paths between viewpoints."
+            "note": "Route to the shared Hraunfossar waterfalls car park, then follow short paths between viewpoints"
           },
           "32": {
             "label": "Route to Snorrastofa parking in western Reykholt, not the village of the same name in South Iceland",
-            "note": "Route to Snorrastofa parking in western Reykholt, not the village of the same name in South Iceland."
+            "note": "Route to Snorrastofa parking in western Reykholt, not the village of the same name in South Iceland"
           },
           "33": {
             "label": "Route to parking near the Bárður monument in Arnarstapi",
@@ -12556,7 +12556,7 @@
           },
           "35": {
             "label": "Route to Vatnshellir parking beside road 574; arrive for check-in as required by your ticket",
-            "note": "Route to Vatnshellir parking beside road 574; arrive for check-in as required by your ticket."
+            "note": "Route to Vatnshellir parking beside road 574; arrive for check-in as required by your ticket"
           },
           "36": {
             "label": "Route only to Kirkjufellsfoss car park",
@@ -12595,7 +12595,7 @@
             "note": "Navigation does not establish that river crossings are safe."
           }
         },
-        "reviewedSource": "2f10de12"
+        "reviewedSource": "e8160ba8"
       },
       "outline": [
         [
@@ -15265,7 +15265,7 @@
           "kind": "arrival",
           "query": "Dune 45 parking, Namibia",
           "label": "До обозначенной парковки Dune 45 внутри парка; дальше пешком по песку",
-          "note": "До обозначенной парковки Dune 45 внутри парка; дальше пешком по песку.",
+          "note": "До обозначенной парковки Dune 45 внутри парка; дальше пешком по песку",
           "sources": [
             "https://www.meft.gov.na/national-parks/namib-naukluft-park/224/"
           ],
@@ -15275,7 +15275,7 @@
           "kind": "arrival",
           "query": "Sesriem Canyon parking, Namibia",
           "label": "До парковки каньона; спуск пешком только при безопасных условиях",
-          "note": "До парковки каньона; спуск пешком только при безопасных условиях.",
+          "note": "До парковки каньона; спуск пешком только при безопасных условиях",
           "sources": [
             "https://www.nwr.com.na/resorts/sesriem-campsite/"
           ],
@@ -15285,7 +15285,7 @@
           "kind": "arrival",
           "query": "NWR Naukluft Camp reception, Namibia",
           "label": "До Naukluft Camp для регистрации; автомобиль остаётся у начала согласованного маршрута",
-          "note": "До Naukluft Camp для регистрации; автомобиль остаётся у начала согласованного маршрута.",
+          "note": "До Naukluft Camp для регистрации; автомобиль остаётся у начала согласованного маршрута",
           "sources": [
             "https://www.nwr.com.na/resorts/naukluft-camp/"
           ],
@@ -15295,7 +15295,7 @@
           "kind": "arrival",
           "query": "Tok Tokkie Trails reception Die Duine, Namibia",
           "label": "До базы Tok Tokkie Trails по инструкции бронирования; далее организованный пеший маршрут",
-          "note": "До базы Tok Tokkie Trails по инструкции бронирования; далее организованный пеший маршрут.",
+          "note": "До базы Tok Tokkie Trails по инструкции бронирования; далее организованный пеший маршрут",
           "sources": [
             "https://toktokkietrails.com/home-en/"
           ],
@@ -15355,7 +15355,7 @@
           "kind": "arrival",
           "query": "Cape Cross Seal Reserve parking, Namibia",
           "label": "До официальной парковки через ворота заповедника; дальше по настилу",
-          "note": "До официальной парковки через ворота заповедника; дальше по настилу.",
+          "note": "До официальной парковки через ворота заповедника; дальше по настилу",
           "sources": [
             "https://www.meft.gov.na/national-parks/cape-cross-seal-reserve/214/"
           ],
@@ -15375,7 +15375,7 @@
           "kind": "arrival",
           "query": "Twyfelfontein visitor centre parking, Namibia",
           "label": "До парковки визит-центра; дальше пешком по маршруту гида",
-          "note": "До парковки визит-центра; дальше пешком по маршруту гида.",
+          "note": "До парковки визит-центра; дальше пешком по маршруту гида",
           "sources": [
             "https://visitnamibia.com.na/2022/02/twyfelfontein-heritage-site/"
           ],
@@ -15385,7 +15385,7 @@
           "kind": "arrival",
           "query": "Damara Living Museum reception, Namibia",
           "label": "До приёмной музея; посещение по выбранной программе",
-          "note": "До приёмной музея; посещение по выбранной программе.",
+          "note": "До приёмной музея; посещение по выбранной программе",
           "sources": [
             "https://www.lcfn.info/damara/information"
           ],
@@ -15435,7 +15435,7 @@
           "kind": "arrival",
           "query": "Hoba Meteorite visitor parking, Namibia",
           "label": "До посетительской парковки метеорита; дальше короткий подход пешком",
-          "note": "До посетительской парковки метеорита; дальше короткий подход пешком.",
+          "note": "До посетительской парковки метеорита; дальше короткий подход пешком",
           "sources": [
             "https://visitnamibia.com.na/"
           ],
@@ -15445,7 +15445,7 @@
           "kind": "arrival",
           "query": "Popa Falls NWR Resort reception, Namibia",
           "label": "До приёмной NWR Popa Falls; дальше по разрешённым дорожкам",
-          "note": "До приёмной NWR Popa Falls; дальше по разрешённым дорожкам.",
+          "note": "До приёмной NWR Popa Falls; дальше по разрешённым дорожкам",
           "sources": [
             "https://www.nwr.com.na/resorts/popa-falls-resort/"
           ],
@@ -15455,7 +15455,7 @@
           "kind": "arrival",
           "query": "Mahango Game Reserve entrance gate, Namibia",
           "label": "До ворот Mahango; дальше по открытым разрешённым дорогам сектора",
-          "note": "До ворот Mahango; дальше по открытым разрешённым дорогам сектора.",
+          "note": "До ворот Mahango; дальше по открытым разрешённым дорогам сектора",
           "sources": [
             "https://www.meft.gov.na/national-parks/bwabwata-national-park/213/"
           ],
@@ -15475,7 +15475,7 @@
           "kind": "arrival",
           "query": "Kolmanskop visitor entrance parking, Namibia",
           "label": "До входной парковки Колманскопа с B4; дальнейший проход по условиям пропуска",
-          "note": "До входной парковки Колманскопа с B4; дальнейший проход по условиям пропуска.",
+          "note": "До входной парковки Колманскопа с B4; дальнейший проход по условиям пропуска",
           "sources": [
             "https://www.kolmanskop.de/"
           ],
@@ -15485,7 +15485,7 @@
           "kind": "arrival",
           "query": "Luderitz Waterfront parking, Namibia",
           "label": "До парковки Waterfront; для лодки уточните конкретный причал оператора",
-          "note": "До парковки Waterfront; для лодки уточните конкретный причал оператора.",
+          "note": "До парковки Waterfront; для лодки уточните конкретный причал оператора",
           "sources": [
             "https://visitnamibia.com.na/"
           ],
@@ -15495,7 +15495,7 @@
           "kind": "arrival",
           "query": "Quivertree Forest Rest Camp reception, Namibia",
           "label": "До приёмной Quivertree Forest Rest Camp; там оплачивают вход и уточняют парковки обоих участков",
-          "note": "До приёмной Quivertree Forest Rest Camp; там оплачивают вход и уточняют парковки обоих участков.",
+          "note": "До приёмной Quivertree Forest Rest Camp; там оплачивают вход и уточняют парковки обоих участков",
           "sources": [
             "https://travelafrica.guide/namibia/keetmanshoop/stay/quivertree-forest-rest-camp/"
           ],
@@ -16017,19 +16017,19 @@
           },
           "5": {
             "label": "Drive to the marked Dune 45 car park, then continue on foot",
-            "note": "Drive to the marked Dune 45 car park, then continue on foot."
+            "note": "Drive to the marked Dune 45 car park, then continue on foot"
           },
           "6": {
             "label": "Drive to the canyon car park; descend only in suitable conditions",
-            "note": "Drive to the canyon car park; descend only in suitable conditions."
+            "note": "Drive to the canyon car park; descend only in suitable conditions"
           },
           "7": {
             "label": "Drive to Naukluft Camp to register; leave the vehicle at the agreed trailhead",
-            "note": "Drive to Naukluft Camp to register; leave the vehicle at the agreed trailhead."
+            "note": "Drive to Naukluft Camp to register; leave the vehicle at the agreed trailhead"
           },
           "8": {
             "label": "Drive to Tok Tokkie Trails base following booking instructions; continue on the organised trail",
-            "note": "Drive to Tok Tokkie Trails base following booking instructions; continue on the organised trail."
+            "note": "Drive to Tok Tokkie Trails base following booking instructions; continue on the organised trail"
           },
           "9": {
             "label": "Use public parking near the museum and continue on foot",
@@ -16053,7 +16053,7 @@
           },
           "14": {
             "label": "Drive through the reserve gate to the official car park; continue on the boardwalk",
-            "note": "Drive through the reserve gate to the official car park; continue on the boardwalk."
+            "note": "Drive through the reserve gate to the official car park; continue on the boardwalk"
           },
           "15": {
             "label": "Route to Ugab Gate",
@@ -16061,11 +16061,11 @@
           },
           "16": {
             "label": "Drive to the visitor-centre car park, then follow the guide on foot",
-            "note": "Drive to the visitor-centre car park, then follow the guide on foot."
+            "note": "Drive to the visitor-centre car park, then follow the guide on foot"
           },
           "17": {
             "label": "Drive to the museum reception and join your chosen programme",
-            "note": "Drive to the museum reception and join your chosen programme."
+            "note": "Drive to the museum reception and join your chosen programme"
           },
           "18": {
             "label": "Route to the White Lady trail entrance at the end of D2359, not the similarly named lodge",
@@ -16085,15 +16085,15 @@
           },
           "22": {
             "label": "Drive to the meteorite visitor car park and walk the short approach",
-            "note": "Drive to the meteorite visitor car park and walk the short approach."
+            "note": "Drive to the meteorite visitor car park and walk the short approach"
           },
           "23": {
             "label": "Drive to NWR Popa Falls reception, then use authorised paths",
-            "note": "Drive to NWR Popa Falls reception, then use authorised paths."
+            "note": "Drive to NWR Popa Falls reception, then use authorised paths"
           },
           "24": {
             "label": "Route to Mahango entrance gate, then follow open authorised sector roads",
-            "note": "Route to Mahango entrance gate, then follow open authorised sector roads."
+            "note": "Route to Mahango entrance gate, then follow open authorised sector roads"
           },
           "25": {
             "label": "No shared arrival car park has been confirmed for all programmes",
@@ -16101,15 +16101,15 @@
           },
           "26": {
             "label": "Drive from the B4 to Kolmanskop visitor parking; enter under your permit conditions",
-            "note": "Drive from the B4 to Kolmanskop visitor parking; enter under your permit conditions."
+            "note": "Drive from the B4 to Kolmanskop visitor parking; enter under your permit conditions"
           },
           "27": {
             "label": "Drive to Waterfront parking; confirm your operator’s exact jetty for a boat trip",
-            "note": "Drive to Waterfront parking; confirm your operator’s exact jetty for a boat trip."
+            "note": "Drive to Waterfront parking; confirm your operator’s exact jetty for a boat trip"
           },
           "28": {
             "label": "Drive to Quivertree Forest Rest Camp reception to pay and confirm parking for both sites",
-            "note": "Drive to Quivertree Forest Rest Camp reception to pay and confirm parking for both sites."
+            "note": "Drive to Quivertree Forest Rest Camp reception to pay and confirm parking for both sites"
           },
           "29": {
             "label": "Route first to Hobas for entry formalities, then along the open road to official viewpoint parking",
@@ -16120,7 +16120,7 @@
             "note": "Other trips use their own base and directions."
           }
         },
-        "reviewedSource": "29955adc"
+        "reviewedSource": "756322da"
       },
       "outline": [
         [
@@ -18034,7 +18034,7 @@
           "kind": "arrival",
           "query": "Lower Tafelberg Road parking, Cape Town, South Africa",
           "label": "До парковки Lower Tafelberg Road; далее шаттл к нижней станции и канатная дорога",
-          "note": "До парковки Lower Tafelberg Road; далее шаттл к нижней станции и канатная дорога.",
+          "note": "До парковки Lower Tafelberg Road; далее шаттл к нижней станции и канатная дорога",
           "sources": [
             "https://www.tablemountain.net/plan-your-visit/getting-here"
           ],
@@ -18044,7 +18044,7 @@
           "kind": "arrival",
           "query": "Clock Tower Parking, V&A Waterfront, Cape Town",
           "label": "До парковки Clock Tower у Waterfront; затем пешком к Nelson Mandela Gateway и на паром",
-          "note": "До парковки Clock Tower у Waterfront; затем пешком к Nelson Mandela Gateway и на паром.",
+          "note": "До парковки Clock Tower у Waterfront; затем пешком к Nelson Mandela Gateway и на паром",
           "sources": [
             "https://www.robben-island.org.za/frequently-asked-questions/"
           ],
@@ -18054,7 +18054,7 @@
           "kind": "arrival",
           "query": "Kirstenbosch Gate 1 parking, Cape Town",
           "label": "До парковки Gate 1 на Rhodes Drive; далее по дорожкам сада",
-          "note": "До парковки Gate 1 на Rhodes Drive; далее по дорожкам сада.",
+          "note": "До парковки Gate 1 на Rhodes Drive; далее по дорожкам сада",
           "sources": [
             "https://www.sanbi.org/gardens/kirstenboch/visitor-information/information/"
           ],
@@ -18064,7 +18064,7 @@
           "kind": "arrival",
           "query": "Cape Point Main Car Park, South Africa",
           "label": "До основной парковки Cape Point через вход парка; далее пешком или на фуникулёре",
-          "note": "До основной парковки Cape Point через вход парка; далее пешком или на фуникулёре.",
+          "note": "До основной парковки Cape Point через вход парка; далее пешком или на фуникулёре",
           "sources": [
             "https://capepoint.co.za/visitus/"
           ],
@@ -18074,7 +18074,7 @@
           "kind": "arrival",
           "query": "Boulders Beach Parking Seaforth, Simonstown",
           "label": "До парковки Seaforth; далее пешком к входу и настилам Foxy Beach",
-          "note": "До парковки Seaforth; далее пешком к входу и настилам Foxy Beach.",
+          "note": "До парковки Seaforth; далее пешком к входу и настилам Foxy Beach",
           "sources": [
             "https://www.sanparks.org/parks/table-mountain/rates-entry-fees"
           ],
@@ -18084,7 +18084,7 @@
           "kind": "arrival",
           "query": "Franschhoek Wine Tram Terminal Main Road Cabriere Street",
           "label": "До Franschhoek Terminal; для линии с отправлением Groot Drakenstein выберите её терминал по билету",
-          "note": "До Franschhoek Terminal; для линии с отправлением Groot Drakenstein выберите её терминал по билету.",
+          "note": "До Franschhoek Terminal; для линии с отправлением Groot Drakenstein выберите её терминал по билету",
           "sources": [
             "https://winetram.co.za/faq/"
           ],
@@ -18103,8 +18103,8 @@
         "8": {
           "kind": "arrival",
           "query": "Sanddrif reception Dwarsrivier Cederberg",
-          "label": "Сначала до Sanddrif reception за разрешением и схемой проезда; затем к парковке Стадсаал по указаниям",
-          "note": "Сначала до Sanddrif reception за разрешением и схемой проезда; затем к парковке Стадсаал по указаниям.",
+          "label": "Сначала до администрации кемпинга Sanddrif за разрешением и схемой проезда; затем к парковке Стадсаал по указаниям",
+          "note": "Сначала до администрации кемпинга Sanddrif за разрешением и схемой проезда; затем к парковке Стадсаал по указаниям",
           "sources": [
             "https://www.capenature.co.za/news/2026/cederberg-fire-recovery-and-visitor-access"
           ],
@@ -18114,7 +18114,7 @@
           "kind": "arrival",
           "query": "Cango Caves visitor parking, Oudtshoorn",
           "label": "До парковки посетительского центра Cango Caves на R328; далее к регистрации экскурсии",
-          "note": "До парковки посетительского центра Cango Caves на R328; далее к регистрации экскурсии.",
+          "note": "До парковки посетительского центра Cango Caves на R328; далее к регистрации экскурсии",
           "sources": [
             "https://www.cango-caves.co.za/"
           ],
@@ -18123,8 +18123,8 @@
         "10": {
           "kind": "arrival",
           "query": "Ebb and Flow South Camp reception, Wilderness",
-          "label": "До reception Ebb-and-Flow South; там уточните парковку и открытый старт выбранной тропы или каноэ",
-          "note": "До reception Ebb-and-Flow South; там уточните парковку и открытый старт выбранной тропы или каноэ.",
+          "label": "До администрации Ebb-and-Flow South; там уточните парковку и открытый старт выбранной тропы или каноэ",
+          "note": "До администрации Ebb-and-Flow South; там уточните парковку и открытый старт выбранной тропы или каноэ",
           "sources": [
             "https://www.sanparks.org/parks/garden-route"
           ],
@@ -18134,7 +18134,7 @@
           "kind": "arrival",
           "query": "Diepwalle Forest Station, Knysna",
           "label": "До Diepwalle Forest Station по R339; парковка и начало маршрутов у станции",
-          "note": "До Diepwalle Forest Station по R339; парковка и начало маршрутов у станции.",
+          "note": "До Diepwalle Forest Station по R339; парковка и начало маршрутов у станции",
           "sources": [
             "https://www.sanparks.org/parks/garden-route/what-to-do/activities/hikes-walks-trails"
           ],
@@ -18144,7 +18144,7 @@
           "kind": "arrival",
           "query": "Robberg Nature Reserve parking, Plettenberg Bay",
           "label": "До парковки внутри входа Robberg; все три основные петли начинаются здесь",
-          "note": "До парковки внутри входа Robberg; все три основные петли начинаются здесь.",
+          "note": "До парковки внутри входа Robberg; все три основные петли начинаются здесь",
           "sources": [
             "https://www.capenature.co.za/reserves/robberg-nature-reserve"
           ],
@@ -18154,7 +18154,7 @@
           "kind": "arrival",
           "query": "Storms River Mouth Rest Camp day visitor parking",
           "label": "До дневной парковки Storms River Mouth Rest Camp через ворота; далее к началу Mouth Trail",
-          "note": "До дневной парковки Storms River Mouth Rest Camp через ворота; далее к началу Mouth Trail.",
+          "note": "До дневной парковки Storms River Mouth Rest Camp через ворота; далее к началу Mouth Trail",
           "sources": [
             "https://www.sanparks.org/parks/garden-route/what-to-do/activities/hikes-walks-trails"
           ],
@@ -18183,8 +18183,8 @@
         "16": {
           "kind": "arrival",
           "query": "Giants Castle Camp reception, South Africa",
-          "label": "До reception Giants Castle Camp; там оформите посещение и получите указания к парковке и тропе",
-          "note": "До reception Giants Castle Camp; там оформите посещение и получите указания к парковке и тропе.",
+          "label": "До администрации Giants Castle Camp; там оформите посещение и получите указания к парковке и тропе",
+          "note": "До администрации Giants Castle Camp; там оформите посещение и получите указания к парковке и тропе",
           "sources": [
             "https://www.kznwildlife.com/"
           ],
@@ -18193,8 +18193,8 @@
         "17": {
           "kind": "arrival",
           "query": "Glen Reenen Rest Camp reception, Golden Gate",
-          "label": "До reception Glen Reenen; далее к согласованной парковке и открытой тропе",
-          "note": "До reception Glen Reenen; далее к согласованной парковке и открытой тропе.",
+          "label": "До администрации Glen Reenen; далее к согласованной парковке и открытой тропе",
+          "note": "До администрации Glen Reenen; далее к согласованной парковке и открытой тропе",
           "sources": [
             "https://www.sanparks.org/parks/golden-gate-highlands"
           ],
@@ -18204,7 +18204,7 @@
           "kind": "arrival",
           "query": "Durban Botanic Gardens parking John Zikhali Road",
           "label": "До общественной парковки с John Zikhali Road у северной стороны сада",
-          "note": "До общественной парковки с John Zikhali Road у северной стороны сада.",
+          "note": "До общественной парковки с John Zikhali Road у северной стороны сада",
           "sources": [
             "https://visitdurban.travel/space/durban-botanic-gardens"
           ],
@@ -18214,7 +18214,7 @@
           "kind": "blocked",
           "query": "",
           "label": "Сначала выберите оператора; общего подтверждённого места парковки для всех круизов нет",
-          "note": "Сначала выберите оператора; общего подтверждённого места парковки для всех круизов нет.",
+          "note": "Сначала выберите оператора; общего подтверждённого места парковки для всех круизов нет",
           "sources": [
             "https://www.isimangaliso.com/activities/boat-cruises/"
           ],
@@ -18224,7 +18224,7 @@
           "kind": "arrival",
           "query": "Bhangazi Gate iSimangaliso, St Lucia",
           "label": "До Bhangazi Gate у Сент-Лусии; далее по парковой дороге к Cape Vidal и дневной парковке",
-          "note": "До Bhangazi Gate у Сент-Лусии; далее по парковой дороге к Cape Vidal и дневной парковке.",
+          "note": "До Bhangazi Gate у Сент-Лусии; далее по парковой дороге к Cape Vidal и дневной парковке",
           "sources": [
             "https://www.isimangaliso.com/"
           ],
@@ -18244,7 +18244,7 @@
           "kind": "arrival",
           "query": "Sodwana Bay main gate South Africa",
           "label": "До главных ворот Sodwana Bay; далее к парковке и месту встречи, указанным выбранным дайв-центром",
-          "note": "До главных ворот Sodwana Bay; далее к парковке и месту встречи, указанным выбранным дайв-центром.",
+          "note": "До главных ворот Sodwana Bay; далее к парковке и месту встречи, указанным выбранным дайв-центром",
           "sources": [
             "https://www.isimangaliso.com/places/sodwana-bay/"
           ],
@@ -18254,7 +18254,7 @@
           "kind": "arrival",
           "query": "Paul Kruger Gate Kruger National Park",
           "label": "До Paul Kruger Gate для южного района и Skukuza; вход и ночёвка должны соответствовать вашему плану",
-          "note": "До Paul Kruger Gate для южного района и Skukuza; вход и ночёвка должны соответствовать вашему плану.",
+          "note": "До Paul Kruger Gate для южного района и Skukuza; вход и ночёвка должны соответствовать вашему плану",
           "sources": [
             "https://www.sanparks.org/parks/kruger/what-to-do/day-visits"
           ],
@@ -18264,7 +18264,7 @@
           "kind": "arrival",
           "query": "Three Rondavels Viewpoint parking South Africa",
           "label": "До парковки Three Rondavels Viewpoint от Panorama Route; далее короткая прогулка",
-          "note": "До парковки Three Rondavels Viewpoint от Panorama Route; далее короткая прогулка.",
+          "note": "До парковки Three Rondavels Viewpoint от Panorama Route; далее короткая прогулка",
           "sources": [
             "https://www.mpumalanga.com/plan-your-trip/accommodation/unknown-region/graskop/three-rondavels-MTATT7114"
           ],
@@ -18274,7 +18274,7 @@
           "kind": "arrival",
           "query": "Bourkes Luck Potholes visitor centre parking",
           "label": "До парковки посетительского центра Bourke’s Luck Potholes; далее по оборудованным дорожкам",
-          "note": "До парковки посетительского центра Bourke’s Luck Potholes; далее по оборудованным дорожкам.",
+          "note": "До парковки посетительского центра Bourke’s Luck Potholes; далее по оборудованным дорожкам",
           "sources": [
             "https://www.mpumalanga.com/"
           ],
@@ -18284,7 +18284,7 @@
           "kind": "arrival",
           "query": "Gods Window parking Mpumalanga",
           "label": "До обозначенной парковки God’s Window; далее вверх по ступеням",
-          "note": "До обозначенной парковки God’s Window; далее вверх по ступеням.",
+          "note": "До обозначенной парковки God’s Window; далее вверх по ступеням",
           "sources": [
             "https://www.mpumalanga.com/"
           ],
@@ -18294,7 +18294,7 @@
           "kind": "arrival",
           "query": "Apartheid Museum parking Johannesburg",
           "label": "До парковки музея у Northern Parkway и Gold Reef Road; затем к входу",
-          "note": "До парковки музея у Northern Parkway и Gold Reef Road; затем к входу.",
+          "note": "До парковки музея у Northern Parkway и Gold Reef Road; затем к входу",
           "sources": [
             "https://www.apartheidmuseum.org/about-the-museum/visitor-information"
           ],
@@ -18304,7 +18304,7 @@
           "kind": "blocked",
           "query": "",
           "label": "Место встречи и парковка зависят от выбранного местного гида; согласуйте до поездки",
-          "note": "Место встречи и парковка зависят от выбранного местного гида; согласуйте до поездки.",
+          "note": "Место встречи и парковка зависят от выбранного местного гида; согласуйте до поездки",
           "sources": [
             "https://www.mandelahouse.com/"
           ],
@@ -18314,7 +18314,7 @@
           "kind": "arrival",
           "query": "Maropeng Visitor Centre parking South Africa",
           "label": "До парковки Maropeng Visitor Centre на R400; это не парковка пещер Стеркфонтейн",
-          "note": "До парковки Maropeng Visitor Centre на R400; это не парковка пещер Стеркфонтейн.",
+          "note": "До парковки Maropeng Visitor Centre на R400; это не парковка пещер Стеркфонтейн",
           "sources": [
             "https://www.maropeng.co.za/maropeng-tour/maropeng-tour"
           ],
@@ -18323,8 +18323,8 @@
         "30": {
           "kind": "arrival",
           "query": "Mapungubwe National Park Main Gate reception",
-          "label": "До Main Gate и reception; далее по указаниям к выбранной программе или смотровой",
-          "note": "До Main Gate и reception; далее по указаниям к выбранной программе или смотровой.",
+          "label": "До главных ворот и администрации парка; далее по указаниям к выбранной программе или смотровой",
+          "note": "До главных ворот и администрации парка; далее по указаниям к выбранной программе или смотровой",
           "sources": [
             "https://www.sanparks.org/parks/mapungubwe/useful-information/vital-information"
           ],
@@ -18333,8 +18333,8 @@
         "31": {
           "kind": "arrival",
           "query": "Skilpad Rest Camp reception Namaqua National Park",
-          "label": "До Skilpad reception через Kamieskroon; далее по открытой петле и обозначенным парковкам",
-          "note": "До Skilpad reception через Kamieskroon; далее по открытой петле и обозначенным парковкам.",
+          "label": "До администрации Skilpad через Kamieskroon; далее по открытой петле и обозначенным парковкам",
+          "note": "До администрации Skilpad через Kamieskroon; далее по открытой петле и обозначенным парковкам",
           "sources": [
             "https://www.sanparks.org/parks/namaqua"
           ],
@@ -18343,8 +18343,8 @@
         "32": {
           "kind": "arrival",
           "query": "Augrabies Falls National Park reception parking",
-          "label": "До reception и парковки основного лагеря; к водопаду дальше по настилам",
-          "note": "До reception и парковки основного лагеря; к водопаду дальше по настилам.",
+          "label": "До администрации и парковки основного лагеря; к водопаду дальше по настилам",
+          "note": "До администрации и парковки основного лагеря; к водопаду дальше по настилам",
           "sources": [
             "https://www.sanparks.org/parks/augrabies-falls"
           ],
@@ -18354,7 +18354,7 @@
           "kind": "arrival",
           "query": "Twee Rivieren Gate Kgalagadi South Africa",
           "label": "До Twee Rivieren Gate с южноафриканской стороны; далее по разрешённым дорогам парка",
-          "note": "До Twee Rivieren Gate с южноафриканской стороны; далее по разрешённым дорогам парка.",
+          "note": "До Twee Rivieren Gate с южноафриканской стороны; далее по разрешённым дорогам парка",
           "sources": [
             "https://www.sanparks.org/parks/kgalagadi/travel/entrance-gates"
           ],
@@ -18364,7 +18364,7 @@
           "kind": "arrival",
           "query": "De Hoop Nature Reserve main gate",
           "label": "До главных ворот De Hoop; после оформления въезда следуйте к парковке Koppie Alleen по указаниям парка",
-          "note": "До главных ворот De Hoop; после оформления въезда следуйте к парковке Koppie Alleen по указаниям парка.",
+          "note": "До главных ворот De Hoop; после оформления въезда следуйте к парковке Koppie Alleen по указаниям парка",
           "sources": [
             "https://www.capenature.co.za/reserves/de-hoop-nature-reserve"
           ],
@@ -18374,7 +18374,7 @@
           "kind": "arrival",
           "query": "Southernmost Tip of Africa parking Cape Agulhas",
           "label": "До парковки у Southernmost Tip of Africa; далее по оборудованному подходу к знаку",
-          "note": "До парковки у Southernmost Tip of Africa; далее по оборудованному подходу к знаку.",
+          "note": "До парковки у Southernmost Tip of Africa; далее по оборудованному подходу к знаку",
           "sources": [
             "https://www.sanparks.org/parks/agulhas"
           ],
@@ -18384,7 +18384,7 @@
           "kind": "arrival",
           "query": "West Coast National Park West Coast Gate R27",
           "label": "До West Coast Gate с R27; затем по парковой карте к выбранной смотровой или укрытию",
-          "note": "До West Coast Gate с R27; затем по парковой карте к выбранной смотровой или укрытию.",
+          "note": "До West Coast Gate с R27; затем по парковой карте к выбранной смотровой или укрытию",
           "sources": [
             "https://www.sanparks.org/parks/west-coast"
           ],
@@ -18958,27 +18958,27 @@
         "routeAccess": {
           "1": {
             "label": "Drive to Lower Tafelberg Road parking, then take the shuttle to the lower station and cableway",
-            "note": "Drive to Lower Tafelberg Road parking, then take the shuttle to the lower station and cableway."
+            "note": "Drive to Lower Tafelberg Road parking, then take the shuttle to the lower station and cableway"
           },
           "2": {
             "label": "Drive to Clock Tower Parking at the Waterfront, walk to Nelson Mandela Gateway and board the ferry",
-            "note": "Drive to Clock Tower Parking at the Waterfront, walk to Nelson Mandela Gateway and board the ferry."
+            "note": "Drive to Clock Tower Parking at the Waterfront, walk to Nelson Mandela Gateway and board the ferry"
           },
           "3": {
             "label": "Drive to Gate 1 parking on Rhodes Drive, then follow garden paths",
-            "note": "Drive to Gate 1 parking on Rhodes Drive, then follow garden paths."
+            "note": "Drive to Gate 1 parking on Rhodes Drive, then follow garden paths"
           },
           "4": {
             "label": "Drive through the park gate to Cape Point Main Car Park; continue on foot or by funicular",
-            "note": "Drive through the park gate to Cape Point Main Car Park; continue on foot or by funicular."
+            "note": "Drive through the park gate to Cape Point Main Car Park; continue on foot or by funicular"
           },
           "5": {
             "label": "Drive to Seaforth parking, then walk to the entrance and Foxy Beach boardwalks",
-            "note": "Drive to Seaforth parking, then walk to the entrance and Foxy Beach boardwalks."
+            "note": "Drive to Seaforth parking, then walk to the entrance and Foxy Beach boardwalks"
           },
           "6": {
             "label": "Drive to Franschhoek Terminal; use Groot Drakenstein instead if specified by your ticket",
-            "note": "Drive to Franschhoek Terminal; use Groot Drakenstein instead if specified by your ticket."
+            "note": "Drive to Franschhoek Terminal; use Groot Drakenstein instead if specified by your ticket"
           },
           "7": {
             "label": "Drive to Gearing Point parking and continue along the coast",
@@ -18986,27 +18986,27 @@
           },
           "8": {
             "label": "First drive to Sanddrif reception for the permit and directions, then to Stadsaal parking as instructed",
-            "note": "First drive to Sanddrif reception for the permit and directions, then to Stadsaal parking as instructed."
+            "note": "First drive to Sanddrif reception for the permit and directions, then to Stadsaal parking as instructed"
           },
           "9": {
             "label": "Drive to Cango Caves visitor parking on the R328, then check in for the tour",
-            "note": "Drive to Cango Caves visitor parking on the R328, then check in for the tour."
+            "note": "Drive to Cango Caves visitor parking on the R328, then check in for the tour"
           },
           "10": {
             "label": "Drive to Ebb-and-Flow South reception for parking and the open starting point of your walk or paddle",
-            "note": "Drive to Ebb-and-Flow South reception for parking and the open starting point of your walk or paddle."
+            "note": "Drive to Ebb-and-Flow South reception for parking and the open starting point of your walk or paddle"
           },
           "11": {
             "label": "Drive along R339 to Diepwalle Forest Station, where parking and trails are based",
-            "note": "Drive along R339 to Diepwalle Forest Station, where parking and trails are based."
+            "note": "Drive along R339 to Diepwalle Forest Station, where parking and trails are based"
           },
           "12": {
             "label": "Drive to the parking area inside Robberg’s entrance; the three main loops start here",
-            "note": "Drive to the parking area inside Robberg’s entrance; the three main loops start here."
+            "note": "Drive to the parking area inside Robberg’s entrance; the three main loops start here"
           },
           "13": {
             "label": "Drive through the gate to the day-visitor parking at Storms River Mouth Rest Camp, then walk to Mouth Trail",
-            "note": "Drive through the gate to the day-visitor parking at Storms River Mouth Rest Camp, then walk to Mouth Trail."
+            "note": "Drive through the gate to the day-visitor parking at Storms River Mouth Rest Camp, then walk to Mouth Trail"
           },
           "14": {
             "label": "Drive from the N2 through Colchester to Matyholweni Gate, then continue the safari by vehicle",
@@ -19018,23 +19018,23 @@
           },
           "16": {
             "label": "Drive to Giant’s Castle Camp reception for registration, parking and trail directions",
-            "note": "Drive to Giant’s Castle Camp reception for registration, parking and trail directions."
+            "note": "Drive to Giant’s Castle Camp reception for registration, parking and trail directions"
           },
           "17": {
             "label": "Drive to Glen Reenen reception, then use the indicated parking and open trail",
-            "note": "Drive to Glen Reenen reception, then use the indicated parking and open trail."
+            "note": "Drive to Glen Reenen reception, then use the indicated parking and open trail"
           },
           "18": {
             "label": "Use the public parking off John Zikhali Road on the northern side of the gardens",
-            "note": "Use the public parking off John Zikhali Road on the northern side of the gardens."
+            "note": "Use the public parking off John Zikhali Road on the northern side of the gardens"
           },
           "19": {
             "label": "Choose an operator first; there is no confirmed common parking point for every cruise",
-            "note": "Choose an operator first; there is no confirmed common parking point for every cruise."
+            "note": "Choose an operator first; there is no confirmed common parking point for every cruise"
           },
           "20": {
             "label": "Drive to Bhangazi Gate at St Lucia, then follow the park road to Cape Vidal’s day parking",
-            "note": "Drive to Bhangazi Gate at St Lucia, then follow the park road to Cape Vidal’s day parking."
+            "note": "Drive to Bhangazi Gate at St Lucia, then follow the park road to Cape Vidal’s day parking"
           },
           "21": {
             "label": "Drive via Hluhluwe to Memorial Gate for the northern section and Hilltop",
@@ -19042,67 +19042,67 @@
           },
           "22": {
             "label": "Drive to Sodwana Bay main gate, then follow your dive centre’s parking and meeting instructions",
-            "note": "Drive to Sodwana Bay main gate, then follow your dive centre’s parking and meeting instructions."
+            "note": "Drive to Sodwana Bay main gate, then follow your dive centre’s parking and meeting instructions"
           },
           "23": {
             "label": "Drive to Paul Kruger Gate for the southern area and Skukuza; choose the gate to match your overnight plan",
-            "note": "Drive to Paul Kruger Gate for the southern area and Skukuza; choose the gate to match your overnight plan."
+            "note": "Drive to Paul Kruger Gate for the southern area and Skukuza; choose the gate to match your overnight plan"
           },
           "24": {
             "label": "Drive to Three Rondavels Viewpoint parking from the Panorama Route, then walk a short distance",
-            "note": "Drive to Three Rondavels Viewpoint parking from the Panorama Route, then walk a short distance."
+            "note": "Drive to Three Rondavels Viewpoint parking from the Panorama Route, then walk a short distance"
           },
           "25": {
             "label": "Drive to the visitor-centre parking at Bourke’s Luck Potholes, then use the marked paths",
-            "note": "Drive to the visitor-centre parking at Bourke’s Luck Potholes, then use the marked paths."
+            "note": "Drive to the visitor-centre parking at Bourke’s Luck Potholes, then use the marked paths"
           },
           "26": {
             "label": "Drive to the marked God’s Window parking, then climb the steps",
-            "note": "Drive to the marked God’s Window parking, then climb the steps."
+            "note": "Drive to the marked God’s Window parking, then climb the steps"
           },
           "27": {
             "label": "Drive to the museum parking by Northern Parkway and Gold Reef Road, then walk to the entrance",
-            "note": "Drive to the museum parking by Northern Parkway and Gold Reef Road, then walk to the entrance."
+            "note": "Drive to the museum parking by Northern Parkway and Gold Reef Road, then walk to the entrance"
           },
           "28": {
             "label": "Agree the meeting point and parking with your chosen local guide before travelling",
-            "note": "Agree the meeting point and parking with your chosen local guide before travelling."
+            "note": "Agree the meeting point and parking with your chosen local guide before travelling"
           },
           "29": {
             "label": "Drive to Maropeng Visitor Centre parking on the R400; this is not the Sterkfontein Caves car park",
-            "note": "Drive to Maropeng Visitor Centre parking on the R400; this is not the Sterkfontein Caves car park."
+            "note": "Drive to Maropeng Visitor Centre parking on the R400; this is not the Sterkfontein Caves car park"
           },
           "30": {
             "label": "Drive to Main Gate reception, then follow directions to your booked activity or viewpoint",
-            "note": "Drive to Main Gate reception, then follow directions to your booked activity or viewpoint."
+            "note": "Drive to Main Gate reception, then follow directions to your booked activity or viewpoint"
           },
           "31": {
             "label": "Drive via Kamieskroon to Skilpad reception, then use the open loop and marked parking areas",
-            "note": "Drive via Kamieskroon to Skilpad reception, then use the open loop and marked parking areas."
+            "note": "Drive via Kamieskroon to Skilpad reception, then use the open loop and marked parking areas"
           },
           "32": {
             "label": "Drive to the main-camp reception and parking, then follow boardwalks to the falls",
-            "note": "Drive to the main-camp reception and parking, then follow boardwalks to the falls."
+            "note": "Drive to the main-camp reception and parking, then follow boardwalks to the falls"
           },
           "33": {
             "label": "Drive to Twee Rivieren Gate on the South African side, then use authorised park roads",
-            "note": "Drive to Twee Rivieren Gate on the South African side, then use authorised park roads."
+            "note": "Drive to Twee Rivieren Gate on the South African side, then use authorised park roads"
           },
           "34": {
             "label": "Drive to De Hoop main gate, register, then follow park directions to Koppie Alleen parking",
-            "note": "Drive to De Hoop main gate, register, then follow park directions to Koppie Alleen parking."
+            "note": "Drive to De Hoop main gate, register, then follow park directions to Koppie Alleen parking"
           },
           "35": {
             "label": "Drive to the Southernmost Tip of Africa parking and follow the marked approach to the monument",
-            "note": "Drive to the Southernmost Tip of Africa parking and follow the marked approach to the monument."
+            "note": "Drive to the Southernmost Tip of Africa parking and follow the marked approach to the monument"
           },
           "36": {
             "label": "Drive to West Coast Gate from the R27, then follow the park map to your chosen viewpoint or hide",
-            "note": "Drive to West Coast Gate from the R27, then follow the park map to your chosen viewpoint or hide."
+            "note": "Drive to West Coast Gate from the R27, then follow the park map to your chosen viewpoint or hide"
           }
         },
         "sources": "Visitor arrangements: [SANParks](https://www.sanparks.org/), [CapeNature](https://www.capenature.co.za/), [iSimangaliso](https://www.isimangaliso.com/), museums and operators linked in individual cards.\n\nTravel experience and selection: [Earth Trekkers](https://www.earthtrekkers.com/garden-route-south-africa-road-trip-itinerary/), [Stingy Nomads](https://stingynomads.com/south-africa/), [Never Ending Voyage](https://www.neverendingvoyage.com/south-africa-road-trip-itinerary/), [Lonely Planet](https://www.lonelyplanet.com/destinations/south-africa), [Rough Guides](https://www.roughguides.com/south-africa/itineraries/), [Vinsky Forum](https://forum.awd.ru/viewtopic.php?t=429402), [Travel for Wildlife](https://www.travel4wildlife.com/kgalagadi-transfrontier-park-guide/). Checked 28 October 2026; recheck conditions before travelling.",
-        "reviewedSource": "2d6d11da"
+        "reviewedSource": "be34cc96"
       },
       "sources": "Условия посещения: [SANParks](https://www.sanparks.org/), [CapeNature](https://www.capenature.co.za/), [iSimangaliso](https://www.isimangaliso.com/), музеи и операторы по ссылкам в карточках.\n\nОпыт и отбор: [Earth Trekkers](https://www.earthtrekkers.com/garden-route-south-africa-road-trip-itinerary/), [Stingy Nomads](https://stingynomads.com/south-africa/), [Never Ending Voyage](https://www.neverendingvoyage.com/south-africa-road-trip-itinerary/), [Lonely Planet](https://www.lonelyplanet.com/destinations/south-africa), [Rough Guides](https://www.roughguides.com/south-africa/itineraries/), [Vinsky Forum](https://forum.awd.ru/viewtopic.php?t=429402), [Travel for Wildlife](https://www.travel4wildlife.com/kgalagadi-transfrontier-park-guide/). Проверено 28 октября 2026 года; перед поездкой повторно проверяйте условия.",
       "outline": [

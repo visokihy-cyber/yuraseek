@@ -10478,7 +10478,7 @@
           "checkedAt": "2026-10-28",
           "photo": "media-00391421-6175-5bf6-899f-7904139769a7-960.webp",
           "photoAlt": "Хеймаэй — остров и Эльдфедль",
-          "creditText": "Aerial_view_of_the_Westmen_Isles,_2009-02-01.jpg: Bruce McAdam\n\nCamera location62° 55′ 41.37″ N, 20° 27′ 25.92″ W View this and other nearby images on: OpenStreetMap 62.928158;  -20.457200\n \nderivative work: Teofilo (talk) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Heimaey,_2009-02-01.jpg)",
+          "creditText": "Bruce McAdam; derivative: Teofilo · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Heimaey,_2009-02-01.jpg)",
           "extra": [],
           "photoLink": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Heimaey,_2009-02-01.jpg"
         },
@@ -10790,7 +10790,7 @@
           "checkedAt": "2026-10-28",
           "photo": "media-f076b5f8-98c2-50e5-9c0c-0adbd51e0392-960.webp",
           "photoAlt": "Миватн — лавовые формы и птицы",
-          "creditText": "No machine-readable author provided. Gesturpa~commonswiki assumed (based on copyright claims). · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dimmuborgir-st%C3%ADgur.jpg)",
+          "creditText": "Gesturpa (Wikimedia Commons) · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dimmuborgir-st%C3%ADgur.jpg)",
           "extra": [],
           "photoLink": "https://commons.wikimedia.org/wiki/File:Dimmuborgir-st%C3%ADgur.jpg"
         },
@@ -11294,7 +11294,7 @@
           "kind": "arrival",
           "query": "Harpa car park, Reykjavik, Iceland",
           "label": "Маршрут до парковки Harpa; дальше пешком",
-          "note": "Маршрут до парковки Harpa; дальше пешком. Проверьте тариф и часы въезда.",
+          "note": "Проверьте тариф и часы въезда.",
           "sources": [
             "https://visitreykjavik.is/you-visit-reykjavik"
           ],
@@ -11304,7 +11304,7 @@
           "kind": "arrival",
           "query": "Thingvellir P1 Hakid parking, Iceland",
           "label": "Маршрут только до парковки P1 Hakið у визит-центра",
-          "note": "Маршрут только до парковки P1 Hakið у визит-центра. Дальше по дорожкам; зимой возможен лёд.",
+          "note": "Дальше по дорожкам; зимой возможен лёд.",
           "sources": [
             "https://www.thingvellir.is/en/service/parking-service/"
           ],
@@ -11314,7 +11314,7 @@
           "kind": "arrival",
           "query": "Geysir Centre parking, Haukadalur, Iceland",
           "label": "Маршрут до парковки Geysir Centre",
-          "note": "Маршрут до парковки Geysir Centre. Переходите дорогу в обозначенном месте; вода в источниках обжигающая.",
+          "note": "Переходите дорогу в обозначенном месте; вода в источниках обжигающая.",
           "sources": [
             "https://www.south.is/en/destinations/popular-tourist-attractions"
           ],
@@ -11324,7 +11324,7 @@
           "kind": "arrival",
           "query": "Gullfoss upper parking, Iceland",
           "label": "Маршрут до верхней парковки Gullfoss",
-          "note": "Маршрут до верхней парковки Gullfoss. Дальше ступени и дорожки; нижний подход может закрываться.",
+          "note": "Дальше ступени и дорожки; нижний подход может закрываться.",
           "sources": [
             "https://www.south.is/en/destinations/popular-tourist-attractions"
           ],
@@ -11334,7 +11334,7 @@
           "kind": "arrival",
           "query": "Reykjadalur trailhead parking, Hveragerdi, Iceland",
           "label": "Маршрут только до начала тропы Reykjadalur",
-          "note": "Маршрут только до начала тропы Reykjadalur. Закладывайте подъём и обратный путь, не только купание.",
+          "note": "Закладывайте подъём и обратный путь, не только купание.",
           "sources": [
             "https://www.south.is/en/destinations/popular-tourist-attractions"
           ],
@@ -11344,7 +11344,7 @@
           "kind": "arrival",
           "query": "Blue Lagoon visitor parking, Iceland",
           "label": "Маршрут до парковки Blue Lagoon только при открытом официальном подъезде",
-          "note": "Маршрут до парковки Blue Lagoon только при открытом официальном подъезде. Следуйте актуальным указаниям комплекса и Safetravel.",
+          "note": "Следуйте актуальным указаниям комплекса и Safetravel.",
           "sources": [
             "https://www.bluelagoon.com/"
           ],
@@ -11354,7 +11354,7 @@
           "kind": "arrival",
           "query": "Seltun geothermal area parking, Iceland",
           "label": "Маршрут до парковки Seltún",
-          "note": "Маршрут до парковки Seltún. Дальше только по настилам; перед выездом проверьте Safetravel.",
+          "note": "Дальше только по настилам; перед выездом проверьте Safetravel.",
           "sources": [
             "https://www.visitreykjanes.is/"
           ],
@@ -11364,7 +11364,7 @@
           "kind": "arrival",
           "query": "Seljalandsfoss parking, Iceland",
           "label": "Маршрут только до парковки Seljalandsfoss",
-          "note": "Маршрут только до парковки Seljalandsfoss. Дальше пешком; обход за водопадом зависит от состояния тропы.",
+          "note": "Дальше пешком; обход за водопадом зависит от состояния тропы.",
           "sources": [
             "https://www.south.is/en/destinations/towns-regions/katla-geopark-vestmannaeyjar/travel-ideas/the-waterfalls-of-the-geopark"
           ],
@@ -11374,7 +11374,7 @@
           "kind": "arrival",
           "query": "Skogafoss parking, Iceland",
           "label": "Маршрут до парковки Skógafoss",
-          "note": "Маршрут до парковки Skógafoss. На верхнюю площадку ведёт длинная лестница; музей имеет отдельный подъезд.",
+          "note": "На верхнюю площадку ведёт длинная лестница; музей имеет отдельный подъезд.",
           "sources": [
             "https://www.south.is/en/place/skogafoss-waterfall"
           ],
@@ -11384,7 +11384,7 @@
           "kind": "arrival",
           "query": "Solheimajokull glacier parking, Iceland",
           "label": "Маршрут только до общей парковки Sólheimajökull",
-          "note": "Маршрут только до общей парковки Sólheimajökull. Для тура сверяйте место встречи; самостоятельно на лёд не выходите.",
+          "note": "Для тура сверяйте место встречи; самостоятельно на лёд не выходите.",
           "sources": [
             "https://www.south.is/en/destinations/popular-tourist-attractions"
           ],
@@ -11394,7 +11394,7 @@
           "kind": "arrival",
           "query": "Reynisfjara beach parking, Iceland",
           "label": "Маршрут только до парковки Reynisfjara",
-          "note": "Маршрут только до парковки Reynisfjara. Дальше пешком, строго в разрешённой зоне вдали от прибоя.",
+          "note": "Дальше пешком, строго в разрешённой зоне вдали от прибоя.",
           "sources": [
             "https://safetravel.is/travel-conditions/blackbeach-safety/"
           ],
@@ -11404,7 +11404,7 @@
           "kind": "arrival",
           "query": "Dyrholaey lower parking, Iceland",
           "label": "Маршрут до нижней парковки Dyrhólaey",
-          "note": "Маршрут до нижней парковки Dyrhólaey. Верхний подъезд и площадка у маяка проверяются отдельно.",
+          "note": "Верхний подъезд и площадка у маяка проверяются отдельно.",
           "sources": [
             "https://www.south.is/en/destinations/nature/nature"
           ],
@@ -11414,7 +11414,7 @@
           "kind": "arrival",
           "query": "Landeyjahofn ferry terminal parking, Iceland",
           "label": "Маршрут только до терминала Landeyjahöfn на материке; дальше паром",
-          "note": "Маршрут только до терминала Landeyjahöfn на материке; дальше паром. Сначала подтвердите, что рейс отправляется именно оттуда.",
+          "note": "Сначала подтвердите, что рейс отправляется именно оттуда.",
           "sources": [
             "https://herjolfur.is/en"
           ],
@@ -11424,7 +11424,7 @@
           "kind": "arrival",
           "query": "Fjadrargljufur lower parking, Iceland",
           "label": "Маршрут до нижней парковки каньона",
-          "note": "Маршрут до нижней парковки каньона. Дальше размеченный подъём; не продолжайте автоматически по высокогорной дороге.",
+          "note": "Дальше размеченный подъём; не продолжайте автоматически по высокогорной дороге.",
           "sources": [
             "https://www.south.is/en/destinations/popular-tourist-attractions"
           ],
@@ -11434,7 +11434,7 @@
           "kind": "arrival",
           "query": "Skaftafell visitor centre parking, Iceland",
           "label": "Маршрут до парковки визит-центра Skaftafell",
-          "note": "Маршрут до парковки визит-центра Skaftafell. Выберите актуальную тропу у рейнджеров; тур может иметь свою точку встречи.",
+          "note": "Выберите актуальную тропу у рейнджеров; тур может иметь свою точку встречи.",
           "sources": [
             "https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell"
           ],
@@ -11444,7 +11444,7 @@
           "kind": "arrival",
           "query": "Jokulsarlon main parking, Iceland",
           "label": "Маршрут только до основной парковки лагуны",
-          "note": "Маршрут только до основной парковки лагуны. При временном закрытии следуйте указателям парка; парковки пляжа отдельные.",
+          "note": "При временном закрытии следуйте указателям парка; парковки пляжа отдельные.",
           "sources": [
             "https://www.vatnajokulsthjodgardur.is/en"
           ],
@@ -11474,7 +11474,7 @@
           "kind": "arrival",
           "query": "Hengifoss parking, Iceland",
           "label": "Маршрут только до парковки Hengifoss у дороги",
-          "note": "Маршрут только до парковки Hengifoss у дороги. Дальше подъём пешком; уточните открытый вариант у рейнджеров.",
+          "note": "Дальше подъём пешком; уточните открытый вариант у рейнджеров.",
           "sources": [
             "https://www.east.is/en/place/hengifoss"
           ],
@@ -11484,7 +11484,7 @@
           "kind": "arrival",
           "query": "Studlagil east side parking Klaustursel bridge, Iceland",
           "label": "Маршрут только до восточной парковки у моста Klaustursel",
-          "note": "Маршрут только до восточной парковки у моста Klaustursel. От нижней стоянки примерно 4,5–5 км в одну сторону; верхняя требует отдельной проверки дороги.",
+          "note": "От нижней стоянки примерно 4,5–5 км в одну сторону; верхняя требует отдельной проверки дороги.",
           "sources": [
             "https://www.east.is/en/blog/studlagil-canyon-hike"
           ],
@@ -11494,7 +11494,7 @@
           "kind": "arrival",
           "query": "Hafnarholmi harbour parking, Borgarfjordur Eystri, Iceland",
           "label": "Маршрут до парковки у гавани Hafnarhólmi",
-          "note": "Маршрут до парковки у гавани Hafnarhólmi. Дальше ступени и настилы; не сходите к норам.",
+          "note": "Дальше ступени и настилы; не сходите к норам.",
           "sources": [
             "https://www.east.is/en/place/hafnarholmi"
           ],
@@ -11514,7 +11514,7 @@
           "kind": "arrival",
           "query": "Dettifoss west parking road 862, Iceland",
           "label": "Маршрут только до западной парковки по дороге 862",
-          "note": "Маршрут только до западной парковки по дороге 862. Не заменяйте её восточным подъездом 864 без проверки условий.",
+          "note": "Не заменяйте её восточным подъездом 864 без проверки условий.",
           "sources": [
             "https://www.northiceland.is/diamondcircle/dettifoss"
           ],
@@ -11524,7 +11524,7 @@
           "kind": "arrival",
           "query": "Asbyrgi Botnstjorn parking, Iceland",
           "label": "Маршрут до внутренней парковки Botnstjörn при открытой дороге",
-          "note": "Маршрут до внутренней парковки Botnstjörn при открытой дороге. Дальше короткая прогулка; длинные маршруты выбирайте отдельно.",
+          "note": "Дальше короткая прогулка; длинные маршруты выбирайте отдельно.",
           "sources": [
             "https://www.northiceland.is/diamondcircle/asbyrgi"
           ],
@@ -11534,7 +11534,7 @@
           "kind": "arrival",
           "query": "Dimmuborgir parking, Iceland",
           "label": "Маршрут только до парковки Dimmuborgir",
-          "note": "Маршрут только до парковки Dimmuborgir. Остальные берега и кратеры требуют отдельных остановок.",
+          "note": "Остальные берега и кратеры требуют отдельных остановок.",
           "sources": [
             "https://www.northiceland.is/diamondcircle/myvatn"
           ],
@@ -11544,7 +11544,7 @@
           "kind": "arrival",
           "query": "Hverir parking, Iceland",
           "label": "Маршрут до парковки Hverir",
-          "note": "Маршрут до парковки Hverir. Крафла — отдельный переезд; следуйте действующим предупреждениям и разметке.",
+          "note": "Крафла — отдельный переезд; следуйте действующим предупреждениям и разметке.",
           "sources": [
             "https://www.northiceland.is/diamondcircle"
           ],
@@ -11554,7 +11554,7 @@
           "kind": "blocked",
           "query": "",
           "label": "Единой точки посадки всех операторов нет",
-          "note": "Единой точки посадки всех операторов нет. Выберите точку регистрации из вашего подтверждения; маркер показывает гавань.",
+          "note": "Выберите точку регистрации из вашего подтверждения; маркер показывает гавань.",
           "sources": [
             "https://www.northiceland.is/diamondcircle/husavik"
           ],
@@ -11564,7 +11564,7 @@
           "kind": "arrival",
           "query": "Godafoss east parking, Iceland",
           "label": "Маршрут до восточной парковки Goðafoss",
-          "note": "Маршрут до восточной парковки Goðafoss. Для смены берега используйте пешеходный мост.",
+          "note": "Для смены берега используйте пешеходный мост.",
           "sources": [
             "https://www.northiceland.is/diamondcircle/godafoss"
           ],
@@ -11584,7 +11584,7 @@
           "kind": "arrival",
           "query": "Hvitserkur parking, Iceland",
           "label": "Маршрут до парковки Hvítserkur",
-          "note": "Маршрут до парковки Hvítserkur. Дальше смотровая; спуск на берег выбирайте только при безопасных условиях.",
+          "note": "Дальше смотровая; спуск на берег выбирайте только при безопасных условиях.",
           "sources": [
             "https://www.northiceland.is/"
           ],
@@ -11614,7 +11614,7 @@
           "kind": "arrival",
           "query": "Arnarstapi Bardur statue parking, Iceland",
           "label": "Маршрут до парковки у памятника Bárður в Arnarstapi",
-          "note": "Маршрут до парковки у памятника Bárður в Arnarstapi. Дальше по береговой тропе; возвращение к машине тем же путём.",
+          "note": "Дальше по береговой тропе; возвращение к машине тем же путём.",
           "sources": [
             "https://www.west.is/en/experiences/culture-heritage/history-and-culture/arnarstapi"
           ],
@@ -11624,7 +11624,7 @@
           "kind": "arrival",
           "query": "Djupalonssandur parking, Iceland",
           "label": "Маршрут до парковки Djúpalónssandur",
-          "note": "Маршрут до парковки Djúpalónssandur. Дальше спуск пешком; к воде не подходите.",
+          "note": "Дальше спуск пешком; к воде не подходите.",
           "sources": [
             "https://www.west.is/en/destinations/travel-routes"
           ],
@@ -11644,7 +11644,7 @@
           "kind": "arrival",
           "query": "Kirkjufellsfoss parking, Iceland",
           "label": "Маршрут только до парковки Kirkjufellsfoss",
-          "note": "Маршрут только до парковки Kirkjufellsfoss. Это подход к виду на гору, не маршрут восхождения.",
+          "note": "Это подход к виду на гору, не маршрут восхождения.",
           "sources": [
             "https://www.west.is/en/destinations/nature-1/highlights"
           ],
@@ -11654,7 +11654,7 @@
           "kind": "arrival",
           "query": "Dynjandi parking, Iceland",
           "label": "Маршрут до парковки Dynjandi",
-          "note": "Маршрут до парковки Dynjandi. Дальше подъём по тропе; перед дорогой проверьте состояние маршрута.",
+          "note": "Дальше подъём по тропе; перед дорогой проверьте состояние маршрута.",
           "sources": [
             "https://www.westfjords.is/en/destinations/nature/natural-highlights"
           ],
@@ -11664,7 +11664,7 @@
           "kind": "arrival",
           "query": "Bjargtangar Latrabjarg parking, Iceland",
           "label": "Маршрут до парковки Bjargtangar у начала утёсов",
-          "note": "Маршрут до парковки Bjargtangar у начала утёсов. Дальше пешком только по разрешённой территории.",
+          "note": "Дальше пешком только по разрешённой территории.",
           "sources": [
             "https://www.westfjords.is/en/moya/news/latrabjarg-guidelines-for-the-nature-reserve-1"
           ],
@@ -11674,7 +11674,7 @@
           "kind": "arrival",
           "query": "Raudasandur Melanes campsite, Iceland",
           "label": "Маршрут до Melanes для согласования парковки и выхода на берег",
-          "note": "Маршрут до Melanes для согласования парковки и выхода на берег. Не занимайте места кемпинга без разрешения.",
+          "note": "Не занимайте места кемпинга без разрешения.",
           "sources": [
             "https://www.westfjords.is/en/destinations/nature/natural-highlights"
           ],
@@ -11684,7 +11684,7 @@
           "kind": "blocked",
           "query": "",
           "label": "Автомобильного подъезда нет",
-          "note": "Автомобильного подъезда нет. Выберите причал из бронирования оператора в Ísafjörður или другом подтверждённом порту.",
+          "note": "Выберите причал из бронирования оператора в Ísafjörður или другом подтверждённом порту.",
           "sources": [
             "https://www.westfjords.is/en/destinations/nature-reserves/hornstrandir-nature-reserve"
           ],
@@ -11694,7 +11694,7 @@
           "kind": "arrival",
           "query": "Landmannalaugar P1 parking before river crossing, Iceland",
           "label": "Маршрут только до P1 перед финальными бродами",
-          "note": "Маршрут только до P1 перед финальными бродами. Дороги F требуют разрешённого 4×4; альтернативно забронируйте высокогорный автобус.",
+          "note": "Дороги F требуют разрешённого 4×4; альтернативно забронируйте высокогорный автобус.",
           "sources": [
             "https://umhverfisstofnun.is/english/visiting-iceland/protected-areas/south/fjallabak-nature-reserve/landmannalaugar/reservations/"
           ],
@@ -11704,7 +11704,7 @@
           "kind": "arrival",
           "query": "Lava Centre Hvolsvollur parking, Iceland",
           "label": "Маршрут до парковки Lava Centre для подтверждённого River Bus",
-          "note": "Маршрут до парковки Lava Centre для подтверждённого River Bus. Дальше автобус; сверяйте точку именно своего билета. Не пересекайте Krossá на обычном автомобиле.",
+          "note": "Дальше автобус; сверяйте точку именно своего билета. Не пересекайте Krossá на обычном автомобиле.",
           "sources": [
             "https://volcanotrails.com/volcano-huts/thorsmork-directions/"
           ],
@@ -11714,7 +11714,7 @@
           "kind": "arrival",
           "query": "Highland Base Kerlingarfjoll parking, Iceland",
           "label": "Маршрут до Highland Base при открытой дороге",
-          "note": "Маршрут до Highland Base при открытой дороге. Верхнюю стоянку Хверадалира и дальнейший транспорт согласуйте на месте; не считайте базу началом короткого круга.",
+          "note": "Верхнюю стоянку Хверадалира и дальнейший транспорт согласуйте на месте; не считайте базу началом короткого круга.",
           "sources": [
             "https://highlandbase.is/stories/can-you-visit-the-icelandic-highlands-in-a-single-day"
           ],
@@ -11724,7 +11724,7 @@
           "kind": "arrival",
           "query": "Vikraborgir Askja parking, Iceland",
           "label": "Маршрут только до Vikraborgir при подтверждённой проходимости высокогорных дорог",
-          "note": "Маршрут только до Vikraborgir при подтверждённой проходимости высокогорных дорог. Навигатор не подтверждает безопасность бродов.",
+          "note": "Навигатор не подтверждает безопасность бродов.",
           "sources": [
             "https://www.vatnajokulsthjodgardur.is/en/areas/askja"
           ],
@@ -11949,7 +11949,7 @@
             "hike": "Difficulty: moderate. The card duration is a visiting estimate, excluding long-distance travel.",
             "access": "Route only to mainland Landeyjahöfn terminal; continue by ferry. Confirm that your sailing actually departs there.",
             "photoAlt": "Heimaey — island and Eldfell",
-            "creditText": "Aerial_view_of_the_Westmen_Isles,_2009-02-01.jpg: Bruce McAdam\n\nCamera location62° 55′ 41.37″ N, 20° 27′ 25.92″ W View this and other nearby images on: OpenStreetMap 62.928158;  -20.457200\n \nderivative work: Teofilo (talk) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Heimaey,_2009-02-01.jpg)"
+            "creditText": "Bruce McAdam; derivative: Teofilo · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Heimaey,_2009-02-01.jpg)"
           },
           "14": {
             "name": "Fjaðrárgljúfur",
@@ -12129,7 +12129,7 @@
             "hike": "Difficulty: easy. The card duration is a visiting estimate, excluding long-distance travel.",
             "access": "Route only to Dimmuborgir parking. Other lakeside sites and craters require separate stops.",
             "photoAlt": "Mývatn — lava formations and birds",
-            "creditText": "No machine-readable author provided. Gesturpa~commonswiki assumed (based on copyright claims). · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dimmuborgir-st%C3%ADgur.jpg)"
+            "creditText": "Gesturpa (Wikimedia Commons) · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dimmuborgir-st%C3%ADgur.jpg)"
           },
           "26": {
             "name": "Hverir and Krafla",
@@ -12420,67 +12420,67 @@
         "routeAccess": {
           "1": {
             "label": "Route to Harpa car park, then continue on foot",
-            "note": "Route to Harpa car park, then continue on foot. Check charges and entry hours."
+            "note": "Check charges and entry hours."
           },
           "2": {
             "label": "Route only to P1 Hakið car park by the visitor centre",
-            "note": "Route only to P1 Hakið car park by the visitor centre. Continue on paths; ice is possible in winter."
+            "note": "Continue on paths; ice is possible in winter."
           },
           "3": {
             "label": "Route to Geysir Centre parking",
-            "note": "Route to Geysir Centre parking. Cross at the designated point; spring water can cause severe burns."
+            "note": "Cross at the designated point; spring water can cause severe burns."
           },
           "4": {
             "label": "Route to Gullfoss upper car park",
-            "note": "Route to Gullfoss upper car park. Continue by steps and paths; the lower approach may close."
+            "note": "Continue by steps and paths; the lower approach may close."
           },
           "5": {
             "label": "Route only to the Reykjadalur trailhead",
-            "note": "Route only to the Reykjadalur trailhead. Allow time for the uphill and return walk, not just bathing."
+            "note": "Allow time for the uphill and return walk, not just bathing."
           },
           "6": {
             "label": "Route to Blue Lagoon visitor parking only while its official access is open",
-            "note": "Route to Blue Lagoon visitor parking only while its official access is open. Follow the spa’s current directions and Safetravel alerts."
+            "note": "Follow the spa’s current directions and Safetravel alerts."
           },
           "7": {
             "label": "Route to Seltún car park",
-            "note": "Route to Seltún car park. Stay on boardwalks and check Safetravel before departure."
+            "note": "Stay on boardwalks and check Safetravel before departure."
           },
           "8": {
             "label": "Route only to Seljalandsfoss parking",
-            "note": "Route only to Seljalandsfoss parking. Continue on foot; the rear path depends on trail conditions."
+            "note": "Continue on foot; the rear path depends on trail conditions."
           },
           "9": {
             "label": "Route to Skógafoss parking",
-            "note": "Route to Skógafoss parking. A long staircase reaches the upper viewpoint; the museum has a separate approach."
+            "note": "A long staircase reaches the upper viewpoint; the museum has a separate approach."
           },
           "10": {
             "label": "Route only to the general Sólheimajökull car park",
-            "note": "Route only to the general Sólheimajökull car park. Confirm your tour meeting point; do not step onto the ice independently."
+            "note": "Confirm your tour meeting point; do not step onto the ice independently."
           },
           "11": {
             "label": "Route only to Reynisfjara car park",
-            "note": "Route only to Reynisfjara car park. Continue on foot within the permitted area, well away from the surf."
+            "note": "Continue on foot within the permitted area, well away from the surf."
           },
           "12": {
             "label": "Route to Dyrhólaey lower car park",
-            "note": "Route to Dyrhólaey lower car park. Check the upper access road and lighthouse viewpoint separately."
+            "note": "Check the upper access road and lighthouse viewpoint separately."
           },
           "13": {
             "label": "Route only to mainland Landeyjahöfn terminal; continue by ferry",
-            "note": "Route only to mainland Landeyjahöfn terminal; continue by ferry. Confirm that your sailing actually departs there."
+            "note": "Confirm that your sailing actually departs there."
           },
           "14": {
             "label": "Route to the lower canyon car park",
-            "note": "Route to the lower canyon car park. Follow the marked uphill path; do not automatically continue along the highland road."
+            "note": "Follow the marked uphill path; do not automatically continue along the highland road."
           },
           "15": {
             "label": "Route to Skaftafell visitor-centre parking",
-            "note": "Route to Skaftafell visitor-centre parking. Ask rangers about current trails; tours may use their own meeting points."
+            "note": "Ask rangers about current trails; tours may use their own meeting points."
           },
           "16": {
             "label": "Route only to the lagoon’s main car park",
-            "note": "Route only to the lagoon’s main car park. Follow park diversions during temporary closures; beach parking areas are separate."
+            "note": "Follow park diversions during temporary closures; beach parking areas are separate."
           },
           "17": {
             "label": "Route to Viking Café to arrange access; continue only as directed by the landowner",
@@ -12492,15 +12492,15 @@
           },
           "19": {
             "label": "Route only to Hengifoss roadside parking",
-            "note": "Route only to Hengifoss roadside parking. Continue uphill on foot and ask rangers which route is open."
+            "note": "Continue uphill on foot and ask rangers which route is open."
           },
           "20": {
             "label": "Route only to the eastern car park by Klaustursel bridge",
-            "note": "Route only to the eastern car park by Klaustursel bridge. The lower lot is about 4.5–5 km each way; check the road separately before using the upper lot."
+            "note": "The lower lot is about 4.5–5 km each way; check the road separately before using the upper lot."
           },
           "21": {
             "label": "Route to Hafnarhólmi harbour parking",
-            "note": "Route to Hafnarhólmi harbour parking. Continue by steps and boardwalks; stay clear of burrows."
+            "note": "Continue by steps and boardwalks; stay clear of burrows."
           },
           "22": {
             "label": "Route to Hallormsstaður arboretum parking, then choose a short marked circuit",
@@ -12508,27 +12508,27 @@
           },
           "23": {
             "label": "Route only to the western car park via road 862",
-            "note": "Route only to the western car park via road 862. Do not substitute the eastern 864 approach without checking conditions."
+            "note": "Do not substitute the eastern 864 approach without checking conditions."
           },
           "24": {
             "label": "Route to the inner Botnstjörn car park while the road is open",
-            "note": "Route to the inner Botnstjörn car park while the road is open. Continue on the short walk; choose longer routes separately."
+            "note": "Continue on the short walk; choose longer routes separately."
           },
           "25": {
             "label": "Route only to Dimmuborgir parking",
-            "note": "Route only to Dimmuborgir parking. Other lakeside sites and craters require separate stops."
+            "note": "Other lakeside sites and craters require separate stops."
           },
           "26": {
             "label": "Route to Hverir car park",
-            "note": "Route to Hverir car park. Krafla is a separate drive; follow current warnings and trail markings."
+            "note": "Krafla is a separate drive; follow current warnings and trail markings."
           },
           "27": {
             "label": "Operators do not share one universal boarding point",
-            "note": "Operators do not share one universal boarding point. Select the check-in location from your booking; the marker shows the harbour."
+            "note": "Select the check-in location from your booking; the marker shows the harbour."
           },
           "28": {
             "label": "Route to Goðafoss east car park",
-            "note": "Route to Goðafoss east car park. Use the pedestrian bridge to change banks."
+            "note": "Use the pedestrian bridge to change banks."
           },
           "29": {
             "label": "Route to Glaumbær museum parking, then explore the museum grounds on foot",
@@ -12536,7 +12536,7 @@
           },
           "30": {
             "label": "Route to Hvítserkur car park",
-            "note": "Route to Hvítserkur car park. Continue to the viewpoint; descend to the beach only in safe conditions."
+            "note": "Continue to the viewpoint; descend to the beach only in safe conditions."
           },
           "31": {
             "label": "Route to the shared Hraunfossar waterfalls car park, then follow short paths between viewpoints",
@@ -12548,11 +12548,11 @@
           },
           "33": {
             "label": "Route to parking near the Bárður monument in Arnarstapi",
-            "note": "Route to parking near the Bárður monument in Arnarstapi. Follow the coastal path and return to your car the same way."
+            "note": "Follow the coastal path and return to your car the same way."
           },
           "34": {
             "label": "Route to Djúpalónssandur car park",
-            "note": "Route to Djúpalónssandur car park. Continue downhill on foot and stay away from the water."
+            "note": "Continue downhill on foot and stay away from the water."
           },
           "35": {
             "label": "Route to Vatnshellir parking beside road 574; arrive for check-in as required by your ticket",
@@ -12560,42 +12560,42 @@
           },
           "36": {
             "label": "Route only to Kirkjufellsfoss car park",
-            "note": "Route only to Kirkjufellsfoss car park. This reaches the mountain viewpoint, not a climbing route."
+            "note": "This reaches the mountain viewpoint, not a climbing route."
           },
           "37": {
             "label": "Route to Dynjandi car park",
-            "note": "Route to Dynjandi car park. Continue uphill on the trail and check road conditions before travelling."
+            "note": "Continue uphill on the trail and check road conditions before travelling."
           },
           "38": {
             "label": "Route to Bjargtangar parking at the start of the cliffs",
-            "note": "Route to Bjargtangar parking at the start of the cliffs. Continue on foot only within permitted areas."
+            "note": "Continue on foot only within permitted areas."
           },
           "39": {
             "label": "Route to Melanes to confirm parking and beach access",
-            "note": "Route to Melanes to confirm parking and beach access. Do not occupy campsite pitches without permission."
+            "note": "Do not occupy campsite pitches without permission."
           },
           "40": {
             "label": "There is no road access",
-            "note": "There is no road access. Select the pier specified by your operator in Ísafjörður or another confirmed departure port."
+            "note": "Select the pier specified by your operator in Ísafjörður or another confirmed departure port."
           },
           "41": {
             "label": "Route only to P1 before the final river crossings",
-            "note": "Route only to P1 before the final river crossings. F-roads require an authorised 4×4; alternatively book a highland bus."
+            "note": "F-roads require an authorised 4×4; alternatively book a highland bus."
           },
           "42": {
             "label": "Route to Lava Centre parking for a confirmed River Bus departure",
-            "note": "Route to Lava Centre parking for a confirmed River Bus departure. Continue by bus and check your ticket’s meeting point. Do not cross Krossá in an ordinary car."
+            "note": "Continue by bus and check your ticket’s meeting point. Do not cross Krossá in an ordinary car."
           },
           "43": {
             "label": "Route to Highland Base while the road is open",
-            "note": "Route to Highland Base while the road is open. Confirm upper Hveradalir parking and onward transport locally; the base is not the start of the short circuit."
+            "note": "Confirm upper Hveradalir parking and onward transport locally; the base is not the start of the short circuit."
           },
           "44": {
             "label": "Route only to Vikraborgir when highland-road access has been confirmed",
-            "note": "Route only to Vikraborgir when highland-road access has been confirmed. Navigation does not establish that river crossings are safe."
+            "note": "Navigation does not establish that river crossings are safe."
           }
         },
-        "reviewedSource": "4c90c23b"
+        "reviewedSource": "4c606d00"
       },
       "outline": [
         [

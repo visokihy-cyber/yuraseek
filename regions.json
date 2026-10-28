@@ -18958,183 +18958,147 @@
         "routeAccess": {
           "1": {
             "label": "Drive to Lower Tafelberg Road parking, then take the shuttle to the lower station and cableway",
-            "note": "Drive to Lower Tafelberg Road parking, then take the shuttle to the lower station and cableway.",
-            "alternatives": []
+            "note": "Drive to Lower Tafelberg Road parking, then take the shuttle to the lower station and cableway."
           },
           "2": {
             "label": "Drive to Clock Tower Parking at the Waterfront, walk to Nelson Mandela Gateway and board the ferry",
-            "note": "Drive to Clock Tower Parking at the Waterfront, walk to Nelson Mandela Gateway and board the ferry.",
-            "alternatives": []
+            "note": "Drive to Clock Tower Parking at the Waterfront, walk to Nelson Mandela Gateway and board the ferry."
           },
           "3": {
             "label": "Drive to Gate 1 parking on Rhodes Drive, then follow garden paths",
-            "note": "Drive to Gate 1 parking on Rhodes Drive, then follow garden paths.",
-            "alternatives": []
+            "note": "Drive to Gate 1 parking on Rhodes Drive, then follow garden paths."
           },
           "4": {
             "label": "Drive through the park gate to Cape Point Main Car Park; continue on foot or by funicular",
-            "note": "Drive through the park gate to Cape Point Main Car Park; continue on foot or by funicular.",
-            "alternatives": []
+            "note": "Drive through the park gate to Cape Point Main Car Park; continue on foot or by funicular."
           },
           "5": {
             "label": "Drive to Seaforth parking, then walk to the entrance and Foxy Beach boardwalks",
-            "note": "Drive to Seaforth parking, then walk to the entrance and Foxy Beach boardwalks.",
-            "alternatives": []
+            "note": "Drive to Seaforth parking, then walk to the entrance and Foxy Beach boardwalks."
           },
           "6": {
             "label": "Drive to Franschhoek Terminal; use Groot Drakenstein instead if specified by your ticket",
-            "note": "Drive to Franschhoek Terminal; use Groot Drakenstein instead if specified by your ticket.",
-            "alternatives": []
+            "note": "Drive to Franschhoek Terminal; use Groot Drakenstein instead if specified by your ticket."
           },
           "7": {
             "label": "Drive to Gearing Point parking and continue along the coast",
-            "note": "Boat departure points depend on the operator.",
-            "alternatives": []
+            "note": "Boat departure points depend on the operator."
           },
           "8": {
             "label": "First drive to Sanddrif reception for the permit and directions, then to Stadsaal parking as instructed",
-            "note": "First drive to Sanddrif reception for the permit and directions, then to Stadsaal parking as instructed.",
-            "alternatives": []
+            "note": "First drive to Sanddrif reception for the permit and directions, then to Stadsaal parking as instructed."
           },
           "9": {
             "label": "Drive to Cango Caves visitor parking on the R328, then check in for the tour",
-            "note": "Drive to Cango Caves visitor parking on the R328, then check in for the tour.",
-            "alternatives": []
+            "note": "Drive to Cango Caves visitor parking on the R328, then check in for the tour."
           },
           "10": {
             "label": "Drive to Ebb-and-Flow South reception for parking and the open starting point of your walk or paddle",
-            "note": "Drive to Ebb-and-Flow South reception for parking and the open starting point of your walk or paddle.",
-            "alternatives": []
+            "note": "Drive to Ebb-and-Flow South reception for parking and the open starting point of your walk or paddle."
           },
           "11": {
             "label": "Drive along R339 to Diepwalle Forest Station, where parking and trails are based",
-            "note": "Drive along R339 to Diepwalle Forest Station, where parking and trails are based.",
-            "alternatives": []
+            "note": "Drive along R339 to Diepwalle Forest Station, where parking and trails are based."
           },
           "12": {
             "label": "Drive to the parking area inside Robberg’s entrance; the three main loops start here",
-            "note": "Drive to the parking area inside Robberg’s entrance; the three main loops start here.",
-            "alternatives": []
+            "note": "Drive to the parking area inside Robberg’s entrance; the three main loops start here."
           },
           "13": {
             "label": "Drive through the gate to the day-visitor parking at Storms River Mouth Rest Camp, then walk to Mouth Trail",
-            "note": "Drive through the gate to the day-visitor parking at Storms River Mouth Rest Camp, then walk to Mouth Trail.",
-            "alternatives": []
+            "note": "Drive through the gate to the day-visitor parking at Storms River Mouth Rest Camp, then walk to Mouth Trail."
           },
           "14": {
             "label": "Drive from the N2 through Colchester to Matyholweni Gate, then continue the safari by vehicle",
-            "note": "Check SANParks directions if using Main Camp instead.",
-            "alternatives": []
+            "note": "Check SANParks directions if using Main Camp instead."
           },
           "15": {
             "label": "Drive to the visitor centre near Mahai and confirm parking for your lower-valley trail",
-            "note": "This is not the Sentinel approach.",
-            "alternatives": []
+            "note": "This is not the Sentinel approach."
           },
           "16": {
             "label": "Drive to Giant’s Castle Camp reception for registration, parking and trail directions",
-            "note": "Drive to Giant’s Castle Camp reception for registration, parking and trail directions.",
-            "alternatives": []
+            "note": "Drive to Giant’s Castle Camp reception for registration, parking and trail directions."
           },
           "17": {
             "label": "Drive to Glen Reenen reception, then use the indicated parking and open trail",
-            "note": "Drive to Glen Reenen reception, then use the indicated parking and open trail.",
-            "alternatives": []
+            "note": "Drive to Glen Reenen reception, then use the indicated parking and open trail."
           },
           "18": {
             "label": "Use the public parking off John Zikhali Road on the northern side of the gardens",
-            "note": "Use the public parking off John Zikhali Road on the northern side of the gardens.",
-            "alternatives": []
+            "note": "Use the public parking off John Zikhali Road on the northern side of the gardens."
           },
           "19": {
             "label": "Choose an operator first; there is no confirmed common parking point for every cruise",
-            "note": "Choose an operator first; there is no confirmed common parking point for every cruise.",
-            "alternatives": []
+            "note": "Choose an operator first; there is no confirmed common parking point for every cruise."
           },
           "20": {
             "label": "Drive to Bhangazi Gate at St Lucia, then follow the park road to Cape Vidal’s day parking",
-            "note": "Drive to Bhangazi Gate at St Lucia, then follow the park road to Cape Vidal’s day parking.",
-            "alternatives": []
+            "note": "Drive to Bhangazi Gate at St Lucia, then follow the park road to Cape Vidal’s day parking."
           },
           "21": {
             "label": "Drive via Hluhluwe to Memorial Gate for the northern section and Hilltop",
-            "note": "Mpila is better served by another gate.",
-            "alternatives": []
+            "note": "Mpila is better served by another gate."
           },
           "22": {
             "label": "Drive to Sodwana Bay main gate, then follow your dive centre’s parking and meeting instructions",
-            "note": "Drive to Sodwana Bay main gate, then follow your dive centre’s parking and meeting instructions.",
-            "alternatives": []
+            "note": "Drive to Sodwana Bay main gate, then follow your dive centre’s parking and meeting instructions."
           },
           "23": {
             "label": "Drive to Paul Kruger Gate for the southern area and Skukuza; choose the gate to match your overnight plan",
-            "note": "Drive to Paul Kruger Gate for the southern area and Skukuza; choose the gate to match your overnight plan.",
-            "alternatives": []
+            "note": "Drive to Paul Kruger Gate for the southern area and Skukuza; choose the gate to match your overnight plan."
           },
           "24": {
             "label": "Drive to Three Rondavels Viewpoint parking from the Panorama Route, then walk a short distance",
-            "note": "Drive to Three Rondavels Viewpoint parking from the Panorama Route, then walk a short distance.",
-            "alternatives": []
+            "note": "Drive to Three Rondavels Viewpoint parking from the Panorama Route, then walk a short distance."
           },
           "25": {
             "label": "Drive to the visitor-centre parking at Bourke’s Luck Potholes, then use the marked paths",
-            "note": "Drive to the visitor-centre parking at Bourke’s Luck Potholes, then use the marked paths.",
-            "alternatives": []
+            "note": "Drive to the visitor-centre parking at Bourke’s Luck Potholes, then use the marked paths."
           },
           "26": {
             "label": "Drive to the marked God’s Window parking, then climb the steps",
-            "note": "Drive to the marked God’s Window parking, then climb the steps.",
-            "alternatives": []
+            "note": "Drive to the marked God’s Window parking, then climb the steps."
           },
           "27": {
             "label": "Drive to the museum parking by Northern Parkway and Gold Reef Road, then walk to the entrance",
-            "note": "Drive to the museum parking by Northern Parkway and Gold Reef Road, then walk to the entrance.",
-            "alternatives": []
+            "note": "Drive to the museum parking by Northern Parkway and Gold Reef Road, then walk to the entrance."
           },
           "28": {
             "label": "Agree the meeting point and parking with your chosen local guide before travelling",
-            "note": "Agree the meeting point and parking with your chosen local guide before travelling.",
-            "alternatives": []
+            "note": "Agree the meeting point and parking with your chosen local guide before travelling."
           },
           "29": {
             "label": "Drive to Maropeng Visitor Centre parking on the R400; this is not the Sterkfontein Caves car park",
-            "note": "Drive to Maropeng Visitor Centre parking on the R400; this is not the Sterkfontein Caves car park.",
-            "alternatives": []
+            "note": "Drive to Maropeng Visitor Centre parking on the R400; this is not the Sterkfontein Caves car park."
           },
           "30": {
             "label": "Drive to Main Gate reception, then follow directions to your booked activity or viewpoint",
-            "note": "Drive to Main Gate reception, then follow directions to your booked activity or viewpoint.",
-            "alternatives": []
+            "note": "Drive to Main Gate reception, then follow directions to your booked activity or viewpoint."
           },
           "31": {
             "label": "Drive via Kamieskroon to Skilpad reception, then use the open loop and marked parking areas",
-            "note": "Drive via Kamieskroon to Skilpad reception, then use the open loop and marked parking areas.",
-            "alternatives": []
+            "note": "Drive via Kamieskroon to Skilpad reception, then use the open loop and marked parking areas."
           },
           "32": {
             "label": "Drive to the main-camp reception and parking, then follow boardwalks to the falls",
-            "note": "Drive to the main-camp reception and parking, then follow boardwalks to the falls.",
-            "alternatives": []
+            "note": "Drive to the main-camp reception and parking, then follow boardwalks to the falls."
           },
           "33": {
             "label": "Drive to Twee Rivieren Gate on the South African side, then use authorised park roads",
-            "note": "Drive to Twee Rivieren Gate on the South African side, then use authorised park roads.",
-            "alternatives": []
+            "note": "Drive to Twee Rivieren Gate on the South African side, then use authorised park roads."
           },
           "34": {
             "label": "Drive to De Hoop main gate, register, then follow park directions to Koppie Alleen parking",
-            "note": "Drive to De Hoop main gate, register, then follow park directions to Koppie Alleen parking.",
-            "alternatives": []
+            "note": "Drive to De Hoop main gate, register, then follow park directions to Koppie Alleen parking."
           },
           "35": {
             "label": "Drive to the Southernmost Tip of Africa parking and follow the marked approach to the monument",
-            "note": "Drive to the Southernmost Tip of Africa parking and follow the marked approach to the monument.",
-            "alternatives": []
+            "note": "Drive to the Southernmost Tip of Africa parking and follow the marked approach to the monument."
           },
           "36": {
             "label": "Drive to West Coast Gate from the R27, then follow the park map to your chosen viewpoint or hide",
-            "note": "Drive to West Coast Gate from the R27, then follow the park map to your chosen viewpoint or hide.",
-            "alternatives": []
+            "note": "Drive to West Coast Gate from the R27, then follow the park map to your chosen viewpoint or hide."
           }
         },
         "sources": "Visitor arrangements: [SANParks](https://www.sanparks.org/), [CapeNature](https://www.capenature.co.za/), [iSimangaliso](https://www.isimangaliso.com/), museums and operators linked in individual cards.\n\nTravel experience and selection: [Earth Trekkers](https://www.earthtrekkers.com/garden-route-south-africa-road-trip-itinerary/), [Stingy Nomads](https://stingynomads.com/south-africa/), [Never Ending Voyage](https://www.neverendingvoyage.com/south-africa-road-trip-itinerary/), [Lonely Planet](https://www.lonelyplanet.com/destinations/south-africa), [Rough Guides](https://www.roughguides.com/south-africa/itineraries/), [Vinsky Forum](https://forum.awd.ru/viewtopic.php?t=429402), [Travel for Wildlife](https://www.travel4wildlife.com/kgalagadi-transfrontier-park-guide/). Checked 28 October 2026; recheck conditions before travelling.",

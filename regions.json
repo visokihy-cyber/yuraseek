@@ -9104,14 +9104,14 @@
           "arrivalNote": "Маршрут только до парковки Baía d’Abra у начала PR8. Дальше пешком.",
           "photoKey": "Ponta Sao Lourenco",
           "checkedAt": "2026-10-28",
-          "photo": "place-madeira-16-review-20261029-960.webp",
-          "photoLink": "https://commons.wikimedia.org/wiki/File:Ponta_de_S%C3%A3o_Louren%C3%A7o,_Madeira,_Portugal,_2019-05-28,_DD_31.jpg",
-          "photoAlt": "Сан-Лоренсу — вулканический полуостров",
+          "photo": "place-madeira-16-distinct-20261029-960.webp",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Narrow_passage_of_Ponta_de_S%C3%A3o_Louren%C3%A7o_trail_in_Cani%C3%A7al,_Machico,_Madeira,_2023_May.jpg",
+          "photoAlt": "Пешая тропа на узком перешейке Понта-де-Сан-Лоренсу",
           "credit": "",
-          "creditText": "Фото: Diego Delso · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:Ponta_de_S%C3%A3o_Louren%C3%A7o,_Madeira,_Portugal,_2019-05-28,_DD_31.jpg) · кадрирование",
+          "creditText": "Фото: Ximonic (Simo Räsänen) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:Narrow_passage_of_Ponta_de_S%C3%A3o_Louren%C3%A7o_trail_in_Cani%C3%A7al,_Machico,_Madeira,_2023_May.jpg) · кадрирование",
           "extra": [],
           "visitorInfo": "https://ifcn.madeira.gov.pt/pt/atividades-de-natureza/percursos-pedestres-recomendados.html",
-          "photoFocusY": 20
+          "photoFocusY": 50
         },
         {
           "id": 17,
@@ -9694,12 +9694,14 @@
           "arrivalNote": "Выберите согласованную точку встречи оператора. Маркер обозначает район активности, не автомобильный вход в каньон.",
           "photoKey": null,
           "checkedAt": "2026-10-28",
-          "photo": "madeira-photo-pending.svg",
-          "photoAlt": "Фотография каньонинга пока не добавлена",
-          "credit": "Фото будет добавлено",
-          "creditText": "Фото будет добавлено",
+          "photo": "place-madeira-32-distinct-20261029-960.webp",
+          "photoAlt": "Каньонинг на Мадейре — иллюстрация активности, ущелье Орте́лан",
+          "credit": "",
+          "creditText": "Каньонинг на Мадейре — иллюстрация активности. Кадр: nihilim · [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Hortel%C3%A3_Inferior,_Madeira.webm) · кадрирование",
           "extra": [],
-          "visitorInfo": ""
+          "visitorInfo": "",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Hortel%C3%A3_Inferior,_Madeira.webm",
+          "photoFocusY": 50
         }
       ],
       "en": {
@@ -9968,8 +9970,8 @@
             "region": "East and northeast",
             "walk": "Moderate",
             "format": "Half day",
-            "photoAlt": "Ponta de São Lourenço — volcanic peninsula",
-            "creditText": "Photo: Diego Delso · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [source](https://commons.wikimedia.org/wiki/File:Ponta_de_S%C3%A3o_Louren%C3%A7o,_Madeira,_Portugal,_2019-05-28,_DD_31.jpg) · cropped",
+            "photoAlt": "Hiking trail across the narrow Ponta de São Lourenço headland",
+            "creditText": "Photo: Ximonic (Simo Räsänen) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [source](https://commons.wikimedia.org/wiki/File:Narrow_passage_of_Ponta_de_S%C3%A3o_Louren%C3%A7o_trail_in_Cani%C3%A7al,_Machico,_Madeira,_2023_May.jpg) · cropped",
             "extra": []
           },
           "17": {
@@ -10224,8 +10226,8 @@
             "region": "Mountains and levadas",
             "walk": "Challenging",
             "format": "Half day",
-            "photoAlt": "Canyoning — Ribeiro Frio waterfalls",
-            "creditText": "Photograph coming soon",
+            "photoAlt": "Canyoning in Madeira — activity illustration, Hortelã canyon",
+            "creditText": "Canyoning in Madeira — activity illustration. Frame: nihilim · [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [source](https://commons.wikimedia.org/wiki/File:Hortel%C3%A3_Inferior,_Madeira.webm) · cropped",
             "extra": []
           }
         },
@@ -10359,7 +10361,7 @@
             "note": "Use the meeting point agreed with your operator. The marker indicates the activity area, not a road entrance to the canyon."
           }
         },
-        "reviewedSource": "6dd4b08c"
+        "reviewedSource": "1fff7a84"
       }
     },
     {

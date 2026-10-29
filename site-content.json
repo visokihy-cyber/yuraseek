@@ -65,7 +65,12 @@
   "countries": {
     "new-zealand": {},
     "costa-rica": {},
-    "madeira": {},
+    "madeira": {
+      "14": {
+        "focusX": 50,
+        "focusY": 35
+      }
+    },
     "iceland": {},
     "namibia": {},
     "south-africa": {}

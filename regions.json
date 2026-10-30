@@ -3853,17 +3853,15 @@
           "reviewed": "2026-10-26"
         },
         "46": {
-          "query": "",
-          "kind": "blocked",
-          "label": "Йоркин",
-          "note": "Посещение по бронированию, отправление на каноэ из Bambú. Подтверждённой общей парковки нет — выберите точку, присланную Stibrawpa.",
+          "kind": "arrival",
+          "query": "Gasolinera Hone Creek, Talamanca, Costa Rica",
+          "label": "До заправки Hone Creek — места встречи Tour Guide Costa Rica",
+          "note": "Вариант для заранее забронированной экскурсии этого оператора: далее на своей машине с гидом к месту посадки, затем на каноэ в Йоркин. Альтернатива — встреча со Stibrawpa в Бамбу; при другой брони используйте указанный в ней адрес.",
           "sources": [
-            "https://enstibrawpayorkin.wordpress.com/tour-1-day-mishka-yorkin/",
-            "https://ateccr.org/producto/yorkin-day-tour/"
+            "https://tourguide-costarica.com/product/bribri-indigenous-reserve-costa-rica-coffee-tour/",
+            "https://enstibrawpayorkin.wordpress.com/tour-1-day-mishka-yorkin/"
           ],
-          "checked": "2026-10-24",
-          "reviewed": "2026-10-26",
-          "parkingStatus": "needs-confirmation"
+          "checked": "2026-10-30"
         },
         "47": {
           "query": "Savegre Hotel Natural Reserve and Spa, San Gerardo de Dota, Costa Rica",
@@ -7841,8 +7839,8 @@
             "note": "Continue on foot through the reserve entrance."
           },
           "46": {
-            "label": "Yorkín",
-            "note": "Advance booking required; canoes depart from Bambú. No confirmed shared car park: use the point supplied by Stibrawpa."
+            "label": "Hone Creek petrol station — Tour Guide Costa Rica meeting point",
+            "note": "For a pre-booked tour with this operator: continue in your own vehicle with the guide to the canoe departure point, then by canoe to Yorkín. Alternatively, Stibrawpa meets visitors in Bambú; follow the address on your booking if using another programme."
           },
           "47": {
             "label": "Savegre Hotel car park",
@@ -7929,7 +7927,7 @@
             "note": "At the Chirripó trailhead. Arrange parking and obtain park admission in advance."
           }
         },
-        "reviewedSource": "b657c15f"
+        "reviewedSource": "b8870529"
       }
     },
     {

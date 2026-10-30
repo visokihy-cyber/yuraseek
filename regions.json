@@ -16062,14 +16062,15 @@
           "checked": "2026-10-28"
         },
         "25": {
-          "kind": "blocked",
-          "query": "",
-          "label": "Общая подтверждённая парковка для всех программ не установлена",
-          "note": "Согласуйте с оператором встречу вне затопленных участков.",
+          "kind": "arrival",
+          "query": "Wuparo Conservancy Office, Sangwali, Namibia",
+          "label": "До офиса общины Wuparo в Сангвали",
+          "note": "Для гостей Nkasa Lupala здесь предусмотрена стоянка обычных автомобилей и заранее заказанный трансфер на внедорожнике. Есть альтернативные лоджи и въезды; их условия зависят от уровня воды. Трансфер и дневное сафари согласуйте до поездки.",
           "sources": [
-            "https://www.meft.gov.na/national-parks/nkasa-rupara-national-park/221/"
+            "https://www.nkasalupalalodge.com/?page_id=21",
+            "https://www.nkasalupalalodge.com/Media/varie/Map_Directions.pdf"
           ],
-          "checked": "2026-10-28"
+          "checked": "2026-10-30"
         },
         "26": {
           "kind": "arrival",
@@ -16696,8 +16697,8 @@
             "note": "Mahango entrance gate, then follow open authorised sector roads"
           },
           "25": {
-            "label": "No shared arrival car park has been confirmed for all programmes",
-            "note": "Arrange an operator meeting point outside flooded sections."
+            "label": "Wuparo Conservancy Office in Sangwali",
+            "note": "Nkasa Lupala guests can leave two-wheel-drive vehicles here and arrange a 4×4 transfer in advance. Other lodges and access points are alternatives, depending on water levels. Arrange your transfer and day safari before travelling."
           },
           "26": {
             "label": "Drive from the B4 to Kolmanskop visitor parking; enter under your permit conditions",
@@ -16720,7 +16721,7 @@
             "note": "Other trips use their own base and directions."
           }
         },
-        "reviewedSource": "d26a80ad"
+        "reviewedSource": "883dd4c2"
       },
       "outline": [
         [

@@ -532,12 +532,12 @@
     {
       "id": "6",
       "name": "Камара-ди-Лобуш — рыбацкая бухта",
-      "src": "madeira-06-960.webp"
+      "src": "place-madeira-6-review-20261029-960.webp"
     },
     {
       "id": "7",
       "name": "Кабу-Жиран — стеклянная площадка",
-      "src": "madeira-07-960.webp"
+      "src": "place-madeira-7-review-20261029-960.webp"
     },
     {
       "id": "8",
@@ -552,7 +552,7 @@
     {
       "id": "10",
       "name": "Пику-Руйву — подъём от Ашада-ду-Тейшейра",
-      "src": "madeira-10-960.webp"
+      "src": "place-madeira-10-review-20261029-960.webp"
     },
     {
       "id": "11",
@@ -562,7 +562,7 @@
     {
       "id": "12",
       "name": "Калдейран-Верди — тоннели и водопад",
-      "src": "madeira-12-960.webp"
+      "src": "place-madeira-12-review-20261029-960.webp"
     },
     {
       "id": "13",
@@ -572,17 +572,17 @@
     {
       "id": "14",
       "name": "Роша-ду-Навиу — поля под обрывом",
-      "src": "madeira-14-960.webp"
+      "src": "place-madeira-14-review-20261029-960.webp"
     },
     {
       "id": "15",
       "name": "Порту-да-Круш — ром, океан и сёрфинг",
-      "src": "madeira-15-960.webp"
+      "src": "place-madeira-15-review-20261029-960.webp"
     },
     {
       "id": "16",
       "name": "Сан-Лоренсу — вулканический полуостров",
-      "src": "madeira-16-960.webp"
+      "src": "place-madeira-16-distinct-20261029-960.webp"
     },
     {
       "id": "17",
@@ -597,7 +597,7 @@
     {
       "id": "19",
       "name": "Рабасал — 25 источников и Ришку",
-      "src": "madeira-19-960.webp"
+      "src": "place-madeira-19-review-20261029-960.webp"
     },
     {
       "id": "20",
@@ -612,7 +612,7 @@
     {
       "id": "22",
       "name": "Сейшал — чёрный пляж и зелёные скалы",
-      "src": "madeira-22-960.webp"
+      "src": "place-madeira-22-review-20261029-960.webp"
     },
     {
       "id": "23",
@@ -622,7 +622,7 @@
     {
       "id": "24",
       "name": "Рибейра-да-Жанела — скалы в океане",
-      "src": "madeira-24-960.webp"
+      "src": "place-madeira-24-review-20261029-960.webp"
     },
     {
       "id": "25",
@@ -632,12 +632,12 @@
     {
       "id": "26",
       "name": "Ашадаш-да-Круш — спуск к полям у моря",
-      "src": "madeira-26-960.webp"
+      "src": "place-madeira-26-review-20261029-960.webp"
     },
     {
       "id": "27",
       "name": "Понта-ду-Паргу — маяк на западном мысе",
-      "src": "madeira-27-960.webp"
+      "src": "place-madeira-27-review-20261029-960.webp"
     },
     {
       "id": "28",
@@ -647,7 +647,7 @@
     {
       "id": "29",
       "name": "Понта-ду-Сол — южный берег на закате",
-      "src": "madeira-29-960.webp"
+      "src": "place-madeira-29-review-20261029-960.webp"
     },
     {
       "id": "30",
@@ -661,8 +661,8 @@
     },
     {
       "id": "32",
-      "name": "Каньонинг — водопады Рибейра-Фриу",
-      "src": "madeira-photo-pending.svg"
+      "name": "Каньонинг — водопады Рибейру-Фриу",
+      "src": "place-madeira-32-distinct-20261029-960.webp"
     }
   ],
   "iceland": [

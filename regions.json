@@ -18992,14 +18992,14 @@
           "checked": "2026-10-28"
         },
         "19": {
-          "kind": "blocked",
-          "query": "",
-          "label": "Сначала выберите оператора; общего подтверждённого места парковки для всех круизов нет",
-          "note": "Сначала выберите оператора; общего подтверждённого места парковки для всех круизов нет",
+          "kind": "arrival",
+          "query": "Siyabonga Jetty, St Lucia, South Africa",
+          "label": "До парковки у причала Siyabonga перед мостом в Сент-Лусию",
+          "note": "Отсюда отправляются круизы Shoreline. Забронируйте рейс заранее. У других компаний есть альтернативные причалы; адрес из билета имеет приоритет.",
           "sources": [
-            "https://www.isimangaliso.com/activities/boat-cruises/"
+            "https://www.heritagetoursandsafaris.com/isimangaliso-wetland-park-boat-cruise/"
           ],
-          "checked": "2026-10-28"
+          "checked": "2026-10-30"
         },
         "20": {
           "kind": "arrival",
@@ -19082,14 +19082,15 @@
           "checked": "2026-10-28"
         },
         "28": {
-          "kind": "blocked",
-          "query": "",
-          "label": "Место встречи и парковка зависят от выбранного местного гида; согласуйте до поездки",
-          "note": "Место встречи и парковка зависят от выбранного местного гида; согласуйте до поездки",
+          "kind": "arrival",
+          "query": "Lebo's Soweto Backpackers, Orlando West, Soweto, South Africa",
+          "label": "До Lebo’s Soweto Backpackers в Орландо-Уэст",
+          "note": "Удобная отправная точка для заранее забронированной пешей, велосипедной экскурсии или поездки на тук-туке с Lebo’s. Парковку согласуйте при бронировании. Есть другие местные гиды с альтернативными местами встречи.",
           "sources": [
-            "https://www.mandelahouse.com/"
+            "https://www.sowetobackpackers.com/maps/find-us/",
+            "https://www.sowetobackpackers.com/activities/bicycle-tours/"
           ],
-          "checked": "2026-10-28"
+          "checked": "2026-10-30"
         },
         "29": {
           "kind": "arrival",
@@ -19810,8 +19811,8 @@
             "note": "Use the public parking off John Zikhali Road on the northern side of the gardens"
           },
           "19": {
-            "label": "Choose an operator first; there is no confirmed common parking point for every cruise",
-            "note": "Choose an operator first; there is no confirmed common parking point for every cruise"
+            "label": "Siyabonga Jetty parking before the bridge into St Lucia",
+            "note": "Shoreline cruises depart here; book ahead. Other companies use alternative piers, so follow the departure address on your ticket."
           },
           "20": {
             "label": "Drive to Bhangazi Gate at St Lucia, then follow the park road to Cape Vidal’s day parking",
@@ -19846,8 +19847,8 @@
             "note": "Drive to the museum parking by Northern Parkway and Gold Reef Road, then walk to the entrance"
           },
           "28": {
-            "label": "Agree the meeting point and parking with your chosen local guide before travelling",
-            "note": "Agree the meeting point and parking with your chosen local guide before travelling"
+            "label": "Lebo’s Soweto Backpackers in Orlando West",
+            "note": "A starting point for a pre-booked walking, cycling or tuk-tuk tour with Lebo’s. Arrange parking when booking. Other local guides offer alternative meeting points."
           },
           "29": {
             "label": "Drive to Maropeng Visitor Centre parking on the R400; this is not the Sterkfontein Caves car park",
@@ -19883,7 +19884,7 @@
           }
         },
         "sources": "Visitor arrangements: [SANParks](https://www.sanparks.org/), [CapeNature](https://www.capenature.co.za/), [iSimangaliso](https://www.isimangaliso.com/), museums and operators linked in individual cards.\n\nTravel experience and selection: [Earth Trekkers](https://www.earthtrekkers.com/garden-route-south-africa-road-trip-itinerary/), [Stingy Nomads](https://stingynomads.com/south-africa/), [Never Ending Voyage](https://www.neverendingvoyage.com/south-africa-road-trip-itinerary/), [Lonely Planet](https://www.lonelyplanet.com/destinations/south-africa), [Rough Guides](https://www.roughguides.com/south-africa/itineraries/), [Vinsky Forum](https://forum.awd.ru/viewtopic.php?t=429402), [Travel for Wildlife](https://www.travel4wildlife.com/kgalagadi-transfrontier-park-guide/). Checked 28 October 2026; recheck conditions before travelling.",
-        "reviewedSource": "b1b82693"
+        "reviewedSource": "73c130c3"
       },
       "sources": "Условия посещения: [SANParks](https://www.sanparks.org/), [CapeNature](https://www.capenature.co.za/), [iSimangaliso](https://www.isimangaliso.com/), музеи и операторы по ссылкам в карточках.\n\nОпыт и отбор: [Earth Trekkers](https://www.earthtrekkers.com/garden-route-south-africa-road-trip-itinerary/), [Stingy Nomads](https://stingynomads.com/south-africa/), [Never Ending Voyage](https://www.neverendingvoyage.com/south-africa-road-trip-itinerary/), [Lonely Planet](https://www.lonelyplanet.com/destinations/south-africa), [Rough Guides](https://www.roughguides.com/south-africa/itineraries/), [Vinsky Forum](https://forum.awd.ru/viewtopic.php?t=429402), [Travel for Wildlife](https://www.travel4wildlife.com/kgalagadi-transfrontier-park-guide/). Проверено 28 октября 2026 года; перед поездкой повторно проверяйте условия.",
       "outline": [

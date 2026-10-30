@@ -8111,14 +8111,15 @@
           "checked": "2026-10-28"
         },
         "15": {
-          "query": "",
-          "kind": "blocked",
-          "label": "Подъезд в Porto da Cruz",
-          "note": "Точная общая парковка не подтверждена. Выберите разрешённую стоянку в Porto da Cruz на карте; до набережной и Engenhos do Norte — пешком.",
+          "kind": "arrival",
+          "query": "Engenhos do Norte, Rua do Cais 6, Porto da Cruz, Madeira",
+          "label": "До Engenhos do Norte на Rua do Cais",
+          "note": "Оставьте машину на разрешённой стоянке у предприятия и продолжите к набережной пешком. Если мест нет, используйте парковку у морских бассейнов.",
           "sources": [
+            "https://www.petitfute.co.uk/v39800-porto-da-cruz/c650-produits-gourmands-vins/2138379-engenhos-do-norte.html",
             "https://visitmadeira.com/en/where-to-go/madeira/east-coast/machico/engenhos-do-norte/"
           ],
-          "checked": "2026-10-28"
+          "checked": "2026-10-30"
         },
         "16": {
           "query": "32.743376352,-16.7009402319",
@@ -8282,24 +8283,26 @@
           "checked": "2026-10-28"
         },
         "31": {
-          "query": null,
-          "kind": "blocked",
-          "label": "Место встречи оператора",
-          "note": "Сначала выберите оператора и его точку регистрации. Маркер показывает район марины, а не универсальный причал.",
+          "kind": "arrival",
+          "query": "Almirante Reis car park, Funchal, Madeira",
+          "label": "До парковки Almirante Reis в Фуншале",
+          "note": "Далее пешком к марине. Для Xpoint Madeira место встречи — вход к понтону A. У других компаний есть альтернативные причалы: сверьтесь с билетом перед выходом.",
           "sources": [
-            "https://visitmadeira.com/en/what-to-do/sea-lovers/activities/dolphin-whale-watching/"
+            "https://xpointmadeira.com/meetingpoints",
+            "https://visitmadeira.com/en/where-to-go/madeira/south-coast/funchal/",
+            "https://randomtrip.net/madeira-travel-guide/"
           ],
-          "checked": "2026-10-28"
+          "checked": "2026-10-30"
         },
         "32": {
-          "query": null,
-          "kind": "blocked",
-          "label": "Место встречи оператора",
-          "note": "Выберите согласованную точку встречи оператора. Маркер обозначает район активности, не автомобильный вход в каньон.",
+          "kind": "arrival",
+          "query": "32.726448,-16.889139",
+          "label": "До площадки у столиков на ER103, вход № 3 в верхний каньон Рибейру-Фриу",
+          "note": "Это один из подъездов к каньону; спуск проходит с гидом после бронирования. Есть альтернативные входы и трансферы из Фуншала. Согласуйте выбранную площадку с гидом: программа может проходить в другой части ущелья.",
           "sources": [
-            "https://visitmadeira.com/en/what-to-do/nature-seekers/activities/canyoning/"
+            "https://canyoning.camadeira.com/canyons/ribeiro-frio-superior/"
           ],
-          "checked": "2026-10-28"
+          "checked": "2026-10-30"
         }
       },
       "home": {
@@ -10287,8 +10290,8 @@
             "note": "Rocha do Navio upper cable-car station"
           },
           "15": {
-            "label": "Porto da Cruz road access",
-            "note": "A precise general car park has not been confirmed. Choose a permitted parking area in Porto da Cruz on the map, then walk to the waterfront and Engenhos do Norte."
+            "label": "Engenhos do Norte on Rua do Cais",
+            "note": "Use permitted parking by the distillery and continue to the waterfront on foot. Parking by the sea pools is an alternative if the nearest spaces are full."
           },
           "16": {
             "label": "Baía d’Abra car park, PR8 trailhead",
@@ -10351,15 +10354,15 @@
             "note": "Follow signs to RB2 on foot."
           },
           "31": {
-            "label": "Operator meeting point",
-            "note": "Choose an operator and confirm its check-in point first. The marker shows the marina area, not a universal boarding pier."
+            "label": "Almirante Reis car park in Funchal",
+            "note": "Continue on foot to the marina. Xpoint Madeira meets guests at the entrance to Pontoon A. Other companies use alternative piers; check your ticket before walking to the boat."
           },
           "32": {
-            "label": "Operator meeting point",
-            "note": "Use the meeting point agreed with your operator. The marker indicates the activity area, not a road entrance to the canyon."
+            "label": "Parking area by the tables on ER103, entrance 3 to upper Ribeiro Frio canyon",
+            "note": "This is one approach to the canyon; book a guided descent. Alternative entrances and transfers from Funchal are available. Agree this meeting point with your guide, as your programme may use a different canyon section."
           }
         },
-        "reviewedSource": "7fd80e39"
+        "reviewedSource": "488e51"
       }
     },
     {

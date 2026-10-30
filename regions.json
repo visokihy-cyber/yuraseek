@@ -12013,14 +12013,14 @@
           "checked": "2026-10-28"
         },
         "27": {
-          "kind": "blocked",
-          "query": "",
-          "label": "Единой точки посадки всех операторов нет",
-          "note": "Выберите точку регистрации из вашего подтверждения; маркер показывает гавань.",
+          "kind": "arrival",
+          "query": "66.046130,-17.340700",
+          "label": "До общественной парковки за церковью Хусавика",
+          "note": "Далее пешком к гавани. Зарегистрируйтесь у компании, указанной в вашем билете; причалы различаются. Альтернатива — парковка у пляжа рядом с гаванью.",
           "sources": [
-            "https://www.northiceland.is/diamondcircle/husavik"
+            "https://www.gentlegiants.is/about-us/faq/"
           ],
-          "checked": "2026-10-28"
+          "checked": "2026-10-30"
         },
         "28": {
           "kind": "arrival",
@@ -12143,14 +12143,15 @@
           "checked": "2026-10-28"
         },
         "40": {
-          "kind": "blocked",
-          "query": "",
-          "label": "Автомобильного подъезда нет",
-          "note": "Выберите причал из бронирования оператора в Ísafjörður или другом подтверждённом порту.",
+          "kind": "arrival",
+          "query": "66.0703118,-23.1152993",
+          "label": "До места встречи Borea Adventures в порту Исафьордюра",
+          "note": "Для дневных экскурсий и лодочных рейсов Borea; далее на лодке в Хорнстрандир. Парковку для длительной стоянки уточните у оператора. Для многодневной программы или другой компании используйте адрес из бронирования. Возможны альтернативные причалы и рейсы других операторов.",
           "sources": [
-            "https://www.westfjords.is/en/destinations/nature-reserves/hornstrandir-nature-reserve"
+            "https://boreaadventures.com/faq/",
+            "https://maps.app.goo.gl/t463urNz6MEMmeuP6"
           ],
-          "checked": "2026-10-28"
+          "checked": "2026-10-30"
         },
         "41": {
           "kind": "arrival",
@@ -12985,8 +12986,8 @@
             "note": "Krafla is a separate drive; follow current warnings and trail markings."
           },
           "27": {
-            "label": "Operators do not share one universal boarding point",
-            "note": "Select the check-in location from your booking; the marker shows the harbour."
+            "label": "Public parking behind Húsavík church",
+            "note": "Walk to the harbour. Check in with the company named on your ticket; departure piers vary. Beach-side parking near the harbour is an alternative."
           },
           "28": {
             "label": "Goðafoss east car park",
@@ -13037,8 +13038,8 @@
             "note": "Do not occupy campsite pitches without permission."
           },
           "40": {
-            "label": "There is no road access",
-            "note": "Select the pier specified by your operator in Ísafjörður or another confirmed departure port."
+            "label": "Borea Adventures meeting point in Ísafjörður harbour",
+            "note": "For Borea day tours and boat services; continue by boat to Hornstrandir. Ask the operator where to leave your car for a longer stay. Multi-day programmes and other companies may use a different meeting point: follow your booking. Alternative piers and services are available from other operators."
           },
           "41": {
             "label": "P1 before the final river crossings",
@@ -13057,7 +13058,7 @@
             "note": "Navigation does not establish that river crossings are safe."
           }
         },
-        "reviewedSource": "4981cf50"
+        "reviewedSource": "fbc6c5a3"
       },
       "outline": [
         [

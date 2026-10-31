@@ -132,6 +132,14 @@
         "creditText": "",
         "focusX": 50,
         "focusY": 49.180628105491145
+      },
+      "cover": {
+        "focusX": 50,
+        "focusY": 50
+      },
+      "slide-9": {
+        "focusX": 50,
+        "focusY": 55.50149700598802
       }
     },
     "iceland": {},

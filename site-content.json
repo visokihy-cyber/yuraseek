@@ -146,6 +146,20 @@
         "creditText": "",
         "focusX": 50,
         "focusY": 30.97477562553025
+      },
+      "slide-23": {
+        "src": "media-7230094e-f986-404c-a23f-8d6b2c091475-960.webp",
+        "alt": "Порту-Мониш — лавовые бассейны",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 34.8461875621956
+      },
+      "slide-2": {
+        "src": "media-1e0cfb42-28d9-474b-9e7e-93af47f57c2f-960.webp",
+        "alt": "Монте-Палас — тропический сад",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 47.566541068381774
       }
     },
     "iceland": {},

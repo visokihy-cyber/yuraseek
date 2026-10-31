@@ -39,7 +39,7 @@ let refreshing=false;async function refreshPhotos(){if(refreshing)return;refresh
 window.addEventListener('pageshow',refreshPhotos);document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshPhotos();});refreshPhotos();
 const area=document.querySelector('.photo-gallery'),buttons=document.querySelector('.gallery-controls');function interact(value){interacting=value;schedule();}area.addEventListener('mouseenter',()=>interact(true));area.addEventListener('mouseleave',()=>interact(false));buttons.addEventListener('focusin',()=>interact(true));buttons.addEventListener('focusout',e=>{if(!buttons.contains(e.relatedTarget))interact(false);});document.addEventListener('visibilitychange',schedule);new IntersectionObserver(entries=>{inView=entries[0].isIntersecting;schedule();}).observe(area);controls();render(false,true);
 })();
-</script><script src="analytics.js?v=1" defer></script></body></html>
+</script><script src="analytics.js?v=1" defer></script><script src="/region-cover-photos.js?v=1"></script></body></html>
 
 
 

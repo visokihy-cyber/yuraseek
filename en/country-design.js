@@ -66,7 +66,7 @@ countryBrief.innerHTML=regionConfig?.brief|| (nz?'<p>New Zealand draws visitors 
 
 mapIntro.prepend(countryBrief);
 
-const countrySlides=(regionConfig?.slides||(nz?[36,11,41,22,7,39,3,17]:[8,13,38,27,33,2,16,39])).map(id=>catalog.find(p=>Number(p.id)===id)).filter(p=>p&&photo(p));
+const countrySlides=(regionConfig?.slides||(nz?[36,11,41,22,7,39,3,17]:[8,13,38,27,33,2,16,39])).map(id=>{const p=catalog.find(p=>Number(p.id)===id);if(!p)return p;const o=window.YS_CONTENT?.countries?.[regionConfig?.slug]?.['slide-'+id];if(!o)return p;return {...p,photo:o.src?(/^(https?:|\/)/.test(o.src)?o.src:'/'+o.src):p.photo,photoAlt:o.src?(document.documentElement.lang==='en'?regionConfig.title:o.alt||p.name):p.photoAlt,credit:o.src?escape(o.creditText||''):p.credit,photoFocusX:o.focusX??(o.src?50:p.photoFocusX),photoFocusY:o.focusY??(o.src?50:p.photoFocusY)};}).filter(p=>p&&photo(p));
 
 const gallery=document.createElement('section');gallery.className='country-side-gallery';gallery.setAttribute('aria-label','Photographs '+(regionConfig?.name||(nz?'New Zealand':'Costa Rica')));
 

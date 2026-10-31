@@ -163,7 +163,78 @@
       }
     },
     "iceland": {},
-    "namibia": {},
+    "namibia": {
+      "2": {
+        "src": "media-db82bccf-8fc8-4b59-9cbc-2653c1cfca1f-960.webp",
+        "alt": "Шпицкоппе — гранитные арки",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 34.7830933876927
+      },
+      "4": {
+        "src": "media-026518f7-d338-471c-8724-0095cdcb2d94-960.webp",
+        "alt": "Соссусвлей и Дедвлей",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 72.70830679067397
+      },
+      "5": {
+        "src": "media-3f40dfbf-a8a9-4ef1-baeb-1eff5ffc60b7-960.webp",
+        "alt": "Дюна 45",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 34.43193400433176
+      },
+      "12": {
+        "src": "media-19f7de25-95f9-472e-9353-3c903969bfa1-960.webp",
+        "alt": "Сэндвич-Харбор — дюны у Атлантики",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 53.97980634475729
+      },
+      "13": {
+        "src": "media-7e899030-21b9-47d5-95e1-a86fc1dbf955-960.webp",
+        "alt": "Вельвичия",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 32.793190215314056
+      },
+      "cover": {
+        "src": "media-e2f7bbc6-89dc-4496-b72e-572a5d3bd9f9-960.webp",
+        "alt": "Дюны и Дедвлей",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 73.22481918383608
+      },
+      "slide-4": {
+        "src": "media-5d1dff54-804c-4d24-a622-bb005b66cecc-960.webp",
+        "alt": "Соссусвлей и Дедвлей",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 58.29588272142576
+      },
+      "slide-2": {
+        "src": "media-35b3cedf-2182-46f2-9e4f-585f5e3a043c-960.webp",
+        "alt": "Шпицкоппе — гранитные арки",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 37.94331711152789
+      },
+      "slide-29": {
+        "src": "media-1c19c395-6059-452d-82f3-fcc49444d803-960.webp",
+        "alt": "Фиш-Ривер — панорама каньона",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 46.90287045066771
+      },
+      "slide-21": {
+        "src": "media-eeac14bd-e4f3-475b-b941-58738f4f297f-960.webp",
+        "alt": "Этоша — водопои и сафари",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 59.7338357264729
+      }
+    },
     "south-africa": {
       "4": {
         "src": "media-f82d983e-5194-4164-88ef-2f5bcc697f4a-960.webp",

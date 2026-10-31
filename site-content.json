@@ -134,12 +134,18 @@
         "focusY": 49.180628105491145
       },
       "cover": {
+        "src": "media-2538e4c2-00bc-4081-a0a5-48c7fbe453b2-960.webp",
+        "alt": "Горные вершины Мадейры над облаками",
+        "creditText": "",
         "focusX": 50,
-        "focusY": 50
+        "focusY": 47.478448202897795
       },
       "slide-9": {
+        "src": "media-39f5efb6-f1a8-417d-a7af-baf22da8c0e3-960.webp",
+        "alt": "Пику-ду-Ариейру — вершины и PR1",
+        "creditText": "",
         "focusX": 50,
-        "focusY": 55.50149700598802
+        "focusY": 30.97477562553025
       }
     },
     "iceland": {},

@@ -10,7 +10,7 @@ const $=id=>document.getElementById(id), esc=s=>String(s).replace(/[&<>"']/g,c=>
 
 let selected=new Set(),island='',activeMapId=null;try{const saved=JSON.parse(localStorage.getItem(window.YS_REGION.storageKey)||'[]');if(Array.isArray(saved)) selected=new Set(saved.map(String).filter(x=>places.some(p=>String(p.id)===x)))}catch{}
 
-const priority={1:'Regional highlights',3:'Worth a stop',4:'Plan a dedicated trip'};
+const priority={1:'Regional highlights',3:'Worth a stop',4:'Complex logistics'};
 
 const markerColors={"Culture and heritage": "#91548d", "Mountains and lakes": "#456bb2", "Forests and waterfalls": "#2e7d4b", "Birds and wildlife": "#a85c35", "Geothermal sites and caves": "#b2484e", "Coast and islands": "#177f89"};
 

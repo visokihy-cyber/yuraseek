@@ -22,7 +22,7 @@ for(const id of ['priority','tag','format','walk','region'])filters.append($(id)
 
 const options=(el,items)=>{el.replaceChildren(...items.map(([value,label])=>new Option(label,value)));};
 
-options($('priority'),[["", "All"], ["1", "Regional highlights"], ["3", "Worth a stop"], ["4", "Plan a dedicated trip"]]);
+options($('priority'),[["", "All"], ["1", "Regional highlights"], ["3", "Worth a stop"], ["4", "Complex logistics"]]);
 
 options($('format'),[["", "All"], ["short", "Quick stop"], ["hours", "A few hours"], ["half", "Half a day"], ["day", "Full day"], ["multi", "Several days"]]);
 

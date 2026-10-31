@@ -446,19 +446,19 @@
     "iceland": [
       {
         "id": "slide-2",
-        "src": "media-f11a5d0a-54d4-5e6b-8bb6-a08e765b86b3-960.webp",
-        "alt": "Тингведлир — разлом и древний парламент",
-        "creditHTML": "Ivan Sabljak · <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_from_the_information_centre.JPG\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
-        "creditHTMLEn": "Ivan Sabljak · <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_from_the_information_centre.JPG\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "src": "media-9abf2ad8-46eb-51bf-b117-6cd82df0e965-960.webp",
+        "alt": "Вестрахорн и Стоккснес",
+        "creditHTML": "Daniel Oberhaus · <a href=\"https://creativecommons.org/licenses/by/4.0\" target=\"_blank\" rel=\"noopener\">CC BY 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Vestrahorn_and_Stokksnes_beach_in_Iceland.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Daniel Oberhaus · <a href=\"https://creativecommons.org/licenses/by/4.0\" target=\"_blank\" rel=\"noopener\">CC BY 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Vestrahorn_and_Stokksnes_beach_in_Iceland.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
         "focusX": 50,
-        "focusY": 50
+        "focusY": 60
       },
       {
         "id": "slide-3",
-        "src": "place-iceland-3-review-20261029-960.webp",
-        "alt": "Гейзер Строккюр",
-        "creditHTML": "Фото: Jakub Hałun · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Strokkur,_Geysir_Geothermal_Field,_Haukadalur_Valley,_Iceland,_20230501_0848_3723.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование",
-        "creditHTMLEn": "Photo: Jakub Hałun · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Strokkur,_Geysir_Geothermal_Field,_Haukadalur_Valley,_Iceland,_20230501_0848_3723.jpg\" target=\"_blank\" rel=\"noopener\">source</a> · cropped",
+        "src": "media-f927ae38-d995-516a-990f-1c5135f97750-960.webp",
+        "alt": "Гюдльфосс",
+        "creditHTML": "Nickspix · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Gullfoss_from_the_Air_(cropped).jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Nickspix · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Gullfoss_from_the_Air_(cropped).jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
         "focusX": 50,
         "focusY": 50
       },

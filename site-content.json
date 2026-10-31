@@ -165,6 +165,34 @@
     "iceland": {},
     "namibia": {},
     "south-africa": {
+      "4": {
+        "src": "media-f82d983e-5194-4164-88ef-2f5bcc697f4a-960.webp",
+        "alt": "Кейп-Пойнт и мыс Доброй Надежды",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 49.062744077063265
+      },
+      "6": {
+        "src": "media-e59d8a20-7f78-471c-8807-f3b9947c1f28-960.webp",
+        "alt": "Франсхук — винная долина",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 62.992897184354696
+      },
+      "12": {
+        "src": "media-26c83996-2090-49a4-bcc0-ee4a3f220c9c-960.webp",
+        "alt": "Робберг",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 57.25729392279271
+      },
+      "13": {
+        "src": "media-fcc41181-5c19-4062-8558-f9ad615dff8c-960.webp",
+        "alt": "Стормс-Ривер-Маут",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 65.91922537902917
+      },
       "slide-1": {
         "src": "media-7bb1c74c-5fc9-4426-a4d2-bc0a9364bc9f-960.webp",
         "alt": "Столовая гора",
@@ -192,6 +220,13 @@
         "creditText": "",
         "focusX": 50,
         "focusY": 48.893882303809896
+      },
+      "cover": {
+        "src": "media-9fddcf74-0200-4c32-8b19-2270663e68be-960.webp",
+        "alt": "Столовая гора над Кейптауном",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 36.197821742177425
       }
     }
   },

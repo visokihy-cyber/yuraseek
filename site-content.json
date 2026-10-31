@@ -164,7 +164,36 @@
     },
     "iceland": {},
     "namibia": {},
-    "south-africa": {}
+    "south-africa": {
+      "slide-1": {
+        "src": "media-9f5a2dc0-1015-4f9f-997e-9f59255ceaa6-960.webp",
+        "alt": "Столовая гора",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 45.464917445620586
+      },
+      "slide-12": {
+        "src": "media-aefc22c7-1881-43ed-b482-8ce26a10e304-960.webp",
+        "alt": "Робберг",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 100
+      },
+      "slide-23": {
+        "src": "media-f5e208d4-4437-4f89-b174-cc44545c3339-960.webp",
+        "alt": "Крюгер",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 36.39475233686174
+      },
+      "slide-33": {
+        "src": "media-40275891-2d18-4f8e-bae0-ef289c00e76b-960.webp",
+        "alt": "Кгалагади",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 48.893882303809896
+      }
+    }
   },
   "carousels": {
     "new-zealand": [

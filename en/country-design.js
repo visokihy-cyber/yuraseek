@@ -66,7 +66,8 @@ countryBrief.innerHTML=regionConfig?.brief|| (nz?'<p>New Zealand draws visitors 
 
 mapIntro.prepend(countryBrief);
 
-const countrySlides=(regionConfig?.slides||(nz?[36,11,41,22,7,39,3,17]:[8,13,38,27,33,2,16,39])).map(id=>{const p=catalog.find(p=>Number(p.id)===id);if(!p)return p;const o=window.YS_CONTENT?.countries?.[regionConfig?.slug]?.['slide-'+id];if(!o)return p;return {...p,photo:o.src?(/^(https?:|\/)/.test(o.src)?o.src:'/'+o.src):p.photo,photoAlt:o.src?(document.documentElement.lang==='en'?regionConfig.title:o.alt||p.name):p.photoAlt,credit:o.src?escape(o.creditText||''):p.credit,photoFocusX:o.focusX??(o.src?50:p.photoFocusX),photoFocusY:o.focusY??(o.src?50:p.photoFocusY)};}).filter(p=>p&&photo(p));
+const savedSlides=window.YS_CONTENT?.carousels?.[regionConfig?.slug];
+const countrySlides=(Array.isArray(savedSlides)?savedSlides.map(p=>({photo:p.src,photoAlt:p.alt,name:regionConfig.title,credit:p.creditHTMLEn||p.creditHTML||'',photoFocusX:p.focusX,photoFocusY:p.focusY,slideKey:p.id})):(regionConfig?.slides||(nz?[36,11,41,22,7]:[8,13,38,27,33])).slice(0,5).map(id=>{const p=catalog.find(p=>Number(p.id)===id);return p?{...p,slideKey:'slide-'+id}:null;})).map(p=>{if(!p)return p;const o=window.YS_CONTENT?.countries?.[regionConfig?.slug]?.[p.slideKey];const src=o?.src||p.photo;return {...p,photo:src&&/^(https?:|\/)/.test(src)?src:src?'/'+src:src,photoAlt:document.documentElement.lang==='en'?regionConfig.title:(o?.src?o.alt||regionConfig.title:p.photoAlt),credit:o?.src?escape(o.creditText||''):p.credit,photoFocusX:o?.focusX??(o?.src?50:p.photoFocusX),photoFocusY:o?.focusY??(o?.src?50:p.photoFocusY)};}).filter(p=>p&&photo(p));
 
 const gallery=document.createElement('section');gallery.className='country-side-gallery';gallery.setAttribute('aria-label','Photographs '+(regionConfig?.name||(nz?'New Zealand':'Costa Rica')));
 

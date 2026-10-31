@@ -151,5 +151,289 @@
     "iceland": {},
     "namibia": {},
     "south-africa": {}
+  },
+  "carousels": {
+    "new-zealand": [
+      {
+        "id": "slide-36",
+        "src": "country-photo-dac4d226e599-960.webp",
+        "alt": "Новая Зеландия",
+        "creditHTML": "Фото: Maros M r a z (Maros) · CC BY-SA 3.0 · источник",
+        "creditHTMLEn": "Photo: Maros M r a z (Maros) · CC BY-SA 3.0 · source",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-11",
+        "src": "country-photo-9ecf014450ed-960.webp",
+        "alt": "Новая Зеландия",
+        "creditHTML": "Фото: Christian Mehlführer, User:Chmehl · CC BY 2.5 · источник",
+        "creditHTMLEn": "Photo: Christian Mehlführer, User:Chmehl · CC BY 2.5 · source",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-41",
+        "src": "country-photo-39ffccec6622-960.webp",
+        "alt": "Новая Зеландия",
+        "creditHTML": "Фото: Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר · CC BY-SA 4.0 · источник",
+        "creditHTMLEn": "Photo: Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר · CC BY-SA 4.0 · source",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-22",
+        "src": "country-photo-19cc4e0cdecb-960.webp",
+        "alt": "Новая Зеландия",
+        "creditHTML": "Фото: Clilly4 · CC BY-SA 4.0 · источник",
+        "creditHTMLEn": "Photo: Clilly4 · CC BY-SA 4.0 · source",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-7",
+        "src": "country-photo-80fb9f78aedd-960.webp",
+        "alt": "Новая Зеландия",
+        "creditHTML": "Фото: Krzysztof Golik · CC BY-SA 4.0 · источник",
+        "creditHTMLEn": "Photo: Krzysztof Golik · CC BY-SA 4.0 · source",
+        "focusX": 50,
+        "focusY": 50
+      }
+    ],
+    "costa-rica": [
+      {
+        "id": "slide-8",
+        "src": "country-photo-803b3aa5e0e5-960.webp",
+        "alt": "Коста-Рика",
+        "creditHTML": "Фото: Rhododendrites · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Arenal_volcano_(70785p)_(cropped).jpg\" target=\"_blank\" rel=\"noopener\">источник</a>",
+        "creditHTMLEn": "Photo: Rhododendrites · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Arenal_volcano_(70785p)_(cropped).jpg\" target=\"_blank\" rel=\"noopener\">source</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-13",
+        "src": "country-photo-c43b98d6ba77-960.webp",
+        "alt": "Коста-Рика",
+        "creditHTML": "Фото: Asequeir at English Wikipedia · Public domain · <a href=\"https://commons.wikimedia.org/wiki/File:Rio_celeste.jpg\" target=\"_blank\" rel=\"noopener\">источник</a>",
+        "creditHTMLEn": "Photo: Asequeir at English Wikipedia · Public domain · <a href=\"https://commons.wikimedia.org/wiki/File:Rio_celeste.jpg\" target=\"_blank\" rel=\"noopener\">source</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-38",
+        "src": "place-costa-rica-38-review-20261029-960.webp",
+        "alt": "Корковадо: сектор Сирена",
+        "creditHTML": "Фото: zielwasser · <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Tapir_in_Costa_Rica.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование",
+        "creditHTMLEn": "Photo: zielwasser · <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Tapir_in_Costa_Rica.jpg\" target=\"_blank\" rel=\"noopener\">source</a> · cropped",
+        "focusX": 50,
+        "focusY": 20
+      },
+      {
+        "id": "slide-33",
+        "src": "country-photo-a9f2cac63eaa-960.webp",
+        "alt": "Коста-Рика",
+        "creditHTML": "Фото: Jackhynes at English Wikipedia · Public domain · <a href=\"https://commons.wikimedia.org/wiki/File:A_Manual_Antonio_beach_panorama.jpg\" target=\"_blank\" rel=\"noopener\">источник</a>",
+        "creditHTMLEn": "Photo: Jackhynes at English Wikipedia · Public domain · <a href=\"https://commons.wikimedia.org/wiki/File:A_Manual_Antonio_beach_panorama.jpg\" target=\"_blank\" rel=\"noopener\">source</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-2",
+        "src": "country-photo-0d09b88f02a4-960.webp",
+        "alt": "Коста-Рика",
+        "creditHTML": "Фото: Peter Andersen · <a href=\"https://creativecommons.org/licenses/by/2.5\" target=\"_blank\" rel=\"noopener\">CC BY 2.5</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Poas_crater.jpg\" target=\"_blank\" rel=\"noopener\">источник</a>",
+        "creditHTMLEn": "Photo: Peter Andersen · <a href=\"https://creativecommons.org/licenses/by/2.5\" target=\"_blank\" rel=\"noopener\">CC BY 2.5</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Poas_crater.jpg\" target=\"_blank\" rel=\"noopener\">source</a>",
+        "focusX": 50,
+        "focusY": 50
+      }
+    ],
+    "madeira": [
+      {
+        "id": "slide-9",
+        "src": "media-263e0d67-12eb-4dca-b4f6-fb5efc757503-960.webp",
+        "alt": "Пику-ду-Ариейру — вершины и PR1",
+        "creditHTML": "",
+        "creditHTMLEn": "",
+        "focusX": 50,
+        "focusY": 55.50149700598802
+      },
+      {
+        "id": "slide-21",
+        "src": "media-9c00a918-3d67-4591-9a40-e42cc388e426-960.webp",
+        "alt": "Фанал — старый лавровый лес",
+        "creditHTML": "",
+        "creditHTMLEn": "",
+        "focusX": 50,
+        "focusY": 46.13724678302968
+      },
+      {
+        "id": "slide-17",
+        "src": "media-1cc4d801-7d28-4d36-a64a-b3f3435b6452-960.webp",
+        "alt": "Понта-ду-Рошту — скалы без большого похода",
+        "creditHTML": "",
+        "creditHTMLEn": "",
+        "focusX": 50,
+        "focusY": 51.52169066123073
+      },
+      {
+        "id": "slide-23",
+        "src": "madeira-23-960.webp",
+        "alt": "Порту-Мониш — лавовые бассейны",
+        "creditHTML": "Фото: Donar Reiskoffer · <a href=\"https://creativecommons.org/licenses/by/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Natural_swimming_pool,_Porto_Moniz,_Madeira.JPG\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование",
+        "creditHTMLEn": "Photo: Donar Reiskoffer · <a href=\"https://creativecommons.org/licenses/by/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Natural_swimming_pool,_Porto_Moniz,_Madeira.JPG\" target=\"_blank\" rel=\"noopener\">source</a> · cropped",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-2",
+        "src": "madeira-02-960.webp",
+        "alt": "Монте-Палас — тропический сад",
+        "creditHTML": "Фото: H. Zell · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Monte_Palace_Tropical_Garden_-_Oriental_Gardens_10.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование",
+        "creditHTMLEn": "Photo: H. Zell · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Monte_Palace_Tropical_Garden_-_Oriental_Gardens_10.jpg\" target=\"_blank\" rel=\"noopener\">source</a> · cropped",
+        "focusX": 50,
+        "focusY": 50
+      }
+    ],
+    "iceland": [
+      {
+        "id": "slide-2",
+        "src": "media-f11a5d0a-54d4-5e6b-8bb6-a08e765b86b3-960.webp",
+        "alt": "Тингведлир — разлом и древний парламент",
+        "creditHTML": "Ivan Sabljak · <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_from_the_information_centre.JPG\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Ivan Sabljak · <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_from_the_information_centre.JPG\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-3",
+        "src": "place-iceland-3-review-20261029-960.webp",
+        "alt": "Гейзер Строккюр",
+        "creditHTML": "Фото: Jakub Hałun · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Strokkur,_Geysir_Geothermal_Field,_Haukadalur_Valley,_Iceland,_20230501_0848_3723.jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование",
+        "creditHTMLEn": "Photo: Jakub Hałun · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Strokkur,_Geysir_Geothermal_Field,_Haukadalur_Valley,_Iceland,_20230501_0848_3723.jpg\" target=\"_blank\" rel=\"noopener\">source</a> · cropped",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-16",
+        "src": "media-f4c7bda1-f174-5e7f-85b6-06e092dac084-960.webp",
+        "alt": "Йёкюльсаурлоун и Ледяной пляж",
+        "creditHTML": "Molechaser · <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:J%C3%B6kuls%C3%A1rl%C3%B3n_lagoon_in_southeastern_Iceland.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Molechaser · <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:J%C3%B6kuls%C3%A1rl%C3%B3n_lagoon_in_southeastern_Iceland.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-20",
+        "src": "media-c3ac45e8-2245-5bd0-8ae0-f135de3a87ff-960.webp",
+        "alt": "Стюдлагиль — базальтовый каньон",
+        "creditHTML": "Emstrur · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Stu%C3%B0lagil_canyon_jokuldalur_iceland-12.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Emstrur · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Stu%C3%B0lagil_canyon_jokuldalur_iceland-12.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-36",
+        "src": "media-9aa97c94-ffd2-5b75-8986-d5de6e36110c-960.webp",
+        "alt": "Киркьюфедль",
+        "creditHTML": "Anjali Kiggal · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Kirkjufell_in_Iceland.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Anjali Kiggal · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Kirkjufell_in_Iceland.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      }
+    ],
+    "namibia": [
+      {
+        "id": "slide-4",
+        "src": "media-fda54a21-e801-57e9-a0f3-48cb933addac-960.webp",
+        "alt": "Соссусвлей и Дедвлей",
+        "creditHTML": "Pemba.mpimaji · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Deadvlei_Namibia.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Pemba.mpimaji · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Deadvlei_Namibia.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-2",
+        "src": "media-4018ceef-baa8-5345-a6fa-e4d8831ed1b9-960.webp",
+        "alt": "Шпицкоппе — гранитные арки",
+        "creditHTML": "Hp.Baumeler · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Spitzkoppe_year_2006.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Hp.Baumeler · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Spitzkoppe_year_2006.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-16",
+        "src": "media-b22cb455-eb49-55e7-ba21-d9df0bafd422-960.webp",
+        "alt": "Твифелфонтейн — наскальные гравировки",
+        "creditHTML": "Mike from Vancouver, Canada · <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Twyfelfontein_16.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Mike from Vancouver, Canada · <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Twyfelfontein_16.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-21",
+        "src": "media-8c24968b-f569-59bb-baf8-c070a11a23c8-960.webp",
+        "alt": "Этоша — водопои и сафари",
+        "creditHTML": "Yathin S Krishnappa · <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Dust_Cloud_in_Etosha_National_Park.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Yathin S Krishnappa · <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Dust_Cloud_in_Etosha_National_Park.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-29",
+        "src": "media-db8e94e9-2be0-510c-93da-a5395629741d-960.webp",
+        "alt": "Фиш-Ривер — панорама каньона",
+        "creditHTML": "RudiBosbouer · <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Fish_River_Canyon_from_Main_View_Point.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "RudiBosbouer · <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Fish_River_Canyon_from_Main_View_Point.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      }
+    ],
+    "south-africa": [
+      {
+        "id": "slide-1",
+        "src": "media-7f281701-eee4-51fa-8703-ffc1f305ad33-960.webp",
+        "alt": "Столовая гора",
+        "creditHTML": "Danie van der Merwe from Cape Town, South Africa · <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Danie van der Merwe from Cape Town, South Africa · <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-12",
+        "src": "media-04b35290-bcba-55d1-8081-89a44013e799-960.webp",
+        "alt": "Робберг",
+        "creditHTML": "flowcomm · <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Robberg_Nature_Reserve,_Plettenberg_Bay_-_53147416220.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "flowcomm · <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Robberg_Nature_Reserve,_Plettenberg_Bay_-_53147416220.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-23",
+        "src": "media-bce7861d-2d8d-5643-afec-78b1ef73baf2-960.webp",
+        "alt": "Крюгер",
+        "creditHTML": "Nithin bolar k · <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Kruger_Zebra.JPG\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Nithin bolar k · <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Kruger_Zebra.JPG\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-15",
+        "src": "media-0ad7610d-a6ff-52cf-8b32-789b1a461b9e-960.webp",
+        "alt": "Ройал-Натал — Амфитеатр",
+        "creditHTML": "Bjørn Christian Tørrissen · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Royal_Natal_Drakensberg_2015.JPG\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Bjørn Christian Tørrissen · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Royal_Natal_Drakensberg_2015.JPG\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-33",
+        "src": "media-a4ef5bab-7765-5013-8ffd-f8bc06a12c76-960.webp",
+        "alt": "Кгалагади",
+        "creditHTML": "Bernard DUPONT from FRANCE · <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Lioness_(Panthera_leo)_(6871765268).jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Bernard DUPONT from FRANCE · <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Lioness_(Panthera_leo)_(6871765268).jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      }
+    ]
   }
 }

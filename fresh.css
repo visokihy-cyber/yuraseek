@@ -190,3 +190,10 @@ a.brand-logo .brand-word{font-family:Arial,sans-serif;font-weight:400;letter-spa
 @media(max-width:1000px){.country-side-gallery{height:210px;flex:none}}
 
 body.country-page .side-gallery-controls button{color:#fff!important}
+
+/* Keep desktop navigation visible and anchor destinations clear of it. */
+@media(min-width:701px){
+ body.country-page .country-header{position:sticky;top:0;z-index:1200}
+ body.country-page #geography .mapframe,body.country-page #insights,body.country-page #season,body.country-page #features{scroll-margin-top:calc(var(--country-header-height,80px) + 16px)}
+}
+body.country-page .country-header .nav a[href="#geography"]{display:block}

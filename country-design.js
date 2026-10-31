@@ -1,4 +1,6 @@
 (()=>{'use strict';
+const stickyHeader=document.querySelector('.country-header');
+if(stickyHeader)new ResizeObserver(()=>document.documentElement.style.setProperty('--country-header-height',stickyHeader.getBoundingClientRect().height+'px')).observe(stickyHeader);
 
 const regionConfig=window.YS_REGION, nz=regionConfig?.schema==='nz'||document.title.includes('Зеландия'),catalog=nz?places:data,$=id=>document.getElementById(id),escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])),picked=id=>selected.has(nz?String(id):Number(id)),emit=(name,detail)=>document.dispatchEvent(new CustomEvent('yura:'+name,{detail}));
 

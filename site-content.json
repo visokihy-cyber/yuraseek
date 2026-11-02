@@ -299,7 +299,8 @@
         "focusX": 50,
         "focusY": 36.197821742177425
       }
-    }
+    },
+    "faroe-islands": {}
   },
   "carousels": {
     "new-zealand": [
@@ -580,6 +581,53 @@
         "alt": "Кгалагади",
         "creditHTML": "Bernard DUPONT from FRANCE · <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Lioness_(Panthera_leo)_(6871765268).jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
         "creditHTMLEn": "Bernard DUPONT from FRANCE · <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Lioness_(Panthera_leo)_(6871765268).jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      }
+    ],
+    "faroe-islands": [
+      {
+        "id": "slide-10",
+        "src": "media-089baa1c-72a0-4d29-a7e2-e06dbb18028b-960.webp",
+        "alt": "Мюлафоссур — водопад у Гасадалура",
+        "creditHTML": "Mike Maguire · <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:G%C3%A1sadalur_(51256491640).jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Mike Maguire · <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:G%C3%A1sadalur_(51256491640).jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-14",
+        "src": "media-df07745d-02d8-4329-93d8-1843c705a680-960.webp",
+        "alt": "Каллур — маяк над обрывами",
+        "creditHTML": "Maxdifra74 · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Kalsoy_Lighthouse_2018.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Maxdifra74 · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Kalsoy_Lighthouse_2018.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-3",
+        "src": "media-f2e08d24-ba42-429b-8760-6e6653a21778-960.webp",
+        "alt": "Саксун — лагуна между горами",
+        "creditHTML": "briantoronto · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Saksun_overview.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "briantoronto · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Saksun_overview.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-20",
+        "src": "media-77975169-05e8-4801-9077-4c614eaa4846-960.webp",
+        "alt": "Хваннхайи — озеро в долине над океаном",
+        "creditHTML": "kallerna · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Hvannhagi_panorama.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "kallerna · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Hvannhagi_panorama.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-1",
+        "src": "media-5067e5f2-7be2-413c-9aa3-21816648e948-960.webp",
+        "alt": "Торсхавн — Тинганес и старый город",
+        "creditHTML": "PanWoyteczek · <a href=\"https://creativecommons.org/licenses/by/4.0\" target=\"_blank\" rel=\"noopener\">CC BY 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Is03002-Torshavn.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "PanWoyteczek · <a href=\"https://creativecommons.org/licenses/by/4.0\" target=\"_blank\" rel=\"noopener\">CC BY 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Is03002-Torshavn.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
         "focusX": 50,
         "focusY": 50
       }

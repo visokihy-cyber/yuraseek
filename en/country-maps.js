@@ -156,7 +156,7 @@ function roadAccessNote(points,mode){
  return [...new Set(points.filter(Boolean).map(p=>{
   const a=chosenAccess(p.key);if(!a)return '';if(a.kind==='blocked')return p.name+': '+a.note;
   let label=String(a.label||'').trim(),note=String(a.note||'').trim();
-  const destination=s=>normalize(s.replace(/^(?:Проезд\s*:?\s*|Driving access:\s*|Drive\s+|Continue\s+)?(?:до\s+|to\s+)?/iu,''));
+  const destination=s=>normalize(s.replace(/парковк[аиу]/giu,'парковка').replace(/стоянк[аиу]/giu,'стоянка').replace(/^(?:Проезд\s*:?\s*|Driving access:\s*|Drive\s+|Continue\s+)?(?:до\s+|to\s+)?/iu,''));
   if(destination(note)===destination(label))note='';
   else {const first=note.match(/^([^.!?]+)[.!?](?:\s+|$)/);if(first&&(destination(first[1])===destination(label)||(/(?:парков|стоянк)/iu.test(label)&&/^(?:до\s+)?(?:парковки|стоянки)$/iu.test(first[1].trim()))))note=note.slice(first[0].length).trim();}
   if(mode==='driving'){

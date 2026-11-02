@@ -301,7 +301,8 @@
       }
     },
     "faroe-islands": {},
-    "lofoten": {}
+    "lofoten": {},
+    "patagonia": {}
   },
   "carousels": {
     "new-zealand": [
@@ -676,6 +677,53 @@
         "alt": "Тролль-фьорд — морская поездка между скалами",
         "creditHTML": "Diego Delso · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Fiordo_de_Troll,_Lofoten,_Noruega,_2019-09-05,_DD_66.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
         "creditHTMLEn": "Diego Delso · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Fiordo_de_Troll,_Lofoten,_Noruega,_2019-09-05,_DD_66.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      }
+    ],
+    "patagonia": [
+      {
+        "id": "slide-11",
+        "src": "media-b73a8b56-805e-4560-ac17-eb09f158edc7-960.webp",
+        "alt": "Фицрой и Лагуна-де-лос-Трес",
+        "creditHTML": "Gedankenstuecke · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Los_Glaciares_-_Fitz_Roy_005.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Gedankenstuecke · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Los_Glaciares_-_Fitz_Roy_005.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-13",
+        "src": "media-59950dec-5caa-4463-8ba0-985b17fd0f82-960.webp",
+        "alt": "Перито-Морено — ледяная стена над озером",
+        "creditHTML": "Fernando · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_2023.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Fernando · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_2023.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-23",
+        "src": "media-e23b6fa0-427a-4171-8544-429dda0547ec-960.webp",
+        "alt": "Мраморные пещеры озера Хенераль-Каррера",
+        "creditHTML": "Daniel P. Gauer from Porto Alegre, Brasil · <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Capillas_de_Marmol_-_Puerto_Tranquilo_(3582878935).jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Daniel P. Gauer from Porto Alegre, Brasil · <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Capillas_de_Marmol_-_Puerto_Tranquilo_(3582878935).jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-28",
+        "src": "media-044a077b-80ff-4287-bc27-a6ddc3201803-960.webp",
+        "alt": "Торрес-дель-Пайне — подъём к трём башням",
+        "creditHTML": "Karen Chan 16 · <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Torres_del_Paine,_Chile_by_Karen_Chan_16.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "Karen Chan 16 · <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Torres_del_Paine,_Chile_by_Karen_Chan_16.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 20
+      },
+      {
+        "id": "slide-6",
+        "src": "media-d6c94333-3485-4773-9e07-9836a7d08309-960.webp",
+        "alt": "Полуостров Вальдес — киты и морские животные",
+        "creditHTML": "LBM1948 · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Puerto_Pir%C3%A1mides_1994_07.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "creditHTMLEn": "LBM1948 · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Puerto_Pir%C3%A1mides_1994_07.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
         "focusX": 50,
         "focusY": 50
       }

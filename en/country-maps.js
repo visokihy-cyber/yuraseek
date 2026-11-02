@@ -150,7 +150,28 @@ const routeAccess=regionConfig?.routeAccess||(window.YS_ROUTE_ACCESS||{})[region
 const accessChoices={};
 function chosenAccess(key){const a=routeAccess[key];return a?.alternatives?.[accessChoices[key]||0]||a;}
 function roadAccess(p,mode){if(!p)return p;const access=chosenAccess(p.key);if(!access)return p.key&&!p.key.startsWith('google:')?null:p;if(access.kind==='blocked'||!access.query)return null;return {...p,query:access.query,placeId:access.placeId};}
-function roadAccessNote(points,mode){const normalize=s=>s.toLocaleLowerCase().replace(/[^\p{L}\p{N}]+/gu,'');return [...new Set(points.filter(Boolean).map(p=>{const a=chosenAccess(p.key);if(!a)return '';if(a.kind==='blocked')return p.name+': '+a.note;let note=a.label+(a.note&&normalize(a.note)!==normalize(a.label)?' — '+a.note:'');if(mode==='driving')note=/^Driving (access|directions):/i.test(note)?note:'Driving access: '+note;return note;}).filter(Boolean))].join('\n');}
+function roadAccessNote(points,mode){
+ const en=window.YS_REGION?.lang==='en'||document.documentElement.lang==='en';
+ const normalize=s=>String(s||'').toLocaleLowerCase().replace(/[^\p{L}\p{N}]+/gu,'');
+ return [...new Set(points.filter(Boolean).map(p=>{
+  const a=chosenAccess(p.key);if(!a)return '';if(a.kind==='blocked')return p.name+': '+a.note;
+  let label=String(a.label||'').trim(),note=String(a.note||'').trim();
+  const destination=s=>normalize(s.replace(/^(?:Проезд\s*:?\s*|Driving access:\s*|Drive\s+|Continue\s+)?(?:до\s+|to\s+)?/iu,''));
+  if(destination(note)===destination(label))note='';
+  else {const first=note.match(/^([^.!?]+)[.!?](?:\s+|$)/);if(first&&(destination(first[1])===destination(label)||(/(?:парков|стоянк)/iu.test(label)&&/^(?:до\s+)?(?:парковки|стоянки)$/iu.test(first[1].trim()))))note=note.slice(first[0].length).trim();}
+  if(mode==='driving'){
+   if(en){if(!/^(?:Driving (?:access|directions):|Drive\b|First drive\b|Route\b|Use\b)/i.test(label))label='Driving access: '+label;}
+   else if(!/^Проезд(?:\s|:|$)/iu.test(label)){
+    if(/^До\s/u.test(label))label='Проезд '+label[0].toLocaleLowerCase()+label.slice(1);
+    else if(/^Парковка(?:\s|$)/u.test(label))label='Проезд до парковки'+label.slice(8);
+    else if(/^Главная парковка/u.test(label))label=label.replace(/^Главная парковка/u,'Проезд до главной парковки');
+    else if(/^Общественная парковка/u.test(label))label=label.replace(/^Общественная парковка/u,'Проезд до общественной парковки');
+    else label='Проезд: '+label;
+   }
+  }
+  return label+(note?(/[.!?]$/.test(label)?' ':'. ')+note:'');
+ }).filter(Boolean))].join('\n');
+}
 function directionsURL(origin,destination,mode,stops=[]){const input=[origin,...stops,destination].filter(Boolean);if(input.some(p=>!roadAccess(p,mode)))return '';origin=roadAccess(origin,mode);destination=roadAccess(destination,mode);stops=stops.map(p=>roadAccess(p,mode));const q=new URLSearchParams({api:'1',destination:destination.query||destination.lat+','+destination.lon,travelmode:mode});if(origin){q.set('origin',origin.query||origin.lat+','+origin.lon);if(origin.placeId)q.set('origin_place_id',origin.placeId);}if(destination.placeId)q.set('destination_place_id',destination.placeId);if(stops.length){q.set('waypoints',stops.map(p=>p.query||p.lat+','+p.lon).join('|'));if(stops.every(p=>p.placeId))q.set('waypoint_place_ids',stops.map(p=>p.placeId).join('|'));}return 'https://www.google.com/maps/dir/?'+q;}
 const options=routePoints.map(p=>`<option value="${p.key}">${esc(p.key+' · '+p.name)}</option>`).join('');
 frame.insertAdjacentHTML('beforeend',`<dialog id="routeDialog" aria-labelledby="route-title"><div class="dialog-bar"><h2 id="route-title">Plan a route</h2><button type="button" class="quiet" id="route-close" aria-label="Close route planner">×</button></div><div class="route-content"><div class="route-point-row"><label for="route-origin">From</label><div class="route-field"><button class="quiet route-drag" type="button" aria-label="Move starting point" title="Drag stop">⠿</button><select id="route-origin"><option value="">My location</option>${options}</select><button type="button" class="quiet" data-route-pick="origin">On the map</button></div></div><button type="button" id="route-swap" class="quiet" aria-label="Swap start and destination">⇅</button><div id="route-stops"></div><div class="route-point-row"><label for="route-destination">To</label><div class="route-field"><button class="quiet route-drag" type="button" aria-label="Move destination" title="Drag stop">⠿</button><select id="route-destination"><option value="">Choose a place</option>${options}</select><button type="button" class="quiet" data-route-pick="destination">On the map</button></div></div><button type="button" class="quiet" id="route-add">+ Add stop</button><label for="route-mode">Travel mode</label><select id="route-mode"><option value="driving">Driving</option><option value="walking">Walking</option><option value="transit">Public transport</option></select><p id="route-summary" role="status"></p><a id="route-launch" class="route-link" target="_blank" rel="noopener">Get directions in Google Maps ↗</a><p class="dialog-footnote">Driving directions end at the car park or departure point. Each stop explains how to continue from there.</p></div></dialog>`);

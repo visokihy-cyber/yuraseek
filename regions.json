@@ -7991,7 +7991,7 @@
           "query": "Parking Santa Luzia, Funchal, Madeira",
           "kind": "arrival",
           "label": "Парковка Santa Luzia",
-          "note": "До парковки Santa Luzia. До Blandy’s Wine Lodge — пешком через центр; парковка оплачивается отдельно.",
+          "note": "До Blandy’s Wine Lodge — пешком через центр; парковка оплачивается отдельно.",
           "sources": [
             "https://blandyswinelodge.com/",
             "https://randomtrip.net/madeira-travel-guide/"
@@ -8012,7 +8012,7 @@
           "query": "Parque Estacionamento Camara de Lobos, Av. da Autonomia 6, Camara de Lobos, Portugal",
           "kind": "arrival",
           "label": "Парковка Câmara de Lobos",
-          "note": "До парковки. До бухты — пешком; проверьте часы выезда и способ оплаты, могут понадобиться монеты.",
+          "note": "До бухты — пешком; проверьте часы выезда и способ оплаты, могут понадобиться монеты.",
           "sources": [
             "https://visitmadeira.com/en/where-to-go/madeira/south-coast/camara-de-lobos/",
             "https://wanderlog.com/es/place/details/8170847/parque-estacionamento-c%C3%A2mara-de-lobos"
@@ -8044,7 +8044,7 @@
           "query": "Pico do Areeiro parking, Madeira",
           "kind": "arrival",
           "label": "Парковка Pico do Areeiro",
-          "note": "До парковки. Верхняя стоянка у вершины и нижняя имеют разные тарифы; проверяйте указатели. Для полного PR1 заранее организуйте возвращение с другого конца тропы.",
+          "note": "Верхняя стоянка у вершины и нижняя имеют разные тарифы; проверяйте указатели. Для полного PR1 заранее организуйте возвращение с другого конца тропы.",
           "sources": [
             "https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-1-vereda-do-areeiro/",
             "https://randomtrip.net/madeira-travel-guide/"
@@ -8091,7 +8091,7 @@
           "query": "32.805082,-16.882865",
           "kind": "arrival",
           "label": "Парковка у домиков Сантаны",
-          "note": "До парковки в центре Сантаны; к домикам — пешком.",
+          "note": "К домикам — пешком из центра Сантаны.",
           "sources": [
             "https://visitmadeira.com/en/where-to-go/madeira/north-coast/santana/casas-de-santana/",
             "https://en.gancarczyk.com/santana-i-kolorowe-domki-na-maderze-dojazd-parking-zwiedzanie/"
@@ -8147,7 +8147,7 @@
           "query": "Parking Forum Machico, Rua do Ribeirinho 4, 9200-143 Machico, Portugal",
           "kind": "arrival",
           "label": "Parking Forum Machico",
-          "note": "До городской парковки; центр и пляж — пешком.",
+          "note": "К центру и пляжу — пешком.",
           "sources": [
             "https://visitmadeira.com/en/where-to-go/madeira/east-coast/machico/",
             "https://maps.apple.com/place?place-id=I68EAA2136453AA35"
@@ -10362,7 +10362,7 @@
             "note": "This is one approach to the canyon; book a guided descent. Alternative entrances and transfers from Funchal are available. Agree this meeting point with your guide, as your programme may use a different canyon section."
           }
         },
-        "reviewedSource": "ad3b0ad0"
+        "reviewedSource": "90b2a1cc"
       }
     },
     {

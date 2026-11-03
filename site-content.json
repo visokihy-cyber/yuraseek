@@ -110,6 +110,20 @@
       }
     },
     "madeira": {
+      "7": {
+        "src": "media-86ae29f8-c045-4cff-8495-81ed6111dcb3-960.webp",
+        "alt": "Прибрежные поля и океан под обрывом Кабу-Жиран",
+        "creditText": "Фото: H. Zell · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:View_from_Miradouro_do_Cabo_Gir%C3%A3o_02.jpg) · кадрирование",
+        "focusX": 50,
+        "focusY": 50
+      },
+      "8": {
+        "src": "media-b4f71c2e-3960-45aa-9bf8-960ad9f146d3-960.webp",
+        "alt": "Горная долина Куррал-даш-Фрейраш со смотровой Эйра-ду-Серраду",
+        "creditText": "Фото: H. Zell · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Curral_das_Freiras_from_Eira_do_Serrado_01.jpg) · кадрирование",
+        "focusX": 50,
+        "focusY": 50
+      },
       "9": {
         "src": "media-263e0d67-12eb-4dca-b4f6-fb5efc757503-960.webp",
         "alt": "Пику-ду-Ариейру — вершины и PR1",

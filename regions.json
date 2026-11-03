@@ -8784,14 +8784,14 @@
           "arrivalNote": "Маршрут только до парковки у входа на смотровую.",
           "photoKey": "Cabo Girao",
           "checkedAt": "2026-10-28",
-          "photo": "place-madeira-7-review-20261029-960.webp",
-          "photoLink": "https://commons.wikimedia.org/wiki/File:Skywalk_at_Cabo_Girao_(589m)_(26319329219).jpg",
-          "photoAlt": "Кабу-Жиран — стеклянная площадка",
-          "credit": "",
-          "creditText": "Фото: VillageHero from Ulm, Germany · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [источник](https://commons.wikimedia.org/wiki/File:Skywalk_at_Cabo_Girao_(589m)_(26319329219).jpg) · кадрирование",
+          "photo": "media-86ae29f8-c045-4cff-8495-81ed6111dcb3-960.webp",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_do_Cabo_Gir%C3%A3o_02.jpg",
+          "photoAlt": "Прибрежные поля и океан под обрывом Кабу-Жиран",
+          "creditText": "Фото: H. Zell · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:View_from_Miradouro_do_Cabo_Gir%C3%A3o_02.jpg) · кадрирование",
           "extra": [],
           "visitorInfo": "",
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "photoFocusX": 50
         },
         {
           "id": 8,
@@ -8821,13 +8821,14 @@
           "arrivalNote": "Маршрут только до парковки у Estalagem Eira do Serrado. К смотровой — пешком.",
           "photoKey": "Eira Serrado",
           "checkedAt": "2026-10-28",
-          "photo": "madeira-08-960.webp",
-          "photoLink": "https://commons.wikimedia.org/wiki/File:Eira_Do_Serrado_Madeira_(32675271290).jpg",
-          "photoAlt": "Эйра-ду-Серраду — Долина монахинь",
-          "credit": "Фото: Lars Ploug-Sørensen · <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener\">CC BY 2.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Eira_Do_Serrado_Madeira_(32675271290).jpg\" target=\"_blank\" rel=\"noopener\">источник</a> · кадрирование",
-          "creditText": "Фото: Lars Ploug-Sørensen · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en) · [источник](https://commons.wikimedia.org/wiki/File:Eira_Do_Serrado_Madeira_(32675271290).jpg) · кадрирование",
+          "photo": "media-b4f71c2e-3960-45aa-9bf8-960ad9f146d3-960.webp",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Curral_das_Freiras_from_Eira_do_Serrado_01.jpg",
+          "photoAlt": "Горная долина Куррал-даш-Фрейраш со смотровой Эйра-ду-Серраду",
+          "creditText": "Фото: H. Zell · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Curral_das_Freiras_from_Eira_do_Serrado_01.jpg) · кадрирование",
           "extra": [],
-          "visitorInfo": ""
+          "visitorInfo": "",
+          "photoFocusX": 50,
+          "photoFocusY": 50
         },
         {
           "id": 9,
@@ -9841,8 +9842,8 @@
             "region": "Funchal and the south coast",
             "walk": "Easy",
             "format": "Quick stop",
-            "photoAlt": "Cabo Girão — glass-floored viewpoint",
-            "creditText": "Photo: VillageHero from Ulm, Germany · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [source](https://commons.wikimedia.org/wiki/File:Skywalk_at_Cabo_Girao_(589m)_(26319329219).jpg) · cropped",
+            "photoAlt": "Coastal fields and the ocean below Cabo Girão",
+            "creditText": "Photo: H. Zell · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [source](https://commons.wikimedia.org/wiki/File:View_from_Miradouro_do_Cabo_Gir%C3%A3o_02.jpg) · cropped",
             "extra": []
           },
           "8": {
@@ -9857,8 +9858,8 @@
             "region": "Mountains and levadas",
             "walk": "Moderate",
             "format": "Quick stop",
-            "photoAlt": "Eira do Serrado — Valley of the Nuns",
-            "creditText": "Photo: Lars Ploug-Sørensen · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en) · [source](https://commons.wikimedia.org/wiki/File:Eira_Do_Serrado_Madeira_(32675271290).jpg) · cropped",
+            "photoAlt": "Curral das Freiras valley from Eira do Serrado",
+            "creditText": "Photo: H. Zell · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [source](https://commons.wikimedia.org/wiki/File:Curral_das_Freiras_from_Eira_do_Serrado_01.jpg) · cropped",
             "extra": []
           },
           "9": {
@@ -10376,7 +10377,7 @@
             "note": "This is one approach to the canyon; book a guided descent. Alternative entrances and transfers from Funchal are available. Agree this meeting point with your guide, as your programme may use a different canyon section."
           }
         },
-        "reviewedSource": "90b2a1cc"
+        "reviewedSource": "e8deeb9e"
       }
     },
     {

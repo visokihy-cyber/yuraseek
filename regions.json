@@ -15703,15 +15703,17 @@
           "access": "",
           "source": "https://www.kolmanskop.de/",
           "checkedAt": "2026-10-28",
-          "photo": "media-ffafb889-21cd-58f6-af45-8f789d91e9f9-960.webp",
-          "photoAlt": "Колманскоп — город в песках",
-          "creditText": "SkyPixels · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kolmanskop_Ghost_Town.jpg)",
+          "photo": "media-965e11f0-5576-4ded-9593-92347f5b2352-960.webp",
+          "photoAlt": "Комната заброшенного дома в Колманскопе, занесённая песком",
+          "creditText": "Фото: Ralf Hüsges · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) · [источник](https://commons.wikimedia.org/wiki/File:Kolmanskop_-_ghost_town_in_Namibia2.jpg) · кадрирование",
           "extra": [],
-          "photoLink": "https://commons.wikimedia.org/wiki/File:Kolmanskop_Ghost_Town.jpg",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Kolmanskop_-_ghost_town_in_Namibia2.jpg",
           "visitorInfo": "https://kolmanskuppe.com/tours-prices/",
           "tags": [
             "Культура и история"
-          ]
+          ],
+          "photoFocusX": 50,
+          "photoFocusY": 50
         },
         {
           "id": 27,
@@ -16554,8 +16556,8 @@
             "tickets": "A paid permit is required. Standard and photography access have different conditions and hours; confirm with Ghost Town Tours before visiting.",
             "hike": "",
             "access": "",
-            "photoAlt": "Kolmanskop — a town reclaimed by sand",
-            "creditText": "SkyPixels · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kolmanskop_Ghost_Town.jpg)"
+            "photoAlt": "A sand-filled room in an abandoned house in Kolmanskop",
+            "creditText": "Photo: Ralf Hüsges · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) · [source](https://commons.wikimedia.org/wiki/File:Kolmanskop_-_ghost_town_in_Namibia2.jpg) · cropped"
           },
           "27": {
             "name": "Lüderitz — harbour and peninsula",
@@ -16740,7 +16742,7 @@
             "note": "Other trips use their own base and directions."
           }
         },
-        "reviewedSource": "2db8aa67"
+        "reviewedSource": "8ef62e88"
       },
       "outline": [
         [

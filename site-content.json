@@ -65,62 +65,38 @@
   "countries": {
     "new-zealand": {
       "19": {
-        "src": "media-08ea8d6e-d2f1-4e2b-a012-7d2e3be6b09d-960.webp",
-        "alt": "Лесистые берега и паром в заливах Мальборо",
-        "creditText": "Фото: FLASHPACKER TRAVELGUIDE · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [источник](https://commons.wikimedia.org/wiki/File:F%C3%A4hre_von_Picton_nach_Wellington_(34026172791).jpg) · кадрирование",
         "focusX": 50,
         "focusY": 50
       },
       "48": {
-        "src": "media-152e4d79-3eef-4cd5-ba9b-d5af76be145a-960.webp",
-        "alt": "Пляж Уэст-Энд на острове Ульва",
-        "creditText": "Фото: Pseudopanax at English Wikipedia · Public domain · [источник](https://commons.wikimedia.org/wiki/File:West_End_Beach,_Ulva_Island.jpg) · кадрирование",
         "focusX": 50,
         "focusY": 50
       }
     },
     "costa-rica": {
       "12": {
-        "src": "media-198a5865-3057-4569-8e85-00d37c1ad881-960.webp",
-        "alt": "Вулкан Ареналь над озером Ареналь",
-        "creditText": "Фото: Ksaraf · [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [источник](https://commons.wikimedia.org/wiki/File:ARENAL_VOLCANO_LAKE_PANORAMA.jpg) · кадрирование",
         "focusX": 50,
         "focusY": 50
       },
       "23": {
-        "src": "media-59133a04-aa66-49a8-9b08-aa9c5e411fd3-960.webp",
-        "alt": "Светлый пляж и скалы Пунта-Кончаль",
-        "creditText": "Фото: Aymatth2 · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:Punta_Conchal,_Costa_Rica.JPG) · кадрирование",
         "focusX": 50,
         "focusY": 50
       },
       "44": {
-        "src": "media-d6a85efe-9d90-48a3-a5d8-0f3fcc0d6236-960.webp",
-        "alt": "Пляж Пунта-Ува на карибском побережье",
-        "creditText": "Фото: Jaimedelamata · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Playa_de_Punta_Uva,_Costa_Rica.jpg) · кадрирование",
         "focusX": 50,
         "focusY": 50
       },
       "45": {
-        "src": "media-eced7a4a-809e-42d6-9b78-537ae9b672bf-960.webp",
-        "alt": "Пальмы над пляжем Мансанильо",
-        "creditText": "Фото: Haakon S. Krohn · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Manzanillo_strand.jpg) · кадрирование",
         "focusX": 50,
         "focusY": 50
       }
     },
     "madeira": {
       "7": {
-        "src": "media-86ae29f8-c045-4cff-8495-81ed6111dcb3-960.webp",
-        "alt": "Прибрежные поля и океан под обрывом Кабу-Жиран",
-        "creditText": "Фото: H. Zell · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:View_from_Miradouro_do_Cabo_Gir%C3%A3o_02.jpg) · кадрирование",
         "focusX": 50,
         "focusY": 50
       },
       "8": {
-        "src": "media-b4f71c2e-3960-45aa-9bf8-960ad9f146d3-960.webp",
-        "alt": "Горная долина Куррал-даш-Фрейраш со смотровой Эйра-ду-Серраду",
-        "creditText": "Фото: H. Zell · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Curral_das_Freiras_from_Eira_do_Serrado_01.jpg) · кадрирование",
         "focusX": 50,
         "focusY": 50
       },
@@ -222,16 +198,10 @@
     },
     "iceland": {
       "15": {
-        "src": "media-8983f35b-b1e4-4c32-bbbc-41994d37530e-960.webp",
-        "alt": "Водопад Свартифосс среди базальтовых колонн в Скафтафетле",
-        "creditText": "Фото: Giles Laurent · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:038_Svartifoss_waterfall_(Iceland)_Photo_by_Giles_Laurent.jpg) · кадрирование",
         "focusX": 50,
         "focusY": 50
       },
       "41": {
-        "src": "media-f6dfb330-862f-4730-936c-e896f499c3f8-960.webp",
-        "alt": "Разноцветные горы Ландманналаугара",
-        "creditText": "Фото: Borvan53 · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:View_on_Landmannalaugar_area_from_Laugavegur_2012_panoramic_2.jpg) · кадрирование",
         "focusX": 50,
         "focusY": 50
       }
@@ -306,6 +276,10 @@
         "creditText": "",
         "focusX": 50,
         "focusY": 41.593505508955225
+      },
+      "26": {
+        "focusX": 50,
+        "focusY": 50
       }
     },
     "south-africa": {

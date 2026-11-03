@@ -23264,8 +23264,8 @@
           "region": "Стреймой и Нёльсой",
           "source": "https://puffin.fo/",
           "checkedAt": "2026-11-02",
-          "photo": "media-ad4402c2-ecb7-4c88-9e03-8ff5a23657ba-960.webp",
-          "creditText": "Erik Christensen, Porkeri (Contact at the Danish Wikipedia) · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saksunadrangur,_Vestmannabj%C3%B8rgini,_Faroe_Islands_(9).jpg)",
+          "photo": "media-1d8a67e5-0f47-4d05-baa2-d8a43d4777b2-960.webp",
+          "creditText": "Erik Christensen · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vestmannabj%C3%B8rgini,_Faroe_Islands.JPG)",
           "extra": [],
           "name": "Скалы Вестманны — морская прогулка",
           "time": "Около 1,5 часа на воде плюс посадка",
@@ -23275,7 +23275,7 @@
           "tickets": "Билет на лодку лучше бронировать заранее. Проверьте причал и условия отмены у выбранного оператора.",
           "shortName": "Скалы Вестманны",
           "originalName": "Vestmanna sea cliffs",
-          "photoAlt": "Скалы Вестманны — морская прогулка",
+          "photoAlt": "Панорама морских скал Вестманны с воды",
           "visitorInfo": "https://puffin.fo/",
           "photoFocusX": 50,
           "photoFocusY": 20,
@@ -23413,7 +23413,7 @@
           "lat": 62.0224,
           "lon": -7.2494,
           "codes": "PS",
-          "priority": 1,
+          "priority": "1",
           "format": "Полдня",
           "region": "Воар и Мичинес",
           "source": "https://www.tralanipan.fo/",
@@ -23422,17 +23422,19 @@
           "creditText": "kallerna · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:S%C3%B8rv%C3%A1gsvatn_4.jpg)",
           "extra": [],
           "name": "Треланипа — озеро над океаном",
-          "time": "2,5–3 часа туда и обратно",
+          "time": "2,5–3 часа с остановками",
           "walk": "Средне; открытая тропа у обрывов",
           "desc": "С определённого ракурса озеро Сёрвогсватн кажется поднятым высоко над океаном; дальше находится водопад Бёсдалафоссур.",
-          "detail": "Примерно семикилометровая прогулка туда и обратно связывает озеро, утёс Треланипа и водопад, через который озёрная вода уходит в океан. Знаменитый эффект создаёт взаимное положение берега и обрыва, а не огромная высота самого озера. Идите по действующей размеченной тропе: часть прежнего прохода непосредственно вдоль воды закрыта для защиты птиц. На смотровых держитесь в стороне от неограждённого края.",
+          "detail": "Прогулка длиной около 7 км туда и обратно, с набором примерно 110 м, связывает озеро, утёс Треланипа и водопад, через который озёрная вода уходит в океан. Владелец тропы рекомендует отвести 2,5–3 часа с остановками для фотографий. Эффект «озера над океаном» создают берег и окружающие обрывы. Следуйте действующей разметке: проход непосредственно вдоль озера закрыт для защиты птиц. На смотровых держитесь в стороне от неограждённого края.",
           "tickets": "Самостоятельный проход платный; билет можно купить у входа без предварительной записи. Парковка и туалет входят в условия посещения. Экскурсия с гидом бронируется отдельно.",
           "shortName": "Треланипа",
           "originalName": "Trælanípa",
           "photoAlt": "Треланипа — озеро над океаном",
           "visitorInfo": "https://www.tralanipan.fo/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 12,
@@ -23593,8 +23595,8 @@
           "id": 18,
           "lat": 61.8346,
           "lon": -6.8198,
-          "codes": "PE",
-          "priority": 3,
+          "codes": "EP",
+          "priority": "3",
           "format": "Полдня",
           "region": "Сандой и Сувурой",
           "source": "https://visitfaroeislands.com/en/see-do/inspiration-guides/popular-guides/regional-guides/sandoy-skuvoy-and-stora-dimun",
@@ -23612,7 +23614,9 @@
           "originalName": "Sandur",
           "photoAlt": "Сандур — дюны и искусство Сандоя",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 19,
@@ -23644,7 +23648,7 @@
           "lat": 61.583,
           "lon": -6.802,
           "codes": "PS",
-          "priority": 4,
+          "priority": "4",
           "format": "Полдня",
           "region": "Сандой и Сувурой",
           "source": "https://visitvagar.fo/en/whatson/hiking/hike/hvannhagi?region=7",
@@ -23656,13 +23660,15 @@
           "time": "2–3 часа туда и обратно без переправы",
           "walk": "Средне; крутой спуск в долину",
           "desc": "Небольшое озеро лежит в зелёной чаше под скальными стенами; за краем долины видны океан и острова Дуймун.",
-          "detail": "Шестикилометровый маршрут туда и обратно начинается над Твёройри. Сначала тропа пересекает склон, затем спускается в укрытую от дорог долину; суммарный набор составляет около 370 метров. С верхней точки хорошо видна форма озера, а внизу можно остановиться у воды. Возвращайтесь обычной отмеченной тропой: проход через каменистое ущелье Frostgjógv сложнее и для первого посещения не обязателен.",
+          "detail": "От Твёройри до озера и обратно — около 7,7 км с набором примерно 280 м; на ходьбу обычно отводят около 3 часов, отдельно оставляя время на остановки. Сначала путь идёт через посёлок и по склону, затем спускается в долину Хваннхайи. С перевала видны озеро и необитаемые острова Литла-Дуймун и Стоура-Дуймун. Возвращайтесь тем же отмеченным путём: вариант через ущелье Frostgjógv не рекомендуется из-за осыпающихся камней.",
           "tickets": "Для самостоятельной прогулки заранее оформлять билет не требуется. Отдельно спланируйте переправу на Suðuroy и возвращение с острова.",
           "shortName": "Хваннхайи",
           "originalName": "Hvannhagi",
           "photoAlt": "Хваннхайи — озеро в долине над океаном",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 21,
@@ -23803,7 +23809,8 @@
           "sources": [
             "https://www.tralanipan.fo/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "12": {
           "kind": "arrival",
@@ -23868,13 +23875,14 @@
         },
         "18": {
           "kind": "arrival",
-          "query": "Sandur beach parking Faroe Islands",
-          "label": "Парковка у пляжа Sandur",
-          "note": "Проезд через Sandoyartunnilin до общественной парковки у пляжа Sandur; дальше пешком. К музею можно подъехать отдельно.",
+          "query": "61.8330686,-6.8116952",
+          "label": "Подъезд к церкви Sands kirkja в Сандуре",
+          "note": "Проезд через туннель Sandoyartunnilin к церкви Sands kirkja на Undir Gøtuni; воспользуйтесь обозначенной парковкой и продолжайте пешком к пляжу и дюнам. Не занимайте проезды к домам. К художественному музею можно подъехать отдельно.",
           "sources": [
-            "https://visitfaroeislands.com/en/see-do/inspiration-guides/popular-guides/regional-guides/sandoy-skuvoy-and-stora-dimun"
+            "https://visitsuduroy.fo/en/whatson/places/place/church-of-sandur?region=5"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "19": {
           "kind": "arrival",
@@ -23888,24 +23896,26 @@
         },
         "20": {
           "kind": "arrival",
-          "query": "Hvannhagi trailhead Ovari Vegur Tvøroyri Faroe Islands",
-          "label": "Начало тропы Hvannhagi на Ovari Vegur",
-          "note": "Проезд до небольшой стоянки у конца Ovari Vegur над Tvøroyri; далее по оранжевым указателям. Парковка у начала тропы небольшая: не занимайте подъезды и места больницы.",
+          "query": "61.555938,-6.811350",
+          "label": "Уличная стоянка на Traðarvegur в Твёройри",
+          "note": "Проезд к Traðarvegur в Твёройри; паркуйтесь по местным знакам, не занимая места больницы и частные подъезды. Далее пешком вверх по Sjúkrahúsbrekkan и через небольшой лес к Ovari Vegur, затем по указателям Hvannhagi. За дорожные ворота на машине въезжать нельзя.",
           "sources": [
-            "https://www.alltrails.com/trail/faroe-islands/suduroy/hvannhagi"
+            "https://www.moonhoneytravel.com/hvannhagi-hike-suduroy/",
+            "https://visitvagar.fo/en/whatson/hiking/hike/hvannhagi?region=7"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "21": {
           "kind": "arrival",
-          "query": "Tórshavn Nólsoy ferry terminal Faroe Islands",
+          "query": "62.0083951,-6.7667238",
           "label": "Причал парома на Nólsoy в Tórshavn",
           "note": "Проезд до паромного терминала в Tórshavn; автомобиль оставьте на разрешённой городской стоянке и продолжите пассажирским паромом. На острове до деревни идут пешком.",
           "sources": [
             "https://www.visittorshavn.fo/storm-petrel-tours/"
           ],
           "checked": "2026-11-02",
-          "placeId": ""
+          "placeId": "ChIJcU2MOgQvvEgRg29dHjrCVS4"
         }
       },
       "en": {
@@ -23967,7 +23977,7 @@
           "5": {
             "format": "A few hours",
             "region": "Streymoy and Nólsoy",
-            "creditText": "Erik Christensen, Porkeri (Contact at the Danish Wikipedia) · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saksunadrangur,_Vestmannabj%C3%B8rgini,_Faroe_Islands_(9).jpg)",
+            "creditText": "Erik Christensen · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vestmannabj%C3%B8rgini,_Faroe_Islands.JPG)",
             "name": "Vestmanna sea cliffs — by boat",
             "time": "About 1.5 hours on the water, plus boarding",
             "walk": "Easy",
@@ -23975,7 +23985,7 @@
             "detail": "Boats leave Vestmanna harbour for the sheer coast of northwestern Streymoy. Summer brings nesting seabirds, while the water-level view reveals ledges and grottoes beneath the cliffs. In calm seas the skipper can approach more closely and may enter caves. The skipper adjusts the route in rougher conditions; cave visits depend on the sea state.",
             "tickets": "Book the boat trip ahead and check the departure point and cancellation terms with your operator.",
             "shortName": "Vestmanna sea cliffs",
-            "photoAlt": "Vestmanna sea cliffs — by boat",
+            "photoAlt": "Panoramic view of the Vestmanna sea cliffs from the water",
             "hike": "",
             "access": ""
           },
@@ -24049,13 +24059,15 @@
             "region": "Vágar and Mykines",
             "creditText": "kallerna · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:S%C3%B8rv%C3%A1gsvatn_4.jpg)",
             "name": "Trælanípa — the lake above the ocean",
-            "time": "2.5–3 hours return",
+            "time": "2.5–3 hours including stops",
             "walk": "Moderate; exposed cliff-top terrain",
             "desc": "From the cliff viewpoint, Sørvágsvatn lake appears suspended high above the ocean; Bøsdalafossur waterfall lies beyond.",
-            "detail": "The roughly seven-kilometre return walk links the lake, Trælanípa cliff and the waterfall that carries the lake’s water into the sea. The famous illusion comes from the alignment of the shore and cliff, rather than the lake being extremely high. Follow the current marked route: part of the former lakeside path is closed to protect birds. The viewpoints have unguarded cliff edges.",
+            "detail": "This roughly 7 km return walk, with about 110 m of ascent, links the lake, Trælanípa cliff and the waterfall where the lake drains into the ocean. The trail owner recommends allowing 2.5–3 hours including photo stops. The shoreline and surrounding cliffs create the famous “lake above the ocean” illusion. Follow the current marked route: the path directly beside the lake is closed to protect birds. Keep well back from the unfenced cliff edges.",
             "tickets": "Self-guided access is charged, with tickets available at the entrance without advance booking. Parking and toilet facilities are included. Guided walks require a separate booking.",
             "shortName": "Trælanípa",
-            "photoAlt": "Trælanípa — the lake above the ocean"
+            "photoAlt": "Trælanípa — the lake above the ocean",
+            "hike": "",
+            "access": ""
           },
           "12": {
             "format": "A few hours",
@@ -24146,7 +24158,9 @@
             "detail": "Sandoy’s landscape is noticeably softer than that of the northern islands. In Sandur, walk along the beach and dunes, see the old church and visit Listasavnið á Sandi art museum. Its collection introduces several generations of Faroese painting. The subsea tunnel now makes the island reachable by car, so a half-day visit from Tórshavn is straightforward.",
             "tickets": "The subsea tunnel has a toll. Check the art museum’s opening hours and admission; the beach needs no advance booking.",
             "shortName": "Sandur",
-            "photoAlt": "Sandur — dunes and art on Sandoy"
+            "photoAlt": "Sandur — dunes and art on Sandoy",
+            "hike": "",
+            "access": ""
           },
           "19": {
             "format": "Day",
@@ -24169,10 +24183,12 @@
             "time": "2–3 hours return, excluding the ferry",
             "walk": "Moderate; a steep descent into the valley",
             "desc": "A small lake lies in a green basin beneath rock walls, with the ocean and the Dímun islands beyond.",
-            "detail": "The six-kilometre return route starts above Tvøroyri. It crosses the hillside before descending into a valley hidden from the roads, with about 370 metres of total ascent. The upper viewpoint shows the shape of the lake, while the valley floor offers a place to pause beside the water. Return by the normal marked trail; the rockier Frostgjógv alternative is harder and unnecessary for a first visit.",
+            "detail": "From Tvøroyri to the lake and back is about 7.7 km with roughly 280 m of ascent; allow around 3 hours of walking, plus stops. The route starts through the village and across the hillside before descending into Hvannhagi valley. From the pass, look across the lake towards the uninhabited islands of Lítla Dímun and Stóra Dímun. Return along the same marked route: the alternative through Frostgjógv gorge is not recommended because of loose rock.",
             "tickets": "No advance hiking ticket is required for a self-guided walk. Plan the ferry to Suðuroy and the return sailing separately.",
             "shortName": "Hvannhagi",
-            "photoAlt": "Hvannhagi — a lake above the ocean"
+            "photoAlt": "Hvannhagi — a lake above the ocean",
+            "hike": "",
+            "access": ""
           },
           "21": {
             "format": "Day",
@@ -24277,8 +24293,8 @@
             "alternatives": []
           },
           "18": {
-            "label": "Sandur beach parking",
-            "note": "Driving access through Sandoyartunnilin to the public beach parking in Sandur; continue on foot. The museum has a separate road approach.",
+            "label": "Access to Sands kirkja church in Sandur",
+            "note": "Drive through the Sandoyartunnilin tunnel to Sands kirkja church on Undir Gøtuni, use the designated parking and continue on foot to the beach and dunes. Keep residential access clear. The art museum can be reached separately by car.",
             "alternatives": []
           },
           "19": {
@@ -24287,8 +24303,8 @@
             "alternatives": []
           },
           "20": {
-            "label": "Hvannhagi trailhead on Ovari Vegur",
-            "note": "Driving access to the small parking area near the end of Ovari Vegur above Tvøroyri, then follow the orange markers. Trailhead space is limited; keep driveways and hospital parking clear.",
+            "label": "On-street parking on Traðarvegur in Tvøroyri",
+            "note": "Drive to Traðarvegur in Tvøroyri and park where signs permit, keeping hospital spaces and private access clear. Walk uphill along Sjúkrahúsbrekkan and through a small wood to Ovari Vegur, then follow signs for Hvannhagi. Vehicles are not allowed beyond the road gate.",
             "alternatives": []
           },
           "21": {
@@ -24309,7 +24325,7 @@
           "description": "Green islands in the Atlantic: waterfalls above the ocean, seabird cliffs and turf-roofed villages.",
           "alt": "Múlafossur — the waterfall at Gásadalur"
         },
-        "reviewedSource": "7e376fc5"
+        "reviewedSource": "d4059f68"
       },
       "title": "Фарерские острова",
       "genitive": "Фарерских островов",

@@ -300,7 +300,15 @@
         "focusY": 36.197821742177425
       }
     },
-    "faroe-islands": {},
+    "faroe-islands": {
+      "5": {
+        "src": "media-1d8a67e5-0f47-4d05-baa2-d8a43d4777b2-960.webp",
+        "alt": "Скалы Вестманны — морская прогулка",
+        "creditText": "Erik Christensen, Porkeri (Contact at the Danish Wikipedia) · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saksunadrangur,_Vestmannabj%C3%B8rgini,_Faroe_Islands_(9).jpg)",
+        "focusX": 50,
+        "focusY": 50
+      }
+    },
     "lofoten": {
       "18": {
         "src": "media-c4ccacde-582d-4788-86f8-ea1d3d28ad7e-960.webp",

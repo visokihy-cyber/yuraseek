@@ -5114,18 +5114,22 @@
             "mytan"
           ],
           "id": 12,
-          "photo": "country-photo-c9332bd863cd-960.webp",
+          "photo": "media-198a5865-3057-4569-8e85-00d37c1ad881-960.webp",
           "standard": "Отдельная стандартная продолжительность пешего маршрута не опубликована в проверенных источниках; время карточки — ориентир планирования всего посещения.",
           "extra": [],
           "category": "Горы и озера",
           "shortName": "Озеро Ареналь",
           "codes": "P",
-          "creditText": "Фото: Автор указан на странице файла · [Public domain]() · [источник](https://commons.wikimedia.org/wiki/File:LagoArenal.jpg)",
+          "creditText": "Фото: Ksaraf · [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [источник](https://commons.wikimedia.org/wiki/File:ARENAL_VOLCANO_LAKE_PANORAMA.jpg) · кадрирование",
           "detail": "По дороге вдоль озера чередуются виды на воду, фермы и зелёные холмы; в ясную погоду местами виден Ареналь. Для короткого знакомства достаточно нескольких остановок на оборудованных площадках. Если хочется задержаться, можно отправиться на каяке или лодке.",
           "tickets": "Для обычных дорожных остановок предварительная запись не нужна. Водные программы оплачиваются отдельно и зависят от погоды. Используйте разрешённые площадки, а не узкие обочины; условия частных видовых точек могут различаться.",
           "source": "https://mytanfeet.com/costa-rica-travel-tips/costa-rica-road-trip-itinerary/",
           "map": "https://www.google.com/maps/search/?api=1&query=Lake%20Arenal%2C%20Costa%20Rica",
-          "visitorInfo": ""
+          "visitorInfo": "",
+          "photoAlt": "Вулкан Ареналь над озером Ареналь",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:ARENAL_VOLCANO_LAKE_PANORAMA.jpg",
+          "photoFocusX": 50,
+          "photoFocusY": 50
         },
         {
           "name": "Рио-Селесте и Тенорио",
@@ -5543,22 +5547,22 @@
             "conchalaccess"
           ],
           "id": 23,
-          "photo": "place-costa-rica-23-review-20261029-960.webp",
+          "photo": "media-59133a04-aa66-49a8-9b08-aa9c5e411fd3-960.webp",
           "standard": "Отдельная стандартная продолжительность пешего маршрута не опубликована в проверенных источниках; время карточки — ориентир планирования всего посещения.",
           "extra": [],
           "category": "Побережье и острова",
           "shortName": "Кончаль и бухты северо-запада",
           "codes": "P",
-          "creditText": "Фото: Haakon S. Krohn · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Playa_Conchal.jpg) · кадрирование",
+          "creditText": "Фото: Aymatth2 · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:Punta_Conchal,_Costa_Rica.JPG) · кадрирование",
           "detail": "Пляж Кончаль отличается светлым берегом из мелких ракушечных фрагментов. Можно провести время у бухты или присоединиться к морской экскурсии. Прозрачность воды и условия купания зависят от волн и погоды.",
           "tickets": "Тур для пляжной прогулки не нужен. Частные парковки, водные активности и сервисы оплачиваются отдельно; стоимость и место безопасной стоянки уточняйте по выбранному подходу.",
           "source": "https://es.visitcostarica.com/where-to-go/guanacaste/tourist-attractions-10-in-guanacaste",
           "map": "https://www.google.com/maps/search/?api=1&query=Playa%20Conchal%2C%20Brasilito%2C%20Costa%20Rica",
           "visitorInfo": "",
-          "photoLink": "https://commons.wikimedia.org/wiki/File:Playa_Conchal.jpg",
-          "photoAlt": "Кончаль и бухты северо-запада",
-          "credit": "",
-          "photoFocusY": 50
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Punta_Conchal,_Costa_Rica.JPG",
+          "photoAlt": "Светлый пляж и скалы Пунта-Кончаль",
+          "photoFocusY": 50,
+          "photoFocusX": 50
         },
         {
           "name": "Самара и Каррильо",
@@ -6435,7 +6439,7 @@
             "climate"
           ],
           "id": 44,
-          "photo": "country-photo-4c9a9eb0b837-960.webp",
+          "photo": "media-d6a85efe-9d90-48a3-a5d8-0f3fcc0d6236-960.webp",
           "standard": "Отдельная стандартная продолжительность пешего маршрута не опубликована в проверенных источниках; время карточки — ориентир планирования всего посещения.",
           "extra": [
             {
@@ -6448,12 +6452,16 @@
           "category": "Побережье и острова",
           "shortName": "Пуэрто-Вьехо и Пунта-Ува",
           "codes": "EP",
-          "creditText": "Фото: Jsfouche · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Puerto_Viejo_de_Talamanca.jpg)",
+          "creditText": "Фото: Jaimedelamata · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Playa_de_Punta_Uva,_Costa_Rica.jpg) · кадрирование",
           "detail": "В Пуэрто-Вьехо можно познакомиться с карибской кухней и музыкой, а в Пунта-Уве — провести время у более тихих бухт и прибрежного леса. Между пляжами можно гулять или переезжать. Отдельная экскурсия в Jaguar Rescue Center знакомит с работой центра помощи диким животным.",
           "tickets": "Пляжная прогулка не требует тура. Центр помощи животным и другие частные программы имеют отдельные билеты и расписания. Парковка зависит от выбранного пляжного подхода; условия купания оценивайте отдельно для каждой бухты.",
           "source": "https://www.saltinourhair.com/costa-rica/puerto-viejo/",
           "map": "https://www.google.com/maps/search/?api=1&query=Puerto%20Viejo%20de%20Talamanca%20%2F%20Punta%20Uva%2C%20Costa%20Rica",
-          "visitorInfo": ""
+          "visitorInfo": "",
+          "photoAlt": "Пляж Пунта-Ува на карибском побережье",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Playa_de_Punta_Uva,_Costa_Rica.jpg",
+          "photoFocusX": 50,
+          "photoFocusY": 50
         },
         {
           "name": "Мансанильо: дикий карибский берег",
@@ -6479,18 +6487,22 @@
             "gandoca"
           ],
           "id": 45,
-          "photo": "country-photo-cef8e9b2455d-960.webp",
+          "photo": "media-eced7a4a-809e-42d6-9b78-537ae9b672bf-960.webp",
           "standard": "Отдельная стандартная продолжительность пешего маршрута не опубликована в проверенных источниках; время карточки — ориентир планирования всего посещения.",
           "extra": [],
           "category": "Побережье и острова",
           "shortName": "Мансанильо",
           "codes": "PW",
-          "creditText": "Фото: Jaimedelamata · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Playa_de_Manzanillo,_Costa_Rica.jpg)",
+          "creditText": "Фото: Haakon S. Krohn · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Manzanillo_strand.jpg) · кадрирование",
           "detail": "Из Мансанильо можно пройти к прибрежным смотровым и небольшим бухтам или выбрать более длинную лесную тропу. Из-за грязи, корней и состояния мостиков даже короткий маршрут может занять больше времени. На дальних участках полезен местный гид, который знает тропы и помогает замечать животных.",
           "tickets": "Текущий порядок регистрации, оплаты и открытые участки подтвердите у администрации. Не считайте всю охраняемую территорию свободным проходом. Парковку и экскурсию согласуйте для конкретного входа.",
           "source": "https://www.visitcostarica.com/where-to-go/protected-areas/gandoca-manzanillo-natural-wildlife-refuge",
           "map": "https://www.google.com/maps/search/?api=1&query=Gandoca-Manzanillo%20Wildlife%20Refuge%2C%20Manzanillo%20sector%2C%20Costa%20Rica",
-          "visitorInfo": ""
+          "visitorInfo": "",
+          "photoAlt": "Пальмы над пляжем Мансанильо",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Manzanillo_strand.jpg",
+          "photoFocusX": 50,
+          "photoFocusY": 50
         },
         {
           "name": "Йоркин: культура брибри",
@@ -6991,8 +7003,8 @@
             "region": "North: Arenal and rivers",
             "walk": "Easy",
             "format": "Quick stop",
-            "photoAlt": "Lake Arenal — a scenic drive",
-            "creditText": "Photo: Author credited on the source page · [Public domain]() · [source](https://commons.wikimedia.org/wiki/File:LagoArenal.jpg)",
+            "photoAlt": "Arenal Volcano across Lake Arenal",
+            "creditText": "Photo: Ksaraf · [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [source](https://commons.wikimedia.org/wiki/File:ARENAL_VOLCANO_LAKE_PANORAMA.jpg) · cropped",
             "extra": []
           },
           "13": {
@@ -7169,8 +7181,8 @@
             "region": "Guanacaste",
             "walk": "Easy",
             "format": "Half day",
-            "photoAlt": "Playa Conchal and the north-western bays",
-            "creditText": "Photo: Haakon S. Krohn · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [source](https://commons.wikimedia.org/wiki/File:Playa_Conchal.jpg) · cropped",
+            "photoAlt": "Pale sand and coastal rocks at Punta Conchal",
+            "creditText": "Photo: Aymatth2 · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [source](https://commons.wikimedia.org/wiki/File:Punta_Conchal,_Costa_Rica.JPG) · cropped",
             "extra": []
           },
           "24": {
@@ -7522,8 +7534,8 @@
             "region": "Caribbean coast",
             "walk": "Easy",
             "format": "Several days",
-            "photoAlt": "Puerto Viejo and Punta Uva",
-            "creditText": "Photo: Jsfouche · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [source](https://commons.wikimedia.org/wiki/File:Puerto_Viejo_de_Talamanca.jpg)",
+            "photoAlt": "Punta Uva beach on the Caribbean coast",
+            "creditText": "Photo: Jaimedelamata · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [source](https://commons.wikimedia.org/wiki/File:Playa_de_Punta_Uva,_Costa_Rica.jpg) · cropped",
             "extra": [
               "Punta Uva"
             ]
@@ -7540,8 +7552,8 @@
             "region": "Caribbean coast",
             "walk": "Moderate",
             "format": "Half day",
-            "photoAlt": "Manzanillo — a wild Caribbean shore",
-            "creditText": "Photo: Jaimedelamata · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [source](https://commons.wikimedia.org/wiki/File:Playa_de_Manzanillo,_Costa_Rica.jpg)",
+            "photoAlt": "Palm trees along Manzanillo beach",
+            "creditText": "Photo: Haakon S. Krohn · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [source](https://commons.wikimedia.org/wiki/File:Manzanillo_strand.jpg) · cropped",
             "extra": []
           },
           "46": {
@@ -7929,7 +7941,7 @@
             "note": "At the Chirripó trailhead. Arrange parking and obtain park admission in advance."
           }
         },
-        "reviewedSource": "98609be6"
+        "reviewedSource": "e98abb4a"
       }
     },
     {

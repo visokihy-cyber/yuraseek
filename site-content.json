@@ -79,7 +79,36 @@
         "focusY": 50
       }
     },
-    "costa-rica": {},
+    "costa-rica": {
+      "12": {
+        "src": "media-198a5865-3057-4569-8e85-00d37c1ad881-960.webp",
+        "alt": "Вулкан Ареналь над озером Ареналь",
+        "creditText": "Фото: Ksaraf · [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [источник](https://commons.wikimedia.org/wiki/File:ARENAL_VOLCANO_LAKE_PANORAMA.jpg) · кадрирование",
+        "focusX": 50,
+        "focusY": 50
+      },
+      "23": {
+        "src": "media-59133a04-aa66-49a8-9b08-aa9c5e411fd3-960.webp",
+        "alt": "Светлый пляж и скалы Пунта-Кончаль",
+        "creditText": "Фото: Aymatth2 · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:Punta_Conchal,_Costa_Rica.JPG) · кадрирование",
+        "focusX": 50,
+        "focusY": 50
+      },
+      "44": {
+        "src": "media-d6a85efe-9d90-48a3-a5d8-0f3fcc0d6236-960.webp",
+        "alt": "Пляж Пунта-Ува на карибском побережье",
+        "creditText": "Фото: Jaimedelamata · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Playa_de_Punta_Uva,_Costa_Rica.jpg) · кадрирование",
+        "focusX": 50,
+        "focusY": 50
+      },
+      "45": {
+        "src": "media-eced7a4a-809e-42d6-9b78-537ae9b672bf-960.webp",
+        "alt": "Пальмы над пляжем Мансанильо",
+        "creditText": "Фото: Haakon S. Krohn · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [источник](https://commons.wikimedia.org/wiki/File:Manzanillo_strand.jpg) · кадрирование",
+        "focusX": 50,
+        "focusY": 50
+      }
+    },
     "madeira": {
       "9": {
         "src": "media-263e0d67-12eb-4dca-b4f6-fb5efc757503-960.webp",

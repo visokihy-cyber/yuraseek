@@ -51031,10 +51031,10 @@
           "lat": -41.193,
           "lon": -71.826,
           "codes": "P",
-          "priority": 4,
+          "priority": "4",
           "format": "День",
           "region": "Озёрный край Аргентины",
-          "source": "https://www.argentina.gob.ar/noticias/instalaran-un-puente-bailey-del-ejercito-en-pampa-linda",
+          "source": "https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-nahuel-huapi/horarios-como-llegar",
           "checkedAt": "2026-11-02",
           "photo": "media-229ec951-7721-42d2-afcb-faf661090377-960.webp",
           "creditText": "Eleovera · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cerro_Tronador_y_Ventisquero_Negro_-_Eleonora_Vera.jpg)",
@@ -51050,7 +51050,9 @@
           "photoAlt": "Тронадор и Вентискеро-Негро",
           "visitorInfo": "https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-nahuel-huapi/horarios-como-llegar",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 3,
@@ -51192,8 +51194,8 @@
           "id": 8,
           "lat": -50.355,
           "lon": -68.892,
-          "codes": "LP",
-          "priority": 3,
+          "codes": "PL",
+          "priority": "3",
           "format": "День",
           "region": "Атлантическое побережье",
           "source": "https://www.argentina.gob.ar/node/153474",
@@ -51212,7 +51214,9 @@
           "photoAlt": "Монте-Леон — степь у Атлантики",
           "visitorInfo": "https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/parque-nacional-monte-leon",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 9,
@@ -51299,7 +51303,7 @@
           "lat": -49.329,
           "lon": -72.983,
           "codes": "PS",
-          "priority": 1,
+          "priority": "1",
           "format": "День",
           "region": "Эль-Чальтен и Эль-Калафате",
           "source": "https://elchalten.com/v4/es/laguna-torre-el-chalten.php",
@@ -51311,14 +51315,16 @@
           "time": "7–8 часов туда и обратно",
           "walk": "Умеренно или тяжело из-за длины: около 19 км",
           "desc": "Тропа по долине ведёт к ледниковому озеру под острой вершиной Серро-Торре.",
-          "detail": "После начального подъёма маршрут становится спокойнее и идёт через лес и долину реки Фицрой. У озера можно увидеть небольшие айсберги и ледник; сама вершина часто прячется в облаках. Для короткой прогулки развернитесь у первой смотровой. Продолжение вдоль морены к Mirador Maestri — отдельный неровный участок, который стоит добавлять только при хорошей погоде и запасе времени.",
+          "detail": "От Эль-Чальтена до озера и обратно — около 17 км с суммарным набором примерно 500 м; обычно на ходьбу отводят 7–8 часов, длительные остановки планируют отдельно. После начального подъёма тропа идёт через лес и долину реки Фицрой. У озера видны ледник и небольшие айсберги, а вершина Серро-Торре часто скрыта облаками. Для короткой прогулки можно развернуться у первой смотровой. Продолжение по неровной морене к Mirador Maestri увеличивает маршрут и подходит только при хорошей погоде и запасе времени.",
           "tickets": "Нужен билет в сектор Эль-Чальтен парка Los Glaciares. Условия ночёвки у тропы проверяются отдельно.",
           "shortName": "Лагуна-Торре",
           "originalName": "Laguna Torre",
           "photoAlt": "Лагуна-Торре — озеро под Серро-Торре",
           "visitorInfo": "https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/parque-nacional-los-glaciares",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 13,
@@ -51477,8 +51483,8 @@
           "id": 19,
           "lat": -42.72,
           "lon": -72.48,
-          "codes": "WG",
-          "priority": 3,
+          "codes": "GW",
+          "priority": "3",
           "format": "День",
           "region": "Карретера-Аустраль",
           "source": "https://www.conaf.cl/parque_nacionales/parque-nacional-pumalin-douglas-tompkins/",
@@ -51497,7 +51503,9 @@
           "photoAlt": "Лесистая долина и озеро в парке Пумалин",
           "visitorInfo": "https://www.conaf.cl/parque_nacionales/parque-nacional-pumalin-douglas-tompkins/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 20,
@@ -51585,8 +51593,8 @@
           "id": 23,
           "lat": -46.645,
           "lon": -72.628,
-          "codes": "GP",
-          "priority": 1,
+          "codes": "PG",
+          "priority": "1",
           "format": "Несколько часов",
           "region": "Карретера-Аустраль",
           "source": "https://turismo.rioibanez.cl/puerto-rio-tranquilo/",
@@ -51604,7 +51612,9 @@
           "originalName": "The Marble Caves of Lake General Carrera",
           "photoAlt": "Мраморные пещеры озера Хенераль-Каррера",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 24,
@@ -51639,7 +51649,7 @@
           "lat": -47.797,
           "lon": -73.535,
           "codes": "EP",
-          "priority": 3,
+          "priority": "3",
           "format": "Полдня",
           "region": "Карретера-Аустраль",
           "source": "https://chile.travel/atractivos/tortel-y-villa-ohiggins/",
@@ -51657,7 +51667,9 @@
           "originalName": "Caleta Tortel",
           "photoAlt": "Калета-Тортель — посёлок деревянных настилов",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 26,
@@ -51715,7 +51727,7 @@
           "lat": -50.942,
           "lon": -72.951,
           "codes": "PS",
-          "priority": 1,
+          "priority": "1",
           "format": "День",
           "region": "Торрес-дель-Пайне",
           "source": "https://www.conaf.cl/parque_nacionales/parque-nacional-torres-del-paine/",
@@ -51727,21 +51739,23 @@
           "time": "8–10 часов туда и обратно",
           "walk": "Тяжело: около 20 км с крутым каменистым подъёмом",
           "desc": "Главный однодневный поход парка заканчивается у озера под тремя гранитными башнями.",
-          "detail": "Маршрут Base Torres проходит по долине Асенсио и через лес, затем поднимается по каменистой морене к озеру. Последняя часть самая тяжёлая; при снеге и льде обычный летний поход становится технически сложнее. Начинайте в разрешённое раннее время и учитывайте контрольные часы разворота. Многодневные W и O — самостоятельные маршруты: для этого выхода не нужно проходить весь горный круг.",
+          "detail": "От центра приёма Las Torres до смотровой Base Torres и обратно — около 20 км с набором примерно 900 м. Планируйте 8–10 часов с короткими остановками; темп группы и состояние тропы заметно влияют на время. Путь идёт по долине Асенсио и через лес, затем круто поднимается по каменистой морене к озеру под тремя гранитными башнями. При снеге и льду последний участок становится сложнее. Соблюдайте разрешённое время старта и часы разворота. Для этого однодневного выхода не требуется проходить многодневные маршруты W или O.",
           "tickets": "Купите входной билет через Pases Parques. Проверьте открытие тропы, часы допуска и сезонное требование гида. Ночёвки в приютах и кемпингах бронируются отдельно; правила парковки зависят от типа автомобиля.",
           "shortName": "Торрес-дель-Пайне",
           "originalName": "Torres del Paine",
           "photoAlt": "Торрес-дель-Пайне — подъём к трём башням",
           "visitorInfo": "https://www.conaf.cl/parque_nacionales/parque-nacional-torres-del-paine/",
           "photoFocusX": 50,
-          "photoFocusY": 20
+          "photoFocusY": 20,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 29,
           "lat": -51.065,
           "lon": -73.006,
           "codes": "P",
-          "priority": 1,
+          "priority": "1",
           "format": "Полдня",
           "region": "Торрес-дель-Пайне",
           "source": "https://www.lagogrey.com/",
@@ -51753,14 +51767,16 @@
           "time": "2–3 часа со смотровой; водопад можно увидеть быстрее",
           "walk": "Легко или умеренно; открытая ветреная тропа",
           "desc": "Короткий маршрут соединяет мощный водопад с видом через озеро на рогатые вершины массива Пайне.",
-          "detail": "От парковки рядом с Pudeto недалеко до Сальто-Гранде. Продолжение к Mirador Cuernos позволяет выйти к открытой воде и увидеть горы без подъёма к Base Torres. Это один из лучших вариантов для знакомства с парком без длинного похода. Ветер на этом участке бывает очень сильным: если сотрудники закрывают тропу, ограничьтесь доступными дорожными смотровыми.",
+          "detail": "От стоянки у Пудето до водопада Сальто-Гранде — короткая прогулка. Полный маршрут со смотровой Mirador Cuernos составляет около 6,5 км туда и обратно с набором примерно 150 м; на ходьбу обычно требуется 1,5–2 часа, а с остановками для фотографий удобно заложить 2–3 часа. Тропа выходит к озеру Норденшельд, откуда видны вершины Куэрнос с тёмными скальными верхушками. Это выразительная панорама без длинного горного подъёма. При сильном ветре тропу могут закрыть.",
           "tickets": "Нужен билет Torres del Paine. Отдельная лодка для этого маршрута не требуется; доступ к тропе проверяйте по погоде.",
           "shortName": "Сальто-Гранде и смотровая Куэрнос",
           "originalName": "Salto Grande and the Cuernos viewpoint",
           "photoAlt": "Сальто-Гранде и смотровая Куэрнос",
           "visitorInfo": "https://www.conaf.cl/parque_nacionales/parque-nacional-torres-del-paine/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 30,
@@ -51907,13 +51923,14 @@
         },
         "2": {
           "kind": "arrival",
-          "query": "Guardaparques Los Rapidos Lago Mascardi Argentina",
-          "label": "Пост Los Rápidos перед дорогой к Tronador",
-          "note": "Проезд до поста Los Rápidos у Lago Mascardi. Пока путь к Pampa Linda закрыт, маршрут заканчивается у контрольной точки: продолжать к леднику нельзя. После открытия уточните разрешённый подъезд у смотрителей.",
+          "query": "Camping Los Rapidos Lago Mascardi Argentina",
+          "label": "Los Rápidos — развилка дороги к Тронадору",
+          "note": "Проезд до Los Rápidos у развилки на Тронадор; ориентир — одноимённый кемпинг. Это промежуточная точка, не парковка у ледника. Пока дорога к Пампа-Линде закрыта, продолжать нельзя. После открытия уточните у администрации парка часы проезда и доступ к смотровым.",
           "sources": [
             "https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-nahuel-huapi/horarios-como-llegar"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "3": {
           "kind": "arrival",
@@ -51970,13 +51987,15 @@
         },
         "8": {
           "kind": "arrival",
-          "query": "Centro Operativo Parque Nacional Monte Leon Santa Cruz",
+          "query": "-50.227700,-68.930143",
           "label": "Центр регистрации Monte León",
           "note": "Проезд до бывшей усадьбы Estancia Monte León у RN3, км 2400. После регистрации следуйте по разрешённому подъезду к берегу и парковкам у троп.",
           "sources": [
-            "https://www.argentina.gob.ar/node/153474"
+            "https://www.argentina.gob.ar/node/153474",
+            "https://www.ecoregistros.org/site/registro.php?id=1149133"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "9": {
           "kind": "arrival",
@@ -52017,7 +52036,8 @@
           "sources": [
             "https://elchalten.com/v4/es/laguna-torre-el-chalten.php"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "13": {
           "kind": "arrival",
@@ -52087,7 +52107,8 @@
           "sources": [
             "https://www.conaf.cl/parque_nacionales/parque-nacional-pumalin-douglas-tompkins/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "20": {
           "kind": "arrival",
@@ -52103,11 +52124,13 @@
         },
         "21": {
           "kind": "arrival",
-          "query": "Estacionamiento Ventisquero Colgante Parque Queulat Chile",
-          "label": "Парковка сектора Ventisquero Colgante",
-          "note": "Проезд от Ruta 7 по обозначенному подъезду к сектору Ventisquero Colgante. От парковки идите к входному контролю и выбирайте открытую тропу.",
+          "query": "-44.46889,-72.54335",
+          "label": "Информационный пункт у начала троп Ventisquero Colgante",
+          "note": "Проезд от Ruta 7 через контрольный пункт CONAF к парковке у начала троп. После проверки билета оставьте машину на указанном сотрудниками месте и продолжайте пешком к открытым смотровым.",
           "sources": [
-            "https://www.conaf.cl/parque_nacionales/parque-nacional-queulat/"
+            "https://www.conaf.cl/parque_nacionales/parque-nacional-queulat/",
+            "https://mapcarta.com/N388444173",
+            "https://www.laidbacktrip.com/posts/hanging-glacier-queulat-national-park"
           ],
           "checked": "2026-11-02",
           "placeId": ""
@@ -52124,13 +52147,15 @@
         },
         "23": {
           "kind": "arrival",
-          "query": "Muelle Puerto Rio Tranquilo Capillas de Marmol Chile",
-          "label": "Причал Пуэрто-Рио-Транкило",
-          "note": "Проезд до набережной и причала Puerto Río Tranquilo; используйте разрешённую парковку рядом. Для отправления из Bahía Mansa оператор сообщит другой подъезд.",
+          "query": "-46.6232624,-72.6745315",
+          "label": "Mármol Expediciones на набережной Пуэрто-Рио-Транкило",
+          "note": "Проезд до Mármol Expediciones на улице Pedro Lagos у набережной Пуэрто-Рио-Транкило; далее посадка на экскурсионную лодку. Это один из местных операторов. Если бронируете у другого, сверяйте место встречи: есть и отправления из бухты Баия-Манса.",
           "sources": [
-            "https://turismo.rioibanez.cl/puerto-rio-tranquilo/"
+            "https://serviciosturisticos.sernatur.cl/22607-marmol-expediciones",
+            "https://www.marmolexpediciones.cl/quienes-somos/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": "ChIJ3SPoCBdXkr0RIBZ7lkAa9CA"
         },
         "24": {
           "kind": "arrival",
@@ -52145,13 +52170,15 @@
         },
         "25": {
           "kind": "arrival",
-          "query": "Estacionamiento Caleta Tortel Chile",
+          "query": "-47.795849,-73.531481",
           "label": "Парковка у въезда в Caleta Tortel",
           "note": "Проезд от Карретеры-Аустраль по подъезду к Caleta Tortel до конечной автомобильной парковки. Дальше только пешком по настилам.",
           "sources": [
-            "https://chile.travel/atractivos/tortel-y-villa-ohiggins/"
+            "https://www.minimalistjourneys.com/tortel-chile-travel-guide/",
+            "https://rutaglaciares.utem.cl/?p=2198"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "26": {
           "kind": "arrival",
@@ -52181,17 +52208,20 @@
           "sources": [
             "https://lastorres.com/descanso-y-entretencion/centro-de-bienvenida/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "29": {
           "kind": "arrival",
-          "query": "Estacionamiento Salto Grande Torres del Paine Chile",
+          "query": "-51.0650,-72.9973",
           "label": "Парковка Salto Grande",
           "note": "Проезд к парковке Salto Grande рядом с Pudeto; от неё пешком к водопаду и Mirador Cuernos. Не путайте её с посадкой на катамаран через озеро Пеоэ.",
           "sources": [
-            "https://www.lagogrey.com/"
+            "https://thephotohikes.com/mirador-cuernos-hike/",
+            "https://www.conaf.cl/parque_nacionales/parque-nacional-torres-del-paine/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "30": {
           "kind": "arrival",
@@ -52272,7 +52302,9 @@
             "detail": "Tronador rises above the forests and Pampa Linda valley. At Ventisquero Negro, rock and debris darken the ice, creating a striking contrast with Perito Moreno’s blue walls. A normal visit uses viewpoints and short paths rather than walking on the glacier. As of 2 November 2026, the road is closed while flood-damaged bridge and road sections are repaired. Wait for an official reopening before including this drive in your itinerary.",
             "tickets": "Once access reopens, a Nahuel Huapi National Park ticket is required. The narrow road has timed one-way sections; check both the timetable and access status with the park.",
             "shortName": "Tronador and Ventisquero Negro",
-            "photoAlt": "Tronador and Ventisquero Negro"
+            "photoAlt": "Tronador and Ventisquero Negro",
+            "hike": "",
+            "access": ""
           },
           "3": {
             "format": "Day",
@@ -52403,10 +52435,12 @@
             "time": "7–8 hours return",
             "walk": "Moderate to strenuous because of the distance: about 19 km",
             "desc": "A valley trail leads to a glacial lake beneath Cerro Torre’s sharp spire.",
-            "detail": "After the initial climb, the route eases through woodland and the Fitz Roy river valley. Small icebergs and a glacier can be seen at the lake; the spire is frequently hidden by cloud. Turn back at the first viewpoint for a shorter outing. Continuing along the moraine to Mirador Maestri adds rough ground and is best reserved for good weather and enough remaining time.",
+            "detail": "The return hike from El Chaltén to the lake is about 17 km with roughly 500 m of cumulative ascent. Allow 7–8 hours of walking and extra time for longer stops. After the initial climb, the trail follows woodland and the Fitz Roy river valley. At the lake, look for the glacier and small icebergs; Cerro Torre itself is often hidden by cloud. For a shorter walk, turn back at the first viewpoint. Continuing along the uneven moraine to Mirador Maestri adds distance and is best left for good weather with ample time.",
             "tickets": "Admission to the El Chaltén sector of Los Glaciares is required. Check campsite arrangements separately.",
             "shortName": "Laguna Torre",
-            "photoAlt": "Laguna Torre — a lake below Cerro Torre"
+            "photoAlt": "Laguna Torre — a lake below Cerro Torre",
+            "hike": "",
+            "access": ""
           },
           "13": {
             "format": "Day",
@@ -52551,7 +52585,9 @@
             "detail": "A boat explores separate rock formations and may enter beneath the arches when water levels allow. Kayaking offers a slower, closer view but requires suitable weather and a willingness to paddle. Light changes the water’s colour, and wind can cancel departures. Puerto Río Tranquilo is the main starting point; some trips begin closer to the caves at Bahía Mansa.",
             "tickets": "Book a boat or kayak trip with a registered operator. Confirm the start, duration and arrangements for wind-related changes.",
             "shortName": "The Marble Caves of Lake General Carrera",
-            "photoAlt": "The Marble Caves of Lake General Carrera"
+            "photoAlt": "The Marble Caves of Lake General Carrera",
+            "hike": "",
+            "access": ""
           },
           "24": {
             "format": "Day",
@@ -52615,10 +52651,12 @@
             "time": "8–10 hours return",
             "walk": "Strenuous: about 20 km with a steep, rocky final climb",
             "desc": "The park’s signature day hike ends at a lake beneath three granite towers.",
-            "detail": "The Base Torres route follows the Ascencio valley and woodland before climbing a rocky moraine to the lake. The final section is the hardest; snow and ice can turn a summer walk into a more technical outing. Start as early as permitted and observe turnaround deadlines. The multi-day W and O circuits are separate itineraries, not a requirement for this day hike.",
+            "detail": "From the Las Torres Welcome Center to the Base Torres viewpoint and back is about 20 km with roughly 900 m of ascent. Plan for 8–10 hours with short stops; group pace and trail conditions make a considerable difference. The route follows the Ascencio Valley and woodland before climbing steeply over a rocky moraine to the lake beneath the three granite towers. Snow and ice make the final section harder. Observe permitted start times and turnaround deadlines. This day hike does not require completing the multi-day W or O routes.",
             "tickets": "Buy park admission through Pases Parques. Check trail opening, entry cutoffs and seasonal guide requirements. Refuges and campsites require separate bookings; parking rules depend on vehicle type.",
             "shortName": "Torres del Paine",
-            "photoAlt": "Torres del Paine — the hike to the three towers"
+            "photoAlt": "Torres del Paine — the hike to the three towers",
+            "hike": "",
+            "access": ""
           },
           "29": {
             "format": "Half day",
@@ -52628,10 +52666,12 @@
             "time": "2–3 hours including the viewpoint; less for the waterfall alone",
             "walk": "Easy to moderate; an exposed, windy trail",
             "desc": "A short route links a powerful waterfall with views across the lake towards the Cuernos peaks.",
-            "detail": "Salto Grande is a short walk from the parking area near Pudeto. Continue to Mirador Cuernos for open lake views and a mountain panorama without the Base Torres climb. It is a rewarding introduction to the park without a long hike. Wind can be exceptionally strong here; if rangers close the path, use the road viewpoints that remain open.",
+            "detail": "Salto Grande waterfall is a short walk from the car park near Pudeto. Including Mirador Cuernos makes this a roughly 6.5 km return walk with about 150 m of ascent. Walking usually takes 1.5–2 hours; allow 2–3 hours if stopping for photographs. The trail reaches Lake Nordenskjöld, with views of the Cuernos peaks and their dark rock caps. It offers a striking mountain panorama without a long climb. The trail may close in strong winds.",
             "tickets": "Torres del Paine admission is required. No boat is needed for this walk; check weather-related trail access.",
             "shortName": "Salto Grande and the Cuernos viewpoint",
-            "photoAlt": "Salto Grande and the Cuernos viewpoint"
+            "photoAlt": "Salto Grande and the Cuernos viewpoint",
+            "hike": "",
+            "access": ""
           },
           "30": {
             "format": "Half day",
@@ -52706,8 +52746,8 @@
             "alternatives": []
           },
           "2": {
-            "label": "Los Rápidos ranger post before the Tronador road",
-            "note": "Drive to the Los Rápidos ranger post beside Lago Mascardi. While the Pampa Linda road is closed, this route ends at the checkpoint; do not continue towards the glacier. Ask rangers about the permitted approach once it reopens.",
+            "label": "Los Rápidos — junction for the Tronador road",
+            "note": "Drive to Los Rápidos at the Tronador junction, using the campsite of the same name as a landmark. This is an intermediate stop, not glacier parking. Do not continue while the road to Pampa Linda is closed. After it reopens, check directional driving times and viewpoint access with the park authority.",
             "alternatives": []
           },
           "3": {
@@ -52801,8 +52841,8 @@
             "alternatives": []
           },
           "21": {
-            "label": "Ventisquero Colgante sector parking",
-            "note": "Leave Ruta 7 at the signed Ventisquero Colgante approach. From the car park, walk to the entrance checkpoint and follow an open trail.",
+            "label": "Information point at the Ventisquero Colgante trailhead",
+            "note": "Drive from Ruta 7 through the CONAF checkpoint to the trailhead parking area. After your ticket is checked, park where staff direct you and continue on foot to the viewpoints that are open.",
             "alternatives": []
           },
           "22": {
@@ -52811,8 +52851,8 @@
             "alternatives": []
           },
           "23": {
-            "label": "Puerto Río Tranquilo pier",
-            "note": "Drive to Puerto Río Tranquilo’s waterfront and pier and use permitted nearby parking. Operators departing from Bahía Mansa provide a different approach.",
+            "label": "Mármol Expediciones on the Puerto Río Tranquilo waterfront",
+            "note": "Drive to Mármol Expediciones on Pedro Lagos by the Puerto Río Tranquilo waterfront, then board the excursion boat. This is one local operator; if booking with another company, check its meeting point, as some trips depart from Bahía Mansa.",
             "alternatives": []
           },
           "24": {
@@ -52883,7 +52923,7 @@
           "description": "Glaciers, granite towers, steppe and penguins on both sides of the Andes.",
           "alt": "Fitz Roy and Laguna de los Tres"
         },
-        "reviewedSource": "da21ba35"
+        "reviewedSource": "92bf873c"
       },
       "title": "Патагония",
       "genitive": "Патагонии",

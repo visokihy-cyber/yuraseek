@@ -10860,11 +10860,11 @@
           "access": "",
           "source": "https://www.vatnajokulsthjodgardur.is/en/communities--businesses/pricelist",
           "checkedAt": "2026-10-28",
-          "photo": "media-8983f35b-b1e4-4c32-bbbc-41994d37530e-960.webp",
+          "photo": "media-2f9b37aa-8dea-4482-9284-1bf2fe36d0ff-960.webp",
           "photoAlt": "Водопад Свартифосс среди базальтовых колонн в Скафтафетле",
-          "creditText": "Фото: Giles Laurent · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:038_Svartifoss_waterfall_(Iceland)_Photo_by_Giles_Laurent.jpg) · кадрирование",
+          "creditText": "Фото: Spike · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:Svartifoss_Panorama_01.jpg) · кадрирование",
           "extra": [],
-          "photoLink": "https://commons.wikimedia.org/wiki/File:038_Svartifoss_waterfall_(Iceland)_Photo_by_Giles_Laurent.jpg",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:Svartifoss_Panorama_01.jpg",
           "visitorInfo": "https://www.vatnajokulsthjodgardur.is/en/communities--businesses/pricelist",
           "tags": [
             "Пейзажи и панорамы"
@@ -12462,7 +12462,7 @@
             "hike": "The S2 loop via Svartifoss, Sjónarsker and Sel is 5.8 km with about 250 m ascent. The park estimates 2 hours; allow extra for longer stops.",
             "access": "",
             "photoAlt": "Svartifoss waterfall and basalt columns in Skaftafell",
-            "creditText": "Photo: Giles Laurent · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [source](https://commons.wikimedia.org/wiki/File:038_Svartifoss_waterfall_(Iceland)_Photo_by_Giles_Laurent.jpg) · cropped"
+            "creditText": "Photo: Spike · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [source](https://commons.wikimedia.org/wiki/File:Svartifoss_Panorama_01.jpg) · cropped"
           },
           "16": {
             "name": "Jökulsárlón and Diamond Beach",
@@ -13078,7 +13078,7 @@
             "note": "Navigation does not establish that river crossings are safe."
           }
         },
-        "reviewedSource": "26495bb4"
+        "reviewedSource": "ad9e730"
       },
       "outline": [
         [

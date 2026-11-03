@@ -220,7 +220,22 @@
         "focusY": 47.566541068381774
       }
     },
-    "iceland": {},
+    "iceland": {
+      "15": {
+        "src": "media-8983f35b-b1e4-4c32-bbbc-41994d37530e-960.webp",
+        "alt": "Водопад Свартифосс среди базальтовых колонн в Скафтафетле",
+        "creditText": "Фото: Giles Laurent · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:038_Svartifoss_waterfall_(Iceland)_Photo_by_Giles_Laurent.jpg) · кадрирование",
+        "focusX": 50,
+        "focusY": 50
+      },
+      "41": {
+        "src": "media-f6dfb330-862f-4730-936c-e896f499c3f8-960.webp",
+        "alt": "Разноцветные горы Ландманналаугара",
+        "creditText": "Фото: Borvan53 · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:View_on_Landmannalaugar_area_from_Laugavegur_2012_panoramic_2.jpg) · кадрирование",
+        "focusX": 50,
+        "focusY": 50
+      }
+    },
     "namibia": {
       "2": {
         "src": "media-db82bccf-8fc8-4b59-9cbc-2653c1cfca1f-960.webp",

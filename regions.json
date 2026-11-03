@@ -10860,15 +10860,17 @@
           "access": "",
           "source": "https://www.vatnajokulsthjodgardur.is/en/communities--businesses/pricelist",
           "checkedAt": "2026-10-28",
-          "photo": "media-70842a47-373e-5dff-b8be-da2fe931e9b0-960.webp",
-          "photoAlt": "Скафтафедль — Свартифосс и ледник",
-          "creditText": "Eysteinn Guðni Guðnason · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Skaftafell_Aerial_2023.jpg)",
+          "photo": "media-8983f35b-b1e4-4c32-bbbc-41994d37530e-960.webp",
+          "photoAlt": "Водопад Свартифосс среди базальтовых колонн в Скафтафетле",
+          "creditText": "Фото: Giles Laurent · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:038_Svartifoss_waterfall_(Iceland)_Photo_by_Giles_Laurent.jpg) · кадрирование",
           "extra": [],
-          "photoLink": "https://commons.wikimedia.org/wiki/File:Skaftafell_Aerial_2023.jpg",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:038_Svartifoss_waterfall_(Iceland)_Photo_by_Giles_Laurent.jpg",
           "visitorInfo": "https://www.vatnajokulsthjodgardur.is/en/communities--businesses/pricelist",
           "tags": [
             "Пейзажи и панорамы"
-          ]
+          ],
+          "photoFocusX": 50,
+          "photoFocusY": 50
         },
         {
           "id": 16,
@@ -11657,17 +11659,19 @@
           "access": "",
           "source": "https://umhverfisstofnun.is/english/visiting-iceland/protected-areas/south/fjallabak-nature-reserve/landmannalaugar/reservations/",
           "checkedAt": "2026-10-28",
-          "photo": "media-3857b97c-3a76-5146-acdb-e34728890c89-960.webp",
-          "photoAlt": "Ландманналаугар",
-          "creditText": "Anjali Kiggal · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Landmannalaugar_Campsite.jpg)",
+          "photo": "media-f6dfb330-862f-4730-936c-e896f499c3f8-960.webp",
+          "photoAlt": "Разноцветные горы Ландманналаугара",
+          "creditText": "Фото: Borvan53 · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:View_on_Landmannalaugar_area_from_Laugavegur_2012_panoramic_2.jpg) · кадрирование",
           "extra": [],
-          "photoLink": "https://commons.wikimedia.org/wiki/File:Landmannalaugar_Campsite.jpg",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:View_on_Landmannalaugar_area_from_Laugavegur_2012_panoramic_2.jpg",
           "visitorInfo": "https://umhverfisstofnun.is/english/visiting-iceland/protected-areas/south/fjallabak-nature-reserve/landmannalaugar/reservations/",
           "tags": [
             "Пейзажи и панорамы",
             "Вулканы, гейзеры и пещеры",
             "Активный отдых"
-          ]
+          ],
+          "photoFocusX": 50,
+          "photoFocusY": 50
         },
         {
           "id": 42,
@@ -12457,8 +12461,8 @@
             "tickets": "The national park charges a parking-area fee. Glacier tours are booked separately.",
             "hike": "The S2 loop via Svartifoss, Sjónarsker and Sel is 5.8 km with about 250 m ascent. The park estimates 2 hours; allow extra for longer stops.",
             "access": "",
-            "photoAlt": "Skaftafell — Svartifoss and glacier views",
-            "creditText": "Eysteinn Guðni Guðnason · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Skaftafell_Aerial_2023.jpg)"
+            "photoAlt": "Svartifoss waterfall and basalt columns in Skaftafell",
+            "creditText": "Photo: Giles Laurent · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [source](https://commons.wikimedia.org/wiki/File:038_Svartifoss_waterfall_(Iceland)_Photo_by_Giles_Laurent.jpg) · cropped"
           },
           "16": {
             "name": "Jökulsárlón and Diamond Beach",
@@ -12847,8 +12851,8 @@
             "tickets": "Summer parking reservations apply during specified hours; verify annual dates and fees with the authority and Parka. Buses, overnight stays and services are separate.",
             "hike": "",
             "access": "",
-            "photoAlt": "Landmannalaugar",
-            "creditText": "Anjali Kiggal · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Landmannalaugar_Campsite.jpg)"
+            "photoAlt": "Colourful mountains in Landmannalaugar",
+            "creditText": "Photo: Borvan53 · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [source](https://commons.wikimedia.org/wiki/File:View_on_Landmannalaugar_area_from_Laugavegur_2012_panoramic_2.jpg) · cropped"
           },
           "42": {
             "name": "Þórsmörk",
@@ -13074,7 +13078,7 @@
             "note": "Navigation does not establish that river crossings are safe."
           }
         },
-        "reviewedSource": "51834ef0"
+        "reviewedSource": "26495bb4"
       },
       "outline": [
         [

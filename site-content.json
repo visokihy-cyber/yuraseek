@@ -302,25 +302,16 @@
     },
     "faroe-islands": {
       "5": {
-        "src": "media-1d8a67e5-0f47-4d05-baa2-d8a43d4777b2-960.webp",
-        "alt": "Скалы Вестманны — морская прогулка",
-        "creditText": "Erik Christensen, Porkeri (Contact at the Danish Wikipedia) · [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saksunadrangur,_Vestmannabj%C3%B8rgini,_Faroe_Islands_(9).jpg)",
         "focusX": 50,
         "focusY": 50
       }
     },
     "lofoten": {
       "18": {
-        "src": "media-c4ccacde-582d-4788-86f8-ea1d3d28ad7e-960.webp",
-        "alt": "Остров Скрова и окружающие бухты",
-        "creditText": "Gavotin · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ile_de_skrova.jpg)",
         "focusX": 50,
         "focusY": 100
       },
       "21": {
-        "src": "media-e46b1057-902b-4dc1-b98e-508784139ccd-960.webp",
-        "alt": "Побережье Хова, где проходят конные прогулки",
-        "creditText": "Thomas Faivre-Duboz · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lofoten_-_View_from_Hoven_Hov.jpg)",
         "focusX": 50,
         "focusY": 100
       }

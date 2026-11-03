@@ -23232,7 +23232,7 @@
           "lat": 62.2908,
           "lon": -7.1461,
           "codes": "PS",
-          "priority": 1,
+          "priority": "1",
           "format": "Несколько часов",
           "region": "Стреймой и Нёльсой",
           "source": "https://visitfaroeislands.com/en/see-do/inspiration-guides/popular-guides/regional-guides/north-streymoy",
@@ -23242,7 +23242,7 @@
           "extra": [],
           "name": "Чёрнувуйк — пляж и сёрфинг",
           "time": "1–2 часа; дольше с уроком сёрфинга",
-          "walk": "Легко; сёрфинг требует нагрузки",
+          "walk": "Легко на пляже; сёрфинг требует физической подготовки",
           "desc": "Песчаная бухта у подножия гор, вид на морские скалы Рисин и Келлингин и возможность попробовать северный сёрфинг.",
           "detail": "Деревня занимает узкую долину, которая раскрывается прямо к океану. Здесь интересно смотреть не только на скалы напротив, но и на то, как прибой меняет рисунок пляжа. Для активного посещения можно заранее заказать занятие с местной школой сёрфинга: необходимое снаряжение и подходящий участок выбирает инструктор. Короткую остановку удобно совместить с водопадом Фосса по дороге.",
           "tickets": "Для осмотра деревни и пляжа отдельный билет не нужен. Урок сёрфинга бронируется и оплачивается отдельно.",
@@ -23250,14 +23250,16 @@
           "originalName": "Tjørnuvík",
           "photoAlt": "Чёрнувуйк — пляж и сёрфинг",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 90,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 5,
           "lat": 62.194,
           "lon": -7.248,
           "codes": "PL",
-          "priority": 1,
+          "priority": "1",
           "format": "Несколько часов",
           "region": "Стреймой и Нёльсой",
           "source": "https://puffin.fo/",
@@ -23269,14 +23271,16 @@
           "time": "Около 1,5 часа на воде плюс посадка",
           "walk": "Легко",
           "desc": "С лодки видны высокие птичьи скалы, морские арки и узкие проходы, скрытые от автомобильных дорог.",
-          "detail": "Лодка выходит из гавани Вестманны к отвесным берегам северо-западного Стреймоя. Летом на скалах гнездятся морские птицы; с воды хорошо видны уступы и гроты у основания стен. При спокойном море капитан подходит ближе и может зайти в пещеры. При волнении маршрут меняют, поэтому при выборе поездки важнее состояние моря, чем желание попасть к одному определённому гроту.",
+          "detail": "Лодка выходит из гавани Вестманны к отвесным берегам северо-западного Стреймоя. Летом на скалах гнездятся морские птицы; с воды хорошо видны уступы и гроты у основания стен. При спокойном море капитан подходит ближе и может зайти в пещеры. При волнении капитан меняет маршрут; заход в пещеры зависит от состояния моря.",
           "tickets": "Билет на лодку лучше бронировать заранее. Проверьте причал и условия отмены у выбранного оператора.",
           "shortName": "Скалы Вестманны",
           "originalName": "Vestmanna sea cliffs",
           "photoAlt": "Скалы Вестманны — морская прогулка",
           "visitorInfo": "https://puffin.fo/",
           "photoFocusX": 50,
-          "photoFocusY": 20
+          "photoFocusY": 20,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 6,
@@ -23377,7 +23381,7 @@
           "originalName": "Risin og Kellingin",
           "photoAlt": "Рисин и Келлингин — скалы из легенды",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 90
         },
         {
           "id": 10,
@@ -23402,7 +23406,7 @@
           "originalName": "Múlafossur",
           "photoAlt": "Мюлафоссур — водопад у Гасадалура",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 100
         },
         {
           "id": 11,
@@ -23454,7 +23458,7 @@
           "photoAlt": "Дрангарнир — морская каменная арка",
           "visitorInfo": "https://hiking.fo/products/354/boat-tour-and-drop-off-drangarnir",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 100
         },
         {
           "id": 13,
@@ -23538,7 +23542,7 @@
           "lat": 62.3603,
           "lon": -6.5486,
           "codes": "PS",
-          "priority": 3,
+          "priority": "3",
           "format": "Полдня",
           "region": "Северные острова",
           "source": "https://visitfaroeislands.com/en/see-do/activities/hiking/hiking-fees",
@@ -23550,13 +23554,15 @@
           "time": "1 час в деревне; 4–5 часов на подъём туда и обратно",
           "walk": "Легко в деревне; тяжело на горе",
           "desc": "Церковь у океана и горы по обе стороны перешейка; выше деревни начинается один из самых выразительных подъёмов северных островов.",
-          "detail": "Для короткого посещения достаточно берега у церкви: отсюда видны Куной и Кальсой. Более серьёзная цель — Виллингадальсфьядль, вершина высотой 844 метр. Подъём крутой, примерно шесть километров туда и обратно с набором около 750 метров, верхняя часть каменистая. Выход к мысу Энниберг — другой маршрут, для которого нужен местный гид; не продолжайте туда автоматически с вершины.",
+          "detail": "Для короткого посещения достаточно берега у церкви: отсюда видны Куной и Кальсой. Более серьёзная цель — Виллингадальсфьядль, вершина высотой 844 метра. Подъём крутой, примерно шесть километров туда и обратно с набором около 750 метров, верхняя часть каменистая. Выход к мысу Энниберг — другой маршрут, для которого нужен местный гид; не продолжайте туда автоматически с вершины.",
           "tickets": "Подъём на Villingardalsfjall платный; сбор вносится у ворот тропы. Услуги гида на Enniberg заказываются отдельно.",
           "shortName": "Видарейди и Виллингадальсфьядль",
           "originalName": "Viðareiði and Villingardalsfjall",
           "photoAlt": "Видарейди и Виллингадальсфьядль",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 17,
@@ -23662,8 +23668,8 @@
           "id": 21,
           "lat": 62.0087,
           "lon": -6.6757,
-          "codes": "LE",
-          "priority": 3,
+          "codes": "EL",
+          "priority": "3",
           "format": "День",
           "region": "Стреймой и Нёльсой",
           "source": "https://www.visittorshavn.fo/storm-petrel-tours/",
@@ -23675,13 +23681,15 @@
           "time": "Полдня; для ночной экскурсии нужна ночёвка",
           "walk": "Легко в деревне; неровная тропа к колонии",
           "desc": "Короткая переправа из Торсхавна ведёт в тихую деревню, а летом ночью можно увидеть колонию качурок с местным проводником.",
-          "detail": "Днём Нёльсой подходит для знакомства с островной деревней и её гаванью. Особое впечатление — ночная экскурсия к качуркам, маленьким морским птицам, которые возвращаются к гнёздам в темноте. Прогулка заканчивается глубокой ночью, когда обычного парома уже нет, поэтому её нужно планировать с ночёвкой на острове. Для простого дневного визита наблюдение за колонией не обещают.",
+          "detail": "Днём Нёльсой подходит для знакомства с островной деревней и её гаванью. Особое впечатление — ночная экскурсия к качуркам, маленьким морским птицам, которые возвращаются к гнёздам в темноте. Прогулка заканчивается глубокой ночью, когда обычного парома уже нет, поэтому её нужно планировать с ночёвкой на острове. Чтобы увидеть качурок, выбирайте именно ночную экскурсию, а не дневную прогулку по деревне.",
           "tickets": "Паром оплачивается отдельно. Ночную экскурсию летом заказывают заранее у местного гида; согласуйте проживание и точное время встречи.",
           "shortName": "Нёльсой",
           "originalName": "Nólsoy",
           "photoAlt": "Нёльсой — деревня и ночные морские птицы",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         }
       ],
       "routeAccess": {
@@ -23718,12 +23726,13 @@
         "4": {
           "kind": "arrival",
           "query": "Tjørnuvík public parking Faroe Islands",
-          "label": "Общественная парковка Тjørnuvík",
+          "label": "Общественная парковка Tjørnuvík",
           "note": "Проезд до общественной парковки у въезда в деревню; до пляжа несколько минут пешком.",
           "sources": [
             "https://visitfaroeislands.com/en/see-do/inspiration-guides/popular-guides/regional-guides/north-streymoy"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "5": {
           "kind": "arrival",
@@ -23733,7 +23742,8 @@
           "sources": [
             "https://puffin.fo/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "6": {
           "kind": "arrival",
@@ -23843,7 +23853,8 @@
           "sources": [
             "https://visitfaroeislands.com/en/see-do/activities/hiking/hiking-fees"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "17": {
           "kind": "arrival",
@@ -23893,7 +23904,8 @@
           "sources": [
             "https://www.visittorshavn.fo/storm-petrel-tours/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         }
       },
       "en": {
@@ -23943,12 +23955,14 @@
             "creditText": "kallerna · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tjornuvik_from_Eidiskollur.jpg)",
             "name": "Tjørnuvík — beach and surfing",
             "time": "1–2 hours; longer with a surf lesson",
-            "walk": "Easy walking; surfing is more demanding",
+            "walk": "Easy on the beach; surfing requires physical fitness",
             "desc": "A sandy bay beneath the mountains, views of the Risin og Kellingin sea stacks and a chance to try cold-water surfing.",
             "detail": "The village fills a narrow valley opening directly onto the ocean. As well as the distant sea stacks, watch the surf reshape the beach. For a more active visit, book a session with the local surf school, which supplies suitable equipment and chooses the spot for the conditions. A short visit combines naturally with Fossá waterfall along the approach road.",
             "tickets": "There is no separate admission ticket for the village and beach. Surf lessons require a separate booking and payment.",
             "shortName": "Tjørnuvík",
-            "photoAlt": "Tjørnuvík — beach and surfing"
+            "photoAlt": "Tjørnuvík — beach and surfing",
+            "hike": "",
+            "access": ""
           },
           "5": {
             "format": "A few hours",
@@ -23958,10 +23972,12 @@
             "time": "About 1.5 hours on the water, plus boarding",
             "walk": "Easy",
             "desc": "A boat trip reveals towering seabird cliffs, sea arches and narrow passages hidden from the roads.",
-            "detail": "Boats leave Vestmanna harbour for the sheer coast of northwestern Streymoy. Summer brings nesting seabirds, while the water-level view reveals ledges and grottoes beneath the cliffs. In calm seas the skipper can approach more closely and may enter caves. Rougher conditions can mean a different route, so choose the trip for the coastal experience rather than a single promised cave.",
+            "detail": "Boats leave Vestmanna harbour for the sheer coast of northwestern Streymoy. Summer brings nesting seabirds, while the water-level view reveals ledges and grottoes beneath the cliffs. In calm seas the skipper can approach more closely and may enter caves. The skipper adjusts the route in rougher conditions; cave visits depend on the sea state.",
             "tickets": "Book the boat trip ahead and check the departure point and cancellation terms with your operator.",
             "shortName": "Vestmanna sea cliffs",
-            "photoAlt": "Vestmanna sea cliffs — by boat"
+            "photoAlt": "Vestmanna sea cliffs — by boat",
+            "hike": "",
+            "access": ""
           },
           "6": {
             "format": "A few hours",
@@ -24166,117 +24182,140 @@
             "time": "Half a day; stay overnight for the night bird tour",
             "walk": "Easy in the village; uneven trail to the colony",
             "desc": "A short ferry ride from Tórshavn reaches a quiet village; summer night tours visit a storm-petrel colony with a local guide.",
-            "detail": "By day, Nólsoy is a place to explore a small island village and harbour. Its distinctive experience is a night tour to storm petrels, small seabirds that return to their nests after dark. The walk finishes in the early hours, after the regular ferry service has ended, so plan an overnight stay. A daytime village visit should not be expected to include this colony experience.",
+            "detail": "By day, Nólsoy is a place to explore a small island village and harbour. Its distinctive experience is a night tour to storm petrels, small seabirds that return to their nests after dark. The walk finishes in the early hours, after the regular ferry service has ended, so plan an overnight stay. To watch the storm petrels, choose the night tour rather than a daytime village visit.",
             "tickets": "The ferry is paid separately. Arrange the summer night tour with a local guide in advance, together with accommodation and the meeting time.",
             "shortName": "Nólsoy",
-            "photoAlt": "Nólsoy — village life and nocturnal seabirds"
+            "photoAlt": "Nólsoy — village life and nocturnal seabirds",
+            "hike": "",
+            "access": ""
           }
         },
         "routeAccess": {
           "1": {
             "label": "Skálatrøð car park",
-            "note": "Driving access to Skálatrøð car park; continue on foot to the old town. Check the posted time limit."
+            "note": "Driving access to Skálatrøð car park; continue on foot to the old town. Check the posted time limit.",
+            "alternatives": []
           },
           "2": {
             "label": "Car park at the Kirkjubøur heritage entrance",
-            "note": "Driving access to the public car park at the heritage entrance; the historic buildings are a short walk away."
+            "note": "Driving access to the public car park at the heritage entrance; the historic buildings are a short walk away.",
+            "alternatives": []
           },
           "3": {
             "label": "Car park at the start of Út á Lónna",
-            "note": "Driving access to the signed car park at the shore-path entrance. For the upper village, use its public parking rather than private driveways."
+            "note": "Driving access to the signed car park at the shore-path entrance. For the upper village, use its public parking rather than private driveways.",
+            "alternatives": []
           },
           "4": {
             "label": "Tjørnuvík public car park",
-            "note": "Driving access to the public car park at the village entrance; the beach is a few minutes away on foot."
+            "note": "Driving access to the public car park at the village entrance; the beach is a few minutes away on foot.",
+            "alternatives": []
           },
           "5": {
             "label": "Vestmanna Tourist Centre",
-            "note": "Driving access to the tourist centre by Vestmanna harbour for Puffin departures. Other operators may use a different meeting point."
+            "note": "Driving access to the tourist centre by Vestmanna harbour for Puffin departures. Other operators may use a different meeting point.",
+            "alternatives": []
           },
           "6": {
             "label": "Fossá waterfall parking",
-            "note": "Driving access to the roadside parking on the Haldarsvík road, followed by a short walk to the lower cascade."
+            "note": "Driving access to the roadside parking on the Haldarsvík road, followed by a short walk to the lower cascade.",
+            "alternatives": []
           },
           "7": {
             "label": "Gjógv public car park",
-            "note": "Driving access to the public parking at the entrance to Gjógv; continue on foot to the gorge."
+            "note": "Driving access to the public parking at the entrance to Gjógv; continue on foot to the gorge.",
+            "alternatives": []
           },
           "8": {
             "label": "Eiðisskarð pass parking",
-            "note": "Driving access to the parking at the top of Eiðisskarð pass, where the shorter summit route begins."
+            "note": "Driving access to the parking at the top of Eiðisskarð pass, where the shorter summit route begins.",
+            "alternatives": []
           },
           "9": {
             "label": "Risin og Kellingin viewpoint above Eiði",
-            "note": "Driving access to the signed roadside viewpoint above Eiði. The route ends at the land-based viewpoint, not at the offshore stacks."
+            "note": "Driving access to the signed roadside viewpoint above Eiði. The route ends at the land-based viewpoint, not at the offshore stacks.",
+            "alternatives": []
           },
           "10": {
             "label": "Gásadalur public car park",
-            "note": "Driving access through the tunnel to the public car park in Gásadalur; continue on foot to the Múlafossur viewpoint."
+            "note": "Driving access through the tunnel to the public car park in Gásadalur; continue on foot to the Múlafossur viewpoint.",
+            "alternatives": []
           },
           "11": {
             "label": "Trælanípan car park",
-            "note": "Driving access to the Trælanípan car park and ticket point near Miðvágur; continue along the marked walking route."
+            "note": "Driving access to the Trælanípan car park and ticket point near Miðvágur; continue along the marked walking route.",
+            "alternatives": []
           },
           "12": {
             "label": "Sørvágur marina on Bakkavegur",
-            "note": "Driving access to Sørvágur marina, then continue by boat. This is a common departure point for the arch; match the exact berth to your booking confirmation."
+            "note": "Driving access to Sørvágur marina, then continue by boat. This is a common departure point for the arch; match the exact berth to your booking confirmation.",
+            "alternatives": []
           },
           "13": {
             "label": "Mykines ferry quay in Sørvágur",
-            "note": "Driving access to Sørvágur harbour, where you leave the car and take the passenger ferry to Mykines. Guided walks usually meet at the school beside the church after landing."
+            "note": "Driving access to Sørvágur harbour, where you leave the car and take the passenger ferry to Mykines. Guided walks usually meet at the school beside the church after landing.",
+            "alternatives": []
           },
           "14": {
             "label": "Klaksvík–Kalsoy ferry terminal",
-            "note": "Driving access to the terminal in Klaksvík. A convenient option is to leave the car, sail to Syðradalur and take the bus to Trøllanes. Arrange vehicle passage separately if you prefer to bring a car."
+            "note": "Driving access to the terminal in Klaksvík. A convenient option is to leave the car, sail to Syðradalur and take the bus to Trøllanes. Arrange vehicle passage separately if you prefer to bring a car.",
+            "alternatives": []
           },
           "15": {
             "label": "Public parking by Biskupstorg",
-            "note": "Driving access to public parking by Biskupstorg in central Klaksvík; walk from there to the harbour and church."
+            "note": "Driving access to public parking by Biskupstorg in central Klaksvík; walk from there to the harbour and church.",
+            "alternatives": []
           },
           "16": {
             "label": "Parking at the Villingardalsfjall trailhead",
-            "note": "Driving access to the small trailhead parking area in northern Viðareiði. The church has a separate approach by the shore."
+            "note": "Driving access to the small trailhead parking area in northern Viðareiði. The church has a separate approach by the shore.",
+            "alternatives": []
           },
           "17": {
             "label": "Klaksvík–Kalsoy ferry terminal",
-            "note": "Driving access to the Klaksvík ferry terminal, then travel as a foot passenger to Syðradalur and by bus to Mikladalur. Bringing a car is another option when vehicle space is available."
+            "note": "Driving access to the Klaksvík ferry terminal, then travel as a foot passenger to Syðradalur and by bus to Mikladalur. Bringing a car is another option when vehicle space is available.",
+            "alternatives": []
           },
           "18": {
             "label": "Sandur beach parking",
-            "note": "Driving access through Sandoyartunnilin to the public beach parking in Sandur; continue on foot. The museum has a separate road approach."
+            "note": "Driving access through Sandoyartunnilin to the public beach parking in Sandur; continue on foot. The museum has a separate road approach.",
+            "alternatives": []
           },
           "19": {
             "label": "Beinisvørð roadside parking",
-            "note": "Driving access includes the car ferry to Suðuroy, followed by the old Lopra–Sumba road to the viewpoint pull-off. Check the sailing and road access before travelling."
+            "note": "Driving access includes the car ferry to Suðuroy, followed by the old Lopra–Sumba road to the viewpoint pull-off. Check the sailing and road access before travelling.",
+            "alternatives": []
           },
           "20": {
             "label": "Hvannhagi trailhead on Ovari Vegur",
-            "note": "Driving access to the small parking area near the end of Ovari Vegur above Tvøroyri, then follow the orange markers. Trailhead space is limited; keep driveways and hospital parking clear."
+            "note": "Driving access to the small parking area near the end of Ovari Vegur above Tvøroyri, then follow the orange markers. Trailhead space is limited; keep driveways and hospital parking clear.",
+            "alternatives": []
           },
           "21": {
             "label": "Nólsoy ferry terminal in Tórshavn",
-            "note": "Driving access to the ferry terminal in Tórshavn. Leave the car in permitted town parking and continue as a foot passenger; walk into the village on arrival."
+            "note": "Driving access to the ferry terminal in Tórshavn. Leave the car in permitted town parking and continue as a foot passenger; walk into the village on arrival.",
+            "alternatives": []
           }
         },
         "title": "Faroe Islands",
         "genitive": "the Faroe Islands",
         "description": "Explore the Faroe Islands: sea cliffs, waterfalls, puffins and villages. Places to visit, hikes, admission details and arrival points.",
         "brief": "Come to the Faroes for steep green slopes, waterfalls falling into the ocean and seabirds. A single day can combine a mountain walk, a boat trip beneath cliffs and a small fjord-side village.\n\nRoads and tunnels link the main islands, while Mykines, Kalsoy and Suðuroy need separate ferry planning. The selection includes both easy roadside stops and substantial hikes.",
-        "insights": "The Faroes’ defining sight is the meeting of land and ocean: grass ends at a sheer wall, waterfalls plunge into the sea and islands recede in layers. Múlafossur, the lake at Trælanípa and Kallur lighthouse reveal different versions of this landscape. Slættaratindur opens up a broad mountain panorama, while a Vestmanna boat trip shows the coast from below.\n\nSeabirds are another reason to visit in summer. On Mykines, guided walks reach puffin colonies; on Nólsoy, night tours introduce storm petrels. Tórshavn, Kirkjubøur and small island museums add history, painting and a sense of life shaped by the sea.\n\nSandoy suits a gentler day of beaches and art. Give Suðuroy its own trip for the high coast and Hvannhagi valley. Leaving some flexibility between days helps you see the strongest landscapes in clear conditions instead of rushing through every island.",
+        "insights": "The Faroes’ defining sight is the meeting of land and ocean: grass ends at a sheer wall, waterfalls plunge into the sea and islands recede in layers. Múlafossur, the lake at Trælanípa and Kallur lighthouse reveal different versions of this landscape. Slættaratindur opens up a broad mountain panorama, while a Vestmanna boat trip shows the coast from below.\n\nSeabirds are another reason to visit in summer. On Mykines, guided walks reach puffin colonies; on Nólsoy, night tours introduce storm petrels. Tórshavn, Kirkjubøur and small island museums add history, painting and a sense of life shaped by the sea.\n\nSandoy suits a gentler day of beaches and art. Give Suðuroy its own trip for the high coast and Hvannhagi valley. Leaving some flexibility between days helps you see the cliffs and mountain panoramas in clear weather instead of rushing through every island.",
         "season": "**May–August:** the main season for boat trips and seabirds. Mid-May to late August is the best period to plan around puffins. June and July bring very long days; reserve accommodation and popular boat trips ahead.\n\n**September–October:** fewer visitors, but shorter days and fewer scheduled sailings. Birds leave their breeding colonies, so come for the landscapes rather than puffin watching.\n\n**November–April:** short daylight hours, strong winds and possible snow or ice on high trails. Villages and accessible roadside viewpoints can still be rewarding, but winter needs a flexible plan. Fog and rain are possible in every month.",
-        "features": "Faroese and Danish kroner circulate at equal value, with prices normally shown in DKK. Cards are widely accepted, though some trail fees require cash. Faroese and Danish are the main languages; English is generally spoken in tourism settings. Socket types are C, E, F and K, at 230 V.\n\nTraffic drives on the right. Use passing places on narrow roads and older single-lane tunnels, and watch for sheep. Subsea tunnels charge tolls; ask your rental company how they collect payment. Ferries and sightseeing boats depend on sea conditions, so leave a buffer before your flight.\n\nCheck the [entry rules](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Short-stay-visa/Visa-to-the-Faroe-Island-or-Greenland) before buying non-refundable tickets: an ordinary Schengen visa alone does not permit entry to the Faroes, and residence-permit rules differ. The islands are outside the EU; check mobile roaming charges separately too.\n\nThe main outdoor hazards are gusting wind, fog, wet slopes, cliffs and surf. Bring waterproof outer layers, warm clothing, grippy footwear and an offline map. Keep to paths around nesting birds and follow guides’ instructions, as birds may defend their nests. On remote islands, plan the return sailing before setting out.",
+        "features": "Faroese and Danish kroner circulate at equal value, with prices normally shown in DKK. Cards are widely accepted, though some trail fees require cash. Faroese and Danish are the main languages; English is generally spoken in tourism settings. Socket types are C and K, at 230 V.\n\nTraffic drives on the right. Use passing places on narrow roads and older single-lane tunnels, and watch for sheep. Subsea tunnels charge tolls; ask your rental company how they collect payment. Ferries and sightseeing boats depend on sea conditions, so leave a buffer before your flight.\n\nCheck the [entry rules](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Short-stay-visa/Visa-to-the-Faroe-Island-or-Greenland) before buying non-refundable tickets: an ordinary Schengen visa alone does not permit entry to the Faroes, and residence-permit rules differ. The islands are outside the EU; check mobile roaming charges separately too.\n\nThe main outdoor hazards are gusting wind, fog, wet slopes, cliffs and surf. Bring waterproof outer layers, warm clothing, grippy footwear and an offline map. Keep to paths around nesting birds and follow guides’ instructions, as birds may defend their nests. On remote islands, plan the return sailing before setting out.",
         "sources": "[Visit Faroe Islands](https://visitfaroeislands.com/) · [Visit Tórshavn](https://www.visittorshavn.fo/) · [Sunda — local visitor guidance](https://sunda.fo/tourist-in-sunda) · [SSL ferries and buses](https://www.ssl.fo/en/) · [Hiking.fo — trail access](https://hiking.fo/) · [Guide to Faroe Islands](https://guidetofaroeislands.fo/)",
         "home": {
           "description": "Green islands in the Atlantic: waterfalls above the ocean, seabird cliffs and turf-roofed villages.",
           "alt": "Múlafossur — the waterfall at Gásadalur"
         },
-        "reviewedSource": "3abbba47"
+        "reviewedSource": "7e376fc5"
       },
       "title": "Фарерские острова",
       "genitive": "Фарерских островов",
       "description": "Фарерские острова: морские скалы, водопады, тупики и деревни. Карта мест, пешие маршруты, билеты и точки подъезда.",
       "brief": "На Фареры едут за крутыми зелёными склонами, водопадами, падающими в океан, и морскими птицами. Здесь можно за один день пройти горную тропу, выйти на лодке к скалам и оказаться в маленькой деревне у фьорда.\n\nОсновные острова соединены дорогами и тоннелями, но Мичинес, Кальсой и Сувурой требуют отдельного планирования переправ. В подборке есть и короткие остановки у дороги, и полноценные пешие маршруты.",
-      "insights": "Главное впечатление Фарер — сочетание суши и океана: трава заканчивается отвесной стеной, водопад падает в море, а острова выстраиваются в несколько планов. Мюлафоссур, озеро у Треланипы и маяк Каллур показывают разные стороны этого пейзажа. Слаттаратиндур даёт широкий горный обзор, а лодочная поездка у Вестманны позволяет рассмотреть берег снизу.\n\nЛетом отдельная причина поездки — морские птицы. На Мичинесе идут к колониям тупиков с гидом; на Нёльсое ночная прогулка знакомит с качурками. Торсхавн, Чирчюбёвур и маленькие островные музеи добавляют историю, живопись и представление о жизни среди моря.\n\nСандой подходит для более спокойного дня с пляжем и музеем. На Сувурой стоит выделить отдельную поездку ради высоких берегов и долины Хваннхайи. Не пытайтесь уместить все острова в один плотный график: возможность поменять дни местами помогает увидеть самые сильные пейзажи при подходящей видимости.",
+      "insights": "Главное впечатление Фарер — сочетание суши и океана: трава заканчивается отвесной стеной, водопад падает в море, а острова выстраиваются в несколько планов. Мюлафоссур, озеро у Треланипы и маяк Каллур показывают разные стороны этого пейзажа. Слаттаратиндур даёт широкий горный обзор, а лодочная поездка у Вестманны позволяет рассмотреть берег снизу.\n\nЛетом отдельная причина поездки — морские птицы. На Мичинесе идут к колониям тупиков с гидом; на Нёльсое ночная прогулка знакомит с качурками. Торсхавн, Чирчюбёвур и маленькие островные музеи добавляют историю, живопись и представление о жизни среди моря.\n\nСандой подходит для более спокойного дня с пляжем и музеем. На Сувурой стоит выделить отдельную поездку ради высоких берегов и долины Хваннхайи. Не пытайтесь уместить все острова в один плотный график: возможность поменять дни местами помогает увидеть скалы и горные панорамы в ясную погоду.",
       "season": "**Май–август:** основной сезон морских поездок и наблюдения за птицами. Для тупиков лучше ориентироваться на период с середины мая до конца августа. В июне и июле очень длинные дни; жильё и популярные лодочные экскурсии лучше бронировать заранее.\n\n**Сентябрь–октябрь:** меньше посетителей, но короче день и меньше регулярных морских рейсов. Птицы уже покидают гнездовья; планируйте поездку ради пейзажей, а не колоний тупиков.\n\n**Ноябрь–апрель:** короткий световой день, сильный ветер, снег или лёд на высоких тропах. Деревни и доступные дорожные смотровые остаются интересны, но зимняя поездка требует гибкого плана. Туман и дождь возможны в любой месяц.",
       "features": "В ходу фарерские и датские кроны равной стоимости; расчёты обычно обозначают DKK. Карты принимают широко, но для отдельных троп пригодятся наличные. Основные языки — фарерский и датский, в туристических местах обычно говорят по-английски. Розетки — типов C и K; напряжение 230 В.\n\nДвижение правостороннее. На узких дорогах и старых однополосных тоннелях пользуйтесь разъездами; овцы могут выходить на дорогу. Подводные тоннели платные: для арендованной машины порядок оплаты уточняют у прокатчика. Паромы и прогулочные лодки зависят от моря, поэтому оставляйте запас до вылета.\n\nДо покупки невозвратных билетов проверьте [правила въезда](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Short-stay-visa/Visa-to-the-Faroe-Island-or-Greenland): обычная шенгенская виза сама по себе не даёт права на посещение Фарер, а условия для обладателей видов на жительство отличаются. Острова не входят в ЕС; тарифы мобильного роуминга тоже стоит проверить отдельно.\n\nГлавные риски на природе — порывы ветра, туман, мокрые склоны, обрывы и прибой. Возьмите непромокаемую куртку и брюки, тёплый слой, обувь с цепкой подошвой и офлайн-карту. У гнездовий держитесь троп и соблюдайте указания проводников: птицы могут защищать кладку. На труднодоступных островах заранее продумайте обратную переправу.",
       "sources": "[Visit Faroe Islands](https://visitfaroeislands.com/) · [Visit Tórshavn](https://www.visittorshavn.fo/) · [Sunda — местные правила](https://sunda.fo/tourist-in-sunda) · [SSL — паромы и автобусы](https://www.ssl.fo/en/) · [Hiking.fo — доступ к тропам](https://hiking.fo/) · [Guide to Faroe Islands](https://guidetofaroeislands.fo/)",

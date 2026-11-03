@@ -26754,7 +26754,7 @@
           "lat": 67.922,
           "lon": 12.997,
           "codes": "PS",
-          "priority": 3,
+          "priority": "3",
           "format": "День",
           "region": "Москенесёйя",
           "source": "https://stunningoutdoors.com/munkebu-hut-hike-one-of-the-best-hikes-in-lofoten/",
@@ -26766,13 +26766,16 @@
           "time": "5–6 часов туда и обратно",
           "walk": "Тяжело; мокрые скалы, участки с цепями",
           "desc": "Поход через несколько горных озёр к хижине Мункебу, окружённой вершинами западных Лофотен.",
-          "detail": "Маршрут начинается у озера Сёрвогватнет и постепенно поднимается в каменистую горную долину. До хижины и обратно около десяти километров; путь выходит примерно на отметку 500 метров, но из-за спусков и повторных подъёмов суммарный набор больше. На крутых местах есть цепи, а после дождя камни становятся скользкими. Хижина — удобная цель дневного похода; продолжение на Херманнсдалстинден значительно длиннее и в этот маршрут не входит.",
-          "tickets": "Для дневного похода билет не требуется; парковка платная. Ночёвку и доступ внутрь хижины нужно отдельно согласовать с её владельцем, а не рассчитывать на свободное заселение.",
+          "detail": "От озера Сёрвогватнет тропа поднимается к горным озёрам и хижине Мункебу. Дневной маршрут туда и обратно — около 10 км с набором примерно 600 м; обычно на него отводят 5–6 часов, отдельно оставляя время на долгие остановки. На крутых скальных участках есть цепи, после дождя камни скользкие. У хижины открываются виды на озёра и окружающие вершины. Подъём на Херманнсдалстинден — отдельный, значительно более длинный и сложный маршрут.",
+          "tickets": "Для дневного похода билет не требуется; парковка платная. Хижина закрыта с 16 сентября по 31 декабря 2026 года. В открытый сезон ночёвку бронируют через DNT, причём хотя бы один участник должен быть членом клуба. Дневного посещения внутри и заселения без брони нет.",
           "shortName": "Мункебу",
           "originalName": "Munkebu",
           "photoAlt": "Мункебу — горные озёра над Сёрвогеном",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": "",
+          "visitorInfo": "https://ut.no/hytte/10947/munkebu"
         },
         {
           "id": 5,
@@ -26805,7 +26808,7 @@
           "lat": 68.09,
           "lon": 13.087,
           "codes": "PS",
-          "priority": 1,
+          "priority": "1",
           "format": "День",
           "region": "Флакстадёйя",
           "source": "https://visitlofoten.com/en/guide/kvalvika-and-ryten-543-m/",
@@ -26824,7 +26827,9 @@
           "photoAlt": "Рютен и Квалвика — гора над пляжем",
           "visitorInfo": "https://www.lofotoddennp.com/en/current-conditions/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 7,
@@ -26923,7 +26928,7 @@
           "time": "2–3 часа туда и обратно",
           "walk": "Средне; короткий, но крутой подъём",
           "desc": "С невысокой горы видны мосты, песчаные берега и проливы между Вествогёйей и соседними островами.",
-          "detail": "Тропа быстро набирает высоту от дороги, сначала среди кустарника, затем по открытому склону. До вершины высотой 436 метров примерно километр, но короткое расстояние не делает подъём пологим. С вершины видны узкие проливы между островами, низкие берега и зубчатые горы за ними. Обратный путь тот же; на мокрой земле и камнях спуск требует внимания. К этому расстоянию добавляется подход от стоянки Skreda.",
+          "detail": "От стоянки Skreda по основной тропе до вершины и обратно — около 3,5 км с набором примерно 450 м; обычно на маршрут отводят 2–3 часа. После подхода от парковки тропа круто поднимается через низкий березняк, затем выходит на открытый склон. С вершины высотой 436 м видны узкие проливы, низкие острова и горные цепи за ними. Возвращаются тем же путём; на мокрой земле и камнях спуск требует внимания.",
           "tickets": "Отдельного билета на тропу нет. Используйте стоянку Skreda и следуйте актуальным указателям к началу маршрута.",
           "shortName": "Офферсёйкаммен",
           "originalName": "Offersøykammen",
@@ -27121,14 +27126,14 @@
           "id": 18,
           "lat": 68.164,
           "lon": 14.691,
-          "codes": "SP",
-          "priority": 3,
+          "codes": "PS",
+          "priority": "3",
           "format": "День",
           "region": "Оствогёйя, Гимсёйя и Скрова",
           "source": "https://visitlofoten.com/en/activity/kayak-trip/lofotens-hawaii/",
           "checkedAt": "2026-11-02",
-          "photo": "media-6288fd68-46e1-4854-bbac-4f85e34f545a-960.webp",
-          "creditText": "Gavotin · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ile_de_skrova.jpg)",
+          "photo": "media-c4ccacde-582d-4788-86f8-ea1d3d28ad7e-960.webp",
+          "creditText": "Каякинг на Лофотенах — иллюстрация активности (Свольвер). Kristian Nashoug / www.lofoten.info · [Источник](https://media.nordnorge.com/?id=1046733578&MediaItem=6166) · [Условия использования](https://media.nordnorge.com/guidelines/info)",
           "extra": [],
           "name": "Скрова — каяк среди островков и пляжей",
           "time": "3 часа на воде плюс переправа",
@@ -27138,10 +27143,12 @@
           "tickets": "Каякинг бронируется отдельно от переправы. Уточните включённое снаряжение, требования к плаванию и место встречи у оператора.",
           "shortName": "Скрова",
           "originalName": "Skrova",
-          "photoAlt": "Остров Скрова и окружающие бухты",
+          "photoAlt": "Каякинг на Лофотенах — иллюстрация активности; снимок у Свольвера",
           "visitorInfo": "https://www.skrova-kayak.com/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 100,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 19,
@@ -27198,14 +27205,14 @@
           "id": 21,
           "lat": 68.334,
           "lon": 14.081,
-          "codes": "SP",
-          "priority": 3,
+          "codes": "PS",
+          "priority": "3",
           "format": "Полдня",
           "region": "Оствогёйя, Гимсёйя и Скрова",
           "source": "https://hovgard.no/en/",
           "checkedAt": "2026-11-02",
-          "photo": "media-9d2dbc70-70b9-433e-961d-71ed9233b007-960.webp",
-          "creditText": "Thomas Faivre-Duboz · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lofoten_-_View_from_Hoven_Hov.jpg)",
+          "photo": "media-e46b1057-902b-4dc1-b98e-508784139ccd-960.webp",
+          "creditText": "68 Lofoten / www.lofoten.info · [Источник](https://media.nordnorge.com/?id=1046733578&MediaItem=6197) · [Условия использования](https://media.nordnorge.com/guidelines/info)",
           "extra": [],
           "name": "Хов — верхом вдоль северного берега",
           "time": "2–3 часа с подготовкой; зависит от программы",
@@ -27215,10 +27222,12 @@
           "tickets": "Прогулка платная и требует бронирования. Уточните возрастные и весовые ограничения, продолжительность и выдаваемое снаряжение для выбранной программы.",
           "shortName": "Хов",
           "originalName": "Hov",
-          "photoAlt": "Побережье Хова, где проходят конные прогулки",
+          "photoAlt": "Конная прогулка у пляжа Хов на острове Гимсёйя",
           "visitorInfo": "https://hovgard.no/en/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 100,
+          "hike": "",
+          "access": ""
         }
       ],
       "routeAccess": {
@@ -27254,13 +27263,15 @@
         },
         "4": {
           "kind": "arrival",
-          "query": "Sørvågen hiking parking Munkebu Norway",
+          "query": "67.891085,13.0102508",
           "label": "Туристическая парковка Sørvågen",
           "note": "Проезд до туристической парковки у Sørvågvatnet в Sørvågen; дальше следуйте указателям Munkebu.",
           "sources": [
-            "https://stunningoutdoors.com/munkebu-hut-hike-one-of-the-best-hikes-in-lofoten/"
+            "https://www.68north.com/lofoten-hikes/hiking-munken/",
+            "https://ut.no/hytte/10947/munkebu"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": "ChIJgX7QbpQl3kURXSoYZ6MMSKo"
         },
         "5": {
           "kind": "arrival",
@@ -27274,21 +27285,22 @@
         },
         "6": {
           "kind": "arrival",
-          "query": "Parking Kvalvika Ryten Innersand Norway",
+          "query": "68.0890202,13.1397535",
           "label": "Парковка Kvalvika/Ryten в Innersand",
           "note": "Проезд до обозначенной парковки в Innersand. Альтернатива — парковка у бывшей школы Fredvang; от неё подход длиннее.",
           "sources": [
             "https://visitlofoten.com/en/guide/kvalvika-and-ryten-543-m/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": "ChIJE39CJpwZ3kURg9c9ETVqEwA"
         },
         "7": {
           "kind": "arrival",
-          "query": "Rambergstranda rasteplass Norway",
+          "query": "68.09839399,13.24625977",
           "label": "Парковка Rambergstranda",
           "note": "Проезд до стоянки Rambergstranda у E10; до пляжа короткий спуск. Для Skagsanden есть отдельная стоянка у Flakstad.",
           "sources": [
-            "https://www.nasjonaleturistveger.no/en/routes/lofoten/rambergstranda/"
+            "https://www.nasjonaleturistveger.no/de/routen/lofoten/rambergstranda/"
           ],
           "checked": "2026-11-02",
           "placeId": ""
@@ -27387,11 +27399,11 @@
         },
         "17": {
           "kind": "arrival",
-          "query": "Havneparken parking Svolvær Norway",
-          "label": "Парковка Havneparken в Svolvær",
-          "note": "Проезд до Havneparken; далее пешком к причалу Brim Explorer у Torget 22. Это один удобный вариант круиза; при выборе другого оператора сверяйте причал с билетом.",
+          "query": "Torget 22, 8300 Svolvær, Norway",
+          "label": "Torget 22, Свольвер — подход к причалу Brim Explorer",
+          "note": "Проезд к Torget 22 в Свольвере; оставьте машину на разрешённой городской стоянке и подойдите к причалу Brim Explorer рядом с рестораном Paleo Arctic. У других операторов могут быть другие места посадки — сверяйте их с билетом.",
           "sources": [
-            "https://brimexplorer.com/tours/silent-trollfjord-cruise"
+            "https://brimexplorer.com/contact-us/"
           ],
           "checked": "2026-11-02",
           "placeId": ""
@@ -27404,7 +27416,8 @@
           "sources": [
             "https://visitlofoten.com/en/activity/kayak-trip/lofotens-hawaii/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "19": {
           "kind": "arrival",
@@ -27434,7 +27447,8 @@
           "sources": [
             "https://hovgard.no/en/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         }
       },
       "en": {
@@ -27486,10 +27500,12 @@
             "time": "5–6 hours return",
             "walk": "Strenuous; wet rock and chain-assisted sections",
             "desc": "A hike past mountain lakes to Munkebu hut, surrounded by western Lofoten’s peaks.",
-            "detail": "The route starts beside Sørvågvatnet lake and climbs into a rocky mountain basin. The return walk to the hut is about ten kilometres and reaches roughly 500 metres above sea level; repeated dips and climbs make the total ascent greater. Chains assist on steep sections, and wet rock can be slippery. The hut is a good day-hike destination. Continuing to Hermannsdalstinden is much longer and is not included here.",
-            "tickets": "No admission ticket is needed for a day hike; parking is charged. Arrange overnight stays and hut access with the owner rather than assuming it is freely available.",
+            "detail": "From Sørvågvatnet lake, the trail climbs past mountain lakes to Munkebu hut. The return day hike is about 10 km with roughly 600 m of ascent; allow 5–6 hours, plus time for longer stops. Chains assist on steep rock sections, which can be slippery after rain. The hut’s surroundings offer views of lakes and rugged peaks. Continuing to Hermannsdalstinden is a separate, much longer and more demanding hike.",
+            "tickets": "No admission ticket is needed for a day hike; parking is charged. The hut is closed from 16 September to 31 December 2026. During the open season, overnight stays must be booked through DNT, and at least one person in the group must be a member. The hut does not admit day visitors or walk-in overnight guests.",
             "shortName": "Munkebu",
-            "photoAlt": "Munkebu — mountain lakes above Sørvågen"
+            "photoAlt": "Munkebu — mountain lakes above Sørvågen",
+            "hike": "",
+            "access": ""
           },
           "5": {
             "format": "Day",
@@ -27566,10 +27582,12 @@
             "time": "2–3 hours return",
             "walk": "Moderate; a short but steep climb",
             "desc": "A compact mountain offers views of bridges, sandy shores and the channels around Vestvågøya.",
-            "detail": "The path gains height quickly from the road, first through scrub and then across an open hillside. It is roughly a kilometre to the 436-metre summit, but the short distance does not mean a gentle climb. The top reveals the archipelago’s layout: narrow channels divide the islands, with jagged peaks beyond their low shores. Return the same way, taking care on wet ground and rock. The approach from Skreda parking adds to the trail distance.",
+            "detail": "The return hike from Skreda rest area via the original trail is about 3.5 km with roughly 450 m of ascent; allow 2–3 hours. After the approach from the car park, the path climbs steeply through low birch scrub and then across an open slope to the 436 m summit. The view takes in narrow straits, low-lying islands and the mountains beyond. Return the same way, taking care on wet earth and rock.",
             "tickets": "The trail has no admission ticket. Use Skreda parking and follow current signs to the trailhead.",
             "shortName": "Offersøykammen",
-            "photoAlt": "Offersøykammen — a panorama of channels"
+            "photoAlt": "Offersøykammen — a panorama of channels",
+            "hike": "",
+            "access": ""
           },
           "11": {
             "format": "Half day",
@@ -27660,12 +27678,14 @@
             "detail": "The cruise threads between islands before entering narrow Trollfjord. From the water, the mountain walls rise almost directly from the shore. A larger boat with an indoor lounge and open deck suits a relaxed visit; a rigid inflatable boat offers a faster, windier experience. Sea eagles are often seen in the channels along the way, while the fjord and its enclosing mountains remain the main destination.",
             "tickets": "A cruise ticket is required; choose the boat type and departure ahead. Operators differ in quay, duration and cancellation terms.",
             "shortName": "Trollfjord",
-            "photoAlt": "Trollfjord — a boat trip between rock walls"
+            "photoAlt": "Trollfjord — a boat trip between rock walls",
+            "hike": "",
+            "access": ""
           },
           "18": {
             "format": "Day",
             "region": "Austvågøya, Gimsøya and Skrova",
-            "creditText": "Gavotin · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ile_de_skrova.jpg)",
+            "creditText": "Kayaking in Lofoten — activity illustration (Svolvær). Kristian Nashoug / www.lofoten.info · [Source](https://media.nordnorge.com/?id=1046733578&MediaItem=6166) · [Terms of use](https://media.nordnorge.com/guidelines/info)",
             "name": "Skrova — kayaking among islets and beaches",
             "time": "3 hours on the water, plus ferry travel",
             "walk": "Moderate; paddling adapted to conditions and ability",
@@ -27673,7 +27693,9 @@
             "detail": "From Skrova, the main archipelago forms a long mountain wall across the water. A kayak lets you pass between small islets and reach beaches hidden from the village. For a first visit, choose a guided outing; the route depends on wind and the group’s experience. Afterwards, explore the fishing harbour and eat on the island. Match ferry times to the activity, especially if returning to Svolvær the same day.",
             "tickets": "Book kayaking separately from ferry travel. Confirm included equipment, swimming requirements and the operator’s meeting point.",
             "shortName": "Skrova",
-            "photoAlt": "Skrova island and its surrounding bays"
+            "photoAlt": "Kayaking in Lofoten — activity illustration, photographed near Svolvær",
+            "hike": "",
+            "access": ""
           },
           "19": {
             "format": "Several days",
@@ -27704,7 +27726,7 @@
           "21": {
             "format": "Half day",
             "region": "Austvågøya, Gimsøya and Skrova",
-            "creditText": "Thomas Faivre-Duboz · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lofoten_-_View_from_Hoven_Hov.jpg)",
+            "creditText": "68 Lofoten / www.lofoten.info · [Source](https://media.nordnorge.com/?id=1046733578&MediaItem=6197) · [Terms of use](https://media.nordnorge.com/guidelines/info)",
             "name": "Hov — riding along the northern shore",
             "time": "2–3 hours including preparation; varies by tour",
             "walk": "Depends on the riding programme and experience",
@@ -27712,7 +27734,9 @@
             "detail": "Hov Gard matches rides to experience, from gentle introductions to longer outings for confident riders. The setting is an open northern shore, with mountains behind and sea ahead. Summer departures can take advantage of late light; winter programmes depend on ground conditions and weather. Tell the farm about your experience and any limitations before booking so that the pace and route suit you.",
             "tickets": "Rides are paid and require a booking. Check age and weight limits, duration and provided equipment for the chosen programme.",
             "shortName": "Hov",
-            "photoAlt": "The Hov coastline explored on riding trips"
+            "photoAlt": "Horse riding beside Hov beach on Gimsøya",
+            "hike": "",
+            "access": ""
           }
         },
         "routeAccess": {
@@ -27797,8 +27821,8 @@
             "alternatives": []
           },
           "17": {
-            "label": "Havneparken parking in Svolvær",
-            "note": "Drive to Havneparken, then walk to Brim Explorer’s quay beside Torget 22. This is one convenient cruise option; check your ticket for the quay if choosing another operator.",
+            "label": "Torget 22, Svolvær — access to the Brim Explorer pier",
+            "note": "Drive towards Torget 22 in Svolvær, use a permitted town parking space, then walk to the Brim Explorer pier beside Paleo Arctic restaurant. Other operators may depart from different piers; check the meeting point on your ticket.",
             "alternatives": []
           },
           "18": {
@@ -27834,7 +27858,7 @@
           "description": "Sharp peaks above the sea, pale beaches and fishing villages north of the Arctic Circle.",
           "alt": "Reinebringen — the islands from above"
         },
-        "reviewedSource": "ab7666b3"
+        "reviewedSource": "7bffeb0c"
       },
       "title": "Лофотенские острова",
       "genitive": "Лофотенских островов",

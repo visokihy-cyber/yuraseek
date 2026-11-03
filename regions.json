@@ -26695,7 +26695,7 @@
           "originalName": "Reine, Hamnøy and Sakrisøy",
           "photoAlt": "Рейне, Хамнёй и Сакрисёй",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 95
         },
         {
           "id": 2,
@@ -26798,7 +26798,7 @@
           "photoAlt": "Бунес — пляж за горным перевалом",
           "visitorInfo": "https://www.reisnordland.no/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 75
         },
         {
           "id": 6,
@@ -26831,7 +26831,7 @@
           "lat": 68.103,
           "lon": 13.244,
           "codes": "P",
-          "priority": 3,
+          "priority": "3",
           "format": "Несколько часов",
           "region": "Флакстадёйя",
           "source": "https://www.nasjonaleturistveger.no/en/routes/lofoten/rambergstranda/",
@@ -26843,14 +26843,16 @@
           "time": "1–2 часа",
           "walk": "Легко",
           "desc": "Светлый песок, полосы тёмных минералов и горы у моря — красивые остановки прямо рядом с дорогой.",
-          "detail": "В Рамберге длинный пляж подходит для спокойной прогулки у воды. У Скагсандена интереснее рисунок песка и отражения гор в тонком слое воды; неподалёку стоит деревянная церковь Флакстад. Эти места особенно хороши при низком солнце, но не требуют большого похода или полного дня. Зимой здесь наблюдают северное сияние, если совпадут ясное небо и активность; летом свет долго держится над морем.",
+          "detail": "В Рамберге длинный пляж подходит для спокойной прогулки у воды. У Скагсандена интереснее рисунок песка и отражения гор в тонком слое воды; неподалёку стоит деревянная церковь Флакстад. Эти места особенно хороши при низком солнце, но не требуют большого похода или полного дня. Зимой здесь наблюдают северное сияние, если совпадут ясное небо и достаточная геомагнитная активность; летом свет долго держится над морем.",
           "tickets": "Отдельного билета на пляжи нет. Для стоянки используйте общественные парковки и соблюдайте местные условия оплаты.",
           "shortName": "Рамберг и Скагсанден",
           "originalName": "Ramberg and Skagsanden",
           "photoAlt": "Рамберг и Скагсанден — пляжи Флакстадёйи",
           "visitorInfo": "https://www.nasjonaleturistveger.no/en/routes/lofoten/rambergstranda/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 8,
@@ -26909,7 +26911,7 @@
           "lat": 68.159,
           "lon": 13.61,
           "codes": "PS",
-          "priority": 3,
+          "priority": "3",
           "format": "Полдня",
           "region": "Вествогёйя",
           "source": "https://www.68north.com/lofoten-hikes/hiking-offersoykammen/",
@@ -26921,13 +26923,15 @@
           "time": "2–3 часа туда и обратно",
           "walk": "Средне; короткий, но крутой подъём",
           "desc": "С невысокой горы видны мосты, песчаные берега и проливы между Вествогёйей и соседними островами.",
-          "detail": "Тропа быстро набирает высоту от дороги, сначала среди кустарника, затем по открытому склону. До вершины высотой 436 метров примерно километр, но короткое расстояние не делает подъём пологим. Сверху хорошо читается устройство архипелага: острова отделены узкими проливами, а за низкими берегами поднимаются зубчатые горы. Обратный путь тот же; на мокрой земле и камнях спуск требует внимания. К этому расстоянию добавляется подход от стоянки Skreda.",
+          "detail": "Тропа быстро набирает высоту от дороги, сначала среди кустарника, затем по открытому склону. До вершины высотой 436 метров примерно километр, но короткое расстояние не делает подъём пологим. С вершины видны узкие проливы между островами, низкие берега и зубчатые горы за ними. Обратный путь тот же; на мокрой земле и камнях спуск требует внимания. К этому расстоянию добавляется подход от стоянки Skreda.",
           "tickets": "Отдельного билета на тропу нет. Используйте стоянку Skreda и следуйте актуальным указателям к началу маршрута.",
           "shortName": "Офферсёйкаммен",
           "originalName": "Offersøykammen",
           "photoAlt": "Офферсёйкаммен — панорама проливов",
           "photoFocusX": 50,
-          "photoFocusY": 85
+          "photoFocusY": 85,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 11,
@@ -26959,8 +26963,8 @@
           "id": 12,
           "lat": 68.307,
           "lon": 13.669,
-          "codes": "PE",
-          "priority": 3,
+          "codes": "EP",
+          "priority": "3",
           "format": "Несколько часов",
           "region": "Вествогёйя",
           "source": "https://www.nasjonaleturistveger.no/en/routes/lofoten/eggum/",
@@ -26972,14 +26976,16 @@
           "time": "1–2 часа",
           "walk": "Легко по береговой дорожке",
           "desc": "Открытый северный берег с каменистым пляжем, необычной скульптурой и видом на море без островов перед горизонтом.",
-          "detail": "От стоянки у старого военного сооружения дорожка идёт вдоль берега к скульптуре «Голова» Маркуса Ретца. При обходе она меняет восприятие: один и тот же профиль кажется то прямым, то перевёрнутым. Это короткая прогулка, где современное искусство хорошо сочетается с пустынным морским пейзажем. В начале лета северная экспозиция удобна для наблюдения полночного солнца. Продолжение до Унстада сложнее и не входит в этот лёгкий вариант.",
+          "detail": "От стоянки у старого военного сооружения дорожка идёт вдоль берега к скульптуре «Голова» Маркуса Ретца. Обойдите скульптуру: с одной стороны голова выглядит обычно, а с противоположной — перевёрнутой. Это короткая прогулка, где современное искусство хорошо сочетается с пустынным морским пейзажем. С открытого северного берега в начале лета удобно наблюдать полночное солнце. Продолжение до Унстада сложнее и не входит в этот лёгкий вариант.",
           "tickets": "Билета к скульптуре нет. На подъезде к стоянке действует местная плата; следуйте указателям на месте.",
           "shortName": "Эггум",
           "originalName": "Eggum",
           "photoAlt": "Эггум — берег, скульптура и полночное солнце",
           "visitorInfo": "https://www.nasjonaleturistveger.no/en/routes/lofoten/eggum/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 13,
@@ -27088,7 +27094,7 @@
           "lat": 68.363,
           "lon": 14.944,
           "codes": "PL",
-          "priority": 1,
+          "priority": "1",
           "format": "Полдня",
           "region": "Оствогёйя, Гимсёйя и Скрова",
           "source": "https://brimexplorer.com/tours/silent-trollfjord-cruise",
@@ -27100,14 +27106,16 @@
           "time": "3–4 часа",
           "walk": "Легко; посадка на судно",
           "desc": "Узкий вход в горный фьорд, отвесные берега и морские орланы на пути из Свольвера.",
-          "detail": "Круиз проходит между островами прежде, чем судно входит в узкий Тролль-фьорд. С воды особенно заметен масштаб горных стен, поднимающихся почти прямо от берега. Для спокойного осмотра подойдёт крупное судно с закрытым салоном и открытой палубой; скоростная надувная лодка даёт другой, более ветреный и динамичный опыт. Морских орланов часто наблюдают в проливах по дороге, но главная цель поездки — сам фьорд и его береговой пейзаж.",
+          "detail": "Круиз проходит между островами прежде, чем судно входит в узкий Тролль-фьорд. С воды особенно заметен масштаб горных стен, поднимающихся почти прямо от берега. Для спокойного осмотра подойдёт крупное судно с закрытым салоном и открытой палубой; на скоростной надувной лодке поездка проходит быстрее, но пассажиры сильнее чувствуют ветер. Морских орланов часто наблюдают в проливах по дороге, но главная цель поездки — сам фьорд и его береговой пейзаж.",
           "tickets": "Нужен билет на круиз; выбирайте тип судна и время отправления заранее. У разных операторов отличаются причалы, продолжительность и условия отмены.",
           "shortName": "Тролль-фьорд",
           "originalName": "Trollfjord",
           "photoAlt": "Тролль-фьорд — морская поездка между скалами",
           "visitorInfo": "https://brimexplorer.com/tours/silent-trollfjord-cruise",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 18,
@@ -27159,7 +27167,7 @@
           "photoAlt": "Рёст — морские птицы на краю архипелага",
           "visitorInfo": "https://www.rostbryggehotell.no/aktiviteter",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 90
         },
         {
           "id": 20,
@@ -27282,7 +27290,8 @@
           "sources": [
             "https://www.nasjonaleturistveger.no/en/routes/lofoten/rambergstranda/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "8": {
           "kind": "arrival",
@@ -27312,7 +27321,8 @@
           "sources": [
             "https://www.68north.com/lofoten-hikes/hiking-offersoykammen/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "11": {
           "kind": "arrival",
@@ -27332,7 +27342,8 @@
           "sources": [
             "https://www.nasjonaleturistveger.no/en/routes/lofoten/eggum/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "13": {
           "kind": "arrival",
@@ -27382,7 +27393,8 @@
           "sources": [
             "https://brimexplorer.com/tours/silent-trollfjord-cruise"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "18": {
           "kind": "arrival",
@@ -27513,10 +27525,12 @@
             "time": "1–2 hours",
             "walk": "Easy",
             "desc": "Pale sand, dark mineral patterns and seaside mountains make rewarding stops beside the main road.",
-            "detail": "Ramberg’s long beach suits an easy walk beside the water. At Skagsanden, look for patterns in the sand and mountain reflections in shallow water; Flakstad’s wooden church stands nearby. Both places work well in low sunlight without requiring a long hike. In winter, clear skies and sufficient activity may bring aurora displays; summer light lingers over the sea.",
+            "detail": "Ramberg’s long beach suits an easy walk beside the water. At Skagsanden, look for patterns in the sand and mountain reflections in shallow water; Flakstad’s wooden church stands nearby. Both places work well in low sunlight without requiring a long hike. In winter, clear skies and sufficient geomagnetic activity may bring aurora displays; summer light lingers over the sea.",
             "tickets": "The beaches have no separate admission ticket. Use public parking and follow local payment conditions.",
             "shortName": "Ramberg and Skagsanden",
-            "photoAlt": "Ramberg and Skagsanden — Flakstadøya’s beaches"
+            "photoAlt": "Ramberg and Skagsanden — Flakstadøya’s beaches",
+            "hike": "",
+            "access": ""
           },
           "8": {
             "format": "A few hours",
@@ -27704,87 +27718,108 @@
         "routeAccess": {
           "1": {
             "label": "Reine Ytre Havn parking",
-            "note": "Drive to Reine’s outer harbour and explore the village on foot. Use separate permitted parking when visiting Hamnøy and Sakrisøy."
+            "note": "Drive to Reine’s outer harbour and explore the village on foot. Use separate permitted parking when visiting Hamnøy and Sakrisøy.",
+            "alternatives": []
           },
           "2": {
             "label": "Reine Ytre Havn parking",
-            "note": "Drive to Reine’s outer harbour, then walk about 30 minutes to the stairs using the old road outside the Ramsvik tunnel. There is no parking at the stairs."
+            "note": "Drive to Reine’s outer harbour, then walk about 30 minutes to the stairs using the old road outside the Ramsvik tunnel. There is no parking at the stairs.",
+            "alternatives": []
           },
           "3": {
             "label": "Public parking at the end of the E10 in Å",
-            "note": "Drive to the large car park at the end of the E10; the museum and harbour are a short walk away."
+            "note": "Drive to the large car park at the end of the E10; the museum and harbour are a short walk away.",
+            "alternatives": []
           },
           "4": {
             "label": "Sørvågen hiking car park",
-            "note": "Drive to the hiking car park beside Sørvågvatnet in Sørvågen, then follow signs for Munkebu."
+            "note": "Drive to the hiking car park beside Sørvågvatnet in Sørvågen, then follow signs for Munkebu.",
+            "alternatives": []
           },
           "5": {
             "label": "Reine passenger-boat quay",
-            "note": "Drive to Reine and use designated harbour parking, then take the passenger boat to Vindstad and continue on foot. Private operators also run services; check the quay on your ticket."
+            "note": "Drive to Reine and use designated harbour parking, then take the passenger boat to Vindstad and continue on foot. Private operators also run services; check the quay on your ticket.",
+            "alternatives": []
           },
           "6": {
             "label": "Kvalvika/Ryten parking in Innersand",
-            "note": "Drive to the signed car park in Innersand. The former Fredvang school car park is an alternative with a longer approach."
+            "note": "Drive to the signed car park in Innersand. The former Fredvang school car park is an alternative with a longer approach.",
+            "alternatives": []
           },
           "7": {
             "label": "Rambergstranda rest-area parking",
-            "note": "Drive to the Rambergstranda rest area on the E10 and follow the short path to the sand. Skagsanden has separate parking at Flakstad."
+            "note": "Drive to the Rambergstranda rest area on the E10 and follow the short path to the sand. Skagsanden has separate parking at Flakstad.",
+            "alternatives": []
           },
           "8": {
             "label": "Nusfjord visitor parking",
-            "note": "Drive to the visitor car park before Nusfjord’s historic harbour and continue on foot. Cabin-side parking is reserved for staying guests."
+            "note": "Drive to the visitor car park before Nusfjord’s historic harbour and continue on foot. Cabin-side parking is reserved for staying guests.",
+            "alternatives": []
           },
           "9": {
             "label": "Haukland Beach visitor-centre parking",
-            "note": "Drive to Haukland Beach visitor centre for the beach paths and old coastal road. Alternatively, drive through the tunnel to Uttakleiv and use its separate car park."
+            "note": "Drive to Haukland Beach visitor centre for the beach paths and old coastal road. Alternatively, drive through the tunnel to Uttakleiv and use its separate car park.",
+            "alternatives": []
           },
           "10": {
             "label": "Skreda rest area on the E10",
-            "note": "Drive to Skreda rest area, then follow the signed approach to Offersøykammen. Do not park on the E10 shoulder."
+            "note": "Drive to Skreda rest area, then follow the signed approach to Offersøykammen. Do not park on the E10 shoulder.",
+            "alternatives": []
           },
           "11": {
             "label": "Unstad Arctic Surf",
-            "note": "Drive to Unstad Arctic Surf for a booked lesson. Beach-only visitors should use designated beach parking rather than the school’s guest spaces."
+            "note": "Drive to Unstad Arctic Surf for a booked lesson. Beach-only visitors should use designated beach parking rather than the school’s guest spaces.",
+            "alternatives": []
           },
           "12": {
             "label": "Eggum parking beside Borga",
-            "note": "Drive through Eggum village to the Borga parking area, then follow the coast on foot to the sculpture."
+            "note": "Drive through Eggum village to the Borga parking area, then follow the coast on foot to the sculpture.",
+            "alternatives": []
           },
           "13": {
             "label": "Lofotr Viking Museum parking",
-            "note": "Drive to the main museum parking in Borg, beside the exhibition entrance. Walk through the grounds to the longhouse and seasonal boat landing."
+            "note": "Drive to the main museum parking in Borg, beside the exhibition entrance. Walk through the grounds to the longhouse and seasonal boat landing.",
+            "alternatives": []
           },
           "14": {
             "label": "Henningsvær public parking",
-            "note": "Drive to the large public car park at the entrance to Henningsvær; explore the narrow streets and harbour on foot."
+            "note": "Drive to the large public car park at the entrance to Henningsvær; explore the narrow streets and harbour on foot.",
+            "alternatives": []
           },
           "15": {
             "label": "Lofotmuseet parking in Storvågan",
-            "note": "Drive to the museum parking in Storvågan; the historic buildings and shore are within walking distance."
+            "note": "Drive to the museum parking in Storvågan; the historic buildings and shore are within walking distance.",
+            "alternatives": []
           },
           "16": {
             "label": "Trailhead parking on Blåtindveien",
-            "note": "Drive to the signed parking at the bend in Blåtindveien, northwest of the cemetery. Public parking in central Svolvær is an alternative with a longer walk."
+            "note": "Drive to the signed parking at the bend in Blåtindveien, northwest of the cemetery. Public parking in central Svolvær is an alternative with a longer walk.",
+            "alternatives": []
           },
           "17": {
             "label": "Havneparken parking in Svolvær",
-            "note": "Drive to Havneparken, then walk to Brim Explorer’s quay beside Torget 22. This is one convenient cruise option; check your ticket for the quay if choosing another operator."
+            "note": "Drive to Havneparken, then walk to Brim Explorer’s quay beside Torget 22. This is one convenient cruise option; check your ticket for the quay if choosing another operator.",
+            "alternatives": []
           },
           "18": {
             "label": "Svolvær ferry terminal on Svolværveien",
-            "note": "Drive to the Svolvær–Skrova ferry terminal at Svolværveien 91, then take the ferry and walk to Heimbrygga, Været 6. Use parking signed for the required length of stay."
+            "note": "Drive to the Svolvær–Skrova ferry terminal at Svolværveien 91, then take the ferry and walk to Heimbrygga, Været 6. Use parking signed for the required length of stay.",
+            "alternatives": []
           },
           "19": {
             "label": "Moskenes ferry terminal",
-            "note": "Drive to Moskenes ferry terminal and take a suitable sailing to Røst. The Røst Bryggehotell excursion departs from the island, not Moskenes. Arriving from Bodø is another option."
+            "note": "Drive to Moskenes ferry terminal and take a suitable sailing to Røst. The Røst Bryggehotell excursion departs from the island, not Moskenes. Arriving from Bodø is another option.",
+            "alternatives": []
           },
           "20": {
             "label": "Håen trail parking in Rømdalen",
-            "note": "Take the ferry to Værøy and drive to the upper Rømdalen parking beside the blue buildings, then follow signs for Håen on foot."
+            "note": "Take the ferry to Værøy and drive to the upper Rømdalen parking beside the blue buildings, then follow signs for Håen on foot.",
+            "alternatives": []
           },
           "21": {
             "label": "Hov Gard parking",
-            "note": "Drive to Hov Gard on Gimsøya; your booking confirmation gives the preparation and mounting point."
+            "note": "Drive to Hov Gard on Gimsøya; your booking confirmation gives the preparation and mounting point.",
+            "alternatives": []
           }
         },
         "title": "Lofoten Islands",
@@ -27799,13 +27834,13 @@
           "description": "Sharp peaks above the sea, pale beaches and fishing villages north of the Arctic Circle.",
           "alt": "Reinebringen — the islands from above"
         },
-        "reviewedSource": "873f63b0"
+        "reviewedSource": "ab7666b3"
       },
       "title": "Лофотенские острова",
       "genitive": "Лофотенских островов",
       "description": "Лофотенские острова: горные маршруты, пляжи, рыбацкие деревни и морские экскурсии. Карта мест, время посещения, билеты и подъезды.",
       "brief": "На Лофотены едут за горами, которые поднимаются прямо из моря, белыми пляжами и рыбацкими деревнями на маленьких островах. Здесь можно чередовать серьёзные подъёмы с короткими остановками у воды, морскими поездками и музеями.\n\nОсновную цепочку островов связывает дорога E10. Рёст и Верёй требуют отдельной переправы, а для некоторых пляжей сначала нужна лодка. Подборка охватывает именно Лофотены, без соседних Вестеролена и Сеньи.",
-      "insights": "Рейне, Хамнёй и Хеннингсвер показывают Лофотены с уровня воды: деревянные дома, рабочие гавани и горы за ними. На Рейнебрингене и Рютене тот же пейзаж раскрывается сверху, но ради него придётся пройти крутой маршрут. Хаукланд, Рамберг и Эггум подходят для дней, когда хочется больше смотреть и меньше подниматься.\n\nМорская поездка в Тролль-фьорд даёт другой масштаб гор и возможность увидеть орланов. За птичьими скалами и жизнью удалённых островов отправляются на Рёст. Каякинг у Скровы, сёрфинг в Унстаде и верховая прогулка на Гимсёйе позволяют познакомиться с берегом через активность.\n\nМузеи в Борге, О и Сторвогане объясняют, почему люди веками жили на этих островах: морской промысел, торговля и история викингов здесь неотделимы от пейзажа. Их удобно включить между прогулками или оставить на дождливый день.",
+      "insights": "Рейне, Хамнёй и Хеннингсвер показывают Лофотены с уровня воды: деревянные дома, рабочие гавани и горы за ними. На Рейнебрингене и Рютене тот же пейзаж раскрывается сверху, но ради него придётся пройти крутой маршрут. Хаукланд, Рамберг и Эггум подходят для дней, когда хочется больше смотреть и меньше подниматься.\n\nМорская поездка в Тролль-фьорд даёт другой масштаб гор и возможность увидеть орланов. За птичьими скалами и жизнью удалённых островов отправляются на Рёст. Каякинг у Скровы, сёрфинг в Унстаде и верховая прогулка на Гимсёйе позволяют увидеть берег с воды или во время конной прогулки.\n\nМузеи в Борге, О и Сторвогане объясняют, почему люди веками жили на этих островах: морской промысел, торговля и история викингов здесь неотделимы от пейзажа. Их удобно включить между прогулками или оставить на дождливый день.",
       "season": "**Июнь–август:** основной сезон горных походов, лодок и длинных дней. Полночное солнце видно на открытом северном берегу примерно с конца мая до середины июля; точные даты зависят от места. Жильё, машины и популярные переправы бронируйте заранее.\n\n**Сентябрь–октябрь:** меньше людей, осенние краски и возвращение тёмных ночей с шансом на сияние. На высоких тропах уже возможны снег и лёд; морских рейсов становится меньше.\n\n**Ноябрь–апрель:** зимние пейзажи, северное сияние и сезонный промысел трески. В декабре и начале января солнце не поднимается над горизонтом, хотя днём бывает сумеречный свет. Горные маршруты из летней подборки нельзя автоматически переносить на зиму. В мае день уже длинный, но высоко в горах снег ещё обычен.",
       "features": "Валюта — норвежская крона, NOK. Банковские карты принимают почти везде. Основной язык — норвежский; в туристической сфере широко говорят по-английски. Розетки — типов C и F, напряжение 230 В.\n\nДвижение правостороннее. Узкие дороги и мосты замедляют поездки; площадки для разъезда не предназначены для парковки. Летом жильё и автомобили быстро разбирают, зимой дороги могут закрывать из-за погоды. Расписание общественного транспорта проверяйте в Reis Nordland; между небольшими деревнями рейсов немного.\n\nГлавные природные риски — мокрые скалы, сильный ветер, холодная вода и зимние лавины. Для гор нужны непромокаемая одежда, тёплый слой, цепкая обувь и офлайн-карта; зимой проверяйте предупреждения на [Varsom](https://www.varsom.no/en/). Дикие животные не являются основной опасностью обычных маршрутов. При необходимости возьмите репеллент.\n\nНорвегия входит в Шенгенскую зону, но не в ЕС; условия въезда зависят от гражданства. На удалённых островах заранее согласуйте переправу и ночёвку, а до вылета оставляйте запас на возможные отмены рейсов.",
       "sources": "[Visit Lofoten](https://visitlofoten.com/en/) · [Музеи Museum Nord](https://www.museumnord.no/en/) · [Reis Nordland — транспорт](https://www.reisnordland.com/) · [Норвежские пейзажные дороги](https://www.nasjonaleturistveger.no/en/routes/lofoten/) · [68° North — пешие маршруты](https://www.68north.com/) · [Hov Gard](https://hovgard.no/en/)",

@@ -1411,9 +1411,8 @@
           "time": "1–2 дня",
           "access": "Машина по Queen Charlotte Drive + катер по желанию",
           "hike": "Короткая обзорная прогулка или участок Queen Charlotte Track на 2–4 часа",
-          "photo": "country-photo-23e08bc4df82-960.webp",
-          "credit": "Фото: AnnWoolliams · CC BY-SA 4.0 · <a href='https://commons.wikimedia.org/wiki/File:Marlborough%20Sounds.jpg' target='_blank'>источник</a>",
-          "photoLink": "https://commons.wikimedia.org/wiki/File:Marlborough%20Sounds.jpg",
+          "photo": "media-08ea8d6e-d2f1-4e2b-a012-7d2e3be6b09d-960.webp",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:F%C3%A4hre_von_Picton_nach_Wellington_(34026172791).jpg",
           "map": "https://www.google.com/maps/search/?api=1&query=Marlborough%20Sounds%20New%20Zealand",
           "source": "https://www.newzealand.com/nz/marlborough-sounds/",
           "region": "Север Южного острова",
@@ -1428,11 +1427,14 @@
           "lon": 173.96,
           "shortName": "Заливы Мальборо",
           "codes": "P",
-          "creditText": "Фото: AnnWoolliams · CC BY-SA 4.0 · источник",
+          "creditText": "Фото: FLASHPACKER TRAVELGUIDE · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [источник](https://commons.wikimedia.org/wiki/File:F%C3%A4hre_von_Picton_nach_Wellington_(34026172791).jpg) · кадрирование",
           "detail": "Морские рукава разделяют лесистые холмы на длинные полуострова. С воды лучше ощущается масштаб бухт, а с участков Queen Charlotte Track открываются виды сверху. Можно выбрать короткий круиз, каяк или пеший день с доставкой водным такси, не проходя весь многодневный маршрут.",
           "tickets": "Лодка, каяк и водное такси бронируются отдельно. Для выбранного участка Queen Charlotte Track проверьте необходимость земельного пропуска; он не заменяет транспортный билет. Парковка зависит от причала и длительности отсутствия.",
           "extra": [],
-          "visitorInfo": ""
+          "visitorInfo": "",
+          "photoAlt": "Лесистые берега и паром в заливах Мальборо",
+          "photoFocusX": 50,
+          "photoFocusY": 50
         },
         {
           "id": 20,
@@ -2297,9 +2299,8 @@
           "time": "2–3 дня дополнительно к Южному острову",
           "access": "Паром из Bluff или самолёт из Invercargill, затем водное такси на Ulva",
           "hike": "Лесные тропы 2–4 часа; для киви часто вечерняя экскурсия",
-          "photo": "place-new-zealand-48-review-20261029-960.webp",
-          "credit": "",
-          "photoLink": "https://commons.wikimedia.org/wiki/File:West_End_Beach.jpg",
+          "photo": "media-152e4d79-3eef-4cd5-ba9b-d5af76be145a-960.webp",
+          "photoLink": "https://commons.wikimedia.org/wiki/File:West_End_Beach,_Ulva_Island.jpg",
           "map": "https://www.google.com/maps/search/?api=1&query=Ulva%20Island%20%28New%20Zealand%29%20New%20Zealand",
           "source": "https://www.newzealand.com/nz/stewart-island-rakiura/",
           "region": "Кентербери и юго-восток",
@@ -2315,13 +2316,14 @@
           "lon": 168.13,
           "shortName": "Остров Ракиура",
           "codes": "LW",
-          "creditText": "Фото: Tkalba · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [источник](https://commons.wikimedia.org/wiki/File:West_End_Beach.jpg) · кадрирование",
+          "creditText": "Фото: Pseudopanax at English Wikipedia · Public domain · [источник](https://commons.wikimedia.org/wiki/File:West_End_Beach,_Ulva_Island.jpg) · кадрирование",
           "detail": "На острове Стюарт можно гулять по лесным тропам из посёлка Обан, исследовать тихие бухты или отправиться на многодневный маршрут. До соседнего острова Улва ходит водное такси; там особенно интересно наблюдать лесных птиц. Для поиска киви можно присоединиться к вечерней экскурсии.",
           "tickets": "Паром или перелёт, водное такси и экскурсии бронируются отдельно. Для ночёвок на Rakiura Track проверьте и оформите нужные места DOC заранее. Машину обычно оставляют на материке, поэтому парковку согласуйте с перевозчиком.",
           "extra": [],
           "visitorInfo": "https://www.realnz.com/en/experiences/transport/stewart-island-ferry-services/",
-          "photoAlt": "Stewart Island / Rakiura + Ulva Island",
-          "photoFocusY": 50
+          "photoAlt": "Пляж Уэст-Энд на острове Ульва",
+          "photoFocusY": 50,
+          "photoFocusX": 50
         }
       ],
       "en": {
@@ -2638,8 +2640,8 @@
             "region": "Northern South Island",
             "walk": "Moderate",
             "format": "Several days",
-            "photoAlt": "Marlborough Sounds — forested coastal inlets",
-            "creditText": "Photo: AnnWoolliams · CC BY-SA 4.0 · source",
+            "photoAlt": "Forested shores and a ferry in the Marlborough Sounds",
+            "creditText": "Photo: FLASHPACKER TRAVELGUIDE · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [source](https://commons.wikimedia.org/wiki/File:F%C3%A4hre_von_Picton_nach_Wellington_(34026172791).jpg) · cropped",
             "extra": []
           },
           "20": {
@@ -3102,8 +3104,8 @@
             "region": "Canterbury and the southeast",
             "walk": "Moderate",
             "format": "Several days",
-            "photoAlt": "Stewart Island / Rakiura and Ulva Island",
-            "creditText": "Photo: Tkalba · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [source](https://commons.wikimedia.org/wiki/File:West_End_Beach.jpg) · cropped",
+            "photoAlt": "West End Beach on Ulva Island",
+            "creditText": "Photo: Pseudopanax at English Wikipedia · Public domain · [source](https://commons.wikimedia.org/wiki/File:West_End_Beach,_Ulva_Island.jpg) · cropped",
             "extra": []
           }
         },
@@ -3313,7 +3315,7 @@
             "note": "Continue by passenger ferry to Stewart Island."
           }
         },
-        "reviewedSource": "64071572"
+        "reviewedSource": "f614476d"
       }
     },
     {

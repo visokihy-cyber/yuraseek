@@ -63,7 +63,22 @@
     }
   ],
   "countries": {
-    "new-zealand": {},
+    "new-zealand": {
+      "19": {
+        "src": "media-08ea8d6e-d2f1-4e2b-a012-7d2e3be6b09d-960.webp",
+        "alt": "Лесистые берега и паром в заливах Мальборо",
+        "creditText": "Фото: FLASHPACKER TRAVELGUIDE · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [источник](https://commons.wikimedia.org/wiki/File:F%C3%A4hre_von_Picton_nach_Wellington_(34026172791).jpg) · кадрирование",
+        "focusX": 50,
+        "focusY": 50
+      },
+      "48": {
+        "src": "media-152e4d79-3eef-4cd5-ba9b-d5af76be145a-960.webp",
+        "alt": "Пляж Уэст-Энд на острове Ульва",
+        "creditText": "Фото: Pseudopanax at English Wikipedia · Public domain · [источник](https://commons.wikimedia.org/wiki/File:West_End_Beach,_Ulva_Island.jpg) · кадрирование",
+        "focusX": 50,
+        "focusY": 50
+      }
+    },
     "costa-rica": {},
     "madeira": {
       "9": {

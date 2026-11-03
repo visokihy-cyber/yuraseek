@@ -51464,7 +51464,7 @@
           "lat": -43.31,
           "lon": -71.86,
           "codes": "S",
-          "priority": 3,
+          "priority": "3",
           "format": "Полдня",
           "region": "Карретера-Аустраль",
           "source": "https://raftingfutaleufu.cl/es/actividades/puente-a-puente",
@@ -51483,7 +51483,9 @@
           "photoAlt": "Футалеуфу — рафтинг на бирюзовой реке",
           "visitorInfo": "https://raftingfutaleufu.cl/es/actividades/puente-a-puente",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 21,
@@ -52049,13 +52051,15 @@
         },
         "20": {
           "kind": "arrival",
-          "query": "Oficina Rafting Futaleufu Chile",
+          "query": "Rafting Futaleufu, Manuel Rodriguez 129, Futaleufu, Chile",
           "label": "Офис Rafting Futaleufú",
           "note": "Проезд до офиса Rafting Futaleufú, указанного оператором как место встречи. Далее — его трансфер к базе. Есть другие организаторы; при их выборе используйте адрес из своего подтверждения.",
           "sources": [
-            "https://raftingfutaleufu.cl/es/actividades/puente-a-puente"
+            "https://raftingfutaleufu.cl/es/actividades/puente-a-puente",
+            "https://serviciosturisticos.sernatur.cl/17566-rafting-futaleufu"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": "ChIJI9VmZ6LeHZYRk8l_Mw5a5xY"
         },
         "21": {
           "kind": "arrival",

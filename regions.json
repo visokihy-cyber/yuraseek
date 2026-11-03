@@ -50964,7 +50964,7 @@
           "lat": -41.091,
           "lon": -71.463,
           "codes": "P",
-          "priority": 1,
+          "priority": "1",
           "format": "День",
           "region": "Озёрный край Аргентины",
           "source": "https://www.barilocheturismo.gob.ar/es/actividades-cerro-campanario",
@@ -50976,13 +50976,15 @@
           "time": "Полдня или день",
           "walk": "Легко; подъём на Campanario по желанию",
           "desc": "Лесистые полуострова, синие озёра и горы вокруг Барилоче — удобное первое знакомство с северной Патагонией.",
-          "detail": "Кольцевая поездка Circuito Chico соединяет берег Науэль-Уапи, район Льяо-Льяо и смотровые над озером Морено. На Cerro Campanario можно подняться кресельной канатной дорогой или по короткой, но крутой лесной тропе. С вершины лучше всего видно, как озёра и полуострова переплетаются между собой. Оставьте время для остановок у воды и небольшой прогулки в лесу: проехать весь круг без выходов гораздо менее интересно.",
+          "detail": "Кольцевая поездка Circuito Chico соединяет берег озера Науэль-Уапи, район Льяо-Льяо и смотровые над озером Морено. На гору Серро-Кампанарио можно подняться кресельной канатной дорогой или по короткой, но крутой лесной тропе. С вершины лучше всего видно, как озёра и полуострова переплетаются между собой. Оставьте время для остановок у воды и небольшой прогулки в лесу.",
           "tickets": "Проезд по обычным дорогам свободный. Канатная дорога Campanario оплачивается отдельно; проверьте часы работы перед поездкой.",
           "shortName": "Барилоче",
           "originalName": "Bariloche",
           "photoAlt": "Барилоче — озёра вдоль Circuito Chico",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 2,
@@ -51014,8 +51016,8 @@
           "id": 3,
           "lat": -40.854,
           "lon": -71.617,
-          "codes": "WP",
-          "priority": 3,
+          "codes": "PW",
+          "priority": "3",
           "format": "День",
           "region": "Озёрный край Аргентины",
           "source": "https://www.argentina.gob.ar/node/466490",
@@ -51026,7 +51028,7 @@
           "name": "Лос-Арраянес и остров Виктория",
           "time": "Полдня или день по программе судна",
           "walk": "Легко по оборудованным дорожкам",
-          "desc": "Лодочная поездка по Науэль-Уапи к лесу с корично-оранжевой корой и береговым тропам острова Виктория.",
+          "desc": "Лодочная поездка по озеру Науэль-Уапи к лесу с корично-оранжевой корой и береговым тропам острова Виктория.",
           "detail": "Главная особенность леса арраянов — гладкие стволы тёплого оранжевого оттенка, которые хорошо видны с деревянного настила. На острове Виктория прогулка знакомит с более разнообразным лесом и озёрными берегами. Поездка сочетает две высадки с видами с воды, поэтому подойдёт тем, кто хочет провести день на природе без большого похода. Из Вилья-Ла-Ангостуры есть другой способ попасть к арраянам: по полуострову Кетриуэ пешком или на велосипеде, но это отдельный длинный маршрут.",
           "tickets": "Нужен билет на судно. Входные сборы парков и портовый сбор могут не входить в его стоимость — проверьте состав выбранного билета.",
           "shortName": "Лос-Арраянес и остров Виктория",
@@ -51034,7 +51036,9 @@
           "photoAlt": "Лос-Арраянес и остров Виктория",
           "visitorInfo": "https://www.turisur.com.ar/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 4,
@@ -51093,7 +51097,7 @@
           "lat": -42.575,
           "lon": -64.279,
           "codes": "L",
-          "priority": 1,
+          "priority": "1",
           "format": "День",
           "region": "Атлантическое побережье",
           "source": "https://peninsulavaldes.org.ar/visita-peninsula/como-llegar/",
@@ -51104,7 +51108,7 @@
           "name": "Полуостров Вальдес — киты и морские животные",
           "time": "День; лучше с ночёвкой",
           "walk": "Легко на смотровых",
-          "desc": "Южные гладкие киты подходят к берегам, а на полуострове встречаются гуанако, морские львы и слоны.",
+          "desc": "Южные гладкие киты подходят к берегам, а на полуострове встречаются гуанако, морские львы и морские слоны.",
           "detail": "Из Пуэрто-Пирамидес выходят лодки к китам, после чего можно проехать к береговым смотровым. Киты обычно появляются с июня по декабрь; остальные животные и места наблюдения меняются по сезону. Это большая территория с длинными грунтовыми перегонами. Выберите морской выход и одну-две береговые остановки, вместо того чтобы пытаться объехать все колонии за день.",
           "tickets": "Въезд в охраняемую территорию платный. Морская экскурсия бронируется отдельно; выход зависит от состояния моря.",
           "shortName": "Полуостров Вальдес",
@@ -51112,14 +51116,16 @@
           "photoAlt": "Полуостров Вальдес — киты и морские животные",
           "visitorInfo": "https://peninsulavaldes.org.ar/visita-peninsula/como-llegar/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 7,
           "lat": -44.044,
           "lon": -65.214,
           "codes": "L",
-          "priority": 1,
+          "priority": "1",
           "format": "Полдня",
           "region": "Атлантическое побережье",
           "source": "https://chubutpatagonia.gob.ar/experiencia/punta-tombo-la-ciudad-de-pinguinos-mas-grande-del-mundo/",
@@ -51131,14 +51137,16 @@
           "time": "2–3 часа; с дорогой из Трелью полдня или день",
           "walk": "Легко; тропа почти без тени",
           "desc": "Магеллановы пингвины устраивают гнёзда в степи и пересекают прогулочную тропу по дороге к морю.",
-          "detail": "Сначала зайдите в центр интерпретации, затем пройдите по обозначенной тропе среди гнёзд. Интереснее всего наблюдать обычную жизнь колонии: кормление птенцов и возвращение птиц с моря. Сезон обычно длится с сентября по апрель, но число птиц заметно меняется. Дайте пингвинам свободно пересекать дорожку и не подходите к норам.",
+          "detail": "Сначала зайдите в туристический центр с экспозицией о пингвинах, затем пройдите по обозначенной тропе среди гнёзд. Интереснее всего наблюдать обычную жизнь колонии: кормление птенцов и возвращение птиц с моря. Сезон обычно длится с сентября по апрель, но число птиц заметно меняется. Дайте пингвинам свободно пересекать дорожку и не подходите к норам.",
           "tickets": "Нужен билет в охраняемую территорию. Проверьте даты сезона и время последнего входа.",
           "shortName": "Пунта-Томбо",
           "originalName": "Punta Tombo",
           "photoAlt": "Пунта-Томбо — колония пингвинов",
           "visitorInfo": "https://chubutpatagonia.gob.ar/experiencia/punta-tombo-la-ciudad-de-pinguinos-mas-grande-del-mundo/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 20,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 8,
@@ -51170,8 +51178,8 @@
           "id": 9,
           "lat": -42.726,
           "lon": -71.75,
-          "codes": "WP",
-          "priority": 3,
+          "codes": "PW",
+          "priority": "3",
           "format": "День",
           "region": "Озёрный край Аргентины",
           "source": "https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-los-alerces/actividades",
@@ -51183,14 +51191,16 @@
           "time": "Полдня или день",
           "walk": "Легко на прибрежных тропах",
           "desc": "Бирюзовые реки и леса, где растут алерсе — одни из самых долговечных деревьев планеты.",
-          "detail": "От пешеходного моста через Río Arrayanes тропа идёт к озеру Менендес мимо старого дерева алерсе. Так можно увидеть лес и воду без большого похода. К знаменитой роще Alerzal Milenario добираются на экскурсионном судне с дальнейшей прогулкой; её планируют отдельно. При нехватке времени лучше спокойно пройти один береговой маршрут, чем спешить между дальними частями парка.",
-          "tickets": "Нужен билет в парк. Экскурсию к Alerzal Milenario бронируйте отдельно заранее. Парковка у моста Río Arrayanes оплачивается по местным правилам.",
+          "detail": "От пешеходного моста через реку Арраянес тропа идёт к озеру Менендес мимо старого дерева алерсе. Так можно увидеть лес и воду без большого похода. К знаменитой роще Alerzal Milenario добираются на экскурсионном судне с дальнейшей прогулкой; её планируют отдельно. При нехватке времени лучше спокойно пройти один береговой маршрут, чем спешить между дальними частями парка.",
+          "tickets": "Нужен билет в парк. Экскурсию к Alerzal Milenario бронируйте отдельно заранее. Правила парковки у моста через реку Арраянес уточните на месте.",
           "shortName": "Лос-Алерсес",
           "originalName": "Los Alerces",
           "photoAlt": "Лос-Алерсес — леса и прозрачные реки",
           "visitorInfo": "https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-los-alerces",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 10,
@@ -51371,7 +51381,7 @@
           "originalName": "Beagle Channel",
           "photoAlt": "Пролив Бигл — острова и морские птицы",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 20
         },
         {
           "id": 17,
@@ -51480,7 +51490,7 @@
           "lat": -44.463,
           "lon": -72.51,
           "codes": "PW",
-          "priority": 1,
+          "priority": "1",
           "format": "Полдня",
           "region": "Карретера-Аустраль",
           "source": "https://www.conaf.cl/parque_nacionales/parque-nacional-queulat/",
@@ -51490,7 +51500,7 @@
           "extra": [],
           "name": "Кеулат — висячий ледник над лесом",
           "time": "Полдня",
-          "walk": "Умеренно на лесной тропе; есть короткие смотровые",
+          "walk": "Умеренно на длинной тропе; к ближайшим смотровым есть короткие подходы",
           "desc": "Ледник обрывается высоко над долиной, а под ним через влажный лес падают водопады.",
           "detail": "В секторе Ventisquero Colgante можно выбрать короткий выход к лагуне Témpanos или более длинную тропу La Morrena. Виды здесь зависят от облачности: иногда видны ледяная стена и водопады, иногда только нижняя часть долины. Лес с мхами и папоротниками сам по себе интересен. Проверяйте именно актуальную схему троп: маршруты менялись после ремонта, и старые описания могут не соответствовать доступу.",
           "tickets": "Купите билет парка через Pases Parques и проверьте открытые тропы у CONAF. Лодка по лагуне оплачивается отдельно, если работает.",
@@ -51499,7 +51509,9 @@
           "photoAlt": "Кеулат — висячий ледник над лесом",
           "visitorInfo": "https://www.conaf.cl/parque_nacionales/parque-nacional-queulat/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 22,
@@ -51557,7 +51569,7 @@
           "lat": -47.119,
           "lon": -72.487,
           "codes": "PL",
-          "priority": 3,
+          "priority": "3",
           "format": "День",
           "region": "Карретера-Аустраль",
           "source": "https://www.conaf.cl/parque_nacionales/parque-nacional-patagonia/",
@@ -51569,14 +51581,16 @@
           "time": "День; для длинных троп несколько дней",
           "walk": "От лёгких прогулок до длинных горных маршрутов",
           "desc": "Открытая степная долина с гуанако сменяется озёрами и горными склонами чилийского национального парка.",
-          "detail": "Начните с центра посетителей в долине Чакабуко: здесь объясняют восстановление земель бывшего ранчо и помогают выбрать тропу. Для первого знакомства подходят короткие прогулки и остановки вдоль долины. Lagunas Altas — уже полноценный длинный поход, а сектор Avilés находится в другой части парка. Не воспринимайте весь парк как одну прогулочную площадку: расстояния и сложность маршрутов заметно различаются.",
+          "detail": "Начните с центра посетителей в долине Чакабуко: здесь объясняют восстановление земель бывшего ранчо и помогают выбрать тропу. Для первого знакомства подходят короткие прогулки и остановки вдоль долины. Lagunas Altas — уже полноценный длинный поход, а сектор Avilés находится в другой части парка. Выбирайте маршрут с учётом расстояния до его начала и сложности тропы.",
           "tickets": "Проверьте билет и открытые секторы на странице CONAF. Кемпинги и услуги размещения оплачиваются и организуются отдельно.",
           "shortName": "Парк Патагония",
           "originalName": "Patagonia National Park",
           "photoAlt": "Парк Патагония — долина Чакабуко",
           "visitorInfo": "https://www.conaf.cl/parque_nacionales/parque-nacional-patagonia/",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 50,
+          "hike": "",
+          "access": ""
         },
         {
           "id": 25,
@@ -51756,7 +51770,7 @@
           "photoAlt": "Исла-Магдалена — пингвины в Магеллановом проливе",
           "visitorInfo": "https://tabsa.cl/rutas/parenas-imagdalena",
           "photoFocusX": 50,
-          "photoFocusY": 50
+          "photoFocusY": 25
         },
         {
           "id": 32,
@@ -51846,7 +51860,8 @@
           "sources": [
             "https://www.barilocheturismo.gob.ar/es/actividades-cerro-campanario"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "2": {
           "kind": "arrival",
@@ -51866,7 +51881,8 @@
           "sources": [
             "https://www.argentina.gob.ar/node/466490"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "4": {
           "kind": "arrival",
@@ -51896,7 +51912,8 @@
           "sources": [
             "https://peninsulavaldes.org.ar/visita-peninsula/como-llegar/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "7": {
           "kind": "arrival",
@@ -51906,7 +51923,8 @@
           "sources": [
             "https://chubutpatagonia.gob.ar/experiencia/punta-tombo-la-ciudad-de-pinguinos-mas-grande-del-mundo/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "8": {
           "kind": "arrival",
@@ -51926,7 +51944,8 @@
           "sources": [
             "https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-los-alerces/actividades"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "10": {
           "kind": "arrival",
@@ -52046,7 +52065,8 @@
           "sources": [
             "https://www.conaf.cl/parque_nacionales/parque-nacional-queulat/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "22": {
           "kind": "arrival",
@@ -52076,7 +52096,8 @@
           "sources": [
             "https://www.conaf.cl/parque_nacionales/parque-nacional-patagonia/"
           ],
-          "checked": "2026-11-02"
+          "checked": "2026-11-02",
+          "placeId": ""
         },
         "25": {
           "kind": "arrival",
@@ -52189,10 +52210,12 @@
             "time": "Half a day or a full day",
             "walk": "Easy; optional climb up Campanario",
             "desc": "Wooded peninsulas, blue lakes and the mountains around Bariloche introduce northern Patagonia.",
-            "detail": "Circuito Chico links the shore of Nahuel Huapi, the Llao Llao area and viewpoints above Lake Moreno. At Cerro Campanario, choose the chairlift or a short but steep woodland path. The summit reveals how the lakes and peninsulas fit together. Leave time for lakeside stops and a short forest walk; simply driving the whole loop misses much of its appeal.",
+            "detail": "Circuito Chico links the shore of Lake Nahuel Huapi, the Llao Llao area and viewpoints above Lake Moreno. At Cerro Campanario hill, choose the chairlift or a short but steep woodland path. The summit reveals how the lakes and peninsulas fit together. Leave time for lakeside stops and a short forest walk.",
             "tickets": "The public-road circuit has no admission ticket. Campanario’s chairlift is paid separately; check its opening hours before visiting.",
             "shortName": "Bariloche",
-            "photoAlt": "Bariloche — the lakes of Circuito Chico"
+            "photoAlt": "Bariloche — the lakes of Circuito Chico",
+            "hike": "",
+            "access": ""
           },
           "2": {
             "format": "Day",
@@ -52267,10 +52290,12 @@
             "time": "2–3 hours on site; half a day or more from Trelew",
             "walk": "Easy; little shade",
             "desc": "Magellanic penguins nest in the steppe and cross the visitor trail on their way to the sea.",
-            "detail": "Start at the interpretation centre, then follow the marked trail through the nesting area. Everyday colony life is the main attraction: feeding chicks and birds returning from the sea. Visits generally run from September to April, although bird numbers change considerably. Let penguins cross freely and keep away from nesting burrows.",
+            "detail": "Start at the visitor centre with its penguin displays, then follow the marked trail through the nesting area. Everyday colony life is the main attraction: feeding chicks and birds returning from the sea. Visits generally run from September to April, although bird numbers change considerably. Let penguins cross freely and keep away from nesting burrows.",
             "tickets": "A protected-area ticket is required. Check seasonal opening dates and last admission.",
             "shortName": "Punta Tombo",
-            "photoAlt": "Punta Tombo — a penguin colony"
+            "photoAlt": "Punta Tombo — a penguin colony",
+            "hike": "",
+            "access": ""
           },
           "8": {
             "format": "Day",
@@ -52294,9 +52319,11 @@
             "walk": "Easy on waterside trails",
             "desc": "Turquoise rivers and forests of alerce, among the world’s longest-lived trees.",
             "detail": "From the Río Arrayanes footbridge, a trail leads towards Lake Menéndez past an old alerce tree. It offers forest and water views without a major hike. The celebrated Alerzal Milenario grove requires a boat excursion followed by a walk and separate planning. With limited time, enjoy one waterside route rather than rushing between distant parts of the park.",
-            "tickets": "Park admission is required. Book the Alerzal Milenario excursion separately in advance. Parking beside the Río Arrayanes bridge is managed separately.",
+            "tickets": "Park admission is required. Book the Alerzal Milenario boat excursion separately in advance. Check parking rules at the Río Arrayanes bridge on arrival.",
             "shortName": "Los Alerces",
-            "photoAlt": "Los Alerces — forests and clear rivers"
+            "photoAlt": "Los Alerces — forests and clear rivers",
+            "hike": "",
+            "access": ""
           },
           "10": {
             "format": "Half day",
@@ -52447,12 +52474,14 @@
             "creditText": "Jason Hollinger · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Glacier_in_Parque_Nacional_Queulat_(3184588913).jpg)",
             "name": "Queulat — a hanging glacier above the forest",
             "time": "Half a day",
-            "walk": "Moderate on the forest trail; short viewpoints are available",
+            "walk": "Moderate on the longer trail; shorter walks lead to the nearer viewpoints",
             "desc": "A glacier ends high above the valley, feeding waterfalls through temperate rainforest.",
             "detail": "In the Ventisquero Colgante sector, choose the short path to Laguna Témpanos or the longer La Morrena trail. Clouds determine how much is visible: the ice wall and waterfalls may appear, or only the lower valley. Mossy forest and ferns are worthwhile in their own right. Use the current trail map, as routes have changed following repairs and older descriptions may no longer match access.",
             "tickets": "Buy park admission through Pases Parques and check open trails with CONAF. Lagoon boat trips, when operating, cost extra.",
             "shortName": "Queulat",
-            "photoAlt": "Queulat — a hanging glacier above the forest"
+            "photoAlt": "Queulat — a hanging glacier above the forest",
+            "hike": "",
+            "access": ""
           },
           "22": {
             "format": "Day",
@@ -52488,10 +52517,12 @@
             "time": "A full day; several days for longer trails",
             "walk": "From easy walks to long mountain trails",
             "desc": "An open steppe valley with guanacos gives way to lakes and mountain slopes in this Chilean national park.",
-            "detail": "Start at the Chacabuco Valley visitor centre to learn about the former ranch’s restoration and choose a trail. Short walks and valley stops suit a first visit. Lagunas Altas is a substantial day hike, while the Avilés sector lies elsewhere in the park. Treat these as different outings: distances and difficulty vary considerably across the park.",
+            "detail": "Start at the Chacabuco Valley visitor centre to learn about the former ranch’s restoration and choose a trail. Short walks and valley stops suit a first visit. Lagunas Altas is a substantial day hike, while the Avilés sector lies elsewhere in the park. Choose a walk according to its difficulty and the distance to the trailhead.",
             "tickets": "Check admission and open sectors with CONAF. Camping and accommodation are arranged and paid for separately.",
             "shortName": "Patagonia National Park",
-            "photoAlt": "Patagonia National Park — Chacabuco Valley"
+            "photoAlt": "Patagonia National Park — Chacabuco Valley",
+            "hike": "",
+            "access": ""
           },
           "25": {
             "format": "Half day",
@@ -52627,139 +52658,173 @@
         "routeAccess": {
           "1": {
             "label": "Cerro Campanario lower-station parking",
-            "note": "Drive to Cerro Campanario’s lower station at kilometre 17.5 of Avenida Bustillo. This is a convenient first stop before continuing around Circuito Chico and its viewpoints."
+            "note": "Drive to Cerro Campanario’s lower station at kilometre 17.5 of Avenida Bustillo. This is a convenient first stop before continuing around Circuito Chico and its viewpoints.",
+            "alternatives": []
           },
           "2": {
             "label": "Los Rápidos ranger post before the Tronador road",
-            "note": "Drive to the Los Rápidos ranger post beside Lago Mascardi. While the Pampa Linda road is closed, this route ends at the checkpoint; do not continue towards the glacier. Ask rangers about the permitted approach once it reopens."
+            "note": "Drive to the Los Rápidos ranger post beside Lago Mascardi. While the Pampa Linda road is closed, this route ends at the checkpoint; do not continue towards the glacier. Ask rangers about the permitted approach once it reopens.",
+            "alternatives": []
           },
           "3": {
             "label": "Puerto Pañuelo parking",
-            "note": "Drive to Puerto Pañuelo in the Llao Llao area and continue by excursion boat. This selects the usual Bariloche departure; Villa La Angostura sailings use a different port."
+            "note": "Drive to Puerto Pañuelo in the Llao Llao area and continue by excursion boat. This selects the usual Bariloche departure; Villa La Angostura sailings use a different port.",
+            "alternatives": []
           },
           "4": {
             "label": "Signed stopping area at Lago Falkner",
-            "note": "Drive along RN40 to the signed stopping area at Lago Falkner, one convenient stop on the Seven Lakes road. The full route connects Villa La Angostura and San Martín de los Andes; avoid stopping on narrow shoulders."
+            "note": "Drive along RN40 to the signed stopping area at Lago Falkner, one convenient stop on the Seven Lakes road. The full route connects Villa La Angostura and San Martín de los Andes; avoid stopping on narrow shoulders.",
+            "alternatives": []
           },
           "5": {
             "label": "Puerto Canoa information centre",
-            "note": "Drive from Junín de los Andes along RP61 beside Huechulafquen to Puerto Canoa; the later sections are gravel. Tromen offers a northern approach to the volcano, but this selects the lakeside route."
+            "note": "Drive from Junín de los Andes along RP61 beside Huechulafquen to Puerto Canoa; the later sections are gravel. Tromen offers a northern approach to the volcano, but this selects the lakeside route.",
+            "alternatives": []
           },
           "6": {
             "label": "Puerto Pirámides tourist information centre",
-            "note": "Drive to Puerto Pirámides, park in a permitted space and walk to your operator. Confirm the boarding point when booking. Coastal viewpoints have separate road approaches."
+            "note": "Drive to Puerto Pirámides, park in a permitted space and walk to your operator. Confirm the boarding point when booking. Coastal viewpoints have separate road approaches.",
+            "alternatives": []
           },
           "7": {
             "label": "Punta Tombo visitor-centre parking",
-            "note": "Drive from RN3 via RP75 and RP1 to the Punta Tombo visitor centre. The final section is gravel; the colony visit starts at the car park."
+            "note": "Drive from RN3 via RP75 and RP1 to the Punta Tombo visitor centre. The final section is gravel; the colony visit starts at the car park.",
+            "alternatives": []
           },
           "8": {
             "label": "Monte León registration centre",
-            "note": "Drive to the former Estancia Monte León beside RN3 at kilometre 2400. After registration, follow the authorised coastal approach to the trailhead car parks."
+            "note": "Drive to the former Estancia Monte León beside RN3 at kilometre 2400. After registration, follow the authorised coastal approach to the trailhead car parks.",
+            "alternatives": []
           },
           "9": {
             "label": "Río Arrayanes footbridge parking",
-            "note": "Drive along RP71 to the Río Arrayanes footbridge car park, then continue on foot. Confirm the pier and check-in time with your boat operator."
+            "note": "Drive along RP71 to the Río Arrayanes footbridge car park, then continue on foot. Confirm the pier and check-in time with your boat operator.",
+            "alternatives": []
           },
           "10": {
             "label": "Cueva de las Manos visitor centre",
-            "note": "Drive from RN40 along the gravel approach to the official visitor centre and car park. The alternative Portal Cañadón Pinturas entrance on the opposite side of the canyon involves a separate hike."
+            "note": "Drive from RN40 along the gravel approach to the official visitor centre and car park. The alternative Portal Cañadón Pinturas entrance on the opposite side of the canyon involves a separate hike.",
+            "alternatives": []
           },
           "11": {
             "label": "Portal Base Fitz Roy at the end of Avenida San Martín",
-            "note": "Drive to Portal Base Fitz Roy at El Chaltén’s northern edge and use permitted parking. Río Eléctrico is an alternative start; this selects the village route returning to the same place."
+            "note": "Drive to Portal Base Fitz Roy at El Chaltén’s northern edge and use permitted parking. Río Eléctrico is an alternative start; this selects the village route returning to the same place.",
+            "alternatives": []
           },
           "12": {
             "label": "Laguna Torre trailhead",
-            "note": "Drive to the signed trailhead on El Chaltén’s western edge. Use permitted nearby parking, then continue on foot."
+            "note": "Drive to the signed trailhead on El Chaltén’s western edge. Use permitted nearby parking, then continue on foot.",
+            "alternatives": []
           },
           "13": {
             "label": "Perito Moreno walkways car park",
-            "note": "Drive from El Calafate along RP11 to the Perito Moreno parking area and follow signs to the walkways. Ice-trekking bookings may instead require meeting at Puerto Bajo de las Sombras."
+            "note": "Drive from El Calafate along RP11 to the Perito Moreno parking area and follow signs to the walkways. Ice-trekking bookings may instead require meeting at Puerto Bajo de las Sombras.",
+            "alternatives": []
           },
           "14": {
             "label": "Solo Patagonia terminal at Punta Bandera",
-            "note": "Drive to Solo Patagonia’s terminal at Puerto Punta Bandera, about 47 km from El Calafate, where parking is available. Other operators may use different piers; check your booking."
+            "note": "Drive to Solo Patagonia’s terminal at Puerto Punta Bandera, about 47 km from El Calafate, where parking is available. Other operators may use different piers; check your booking.",
+            "alternatives": []
           },
           "15": {
             "label": "Bahía Lapataia car park",
-            "note": "Drive along RN3 through the park entrance to Bahía Lapataia’s car park. For Lake Acigami, stop earlier at the Alakush visitor centre."
+            "note": "Drive along RN3 through the park entrance to Bahía Lapataia’s car park. For Lake Acigami, stop earlier at the Alakush visitor centre.",
+            "alternatives": []
           },
           "16": {
             "label": "Ushuaia tourist pier",
-            "note": "Drive towards the tourist pier at Prefectura Naval Argentina and Lasserre, park legally nearby and continue on foot. Trips via Puerto Almanza use a different meeting point specified by the operator."
+            "note": "Drive towards the tourist pier at Prefectura Naval Argentina and Lasserre, park legally nearby and continue on foot. Trips via Puerto Almanza use a different meeting point specified by the operator.",
+            "alternatives": []
           },
           "17": {
             "label": "Laguna Esmeralda trailhead parking",
-            "note": "Drive about 18 km northeast from Ushuaia along RN3 to the signed Laguna Esmeralda car park. Do not park on the road."
+            "note": "Drive about 18 km northeast from Ushuaia along RN3 to the signed Laguna Esmeralda car park. Do not park on the road.",
+            "alternatives": []
           },
           "18": {
             "label": "Cabo San Pablo lighthouse trail parking",
-            "note": "Leave RN3 for gravel road A and continue about 40 km to the Cabo San Pablo lighthouse trail car park. Continue on foot to the headland and shore."
+            "note": "Leave RN3 for gravel road A and continue about 40 km to the Cabo San Pablo lighthouse trail car park. Continue on foot to the headland and shore.",
+            "alternatives": []
           },
           "19": {
             "label": "Park administration at El Amarillo",
-            "note": "Drive to the El Amarillo administration south of Chaitén for southern-sector trail information. Northern forest walks have separate parking near Caleta Gonzalo; approaching from the north requires ferry planning."
+            "note": "Drive to the El Amarillo administration south of Chaitén for southern-sector trail information. Northern forest walks have separate parking near Caleta Gonzalo; approaching from the north requires ferry planning.",
+            "alternatives": []
           },
           "20": {
             "label": "Rafting Futaleufú office",
-            "note": "Drive to the Rafting Futaleufú office designated as the meeting point, then take the operator’s transfer to base. Other companies use their own meeting points; follow your confirmation."
+            "note": "Drive to the Rafting Futaleufú office designated as the meeting point, then take the operator’s transfer to base. Other companies use their own meeting points; follow your confirmation.",
+            "alternatives": []
           },
           "21": {
             "label": "Ventisquero Colgante sector parking",
-            "note": "Leave Ruta 7 at the signed Ventisquero Colgante approach. From the car park, walk to the entrance checkpoint and follow an open trail."
+            "note": "Leave Ruta 7 at the signed Ventisquero Colgante approach. From the car park, walk to the entrance checkpoint and follow an open trail.",
+            "alternatives": []
           },
           "22": {
             "label": "Mirador Laguna entrance",
-            "note": "Drive from Villa Cerro Castillo along Camino Vecinal Estero el Bosque to the Mirador Laguna entrance, about 4 km from the village. This is not the separate Estero Parada entrance."
+            "note": "Drive from Villa Cerro Castillo along Camino Vecinal Estero el Bosque to the Mirador Laguna entrance, about 4 km from the village. This is not the separate Estero Parada entrance.",
+            "alternatives": []
           },
           "23": {
             "label": "Puerto Río Tranquilo pier",
-            "note": "Drive to Puerto Río Tranquilo’s waterfront and pier and use permitted nearby parking. Operators departing from Bahía Mansa provide a different approach."
+            "note": "Drive to Puerto Río Tranquilo’s waterfront and pier and use permitted nearby parking. Operators departing from Bahía Mansa provide a different approach.",
+            "alternatives": []
           },
           "24": {
             "label": "Valle Chacabuco visitor centre",
-            "note": "Leave Ruta 7 for X-83 into Chacabuco Valley and drive to the visitor centre and car park. Avilés and other sectors have separate starting points."
+            "note": "Leave Ruta 7 for X-83 into Chacabuco Valley and drive to the visitor centre and car park. Avilés and other sectors have separate starting points.",
+            "alternatives": []
           },
           "25": {
             "label": "Caleta Tortel entrance car park",
-            "note": "Leave the Carretera Austral for the Caleta Tortel access road and continue to the road-end car park. From there, follow the boardwalks on foot."
+            "note": "Leave the Carretera Austral for the Caleta Tortel access road and continue to the road-end car park. From there, follow the boardwalks on foot.",
+            "alternatives": []
           },
           "26": {
             "label": "Bahía Bahamóndez pier",
-            "note": "Drive through Villa O’Higgins to Bahía Bahamóndez at the road’s end, allowing for the Puerto Yungay–Río Bravo crossing beforehand. Excursions may meet in the village; check the operator’s confirmation."
+            "note": "Drive through Villa O’Higgins to Bahía Bahamóndez at the road’s end, allowing for the Puerto Yungay–Río Bravo crossing beforehand. Excursions may meet in the village; check the operator’s confirmation.",
+            "alternatives": []
           },
           "27": {
             "label": "Valle Glaciares office in Puerto Río Tranquilo",
-            "note": "Drive to Valle Glaciares on Puerto Río Tranquilo’s waterfront. This selects the operator’s transfer to Bahía Exploradores; arrange self-driving to the pier separately. Other operators and departures from Puerto Chacabuco are available."
+            "note": "Drive to Valle Glaciares on Puerto Río Tranquilo’s waterfront. This selects the operator’s transfer to Bahía Exploradores; arrange self-driving to the pier separately. Other operators and departures from Puerto Chacabuco are available.",
+            "alternatives": []
           },
           "28": {
             "label": "Centro de Bienvenida Las Torres car park",
-            "note": "Drive via Laguna Amarga to Centro de Bienvenida Las Torres. Day hikers park regular cars here; hotel parking is reserved for its guests. Confirm suitable parking separately for a campervan."
+            "note": "Drive via Laguna Amarga to Centro de Bienvenida Las Torres. Day hikers park regular cars here; hotel parking is reserved for its guests. Confirm suitable parking separately for a campervan.",
+            "alternatives": []
           },
           "29": {
             "label": "Salto Grande car park",
-            "note": "Drive to Salto Grande’s car park near Pudeto, then walk to the waterfall and Mirador Cuernos. This is separate from the catamaran boarding point across Lake Pehoé."
+            "note": "Drive to Salto Grande’s car park near Pudeto, then walk to the waterfall and Mirador Cuernos. This is separate from the catamaran boarding point across Lake Pehoé.",
+            "alternatives": []
           },
           "30": {
             "label": "Hotel Lago Grey — boat check-in",
-            "note": "Drive to Hotel Lago Grey for check-in, then follow directions to parking and the walking route across Playa Grey. Boarding is a 30–45-minute walk away."
+            "note": "Drive to Hotel Lago Grey for check-in, then follow directions to parking and the walking route across Playa Grey. Boarding is a 30–45-minute walk away.",
+            "alternatives": []
           },
           "31": {
             "label": "TABSA Tres Puentes terminal",
-            "note": "Drive to Tres Puentes terminal in northern Punta Arenas and check parking locally. This selects TABSA’s service; other companies’ speedboats may use another port."
+            "note": "Drive to Tres Puentes terminal in northern Punta Arenas and check parking locally. This selects TABSA’s service; other companies’ speedboats may use another port.",
+            "alternatives": []
           },
           "32": {
             "label": "Plaza Muñoz Gamero",
-            "note": "Drive towards the central square and use permitted street parking nearby. Continue around the centre on foot."
+            "note": "Drive towards the central square and use permitted street parking nearby. Continue around the centre on foot.",
+            "alternatives": []
           },
           "33": {
             "label": "Cueva del Milodón entrance and car park",
-            "note": "Drive from Puerto Natales along Ruta 9, then Y-290 to the monument entrance and car park."
+            "note": "Drive from Puerto Natales along Ruta 9, then Y-290 to the monument entrance and car park.",
+            "alternatives": []
           },
           "34": {
             "label": "Reserva Natural Pingüino Rey entrance",
-            "note": "Drive to the reserve on Ruta Y-85 at kilometre 14.5 beside Bahía Inútil. From Punta Arenas, use either the Porvenir ferry or Primera Angostura, depending on schedules and your onward route."
+            "note": "Drive to the reserve on Ruta Y-85 at kilometre 14.5 beside Bahía Inútil. From Punta Arenas, use either the Porvenir ferry or Primera Angostura, depending on schedules and your onward route.",
+            "alternatives": []
           }
         },
         "title": "Patagonia",
@@ -52774,7 +52839,7 @@
           "description": "Glaciers, granite towers, steppe and penguins on both sides of the Andes.",
           "alt": "Fitz Roy and Laguna de los Tres"
         },
-        "reviewedSource": "4343e53d"
+        "reviewedSource": "da21ba35"
       },
       "title": "Патагония",
       "genitive": "Патагонии",

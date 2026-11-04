@@ -145,3 +145,61 @@ body.home-trip .method-copy>p,body.home-trip .updating p{font-size:15px;line-hei
  body.home-trip .country p{font-size:14px;line-height:1.55}
  body.home-trip .country .photo{height:100%;min-height:150px}
 }
+
+/* Direct region access and a more compact map-and-benefits section. */
+body.home-trip .home-dest-nav{max-width:1280px;margin:0 auto;padding:2px 36px 10px;display:flex;gap:18px;align-items:center;border-bottom:1px solid #e7ece9;font:13px/1.4 Arial,sans-serif}
+body.home-trip .home-dest-label{flex-shrink:0;font-weight:600;color:#617970}
+body.home-trip .home-dest-links{display:flex;flex-wrap:wrap;gap:0 14px;min-width:0}
+body.home-trip .home-dest-links a{display:inline-flex;align-items:center;min-height:44px;padding:6px 0;color:#294b5a;text-decoration:underline;text-underline-offset:4px;text-decoration-color:#c9d7d5;white-space:nowrap}
+body.home-trip .home-dest-links a:hover{color:#a4543b;text-decoration-color:currentColor}
+body.home-trip .home-demo{padding-top:28px;padding-bottom:28px;margin-bottom:40px}
+body.home-trip .home-demo-intro h2{font-size:32px;margin-bottom:16px}
+body.home-trip .home-demo-intro>p{font-size:14px;line-height:1.7}
+body.home-trip .home-preview-heading{padding:14px 18px}
+body.home-trip .home-demo-exports{padding-top:12px;padding-bottom:0;align-items:start}
+body.home-trip .home-preview-note{margin-top:12px;padding:10px 18px}
+body.home-trip .home-outcomes .home-map-help{font:12px/1.6 Arial,sans-serif;color:#486976;margin-top:6px}
+body.home-trip .home-map-help summary{cursor:pointer;min-height:36px;padding:8px 0;text-decoration:underline;text-underline-offset:3px}
+body.home-trip .home-map-help ol{margin:6px 0 10px;padding-left:19px}
+body.home-trip .home-outcomes .home-map-help li{display:list-item;border:0;padding:0;margin:0 0 8px;font:12px/1.6 Arial,sans-serif}
+body.home-trip .home-map-help p{font:12px/1.6 Arial,sans-serif;margin:0 0 8px}
+body.home-trip .home-map-help a{color:inherit;text-underline-offset:3px}
+@media(min-width:701px){
+ body.home-trip .home-demo{grid-template-columns:minmax(0,1.22fr) minmax(0,.78fr);grid-template-rows:auto minmax(280px,auto) auto repeat(3,minmax(78px,auto)) auto auto auto;column-gap:36px}
+ body.home-trip .home-demo-preview{grid-column:1}
+ body.home-trip .home-demo-intro,body.home-trip .home-outcomes,body.home-trip .home-demo-cta{grid-column:2}
+ body.home-trip #home-route-map{min-height:280px}
+ body.home-trip .home-demo-exports .home-button,body.home-trip .home-demo-cta>.home-button{height:52px;min-height:52px}
+ body.home-trip .home-demo-cta{padding-top:12px}
+ body.home-trip .home-outcomes>li{padding-top:10px;padding-bottom:10px}
+}
+@media(min-width:701px) and (max-width:1000px){
+ body.home-trip .home-demo{column-gap:24px;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr)}
+ body.home-trip .home-dest-nav{padding-inline:24px;gap:14px}
+ body.home-trip .home-demo-exports .home-button{font-size:12px;min-height:64px;height:64px}
+ body.home-trip .home-demo-cta>.home-button{height:64px}
+}
+@media(max-width:700px){
+ body.home-trip .home-dest-nav{padding:0 20px 10px;display:block}
+ body.home-trip .home-dest-label{display:block;font-size:12px;margin-bottom:2px}
+ body.home-trip .home-dest-links{flex-wrap:nowrap;overflow-x:auto;gap:18px;padding-bottom:4px;scrollbar-width:thin;scrollbar-color:#b6c9c2 transparent}
+ body.home-trip .home-dest-links a{flex-shrink:0;min-height:44px}
+ body.home-trip .home-demo{padding:24px 16px;margin-bottom:30px}
+ body.home-trip .home-demo-intro h2{font-size:30px}
+ body.home-trip #home-route-map{height:260px}
+ body.home-trip .home-demo-preview{margin-bottom:18px}
+ body.home-trip .home-demo-exports{gap:8px}
+}
+
+/* The author's words lead the page; paired action captions share a baseline. */
+body.home-trip .home-hero-quote{margin:0;padding:0;border:0;max-width:480px}
+body.home-trip .home-hero-quote h1{font:400 clamp(28px,2.5vw,34px)/1.36 Georgia,serif;letter-spacing:-.4px;max-width:none;margin:0;text-wrap:pretty;color:#294b5a}
+body.home-trip .home-message .home-takeaway{margin-top:28px}
+body.home-trip .home-demo-exports{gap:7px 12px;padding-bottom:12px}
+body.home-trip .home-demo-exports .home-preview-note{grid-column:1/-1;font:12px/1.6 Arial,sans-serif;margin:0;padding:0;background:transparent;color:#586e77}
+@media(min-width:701px){body.home-trip .home-demo-exports .home-preview-note{grid-row:2}}
+@media(max-width:700px){
+ body.home-trip .home-hero-quote h1{font-size:26px;line-height:1.4;letter-spacing:-.2px}
+ body.home-trip .home-message .home-takeaway{margin-top:22px}
+ body.home-trip .home-demo-exports{gap:8px;padding-bottom:12px}
+}

@@ -82,3 +82,66 @@ body.home-trip .home-demo-cta>.home-button{margin:0}
  body.home-trip .home-demo-cta>.home-button{width:100%}
  body.home-trip .home-demo-places{display:block}
 }
+
+/* A consistent two-family system and a clear, useful first screen. */
+body.home-trip{font-family:Arial,sans-serif;font-size:15px;line-height:1.65}
+body.home-trip .home-intro{align-items:center;gap:40px;padding-top:32px;padding-bottom:36px}
+body.home-trip .home-message h1{margin-bottom:20px}
+body.home-trip .home-message>p{font-size:15px;line-height:1.7;max-width:450px;color:#586e77}
+body.home-trip .home-takeaway{margin-top:24px;padding:20px 22px;background:#f0f5f3;border:1px solid #e1e9e4;border-radius:16px;max-width:460px}
+body.home-trip .home-takeaway>strong{display:block;font:600 14px/1.5 Arial,sans-serif;margin-bottom:12px}
+body.home-trip .home-takeaway ul{list-style:none;margin:0;padding:0;display:grid;gap:12px}
+body.home-trip .home-takeaway li{display:flex;gap:12px;align-items:center;font:14px/1.5 Arial,sans-serif;color:#48636c}
+body.home-trip .home-takeaway svg{width:20px;height:20px;flex:0 0 20px;fill:none;stroke:#68877b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+body.home-trip .home-message .home-actions{gap:12px 20px;align-items:center;flex-wrap:wrap}
+body.home-trip .home-example-link{display:inline-flex;align-items:center;gap:8px;min-height:48px;font:14px/1.5 Arial,sans-serif;color:#426676;text-decoration:underline;text-underline-offset:4px;text-decoration-color:#bdcdcd}
+body.home-trip .home-button{font-weight:600;font-size:14px;border-radius:12px;min-height:48px}
+body.home-trip .gallery-signature{font:14px/1.5 Arial,sans-serif;color:#586e77}
+body.home-trip .home-kicker{font:600 12px/1.5 Arial,sans-serif;letter-spacing:.7px;color:#617970}
+body.home-trip .home-demo{background:#f1f6f5;border-radius:24px;margin-top:16px;margin-bottom:56px;padding-top:36px;padding-bottom:36px}
+body.home-trip .home-demo-intro h2{font-size:36px;line-height:1.2;letter-spacing:-.6px}
+body.home-trip .home-preview-heading strong{font:600 20px/1.4 Arial,sans-serif}
+body.home-trip .home-demo-intro>p{font-size:15px;line-height:1.75;color:#586e77}
+body.home-trip .home-outcomes strong{font:600 14px/1.5 Arial,sans-serif}
+body.home-trip .home-outcomes span{font:14px/1.6 Arial,sans-serif;color:#586e77}
+body.home-trip .home-outcomes li{border-color:#d9e4df}
+body.home-trip .home-demo-places li{grid-template-columns:minmax(0,1fr) auto;gap:8px}
+body.home-trip .home-place-select{font:14px/1.5 Arial,sans-serif}
+body.home-trip .home-place-select strong{font-weight:600}
+body.home-trip .home-place-links{display:flex;align-items:center;gap:4px}
+body.home-trip .home-place-links a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:6px 9px;border-radius:8px;font:12px/1.4 Arial,sans-serif;color:#365d6d;text-decoration:underline;text-underline-offset:3px;text-decoration-color:#b6cbd0}
+body.home-trip .home-place-links a:hover{background:#edf4f4}
+body.home-trip .home-demo-exports .home-button{font-size:14px;line-height:1.4}
+body.home-trip .home-cta-note,body.home-trip .home-preview-heading span,body.home-trip .home-demo-exports p,body.home-trip .home-demo-exports details,body.home-trip .home-route-caption,body.home-trip .home-preview-note,body.home-trip .home-place-select small{font-family:Arial,sans-serif;font-size:12px;line-height:1.6;color:#586e77}
+body.home-trip .country h3{font-family:Georgia,serif;font-weight:400;font-size:26px;line-height:1.2}
+body.home-trip .country p{font:14px/1.65 Arial,sans-serif}
+body.home-trip .country .go{font:600 12px/1.5 Arial,sans-serif;letter-spacing:0}
+body.home-trip .method{background:#f7f5f0}
+body.home-trip .method-copy>p,body.home-trip .updating p{font-size:15px;line-height:1.75}
+@media(min-width:701px) and (max-width:1100px){
+ body.home-trip .home-intro{gap:28px}
+ body.home-trip .home-takeaway{padding:16px}
+ body.home-trip .home-demo-places li{grid-template-columns:1fr;padding:10px 0}
+ body.home-trip .home-place-links{padding-left:60px}
+ body.home-trip .home-demo-intro h2{font-size:32px}
+ body.home-trip .home-outcomes span{font-size:13px}
+}
+@media(max-width:700px){
+ body.home-trip .home-intro{padding-top:24px;gap:26px}
+ body.home-trip .home-message h1{font-size:36px;line-height:1.15}
+ body.home-trip .home-takeaway{margin-top:20px;padding:16px;border-radius:14px}
+ body.home-trip .home-message .home-actions{gap:8px 16px}
+ body.home-trip .home-message .home-button{padding-inline:16px}
+ body.home-trip .home-example-link{font-size:14px}
+ body.home-trip .home-demo{margin-top:8px;margin-bottom:36px;padding:28px 16px;border-radius:20px}
+ body.home-trip .home-demo-intro h2{font-size:30px}
+ body.home-trip .home-demo-places li{grid-template-columns:1fr;gap:4px}
+ body.home-trip .home-place-links{padding-left:51px;gap:8px}
+ body.home-trip .home-place-links a{font-size:13px;padding-inline:10px}
+ body.home-trip .home-demo-exports{grid-template-columns:1fr}
+ body.home-trip .home-outcomes{margin-top:0}
+ body.home-trip .home-outcomes li{padding:16px 0}
+ body.home-trip .country h3{font-size:24px}
+ body.home-trip .country p{font-size:14px;line-height:1.55}
+ body.home-trip .country .photo{height:100%;min-height:150px}
+}

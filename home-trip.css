@@ -30,3 +30,55 @@ body.home-trip .home-author-gallery .home-author-note{display:block;max-width:no
 body.home-trip .home-author-gallery .home-author-note blockquote{max-width:none;font:17px/1.6 Georgia,serif;margin:0;color:#60715e}
 body.home-trip .home-author-gallery .gallery-bottom{padding-top:14px}
 @media(max-width:700px){body.home-trip .home-author-gallery .home-author-note{margin:0;padding-top:13px}body.home-trip .home-author-gallery .home-author-note blockquote{font-size:16px;line-height:1.6}body.home-trip .home-author-gallery .gallery-bottom{padding-top:12px}}
+
+/* A quieter introduction and shared rows for the trip example. */
+body.home-trip .home-message h1{font-size:clamp(36px,3.7vw,48px);line-height:1.14;letter-spacing:-1px;max-width:440px;text-wrap:balance}
+body.home-trip .home-message>p{max-width:420px;margin:0;line-height:1.8}
+body.home-trip .home-message .home-actions{margin-top:24px}
+body.home-trip .home-demo-intro>p{font:15px/1.8 Arial,sans-serif;color:#637780;margin:0}
+body.home-trip .home-demo-cta>.home-button{margin:0}
+@media(min-width:701px){
+ body.home-trip .home-demo{grid-template-columns:minmax(0,.78fr) minmax(0,1.22fr);grid-template-rows:auto minmax(320px,auto) auto repeat(3,minmax(78px,auto)) auto auto auto;column-gap:54px;row-gap:0;align-items:stretch;padding-top:48px}
+ body.home-trip .home-demo-copy{display:contents}
+ body.home-trip .home-demo-intro{grid-column:1;grid-row:2;align-self:start;padding:4px 0 24px}
+ body.home-trip .home-demo-intro .home-kicker{margin-bottom:16px}
+ body.home-trip .home-demo-intro h2{font-size:38px;margin-bottom:20px}
+ body.home-trip .home-outcomes{grid-column:1;grid-row:4 / span 3;display:grid;grid-template-rows:subgrid;margin:0;padding:0}
+ body.home-trip .home-outcomes li{display:flex;flex-direction:column;justify-content:center;padding:12px 0}
+ body.home-trip .home-outcomes li:last-child{border-bottom:1px solid #e4e9e6}
+ body.home-trip .home-outcomes strong{margin-bottom:4px}
+ body.home-trip .home-outcomes span{line-height:1.55}
+ body.home-trip .home-demo-cta{grid-column:1;grid-row:7;align-self:start;padding-top:16px}
+ body.home-trip .home-demo-cta>.home-button{min-height:48px}
+ body.home-trip .home-demo-cta .home-cta-note{margin-top:7px;line-height:1.6}
+ body.home-trip .home-demo-preview{grid-column:2;grid-row:1 / span 9;display:grid;grid-template-rows:subgrid;margin:0;min-width:0}
+ body.home-trip .home-preview-heading{grid-row:1}
+ body.home-trip #home-route-map{grid-row:2;height:100%;min-height:320px}
+ body.home-trip .home-route-caption{grid-row:3}
+ body.home-trip .home-demo-places{grid-row:4 / span 3;display:grid;grid-template-rows:subgrid}
+ body.home-trip .home-demo-places li{min-height:78px;padding:10px 0}
+ body.home-trip .home-demo-exports{grid-row:7;grid-template-columns:1fr 1fr;align-items:start}
+ body.home-trip .home-demo-exports .home-button{height:56px}
+ body.home-trip .home-demo-cta>.home-button{height:56px}
+ body.home-trip .home-example-status{grid-row:8}
+ body.home-trip .home-preview-note{grid-row:9}
+}
+@media(min-width:701px) and (max-width:1000px){
+ body.home-trip .home-demo{column-gap:28px;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr)}
+ body.home-trip .home-demo-intro h2{font-size:32px}
+ body.home-trip .home-demo-exports{gap:8px;padding-inline:12px}
+ body.home-trip .home-demo-exports .home-button{font-size:12px;padding:8px;min-height:64px;height:64px}
+ body.home-trip .home-demo-cta>.home-button{height:64px}
+}
+@media(max-width:700px){
+ body.home-trip .home-message h1{font-size:36px;max-width:340px;text-wrap:balance}
+ body.home-trip .home-message .home-actions{display:flex;margin-top:20px}
+ body.home-trip .home-message .home-actions .home-button{padding-inline:20px}
+ body.home-trip .home-demo-intro{order:0;margin-bottom:22px}
+ body.home-trip .home-demo-intro>p{font-size:14px;line-height:1.75}
+ body.home-trip .home-demo-preview{order:1;display:block;margin:0 0 24px}
+ body.home-trip .home-outcomes{order:2;display:block}
+ body.home-trip .home-demo-cta{order:3}
+ body.home-trip .home-demo-cta>.home-button{width:100%}
+ body.home-trip .home-demo-places{display:block}
+}

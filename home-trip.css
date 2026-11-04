@@ -206,3 +206,10 @@ body.home-trip .home-demo-exports .home-preview-note{grid-column:1/-1;font:12px/
 
 /* Align the author quote with the top of the photograph row. */
 @media(min-width:701px){body.home-trip .home-intro{align-items:start}}
+
+/* The example shows the same practical road estimates as My trip. */
+body.home-trip .home-route-caption .home-drive-total{display:block;font:600 15px/1.5 Arial,sans-serif;color:#294b5a;margin-bottom:3px}
+body.home-trip .home-route-caption>span{display:block}
+body.home-trip .home-route-caption>span:last-child{margin-top:4px}
+body.home-trip .home-drive-leg{grid-column:1/-1;display:block;font:12px/1.5 Arial,sans-serif;color:#586e77;margin:0}
+body.home-trip .home-demo-places li{align-content:center}

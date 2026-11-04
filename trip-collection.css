@@ -115,3 +115,12 @@ body.trip-pilot #country-mobile-nav button[aria-pressed=true]{background:#294b5a
 #trip-nearby button{display:block;box-sizing:border-box;width:100%;min-height:48px;padding:12px;margin:8px 0;border:1px solid #cbd8dd;border-radius:8px;background:#f7f9f8;color:#233f50;font:15px/1.4 Arial;text-align:left}
 #trip-nearby .trip-nearby-place{background:white}#trip-nearby button:focus-visible{outline:3px solid #b6583e}
 #trip-nearby .trip-nearby-place{display:flex;gap:12px;text-align:left;align-items:center}#trip-nearby .trip-nearby-place img{width:64px;height:56px;object-fit:cover;border-radius:8px}#trip-nearby .trip-nearby-place span{flex:1}#trip-nearby .trip-nearby-place small{display:block;font-size:12px;font-weight:400;color:#5a7068;margin-top:4px}
+
+/* Road estimates remain separate from time spent visiting each place. */
+#ys-collection .collection-drive-summary{margin:12px 0 16px;padding:13px 15px;border-radius:12px;background:#eaf2ef;color:#294b5a;line-height:1.5}
+#ys-collection .collection-drive-summary[hidden]{display:none}
+#ys-collection .collection-drive-summary>strong{display:block;font:600 16px/1.5 Arial,sans-serif}
+#ys-collection .collection-drive-summary small{display:block;margin-top:3px;color:#576d75;font:12px/1.5 Arial,sans-serif}
+#ys-collection .collection-drive-leg{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:12px 3px;color:#5a7079;font:12px/1.5 Arial,sans-serif}
+#ys-collection .collection-drive-leg span{min-width:0;overflow-wrap:anywhere}
+#ys-collection .collection-drive-leg strong{flex-shrink:0;font-weight:600;color:#355563}

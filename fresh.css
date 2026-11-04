@@ -197,3 +197,6 @@ body.country-page .side-gallery-controls button{color:#fff!important}
  body.country-page #geography .mapframe,body.country-page #insights,body.country-page #season,body.country-page #features{scroll-margin-top:calc(var(--country-header-height,80px) + 16px)}
 }
 body.country-page .country-header .nav a[href="#geography"]{display:block}
+
+/* Account for the sticky navigation when entering a catalogue by its anchor. */
+body.country-page #choose,body.country-page #cards{scroll-margin-top:calc(var(--country-header-height,80px) + 16px)}

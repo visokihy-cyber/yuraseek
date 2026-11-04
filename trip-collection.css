@@ -1,0 +1,117 @@
+#ys-collection{box-sizing:border-box;width:calc(100vw - 32px);max-width:1440px;height:calc(100dvh - 36px);max-height:none;margin:auto;inset:0;position:fixed;padding:0;border:1px solid #d8e0e2;border-radius:16px;background:#fff;color:#294b5a;font:14px/1.5 Arial,sans-serif;overflow:hidden;z-index:2147483647;box-shadow:0 16px 70px #18313b33}
+#ys-collection[open]{display:flex;flex-direction:column}#ys-collection::backdrop,#collection-confirm::backdrop{background:#18313b85}#ys-collection *{box-sizing:border-box}#ys-collection [hidden],#collection-toast[hidden]{display:none!important}
+#ys-collection button,#ys-collection select,#collection-confirm button,#collection-toast button{font:inherit;color:#294b5a;background:#fff;border:1px solid #d4dfe1;border-radius:9px;min-height:44px;padding:9px 13px;cursor:pointer;box-shadow:none}#ys-collection button:hover{background:#f0f4f4}#ys-collection button:disabled{opacity:.45;cursor:default}#ys-collection :focus-visible,#collection-confirm :focus-visible{outline:3px solid #b87e65;outline-offset:2px}#ys-collection a{color:#315f72;text-underline-offset:3px}#ys-collection h2{font:26px/1.3 Georgia;margin:0}#ys-collection h3{font:21px/1.3 Georgia;margin:0}
+#ys-collection .collection-head{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 22px;border-bottom:1px solid #e5ebec;flex-shrink:0}#ys-collection .collection-head p{margin:4px 0 0;font-size:12px;color:#627580}#ys-collection .collection-head button{border:0;background:#f3f6f5;font-size:22px;width:44px;padding:5px}
+#ys-collection .collection-tools{padding:14px 22px;border-bottom:1px solid #d8e0e2;display:grid;grid-template-columns:minmax(350px,1fr) auto;gap:10px 24px;flex-shrink:0;background:#fff}#ys-collection .collection-towns{display:grid;grid-template-columns:1fr 1fr;gap:7px 12px}#ys-collection label{display:block;font-size:12px;color:#627580;font-weight:400}#ys-collection select{display:block;width:100%;min-width:0;margin-top:4px;font-size:14px}#ys-collection .collection-round{grid-column:1/-1;display:flex;align-items:center;gap:7px;min-height:24px;font-size:13px;color:#465e67}#ys-collection .collection-round input{width:17px;height:17px;margin:0;accent-color:#294b5a}
+#ys-collection .collection-downloads{display:flex;gap:9px;align-items:center;flex-wrap:wrap;align-content:center}#ys-collection .collection-primary{background:#294b5a;border-color:#294b5a;color:white}#ys-collection .collection-primary:hover{background:#1d3b49}#ys-collection .collection-help{grid-column:1/-1;font-size:13px}#ys-collection summary{cursor:pointer;color:#527281}#ys-collection .collection-help ol{margin:10px 0;padding-left:22px;display:grid;gap:7px}#ys-collection .collection-help p{margin:6px 0;color:#627580;max-width:850px}
+#ys-collection .collection-workspace{display:grid;grid-template-columns:minmax(350px,1.25fr) minmax(330px,1fr);flex:1;min-height:0}#ys-collection .collection-map-panel{display:flex;flex-direction:column;min-height:0;background:#eef2f1}#collection-map{flex:1;min-height:220px;width:100%}#ys-collection .collection-route-note{font-size:12px;color:#627580;padding:9px 14px;background:#fff;margin:0;border-top:1px solid #e5ebec}#ys-collection .collection-list-panel{border-left:1px solid #d8e0e2;padding:16px 18px 24px;overflow:auto;background:#f6f8f7}#ys-collection .collection-list-head{display:flex;gap:12px;align-items:center;justify-content:space-between}#ys-collection .collection-list-head button{font-size:13px;padding:8px 10px}
+#ys-collection .collection-status{font-size:13px;color:#315f72;margin:8px 0}#ys-collection .collection-status:empty{display:none}#ys-collection .collection-endpoint{font-size:13px;color:#627580;margin:12px 0}#ys-collection .collection-empty{padding:30px 14px;color:#627580;text-align:center}
+#ys-collection article{background:white;border:1px solid #d8e0e2;border-radius:12px;margin:10px 0;padding:12px;scroll-margin:16px}#ys-collection .collection-highlight{outline:2px solid #b87e65}#ys-collection .collection-place-main{display:grid;grid-template-columns:54px minmax(0,1fr) 38px;gap:10px;align-items:center}#ys-collection .collection-place-main img{width:54px;height:58px;border-radius:7px;object-fit:cover}#ys-collection h4{font:600 15px/1.4 Arial;margin:0}#ys-collection .collection-place-main p{font-size:12px;color:#627580;margin:5px 0 0}#ys-collection .collection-place-main button{border:0;font-size:20px;padding:5px;min-width:36px}#ys-collection .collection-links{display:flex;flex-wrap:wrap;gap:8px 16px;margin-top:9px}#ys-collection .collection-links a{font-size:13px;min-height:28px;display:flex;align-items:center}#ys-collection article>small{font-size:12px;color:#627580}
+#ys-collection .collection-undo{display:flex;gap:12px;align-items:center;justify-content:center;padding:6px 12px;background:#edf3f1;flex-shrink:0;font-size:13px}#ys-collection .collection-undo button{min-height:36px;padding:6px 12px}
+#collection-toast{position:fixed;bottom:100px;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:12px;background:#294b5a;color:white;padding:10px 14px;border-radius:12px;z-index:2200;max-width:calc(100vw - 24px);width:max-content;font:14px Arial;box-shadow:0 4px 24px #0002}body:has(dialog[open]) #collection-toast{display:none}#collection-confirm{width:calc(100vw - 32px);max-width:400px;border:0;border-radius:16px;padding:24px;font:15px/1.5 Arial;color:#294b5a}#collection-confirm h3{font:24px Georgia;margin:0}#collection-confirm div{display:flex;gap:10px;flex-wrap:wrap}
+@media(max-width:800px){#ys-collection{width:100vw;height:100dvh;border:0;border-radius:0;overflow-y:auto;display:block}#ys-collection:not([open]){display:none}#ys-collection .collection-head{position:sticky;top:0;z-index:3;background:white;padding:10px 12px}#ys-collection h2{font-size:23px}#ys-collection .collection-head p{font-size:11px}#ys-collection .collection-tools{display:block;padding:12px}#ys-collection .collection-towns{gap:8px}#ys-collection select{font-size:16px}#ys-collection .collection-round{min-height:36px}#ys-collection .collection-downloads{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:8px 0}#ys-collection .collection-downloads button{font-size:13px;padding:8px;line-height:1.35;min-height:48px}#ys-collection .collection-help{margin-top:10px;font-size:12px}#ys-collection .collection-help summary{min-height:32px;line-height:1.6}#ys-collection .collection-workspace{display:flex;flex-direction:column}#ys-collection .collection-map-panel{height:380px;flex:none}#collection-map{min-height:260px}#ys-collection .collection-route-note{font-size:11px;padding:7px 12px}#ys-collection .collection-list-panel{overflow:visible;border:0;padding:16px 12px 28px}#ys-collection .collection-links a{min-height:40px}#ys-collection .collection-undo{position:sticky;bottom:0;z-index:4}#ys-collection .collection-list-head h3{font-size:20px}}
+@media(max-height:500px) and (max-width:1000px){#ys-collection{height:100dvh;width:100vw;border-radius:0;overflow:auto;display:block}#ys-collection:not([open]){display:none}#ys-collection .collection-head{position:sticky;top:0;background:white;z-index:3}#ys-collection .collection-workspace{height:450px;min-height:450px}#ys-collection .collection-help[open]{max-height:180px;overflow:auto}}
+/* Collection controls: aligned, quiet and touch-friendly. */
+#ys-collection .collection-tools{grid-template-columns:minmax(300px,1fr) minmax(340px,1fr);align-items:start;gap:12px 24px}
+#ys-collection .collection-downloads{display:grid;grid-template-columns:1fr 1fr;align-items:start;gap:12px;padding-top:22px}
+#ys-collection .collection-downloads button{width:100%;min-height:44px;font-weight:600;white-space:normal}
+#ys-collection .collection-downloads p{font-size:12px;line-height:1.45;color:#697c85;margin:7px 2px 0}
+#ys-collection button,body.trip-pilot #choose button,body.trip-pilot #choose select,body.trip-pilot .map-tools button,body.trip-pilot .map-tools select{border-radius:12px;transition:background .15s,border-color .15s,box-shadow .15s;font-family:Arial,sans-serif}
+#ys-collection button:hover:not(:disabled){border-color:#9bb2ba;box-shadow:0 2px 7px #294b5a12}
+#ys-collection :focus-visible,body.trip-pilot button:focus-visible,body.trip-pilot select:focus-visible{outline:2px solid #769ba9;outline-offset:3px}
+body.trip-pilot #ys-trip-open{background:#294b5a;color:white;border:1px solid #294b5a;border-radius:12px;box-shadow:0 3px 9px #294b5a18;font-weight:600;min-height:44px}
+body.trip-pilot #clear{background:#fff;color:#627580;border:1px solid #d8e0e2;border-radius:12px;min-height:44px;padding:10px 14px;white-space:nowrap}
+body.trip-pilot #copy[hidden]{display:none!important}
+#ys-collection .collection-list-head{display:grid;grid-template-columns:1fr auto auto;gap:8px}
+#ys-collection .collection-clear{color:#88665e;background:transparent;border-color:transparent}
+#ys-collection .collection-order-tools{display:flex;justify-content:space-between;align-items:center;gap:8px;margin:10px 0;color:#697c85;font-size:12px}
+#ys-collection .collection-order-tools button{min-height:36px;padding:6px 10px;font-size:12px}
+#ys-collection article{position:relative}
+#ys-collection .collection-reorder{display:flex;gap:4px;float:right;margin:8px 0 0 10px}
+#ys-collection .collection-reorder button{min-height:36px;width:36px;padding:3px;background:#f4f7f7;font-size:18px}
+#ys-collection article:after{content:'';display:block;clear:both}
+#ys-collection .collection-links{gap:4px 12px}
+@media(max-width:1000px){#ys-collection .collection-tools{grid-template-columns:1fr}#ys-collection .collection-downloads{padding-top:0}}
+@media(max-width:800px){#ys-collection .collection-downloads{margin:10px 0;gap:10px}#ys-collection .collection-downloads button{min-height:48px}#ys-collection .collection-list-head{grid-template-columns:1fr auto}#ys-collection .collection-list-head h3{grid-column:1/-1}#ys-collection .collection-list-head button{min-height:44px}#ys-collection .collection-reorder button{width:40px;min-height:44px}#ys-collection .collection-links{display:block}#ys-collection .collection-downloads p{font-size:11px}}
+
+body.trip-pilot .map-tools{display:flex;align-items:center;gap:8px;flex-wrap:wrap}body.trip-pilot .map-tools button,body.trip-pilot .map-tools select{height:42px;min-height:42px;box-shadow:none;border:1px solid #d4dfe1;background:white;color:#294b5a;font-size:13px}body.trip-pilot .map-tools #map-route{background:#eef3f4;color:#294b5a;border-color:#cbdadd}body.trip-pilot .map-tools button:hover{background:#e8f0f2}
+#ys-collection .collection-list-head{grid-template-columns:1fr auto}#ys-collection .collection-list-head h3{grid-column:1/-1}#ys-collection .collection-list-head .collection-clear{justify-self:start}
+
+/* Replace Google's default oversized map-type buttons on the Madeira pilot. */
+#google-map .ys-map-style{display:flex;gap:3px;margin:12px;padding:4px;background:#ffffffed;border:1px solid #dce5e8;border-radius:13px;box-shadow:0 3px 12px #18313b16;font-family:Arial,sans-serif}
+#google-map .ys-map-style button{appearance:none;min-height:38px;min-width:76px;padding:8px 15px;border:0;border-radius:9px;background:transparent;color:#536a74;font:500 13px/20px Arial,sans-serif;cursor:pointer;box-shadow:none;transition:background .15s,color .15s}
+#google-map .ys-map-style button:hover{background:#eaf0f2;color:#294b5a}
+#google-map .ys-map-style button[aria-pressed=true]{background:#294b5a;color:#fff;box-shadow:0 1px 3px #18313b18}
+#google-map .ys-map-style button:focus-visible{outline:2px solid #769ba9;outline-offset:2px}
+@media(max-width:700px){#google-map .ys-map-style{margin:10px}#google-map .ys-map-style button{min-height:44px;padding:10px 14px}}
+
+/* Immediate trip actions and contextual export help. */
+body.trip-pilot #cards .photo{position:relative}
+body.trip-pilot #cards .photo [data-design-pick]{position:absolute;right:12px;top:12px;z-index:3;box-shadow:0 2px 8px #18313b20}
+body.trip-pilot :is(#cards,#mapDetail,#placeDialog,#map-preview) button{border-radius:12px;min-height:44px;font-family:Arial,sans-serif;font-size:14px;font-weight:500;transition:background .15s,border-color .15s}
+body.trip-pilot :is(#cards,#mapDetail,#placeDialog,#map-preview) [data-design-pick]{display:inline-flex!important;align-items:center;justify-content:center;padding:10px 16px;background:#294b5a!important;color:#fff!important;border:1px solid #294b5a!important;white-space:nowrap}
+body.trip-pilot :is(#cards,#mapDetail,#placeDialog,#map-preview) [data-design-pick][aria-pressed=true]{background:#edf4f1!important;color:#285d4c!important;border-color:#8aaa9d!important}
+body.trip-pilot :is(#cards,#mapDetail,#placeDialog,#map-preview) button:hover{filter:brightness(.97)}
+body.trip-pilot :is(#cards,#mapDetail,#placeDialog,#map-preview) button:focus-visible{outline:2px solid #769ba9;outline-offset:3px}
+body.trip-pilot #detail-dock [data-design-pick]{display:inline-flex!important}
+body.trip-pilot #mapDetail .trip-card-toolbar{position:sticky;top:0;z-index:5;display:flex;justify-content:flex-end;padding:10px 12px;background:#fffffff5;border-bottom:1px solid #dce5e8}
+body.trip-pilot #mapDetail .card-footer .check{display:none!important}
+#ys-collection .collection-downloads .collection-help{margin-top:10px;font-size:12px;line-height:1.6}
+#ys-collection .collection-help summary{color:#294b5a;text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+#ys-collection .collection-help ol{padding-left:18px;margin:10px 0}
+#ys-collection .collection-help li{margin-bottom:8px}
+#ys-collection .collection-help[open]{max-height:240px;overflow:auto;padding-right:4px}
+@media(max-width:700px){body.trip-pilot #cards .photo [data-design-pick]{min-height:44px;right:10px;top:10px}#ys-collection .collection-help[open]{max-height:none}}
+
+body.trip-pilot #placeDialog .card-footer .check{display:none!important}
+@media(max-width:600px){#ys-collection .collection-downloads{grid-template-columns:1fr;gap:18px}#ys-collection .collection-downloads .collection-help{font-size:13px}}
+
+/* Compact actions beside place metadata; catalogue actions stay together. */
+body.trip-pilot :is(#mapDetail,#placeDialog) .trip-card-toolbar{position:static;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:0;margin:10px 0 14px;background:transparent;border:0}
+body.trip-pilot .trip-card-labels{min-width:0;flex:1}
+body.trip-pilot .trip-card-labels .categorylabel{margin:0 0 7px}
+body.trip-pilot .trip-card-labels .badge{margin:0}
+body.trip-pilot :is(#mapDetail,#placeDialog) .trip-card-toolbar [data-design-pick]{flex:0 0 auto;padding:9px 12px;font-size:13px;min-height:42px}
+body.country-page.trip-pilot #placeDialog #detail-dock [data-design-pick]{display:none!important}
+body.country-page.trip-pilot #cards .preview-actions{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px;flex-wrap:nowrap}
+body.country-page.trip-pilot #cards .preview-actions button{min-width:0;padding:9px 6px;font-size:13px;white-space:nowrap;min-height:44px}
+
+body.trip-pilot :is(#mapDetail,#placeDialog) details .card-footer{margin:16px 0 0!important;padding:16px 0 0!important}body.trip-pilot :is(#mapDetail,#placeDialog) details .card-footer .footer-grid{grid-template-columns:1fr 1fr!important}body.trip-pilot :is(#mapDetail,#placeDialog) details .card-footer .footer-google{grid-column:1!important;grid-row:auto!important}body.trip-pilot :is(#mapDetail,#placeDialog) details .card-footer .route-link{grid-column:2!important;grid-row:auto!important}
+
+/* Calm, coordinated place metadata and selection action. */
+body.trip-pilot :is(#mapDetail,#placeDialog) .trip-card-toolbar{gap:16px;margin:16px 0;padding:0;align-items:center}
+body.trip-pilot .trip-card-labels{display:flex;flex-direction:column;align-items:flex-start;gap:8px}
+body.trip-pilot .trip-card-labels .categorylabel{margin:0;font:400 12px/1.45 Arial,sans-serif;color:#637780;gap:7px}
+body.trip-pilot .trip-card-labels .categorylabel i{width:8px;height:8px;opacity:.85}
+body.trip-pilot .trip-card-labels .badge{display:inline-flex;align-items:center;gap:5px;margin:0;padding:4px 8px;border:0!important;border-radius:6px;background:#f2f4f5!important;color:#687a82!important;font:500 11px/1.4 Arial,sans-serif;box-shadow:none}
+body.trip-pilot .trip-card-labels .badge.p1{background:#f6f2e9!important;color:#786643!important}
+body.trip-pilot .trip-card-labels .badge.p1:before{content:'✦';font-size:12px}
+body.trip-pilot :is(#mapDetail,#placeDialog) .trip-card-toolbar [data-design-pick]{min-height:44px;padding:10px 14px;border-radius:10px;border:1px solid #ccdce2!important;background:#edf3f5!important;color:#294b5a!important;font:500 13px/1.4 Arial,sans-serif;box-shadow:none}
+body.trip-pilot :is(#mapDetail,#placeDialog) .trip-card-toolbar [data-design-pick]:hover{background:#e2edf1!important;border-color:#9cb7c2!important;filter:none}
+body.trip-pilot :is(#mapDetail,#placeDialog) .trip-card-toolbar [data-design-pick][aria-pressed=true]{background:#294b5a!important;border-color:#294b5a!important;color:#fff!important}
+@media(max-width:400px){body.trip-pilot :is(#mapDetail,#placeDialog) .trip-card-toolbar{gap:10px}body.trip-pilot :is(#mapDetail,#placeDialog) .trip-card-toolbar [data-design-pick]{padding:10px 12px}}
+
+.collection-city-credit{display:block;font:11px/1.6 Arial;color:#6c7c83;padding:0 14px 12px}
+
+/* Shared catalogue controls, used by every destination. */
+body.trip-pilot .filters label[hidden]{display:none!important}
+body.country-page.trip-pilot #choose .filters{grid-template-columns:auto minmax(150px,1fr) minmax(150px,1fr) auto auto!important;gap:12px;align-items:end}
+body.trip-pilot #choose #ys-trip-open{background:#294b5a!important;color:#fff!important;border:1px solid #294b5a!important;border-radius:12px!important;min-height:44px;padding:11px 19px!important;font:600 14px/20px Arial,sans-serif!important;text-decoration:none!important;box-shadow:none;white-space:nowrap}
+body.trip-pilot #trip-highlights{align-self:end;border:1px solid #d8e0e2;background:#fff;color:#465860;font:500 14px Arial;border-radius:12px;min-height:44px;padding:10px 14px}
+body.trip-pilot #trip-highlights[aria-pressed=true]{background:#f6ede7;color:#8b432f;border-color:#b97c66}
+body.trip-pilot .card.trip-recommended{border:1px solid #d8e0e2}
+body.trip-pilot .card.selected{border:2px solid #477b70}
+body.trip-pilot .trip-recommend-badge{position:absolute;left:10px;bottom:10px;background:#faf5eb;color:#765b33;padding:5px 9px;border-radius:6px;border:1px solid #e7ddca;font:500 12px Arial;pointer-events:none}
+body.trip-pilot .trip-catalog-legend{font:13px/1.5 Arial;padding:8px 12px;margin:0;background:#f7f8f7;color:#586973}
+body.trip-pilot .mapmark .selection-ring{stroke:#087d66;stroke-width:5;stroke-dasharray:none}
+body.trip-pilot #choose select{border:1px solid #d8e0e2;border-radius:12px;min-height:44px!important;background-color:#fff;color:#294b5a}
+body.trip-pilot #choose .filters label{font-weight:400;color:#627580}
+body.trip-pilot #country-mobile-nav button{background:#f4f7f6;border-color:#d8e0e2;color:#49616b;border-radius:11px}
+body.trip-pilot #country-mobile-nav button[aria-pressed=true]{background:#294b5a!important;border-color:#294b5a!important;color:#fff!important}
+@media(max-width:700px){body.country-page.trip-pilot #choose .filters{grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;gap:10px}body.trip-pilot #trip-highlights{grid-column:1/-1}body.trip-pilot #choose #ys-trip-open{grid-column:1;min-width:0;font-size:13px!important;padding:10px!important}}
+
+#trip-nearby{box-sizing:border-box;width:calc(100vw - 24px);max-width:420px;max-height:75dvh;padding:16px;border:1px solid #cbd8dd;border-radius:14px;color:#233f50;background:white;overflow:auto}
+#trip-nearby::backdrop{background:#18313ba8}#trip-nearby h3{margin:0 0 12px;font:24px Georgia}
+#trip-nearby button{display:block;box-sizing:border-box;width:100%;min-height:48px;padding:12px;margin:8px 0;border:1px solid #cbd8dd;border-radius:8px;background:#f7f9f8;color:#233f50;font:15px/1.4 Arial;text-align:left}
+#trip-nearby .trip-nearby-place{background:white}#trip-nearby button:focus-visible{outline:3px solid #b6583e}
+#trip-nearby .trip-nearby-place{display:flex;gap:12px;text-align:left;align-items:center}#trip-nearby .trip-nearby-place img{width:64px;height:56px;object-fit:cover;border-radius:8px}#trip-nearby .trip-nearby-place span{flex:1}#trip-nearby .trip-nearby-place small{display:block;font-size:12px;font-weight:400;color:#5a7068;margin-top:4px}

@@ -49,3 +49,9 @@ function drawMap(list,full=false){const cfg=window.YS_REGION; $('map').setAttrib
 
 function go(id){activeMapId=String(id);syncMapDetail(filtered());$('closeMapDetail').focus({preventScroll:true});if(matchMedia('(max-width:700px)').matches)$('mapDetail').scrollIntoView({behavior:'auto',block:'nearest'})}$('map').addEventListener('click',e=>{const m=e.target.closest('[data-map]');if(m)go(m.dataset.map)});$('map').addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){const m=e.target.closest('[data-map]');if(m){e.preventDefault();go(m.dataset.map)}}});render();
 
+// Trip collection: synchronize the planner with the existing selection.
+if(Boolean(window.YS_REGION?.slug)){
+ document.addEventListener('ys:trip-selection',()=>{save();render();});
+ window.addEventListener('storage',e=>{if(e.key!==window.YS_REGION.storageKey)return;try{const ids=JSON.parse(e.newValue||'[]');if(!Array.isArray(ids))return;selected=new Set(ids.map(String).filter(id=>places.some(p=>String(p.id)===id)));render();}catch{}});
+}
+

@@ -203,3 +203,6 @@ body.home-trip .home-demo-exports .home-preview-note{grid-column:1/-1;font:12px/
  body.home-trip .home-message .home-takeaway{margin-top:22px}
  body.home-trip .home-demo-exports{gap:8px;padding-bottom:12px}
 }
+
+/* Align the author quote with the top of the photograph row. */
+@media(min-width:701px){body.home-trip .home-intro{align-items:start}}

@@ -124,3 +124,29 @@ body.trip-pilot #country-mobile-nav button[aria-pressed=true]{background:#294b5a
 #ys-collection .collection-drive-leg{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:12px 3px;color:#5a7079;font:12px/1.5 Arial,sans-serif}
 #ys-collection .collection-drive-leg span{min-width:0;overflow-wrap:anywhere}
 #ys-collection .collection-drive-leg strong{flex-shrink:0;font-weight:600;color:#355563}
+
+.trip-drive-icon{width:18px;height:18px;flex:0 0 18px;background:center/contain no-repeat url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23536f78' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M4 11l2-6h12l2 6M4 11h16v7H4zM6 18v2m12-2v2M7 14h2m6 0h2'/%3E%3C/svg%3E")}
+.trip-sr-only{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+
+#ys-collection .collection-drive-leg{justify-content:flex-start;gap:8px;margin:8px 0;padding:0 0 0 12px;min-height:20px;border-left:1px solid #cbd9d8}
+body.country-page.trip-pilot #choose{position:sticky;top:var(--country-header-height,75px);z-index:1150;box-sizing:border-box;max-width:1700px;margin:0 auto;padding:8px clamp(12px,2.4vw,32px);background:#fff;border-bottom:1px solid #dce5e6}
+body.trip-pilot .region-filter-toggle{display:none}
+@media(min-width:1001px){body.trip-pilot .atlas-workspace{grid-template-rows:auto}body.trip-pilot .atlas-workspace .mapside,body.trip-pilot .atlas-workspace .mapframe{grid-row:1}}
+body.country-page.trip-pilot :is(#cards,#insights,#season,#features,#geography .mapframe){scroll-margin-top:calc(var(--country-header-height,75px) + var(--ys-filters-height,100px) + 8px)}
+@media(max-width:900px){
+ body.trip-pilot #choose .region-filter-toggle{display:block;grid-column:1;grid-row:1;border:1px solid #c8d7d9;border-radius:10px;color:#294b5a;background:#f4f7f6;min-height:44px;font-weight:600}
+ body.country-page.trip-pilot #choose .filters{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:8px;align-items:end}
+ body.country-page.trip-pilot #choose #ys-trip-open{grid-column:2;grid-row:1}
+ body.country-page.trip-pilot #choose:not(.filters-open) .filters>:not(.region-filter-toggle):not(#ys-trip-open),body.country-page.trip-pilot #choose:not(.filters-open) :is(.simple-toolbar,#active-filters,.resultbar){display:none!important}
+ body.trip-pilot #choose.filters-open{max-height:55dvh;overflow:auto;overscroll-behavior:contain}
+ body.trip-pilot #choose #trip-highlights{grid-column:1/-1}
+}
+@media(max-width:700px){
+ body.country-page.trip-pilot .country-header{display:flex;position:sticky;top:0;z-index:1502;padding:5px 10px;gap:2px 8px}
+ body.country-page.trip-pilot .country-header .nav{order:4;display:flex;flex-flow:row nowrap;overflow-x:auto;width:100%;gap:14px;padding:0;scrollbar-width:none}
+ body.country-page.trip-pilot .country-header .nav a{flex:none;padding:5px 0;white-space:nowrap}
+ body.country-page.trip-pilot #choose{z-index:1501;padding:6px 10px}
+ body.country-page.trip-pilot.country-map-mode .country-header{position:fixed;inset:0 0 auto;width:100%;box-sizing:border-box}
+ body.country-page.trip-pilot.country-map-mode #choose{position:fixed;left:0;right:0;visibility:visible!important}
+ body.country-page.trip-pilot.country-map-mode #geography{top:calc(var(--country-header-height,75px) + var(--ys-filters-height,57px))}
+}

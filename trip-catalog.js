@@ -1,6 +1,15 @@
 export function enhanceCatalogue(){
  const en=document.documentElement.lang==='en',t=(a,b)=>en?b:a;
  document.body.classList.add('trip-pilot');
+ const choose=document.getElementById('choose'),atlas=choose.closest('.atlas-workspace');
+ if(atlas)atlas.before(choose);
+ const toggle=document.createElement('button');toggle.type='button';toggle.className='region-filter-toggle';
+ const filterGrid=choose.querySelector('.filters');filterGrid.prepend(toggle);toggle.setAttribute('aria-expanded','false');
+ const filterLabel=()=>{const n=['priority','tag','format'].filter(id=>document.getElementById(id)?.value).length+(document.getElementById('only').checked?1:0);toggle.textContent=(choose.classList.contains('filters-open')?t('Свернуть','Hide filters'):t('Фильтры','Filters'))+(n?' · '+n:'');};
+ const expand=open=>{choose.classList.toggle('filters-open',open);toggle.setAttribute('aria-expanded',String(open));filterLabel();};
+ toggle.onclick=()=>expand(!choose.classList.contains('filters-open'));choose.addEventListener('change',filterLabel);choose.addEventListener('keydown',e=>{if(e.key==='Escape'&&choose.classList.contains('filters-open')){expand(false);toggle.focus({preventScroll:true});}});filterLabel();
+ new ResizeObserver(()=>document.documentElement.style.setProperty('--ys-filters-height',choose.getBoundingClientRect().height+'px')).observe(choose);
+
  for(const span of document.querySelectorAll('.maplegend span'))if(/выбрано|saved/i.test(span.textContent))span.innerHTML='<i style="background:#087d66;border-radius:50%;color:white;font-style:normal;padding:0 4px">✓</i> '+t('В поездке','In trip');
  const priority=document.getElementById('priority'),label=priority.closest('label');label.hidden=true;
  const button=document.createElement('button');button.id='trip-highlights';button.type='button';button.textContent='★ '+t('Самое интересное','Highlights');label.after(button);

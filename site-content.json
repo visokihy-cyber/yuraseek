@@ -242,6 +242,10 @@
         "focusX": 50,
         "focusY": 32.793190215314056
       },
+      "26": {
+        "focusX": 50,
+        "focusY": 50
+      },
       "cover": {
         "src": "media-e2f7bbc6-89dc-4496-b72e-572a5d3bd9f9-960.webp",
         "alt": "Дюны и Дедвлей",
@@ -276,10 +280,6 @@
         "creditText": "",
         "focusX": 50,
         "focusY": 41.593505508955225
-      },
-      "26": {
-        "focusX": 50,
-        "focusY": 50
       }
     },
     "south-africa": {
@@ -363,7 +363,30 @@
         "focusY": 100
       }
     },
-    "patagonia": {}
+    "patagonia": {},
+    "basque-country": {
+      "14": {
+        "src": "media-098ac236-8847-4276-867b-a7ae2938732d-960.webp",
+        "alt": "Остров Гастелугаче",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 47.77347862793737
+      },
+      "cover": {
+        "src": "media-280cde18-ec1f-4d07-8763-16a9a23ff129-960.webp",
+        "alt": "Часовня на острове Гастелугаче",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 51.72922910087414
+      },
+      "slide-14": {
+        "src": "media-7431b9ef-af80-4949-97e1-a46360fc4289-960.webp",
+        "alt": "Остров Гастелугаче",
+        "creditText": "",
+        "focusX": 50,
+        "focusY": 43.02402136361694
+      }
+    }
   },
   "carousels": {
     "new-zealand": [
@@ -785,6 +808,53 @@
         "alt": "Полуостров Вальдес — киты и морские животные",
         "creditHTML": "LBM1948 · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Puerto_Pir%C3%A1mides_1994_07.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
         "creditHTMLEn": "LBM1948 · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Puerto_Pir%C3%A1mides_1994_07.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>",
+        "focusX": 50,
+        "focusY": 50
+      }
+    ],
+    "basque-country": [
+      {
+        "id": "slide-14",
+        "src": "basque-14-960.webp",
+        "alt": "Остров Гастелугаче",
+        "creditHTML": "<a href=\"https://commons.wikimedia.org/wiki/File:San_Juan_de_Gaztelugatxe_view_2.jpg\" target=\"_blank\" rel=\"noopener\">Einaz80 · CC BY-SA 4.0</a>",
+        "creditHTMLEn": "<a href=\"https://commons.wikimedia.org/wiki/File:San_Juan_de_Gaztelugatxe_view_2.jpg\" target=\"_blank\" rel=\"noopener\">Einaz80 · CC BY-SA 4.0</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-1",
+        "src": "basque-1-960.webp",
+        "alt": "Музей Гуггенхайма в Бильбао",
+        "creditHTML": "<a href=\"https://commons.wikimedia.org/wiki/File:Museo_Guggenheim,_Bilbao_(31273245344).jpg\" target=\"_blank\" rel=\"noopener\">Naotake Murayama · CC BY 2.0</a>",
+        "creditHTMLEn": "<a href=\"https://commons.wikimedia.org/wiki/File:Museo_Guggenheim,_Bilbao_(31273245344).jpg\" target=\"_blank\" rel=\"noopener\">Naotake Murayama · CC BY 2.0</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-11",
+        "src": "basque-11-960.webp",
+        "alt": "Флиш у Сумайи",
+        "creditHTML": "<a href=\"https://commons.wikimedia.org/wiki/File:Zumaia_Algorri.jpg\" target=\"_blank\" rel=\"noopener\">Jörg Braukmann · CC BY-SA 4.0</a>",
+        "creditHTMLEn": "<a href=\"https://commons.wikimedia.org/wiki/File:Zumaia_Algorri.jpg\" target=\"_blank\" rel=\"noopener\">Jörg Braukmann · CC BY-SA 4.0</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-10",
+        "src": "basque-10-960.webp",
+        "alt": "Лагуардия и виноградники Риоха-Алавесы",
+        "creditHTML": "<a href=\"https://commons.wikimedia.org/wiki/File:Guardia_airetik2.jpg\" target=\"_blank\" rel=\"noopener\">Mikel Arrazola · CC BY 3.0</a>",
+        "creditHTMLEn": "<a href=\"https://commons.wikimedia.org/wiki/File:Guardia_airetik2.jpg\" target=\"_blank\" rel=\"noopener\">Mikel Arrazola · CC BY 3.0</a>",
+        "focusX": 50,
+        "focusY": 50
+      },
+      {
+        "id": "slide-22",
+        "src": "basque-22-960.webp",
+        "alt": "Горные луга Урбии",
+        "creditHTML": "<a href=\"https://commons.wikimedia.org/wiki/File:Urbia_(Gipuzkoa).jpg\" target=\"_blank\" rel=\"noopener\">Asier Sarasua Aranberri · CC BY-SA 2.0</a>",
+        "creditHTMLEn": "<a href=\"https://commons.wikimedia.org/wiki/File:Urbia_(Gipuzkoa).jpg\" target=\"_blank\" rel=\"noopener\">Asier Sarasua Aranberri · CC BY-SA 2.0</a>",
         "focusX": 50,
         "focusY": 50
       }

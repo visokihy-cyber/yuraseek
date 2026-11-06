@@ -45,7 +45,7 @@ function init(){
   if(!timing||!Number.isFinite(timing.legs[i]))return '';
   const from=i?ordered[i-1].shortName||ordered[i-1].name:town('start').name;
   const to=i<ordered.length?ordered[i].shortName||ordered[i].name:town('end').name;
-  return '<p class="collection-drive-leg"><span class="trip-sr-only">'+xml(from)+' → '+xml(to)+': </span><i class="trip-drive-icon" aria-hidden="true"></i><strong>'+approximateDuration(timing.legs[i],en)+'</strong></p>';
+  return '<p class="collection-drive-leg"><span class="trip-sr-only">'+xml(from)+' → '+xml(to)+': </span><i class="trip-drive-icon" aria-hidden="true"></i><strong>'+xml(i===0?t('От старта','From start'):i===ordered.length?t('До финиша','To finish'):i+' → '+(i+1))+' · '+approximateDuration(timing.legs[i],en)+'</strong></p>';
  }
  function renderTiming(){
   const box=q('.collection-drive-summary');box.hidden=!ordered.length;

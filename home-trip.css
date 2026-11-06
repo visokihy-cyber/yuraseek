@@ -292,3 +292,23 @@ body.home-trip .home-chat-more[open] .home-chat-expand{display:none}
 body.home-trip .home-chat-more[open] .home-chat-collapse{display:inline}
 body.home-trip .home-chat-more[open]>div{padding-top:12px}
 @media(max-width:700px){body.home-trip .home-chat-body{padding:12px 10px 14px 16px}body.home-trip .home-chat-message{padding:14px}body.home-trip .home-chat-greeting{max-width:96%}body.home-trip .home-chat-part{font-size:13px;line-height:1.65}}
+
+/* Keep the saved-map preview and its help aligned with the export controls. */
+@media(min-width:701px){
+ body.home-trip .home-demo-results{display:flex;flex-direction:column;padding-bottom:12px}
+ body.home-trip .home-result-shot{margin-top:auto;margin-bottom:0}
+ body.home-trip .home-demo-results>.home-map-help{margin-top:7px}
+ body.home-trip .home-demo-results>.home-map-help summary{min-height:19px;line-height:19px;padding:0}
+}
+/* Gentle, individual response without moving neighbouring rows. */
+body.home-trip .home-takeaway li{transition:transform .22s ease,color .22s ease}
+body.home-trip .home-takeaway li svg{transition:transform .22s ease,background-color .22s ease,border-color .22s ease,stroke .22s ease}
+@media(hover:hover) and (pointer:fine){
+ body.home-trip .home-takeaway li:hover{transform:translateX(4px);color:#8d571e}
+ body.home-trip .home-takeaway li:hover svg{transform:scale(1.07);background:#fff4df;border-color:#d7ac68;stroke:#a86a16}
+}
+body.home-trip .home-takeaway:focus-visible{outline:2px solid #c08a3c;outline-offset:8px;border-radius:4px}
+@media(prefers-reduced-motion:reduce){
+ body.home-trip .home-takeaway li,body.home-trip .home-takeaway li svg{transition:none}
+ body.home-trip .home-takeaway li:hover,body.home-trip .home-takeaway li:hover svg{transform:none}
+}

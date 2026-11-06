@@ -265,20 +265,30 @@ body.home-trip .home-result-cta{display:inline-flex;align-items:center;gap:12px;
 
 @media(min-width:701px){body.home-trip .home-demo{align-items:stretch}body.home-trip .home-demo-preview{display:flex;flex-direction:column;align-self:stretch}body.home-trip #home-route-map{flex:1 0 320px;min-height:320px;height:auto}body.home-trip .home-preview-heading,body.home-trip .home-route-caption,body.home-trip .home-demo-places,body.home-trip .home-demo-exports{flex-shrink:0}}
 
-/* Selectable trip text with real, clearly labelled map links. */
+/* Messenger preview uses the same full text as the copy action. */
 body.home-trip .home-result-list{margin:0 0 20px}
 body.home-trip .home-result-list figcaption,body.home-trip .home-result-shot figcaption{margin:0 0 10px;font:14px/1.5 Arial,sans-serif;color:#586b70}
 body.home-trip .home-demo-results figcaption strong{display:block;font-weight:600;color:#294b5a;margin-bottom:4px}
 body.home-trip .home-demo-results figcaption>span{display:block;font-size:13px;line-height:1.55;font-weight:400}
-body.home-trip .home-text-example{padding:20px 22px;background:#fff;border:1px solid #dce5e2;border-radius:12px;font:14px/1.5 Arial,sans-serif;color:#4b626b}
-body.home-trip .home-text-example .home-text-title{font-weight:600;margin:0 0 5px}
-body.home-trip .home-text-example .home-text-start{font-size:12px;margin:0 0 18px;color:#637780}
-body.home-trip .home-text-example ol{list-style:none;margin:0;padding:0}
-body.home-trip .home-text-example li{margin:0;padding:14px 0;border-top:1px solid #e9eeeb}
-body.home-trip .home-text-example li:last-child{padding-bottom:0}
-body.home-trip .home-text-example .home-text-place{display:block;font:600 16px/1.45 Arial,sans-serif;color:#95602e;margin-bottom:5px}
-body.home-trip .home-text-example li p{display:flex;align-items:center;gap:9px;margin:0;font-size:13px}
-body.home-trip .home-text-example li p>span{min-width:75px;font-weight:600;color:#294b5a}
-body.home-trip .home-text-example a{display:inline-flex;align-items:center;gap:6px;min-height:36px;padding:5px 0;color:#265f7b;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
-body.home-trip .home-text-example a:hover{color:#95602e}
-@media(max-width:700px){body.home-trip .home-text-example{padding:18px}body.home-trip .home-text-example a{min-height:44px}body.home-trip .home-text-example li p{font-size:14px}}
+body.home-trip .home-text-example{border:1px solid #dce5e2;border-radius:14px;overflow:hidden;background:#edf1ec;font:13px/1.55 Arial,sans-serif;color:#374f58}
+body.home-trip .home-chat-header{display:flex;align-items:center;gap:11px;padding:12px 16px;background:#fff;border-bottom:1px solid #e0e7e1;font-weight:600;color:#294b5a}
+body.home-trip .home-chat-header svg{width:26px;height:26px;fill:none;stroke:#8b744c;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}
+body.home-trip .home-chat-header small{display:block;font-size:11px;font-weight:400;line-height:1.4;color:#728078}
+body.home-trip .home-chat-body{padding:15px 12px 16px 22px;display:flex;flex-direction:column;align-items:flex-end;gap:10px}
+body.home-trip .home-chat-greeting{max-width:92%;margin:0;padding:11px 14px;background:#fff;border-radius:14px 14px 3px 14px;color:#374f58;box-shadow:0 1px 2px #294b5a08}
+body.home-trip .home-chat-message{width:100%;min-width:0;padding:15px 16px;background:#f9fcf5;border:1px solid #dde5d6;border-radius:14px 14px 3px 14px;overflow-wrap:anywhere;box-shadow:0 1px 2px #294b5a08}
+body.home-trip .home-chat-part{margin:0 0 14px;font:13px/1.6 Arial,sans-serif;white-space:normal}
+body.home-trip .home-chat-part:last-child{margin-bottom:0}
+body.home-trip .home-chat-title{color:#294b5a;font-weight:600}
+body.home-trip .home-chat-place{font-size:14px;color:#8a5c2c;font-weight:600}
+body.home-trip .home-chat-part strong{font-weight:600}
+body.home-trip .home-chat-part a{color:#245e78;text-decoration:underline;text-underline-offset:2px;overflow-wrap:anywhere;word-break:normal}
+body.home-trip .home-chat-part a:hover{color:#8a5c2c}
+body.home-trip .home-chat-more summary{display:flex;align-items:center;gap:9px;min-height:44px;cursor:pointer;font:600 12px/1.4 Arial,sans-serif;color:#536e62;list-style:none;border-top:1px solid #e1e8dc;margin-top:5px;padding:7px 0 0}
+body.home-trip .home-chat-more summary::-webkit-details-marker{display:none}
+body.home-trip .home-chat-dots{font-size:22px;line-height:1}
+body.home-trip .home-chat-collapse{display:none}
+body.home-trip .home-chat-more[open] .home-chat-expand{display:none}
+body.home-trip .home-chat-more[open] .home-chat-collapse{display:inline}
+body.home-trip .home-chat-more[open]>div{padding-top:12px}
+@media(max-width:700px){body.home-trip .home-chat-body{padding:12px 10px 14px 16px}body.home-trip .home-chat-message{padding:14px}body.home-trip .home-chat-greeting{max-width:96%}body.home-trip .home-chat-part{font-size:13px;line-height:1.65}}

@@ -191,20 +191,31 @@ body.home-trip .home-map-help a{color:inherit;text-underline-offset:3px}
  body.home-trip .home-demo-exports{gap:8px}
 }
 
-/* The author's words lead the page; paired action captions share a baseline. */
-body.home-trip .home-hero-quote{margin:0;padding:0;border:0;max-width:480px}
-body.home-trip .home-hero-quote h1{font:400 clamp(28px,2.5vw,34px)/1.36 Georgia,serif;letter-spacing:-.4px;max-width:none;margin:0;text-wrap:pretty;color:#294b5a}
-body.home-trip .home-message .home-takeaway{margin-top:28px}
+/* Lead with practical trip planning, followed by the author’s words. */
+body.home-trip .home-hero-quote{margin:24px 0 0;padding:0 0 0 18px;border:0;border-left:2px solid #d6e2dc;max-width:480px}
+body.home-trip .home-hero-quote p{font:400 21px/1.5 Georgia,serif;letter-spacing:0;max-width:none;margin:0;text-wrap:pretty;color:#586e68}
+body.home-trip .home-message .home-takeaway{margin:0;padding:26px;max-width:none;background:#f0f5f3;border-color:#dce7e2;border-radius:20px}
+body.home-trip .home-takeaway h1{font:600 clamp(27px,2.6vw,34px)/1.2 Arial,sans-serif;letter-spacing:-.8px;margin:0 0 24px;text-wrap:balance;color:#294b5a}
+body.home-trip .home-takeaway h1 span{display:inline;color:inherit}
+body.home-trip .home-takeaway ul{gap:16px}
+body.home-trip .home-takeaway li{gap:14px;font-size:15px;line-height:1.5;color:#355663}
+body.home-trip .home-takeaway svg{width:42px;height:42px;flex-basis:42px;padding:9px;background:#dce9e3;border-radius:12px;stroke:#32665b;stroke-width:1.8}
+body.home-trip .home-takeaway li span{min-width:0}
 body.home-trip .home-demo-exports{gap:7px 12px;padding-bottom:12px}
 body.home-trip .home-demo-exports .home-preview-note{grid-column:1/-1;font:12px/1.6 Arial,sans-serif;margin:0;padding:0;background:transparent;color:#586e77}
 @media(min-width:701px){body.home-trip .home-demo-exports .home-preview-note{grid-row:2}}
 @media(max-width:700px){
- body.home-trip .home-hero-quote h1{font-size:26px;line-height:1.4;letter-spacing:-.2px}
- body.home-trip .home-message .home-takeaway{margin-top:22px}
+ body.home-trip .home-hero-quote p{font:400 21px/1.5 Georgia,serif;letter-spacing:0;max-width:none;margin:0;text-wrap:pretty;color:#586e68}
+ body.home-trip .home-message .home-takeaway{margin:0;padding:22px 20px;border-radius:18px}
+ body.home-trip .home-takeaway h1{font-size:28px;line-height:1.2;letter-spacing:-.6px;margin-bottom:22px;text-wrap:pretty}
+ body.home-trip .home-takeaway ul{gap:14px}
+ body.home-trip .home-takeaway li{gap:12px;font-size:14px}
+ body.home-trip .home-hero-quote{margin-top:22px;padding-left:14px}
+ body.home-trip .home-hero-quote p{font-size:19px;line-height:1.5}
  body.home-trip .home-demo-exports{gap:8px;padding-bottom:12px}
 }
 
-/* Align the author quote with the top of the photograph row. */
+/* Align the planning panel with the photograph row. */
 @media(min-width:701px){body.home-trip .home-intro{align-items:start}}
 
 /* The example shows the same practical road estimates as My trip. */

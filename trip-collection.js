@@ -3,7 +3,7 @@ import {enhanceCatalogue} from './trip-catalog.js?v=62';
 import {orderPlaces,coordinate,placeLinks,kmlFile,listFile,xml} from './trip-collection-model.js';
 import {collectionTemplate} from './trip-collection-view.js?v=60';
 import {routeTiming,approximateDuration} from './trip-duration.js?v=60';
-import {installMobileTrip} from './phone-trip.js';
+import {installMobileTrip} from './phone-trip.js?v=73';
 const region=window.YS_REGION;
 if(region?.places?.length&&tripRegions[region.slug])init();
 function init(){
@@ -24,11 +24,14 @@ function init(){
  enhanceCatalogue();window.YuraTripPickLabel=on=>on?t('В поездке ✓','In trip ✓'):t('В поездку +','Add to trip +');document.dispatchEvent(new CustomEvent('ys:trip-target'));
  document.getElementById('copy').hidden=true;launch.after(document.getElementById('clear'));
  const clear=document.getElementById('clear');clear.textContent=t('Очистить мою поездку','Clear my trip');
- const confirmation=document.createElement('dialog');confirmation.id='collection-confirm';confirmation.setAttribute('aria-label',t('Очистить мою поездку','Clear my trip'));confirmation.innerHTML='<h3>'+t('Убрать все выбранные места?','Remove all selected places?')+'</h3><p>'+t('Удаление можно отменить.','You can undo this.')+'</p><div><button data-cancel>'+t('Оставить места','Keep places')+'</button><button data-confirm>'+t('Убрать все','Remove all')+'</button></div>';document.body.append(confirmation);confirmation.querySelector('[data-cancel]').onclick=()=>confirmation.close();confirmation.querySelector('[data-confirm]').onclick=()=>{undo=read();selected.clear();selectionChanged();confirmation.close();notice(t('Все места убраны.','All places removed.'));};clear.onclick=()=>{if(read().length)confirmation.showModal();};
+ const confirmation=document.createElement('dialog');confirmation.id='collection-confirm';confirmation.setAttribute('aria-label',t('Очистить мою поездку','Clear my trip'));confirmation.innerHTML='<h3>'+t('Убрать все выбранные места?','Remove all selected places?')+'</h3><p>'+t('Удаление можно отменить.','You can undo this.')+'</p><div><button data-cancel>'+t('Оставить места','Keep places')+'</button><button data-confirm>'+t('Убрать все','Remove all')+'</button></div>';document.body.append(confirmation);confirmation.querySelector('[data-cancel]').onclick=()=>confirmation.close();confirmation.querySelector('[data-confirm]').onclick=()=>{undo=read();
+ if(restart){restartUndo={ids:undo,state:{...state}};state={start:defaultTown,end:defaultTown,round:true};save();}
+ selected.clear();selectionChanged();confirmation.close();notice(t('Все места убраны.','All places removed.'));};clear.onclick=()=>{if(read().length)confirmation.showModal();};
+ let restart=false, restartUndo;
  const toast=document.createElement('div');toast.id='collection-toast';toast.hidden=true;toast.innerHTML='<span></span><button>'+t('Отменить','Undo')+'</button>';document.body.append(toast);toast.querySelector('button').onclick=restore;
  function notice(text){q('.collection-undo').hidden=!undo;q('.collection-undo span').textContent=text;toast.hidden=dialog.open||!undo;toast.querySelector('span').textContent=text;clearTimeout(timer);timer=setTimeout(()=>toast.hidden=true,7000);}
  function selectionChanged(){document.dispatchEvent(new CustomEvent('ys:trip-selection'));sync();}
- function restore(){if(!undo)return;const ids=undo;undo=null;selected.clear();ids.forEach(id=>selected.add(id));selectionChanged();q('.collection-undo').hidden=true;toast.hidden=true;status(t('Выбор восстановлен.','Selection restored.'));}
+ function restore(){if(!undo)return;const ids=undo;undo=null;if(restartUndo?.ids===ids){state=restartUndo.state;save();}restartUndo=null;selected.clear();ids.forEach(id=>selected.add(id));selectionChanged();q('.collection-undo').hidden=true;toast.hidden=true;status(t('Выбор восстановлен.','Selection restored.'));}
  document.addEventListener('click',e=>{const pick=e.target.closest('[data-design-pick]');if(pick){const id=pick.getAttribute('data-design-pick');undo=read();(matchMedia('(max-width:700px)').matches ? setTimeout : queueMicrotask)(()=>{sync();notice(t('Выбор изменён.','Selection changed.'));document.dispatchEvent(new CustomEvent('ys:mobile-pick',{detail:{id,added:read().includes(id)}}));});}},true);
  document.addEventListener('change',e=>{const pick=e.target.closest('[data-pick]');if(pick){const id=pick.getAttribute('data-pick');undo=read();(matchMedia('(max-width:700px)').matches ? setTimeout : queueMicrotask)(()=>{sync();notice(t('Выбор изменён.','Selection changed.'));document.dispatchEvent(new CustomEvent('ys:mobile-pick',{detail:{id,added:read().includes(id)}}));});}},true);
  new MutationObserver(sync).observe(document.getElementById('selectedCount'),{childList:true,subtree:true,characterData:true});
@@ -62,6 +65,24 @@ function init(){
  async function optimize(ticket){busy=true;routeNote=t('Подбираем порядок с учётом дорог…','Finding an order using roads…');renderList();const original=[...ordered];try{for(let i=0;i<20&&!window.google?.maps?.importLibrary;i++)await new Promise(r=>setTimeout(r,250));if(ticket!==request||!dialog.open)return;if(!window.google?.maps?.importLibrary)throw Error('maps unavailable');const {Route}=await google.maps.importLibrary('routes');const location=p=>{const a=access[String(p.id)];if(a?.query&&a.kind!=='blocked'){const c=coordinate(a.query);return a.placeId?'places/'+a.placeId:c?{lat:c.lat,lng:c.lon}:a.query;}return {lat:p.lat,lng:p.lon};};const response=await Promise.race([Route.computeRoutes({origin:town('start').query,destination:town('end').query,intermediates:original.map(p=>({location:location(p)})),travelMode:'DRIVING',routingPreference:'TRAFFIC_UNAWARE',optimizeWaypointOrder:!Array.isArray(state.manual),fields:['path','optimizedIntermediateWaypointIndices','durationMillis','legs'],language:en?'en':'ru',region:config.country}),new Promise((_,reject)=>setTimeout(()=>reject(Error('timeout')),20000))]);if(ticket!==request||!dialog.open)return;const result=response.routes?.[0],indices=Array.isArray(state.manual)?original.map((_,i)=>i):result?.optimizedIntermediateWaypointIndices;if(!result||!Array.isArray(indices)||indices.length!==original.length||new Set(indices).size!==original.length||indices.some(i=>!Number.isInteger(i)||i<0||i>=original.length))throw Error('invalid order');ordered=indices.map(i=>original[i]);road=result;timing=routeTiming(result,ordered.length);routeNote=Array.isArray(state.manual)?t('Ваш порядок. Линия показывает дорогу между подъездами из карточек.','Your order. The line follows roads between access points.'):t('Предложенный порядок с учётом дорог. Подъезды взяты из карточек; маркеры показывают сами места.','Suggested road-based order. Access points come from the cards; markers show the places.');}catch{if(ticket!==request)return;routeNote=Array.isArray(state.manual)?t('Ваш порядок. Дороги сейчас недоступны; пунктир показывает последовательность мест.','Your order. Roads are unavailable; dashes show the sequence.'):t('Порядок по расположению мест, без проверки дорог. Пунктир показывает последовательность. Все точки можно скачать.','Location-based order, roads not checked. Dashes show the sequence. All points can be downloaded.');}finally{if(ticket===request&&dialog.open){busy=false;renderList();drawMap();}}}
  const refreshPhone = installMobileTrip({dialog,region,t,town,count,read,listText,touched,redrawDesktop:renderList});
  const resize=new ResizeObserver(()=>{if(map&&dialog.open){google.maps.event.trigger(map,'resize');drawMap();}});resize.observe(q('#collection-map'));sync();
+ if(location.hash==='#new-trip' && matchMedia('(max-width:700px)').matches){
+   history.replaceState(history.state,'',location.pathname+location.search+'#choose');
+   const catalogue=document.getElementById('choose');
+   catalogue.scrollIntoView({block:'start',behavior:'instant'});
+   if(read().length){
+     restart=true;
+     const heading=confirmation.querySelector('h3'), detail=confirmation.querySelector('p'), button=confirmation.querySelector('[data-confirm]');
+     const original=[heading.textContent,detail.textContent,button.textContent];
+     heading.textContent=t('Начать поездку заново?','Start a new trip?');
+     detail.textContent=region.title+' · '+count(read().length)+'. '+t('Будут очищены места и настройки маршрута только этого региона.','This clears the places and route settings for this region only.');
+     button.textContent=t('Начать заново','Start again');
+     confirmation.addEventListener('close',()=>{
+       restart=false;
+       [heading.textContent,detail.textContent,button.textContent]=original;
+     },{once:true});
+     confirmation.showModal();
+   }else{state={start:defaultTown,end:defaultTown,round:true};save();}
+ }
  const restoreTrip=history.state?.ysPhoneSheet===dialog.id;
  const earlyTap=mobile?.getAttribute('aria-pressed')==='true';
  if((location.hash==='#trip' || restoreTrip || earlyTap) && matchMedia('(max-width:700px)').matches){

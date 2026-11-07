@@ -7,7 +7,7 @@ export function installMobileTrip({dialog, region, t, town, count, read, listTex
 
   function mount() {
     const q = selector => dialog.querySelector(selector);
-    const styles = document.querySelector('link[href="/phone-trip.css"]');
+    const styles = document.querySelector('link[href^="/phone-trip.css"]');
     if(styles) document.head.append(styles);
     const cleanups = [];
     const listen = (node, event, fn) => {
@@ -93,7 +93,7 @@ export function installMobileTrip({dialog, region, t, town, count, read, listTex
     });
     move(q('.collection-downloads'), bottom);
     move(q('.collection-status'), bottom);
-    move(q('[data-action=clear]'), bottom);
+    move(q('[data-action=clear]'), actions);
     rename(q('[data-action=copy]'), t('Скопировать для попутчиков', 'Copy for travel companions'));
     rename(q('[data-action=kml]'), t('Скачать для Google My Maps', 'Download for Google My Maps'));
     rename(q('[data-action=clear]'), t('Очистить поездку', 'Clear trip'));
@@ -135,6 +135,26 @@ export function installMobileTrip({dialog, region, t, town, count, read, listTex
     });
     listen(document,'yura:pane',()=>showSettings(false));
     cleanups.push(()=>{tools.classList.remove('phone-settings-open');onlyLabel.classList.remove('phone-hide-only');});
+    const legend = document.querySelector('.trip-catalog-legend');
+    const normalLegend = legend.textContent;
+    function mapKey() {
+      const google = document.getElementById('map-layer').value === 'google';
+      const entries = [
+        ['phone-pin-key', '7', t('Карточка','Place card')],
+        ...(google ? [['phone-group-key', '×3', t('Места рядом','Places nearby')]] : []),
+        ['phone-saved-key', '✓', t('В поездке','In trip')],
+        ['phone-highlight-key', '', t('Главное','Highlight')]
+      ];
+      legend.replaceChildren(...entries.map(([cls,icon,label]) => {
+        const item = document.createElement('span'), mark = document.createElement('i');
+        mark.className=cls; mark.setAttribute('aria-hidden','true'); mark.textContent=icon;
+        item.append(mark, label); return item;
+      }));
+      legend.hidden=document.getElementById('map-layer').value==='stay22';
+    }
+    listen(document.getElementById('map-layer'),'change',mapKey);
+    mapKey();
+    cleanups.push(()=>{legend.hidden=false;legend.textContent=normalLegend;});
     const mapRoute = document.getElementById('map-route');
     rename(mapRoute, t('Как добраться', 'Directions'));
     const preview = document.getElementById('map-preview');

@@ -35,6 +35,17 @@ function refresh(){
   link.href=first.url;link.className='phone-resume-main';
   link.append(make('strong',t('Продолжить поездку','Continue your trip')),make('span',first.title));
   const arrow=make('b','→');arrow.setAttribute('aria-hidden','true');link.append(arrow);section.append(link);
+  const start=make('details','');
+  start.className='phone-new-trip';
+  start.append(make('summary',t('Начать заново','Start a new trip')));
+  const choices=make('nav','');
+  choices.setAttribute('aria-label',t('Направление новой поездки','New trip destination'));
+  for(const region of nav.querySelectorAll('[data-trip-key]')){
+    const destination=make('a',region.textContent.trim());
+    const url=new URL(region.href);url.hash='new-trip';destination.href=url;
+    choices.append(destination);
+  }
+  start.append(choices);section.append(start);
   if(saved.length){
     const d=make('details','');d.append(make('summary',t('Другие поездки','Other trips')+' · '+saved.length));
     for(const item of saved){const a=make('a',item.title);a.href=item.url;d.append(a)}

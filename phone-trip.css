@@ -57,7 +57,7 @@ body #ys-collection .collection-status:not(:empty){background:#eff5f2;border-rad
 @media(min-width:701px){.phone-home-actions{display:none!important}}
 
 @media(max-width:700px){
-body #ys-collection .collection-stops article{display:grid;grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"description description" "links order";align-items:center;gap:8px}
+body #ys-collection .collection-stops article{display:grid!important;grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"description description" "links order";align-items:center;gap:8px}
 body #ys-collection .collection-stops article:after{content:none}
 body #ys-collection .collection-place-main{grid-area:description}
 body #ys-collection .collection-reorder{grid-area:order;float:none;margin:0}
@@ -70,7 +70,7 @@ body #ys-collection .phone-exports h3{scroll-margin-top:78px}
 
 @media(max-width:700px){
   .phone-resume:not([hidden]){margin:12px 16px 0;padding:0;color:#294b5a}
-  .phone-resume-main{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:3px 12px;align-items:center;padding:11px 16px;color:#fff;background:#294b5a;border-radius:12px;text-decoration:none;line-height:1.35}
+  .phone-resume-main{display:grid!important;grid-template-columns:minmax(0,1fr) auto;gap:3px 12px;align-items:center;padding:11px 16px;color:#fff;background:#294b5a;border-radius:12px;text-decoration:none;line-height:1.35}
   .phone-resume-main strong{font-size:16px}.phone-resume-main span{grid-row:2;color:#e2eeeb;font-size:14px}
   .phone-resume-main b{grid-column:2;grid-row:1/3;font-size:22px}.phone-resume details a,.phone-resume summary{padding:10px 12px;min-height:44px;box-sizing:border-box;font-size:14px;color:#315764}
   .phone-resume details a{display:block}.phone-resume summary{cursor:pointer}
@@ -107,4 +107,43 @@ body #ys-collection .phone-exports h3{scroll-margin-top:78px}
   .phone-preview-title small{display:block;font-size:11px;font-weight:500;color:#416574;margin-top:3px}
   body.country-page.trip-pilot #map-preview .preview-close{position:static;order:2;flex:0 0 36px;min-width:36px;min-height:44px;padding:0}
   body.country-page.trip-pilot #map-preview [data-design-pick]{padding-inline:9px}
+}
+
+@media(max-width:700px){
+  body.country-page.trip-pilot .country-header{
+    display:grid!important;grid-template-columns:minmax(0,1fr) auto;
+    grid-template-areas:"brand language" "sections social";gap:0 6px;padding:3px 8px;
+  }
+  .country-header .country-brand{grid-area:brand;min-width:0;gap:8px}
+  .country-header .country-brand .brand-logo{flex:none}
+  .country-header .region-picker{min-width:0;flex:0 1 auto}
+  .country-header .region-picker summary{min-height:44px;gap:4px}
+  .country-header .region-picker summary::after{flex:none}
+  .country-header .country-brand h1{white-space:normal;line-height:1.15;overflow-wrap:anywhere}
+  .country-header .language-switch{grid-area:language;justify-self:end}
+  .country-header .language-switch a{display:grid;place-items:center;min-height:42px}
+  body.country-page.trip-pilot .country-header .nav{grid-area:sections;min-width:0;gap:clamp(6px,2.4vw,14px);width:auto;overflow:visible}
+  body.country-page.trip-pilot .country-header .nav a{display:inline-flex;align-items:center;min-height:44px;font-size:clamp(12px,3.4vw,14px)}
+  .country-header .country-instagram{grid-area:social;justify-self:end;width:44px;height:44px;margin:0}
+  .trip-catalog-legend:not([hidden]){display:flex;flex-wrap:wrap;align-items:center;gap:4px 12px;font:12px/1.35 system-ui,sans-serif}
+  .trip-catalog-legend>span{display:inline-flex;align-items:center;gap:4px;white-space:nowrap}
+  .trip-catalog-legend i{display:inline-grid;place-items:center;min-width:17px;height:17px;border-radius:50%;color:white;background:#47718a;font:700 10px/1 system-ui,sans-serif}
+  .trip-catalog-legend i.phone-group-key{padding:0 4px;border-radius:4px;background:#294b5a}
+  .trip-catalog-legend i.phone-saved-key{background:#087d66}
+  .trip-catalog-legend i.phone-highlight-key{border:3px solid #ffce32;background:#47718a}
+  body #ys-collection .phone-take-actions .collection-clear{margin-left:auto;min-height:44px;padding:6px 8px;color:#823d2c;background:transparent;border:0;text-decoration:underline;text-underline-offset:3px}
+  .phone-new-trip{margin-top:6px}
+  .phone-resume .phone-new-trip summary{min-height:46px;display:flex;align-items:center;justify-content:space-between;border:1px solid #bccdcd;border-radius:10px;font-weight:650}
+  .phone-new-trip summary::-webkit-details-marker{display:none}
+  .phone-new-trip summary::after{content:'⌄'}
+  .phone-new-trip[open] summary::after{transform:rotate(180deg)}
+  .phone-new-trip nav{display:grid;grid-template-columns:1fr 1fr;padding:4px 0}
+}
+
+@media(max-width:700px){
+  body.country-page.trip-pilot .country-header .nav{grid-column:1/-1;grid-row:2;margin-right:48px}
+  .country-header .country-instagram{position:relative;z-index:1}
+}
+@media(max-width:420px){
+  body.country-page .country-header .brand-logo>img{display:none}
 }

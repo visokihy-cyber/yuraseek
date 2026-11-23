@@ -68,6 +68,7 @@ export function installMobileTrip({dialog, region, t, town, count, read, listTex
       try {
         const result=await deliverTripText(text,navigator,allowShare,dialog);
         if (!dialog.open || text!==listText()) return;
+        if(result==='copied'||result==='shared')document.dispatchEvent(new CustomEvent('ys:analytics',{detail:{event:result==='copied'?'copy_list':'share_trip'}}));
         if (result==='copied') {
           message.textContent=t('Скопировано: ','Copied: ')+region.title+' · '+count(read().length)+t('. Вставьте в чат.','. Paste into your chat.');
         } else if (result==='manual') {

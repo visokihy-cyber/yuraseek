@@ -3,7 +3,7 @@ import {enhanceCatalogue} from './trip-catalog.js?v=62';
 import {orderPlaces,coordinate,placeLinks,kmlFile,listFile,xml} from './trip-collection-model.js';
 import {collectionTemplate} from './trip-collection-view.js?v=60';
 import {routeTiming,approximateDuration} from './trip-duration.js?v=60';
-import {installMobileTrip} from './phone-trip.js?v=73';
+import {installMobileTrip} from './phone-trip.js?v=74';
 const region=window.YS_REGION;
 if(region?.places?.length&&tripRegions[region.slug])init();
 function init(){
